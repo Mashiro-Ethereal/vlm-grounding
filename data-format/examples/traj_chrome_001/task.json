@@ -1,0 +1,9 @@
+{
+  "task_id": "chrome_open_google",
+  "instruction": "Open Chrome browser and navigate to google.com",
+  "osworld_task_id": "chrome_001",
+  "application": "chrome",
+  "difficulty": "easy",
+  "expected_steps": 4,
+  "success_criteria": "Google homepage is fully loaded and visible"
+}

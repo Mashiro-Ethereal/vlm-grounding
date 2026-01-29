@@ -1,0 +1,13 @@
+{
+  "step_index": 2,
+  "action_type": "type",
+  "parameters": {
+    "text": "google.com"
+  },
+  "target_element": {
+    "id": "node_6",
+    "role": "textfield",
+    "name": "Address and search bar"
+  },
+  "reasoning": "Type the URL google.com into the focused address bar"
+}

@@ -1,0 +1,17 @@
+{
+  "trajectory_id": "traj_chrome_001",
+  "task_id": "chrome_open_google",
+  "success": true,
+  "total_steps": 4,
+  "completion_time_ms": 5000,
+  "error_message": null,
+  "model_info": {
+    "name": "qwen-vl-7b",
+    "version": "1.0",
+    "temperature": 0.7
+  },
+  "evaluation": {
+    "method": "screenshot_match",
+    "score": 0.95
+  }
+}

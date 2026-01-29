@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "created_at": "2025-01-29T10:30:00Z",
+  "total_trajectories": 1,
+  "successful": 1,
+  "failed": 0,
+  "trajectories": [
+    {
+      "id": "traj_chrome_001",
+      "task_id": "chrome_open_google",
+      "success": true,
+      "steps": 4,
+      "application": "chrome",
+      "model": "qwen-vl-7b"
+    }
+  ]
+}

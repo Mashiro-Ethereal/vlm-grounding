@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-01-29T10:30:00Z",
+  "screen": {
+    "width": 1920,
+    "height": 1080
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {"x": 0, "y": 0, "width": 1920, "height": 1080},
+    "children": [
+      {
+        "id": "node_1",
+        "role": "taskbar",
+        "name": "Taskbar",
+        "bounds": {"x": 0, "y": 1040, "width": 1920, "height": 40},
+        "children": [
+          {
+            "id": "node_2",
+            "role": "button",
+            "name": "Activities",
+            "bounds": {"x": 0, "y": 1040, "width": 100, "height": 40}
+          },
+          {
+            "id": "node_3",
+            "role": "icon",
+            "name": "Chrome",
+            "bounds": {"x": 150, "y": 1045, "width": 32, "height": 32}
+          },
+          {
+            "id": "node_4",
+            "role": "icon",
+            "name": "Files",
+            "bounds": {"x": 190, "y": 1045, "width": 32, "height": 32}
+          }
+        ]
+      }
+    ]
+  }
+}

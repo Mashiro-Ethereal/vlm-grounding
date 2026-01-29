@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-01-29T10:30:02Z",
+  "screen": {
+    "width": 1920,
+    "height": 1080
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {"x": 0, "y": 0, "width": 1920, "height": 1080},
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "New Tab - Google Chrome",
+        "bounds": {"x": 100, "y": 50, "width": 1400, "height": 900},
+        "states": ["focused", "active"],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "toolbar",
+            "name": "Navigation toolbar",
+            "bounds": {"x": 100, "y": 50, "width": 1400, "height": 60},
+            "children": [
+              {
+                "id": "node_3",
+                "role": "button",
+                "name": "Back",
+                "bounds": {"x": 110, "y": 60, "width": 32, "height": 32},
+                "states": ["disabled"]
+              },
+              {
+                "id": "node_4",
+                "role": "button",
+                "name": "Forward",
+                "bounds": {"x": 150, "y": 60, "width": 32, "height": 32},
+                "states": ["disabled"]
+              },
+              {
+                "id": "node_5",
+                "role": "button",
+                "name": "Reload",
+                "bounds": {"x": 190, "y": 60, "width": 32, "height": 32}
+              },
+              {
+                "id": "node_6",
+                "role": "textfield",
+                "name": "Address and search bar",
+                "bounds": {"x": 300, "y": 55, "width": 800, "height": 40},
+                "states": ["editable"]
+              }
+            ]
+          },
+          {
+            "id": "node_7",
+            "role": "panel",
+            "name": "Content area",
+            "bounds": {"x": 100, "y": 110, "width": 1400, "height": 840}
+          }
+        ]
+      }
+    ]
+  }
+}

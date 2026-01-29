@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-01-29T10:30:04Z",
+  "screen": {
+    "width": 1920,
+    "height": 1080
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {"x": 0, "y": 0, "width": 1920, "height": 1080},
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "New Tab - Google Chrome",
+        "bounds": {"x": 100, "y": 50, "width": 1400, "height": 900},
+        "states": ["focused", "active"],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "toolbar",
+            "name": "Navigation toolbar",
+            "bounds": {"x": 100, "y": 50, "width": 1400, "height": 60},
+            "children": [
+              {
+                "id": "node_6",
+                "role": "textfield",
+                "name": "Address and search bar",
+                "bounds": {"x": 300, "y": 55, "width": 800, "height": 40},
+                "states": ["focused", "editable"],
+                "attributes": {
+                  "value": "google.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
