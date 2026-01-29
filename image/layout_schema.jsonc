@@ -1,0 +1,546 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://osworld.example/layout-response.schema.json",
+  "title": "Layout Response",
+  "description": "Response from GET /layout endpoint containing DOM/accessibility trees for all open Chromium tabs",
+  "type": "object",
+  "properties": {
+    "error": {
+      "type": "string",
+      "description": "Top-level error message if CDP connection failed"
+    },
+    "tabs": {
+      "type": "array",
+      "description": "List of open browser tabs with their layout trees",
+      "items": {
+        "$ref": "#/$defs/Tab"
+      }
+    }
+  },
+  "required": ["tabs"],
+
+  "$defs": {
+    "Tab": {
+      "type": "object",
+      "description": "A single browser tab with its layout tree",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "CDP target ID (unique identifier for the tab)"
+        },
+        "url": {
+          "type": "string",
+          "description": "Current URL of the tab"
+        },
+        "title": {
+          "type": "string",
+          "description": "Document title of the tab"
+        },
+        "layout": {
+          "oneOf": [
+            { "$ref": "#/$defs/AccessibilityTree" },
+            { "$ref": "#/$defs/DOMTree" },
+            { "$ref": "#/$defs/LayoutError" }
+          ],
+          "description": "The layout tree (accessibility tree preferred, falls back to DOM)"
+        }
+      },
+      "required": ["id", "url", "title", "layout"]
+    },
+
+    "LayoutError": {
+      "type": "object",
+      "description": "Error object when layout tree extraction fails",
+      "properties": {
+        "error": {
+          "type": "string",
+          "description": "Error message describing the failure"
+        }
+      },
+      "required": ["error"]
+    },
+
+    // ========================================
+    // Accessibility Tree (from Accessibility.getFullAXTree)
+    // ========================================
+    "AccessibilityTree": {
+      "type": "object",
+      "description": "Full accessibility tree from Chrome DevTools Protocol with viewport info",
+      "properties": {
+        "nodes": {
+          "type": "array",
+          "description": "Flat list of accessibility nodes (first node is root)",
+          "items": {
+            "$ref": "#/$defs/AXNode"
+          }
+        },
+        "viewport": {
+          "$ref": "#/$defs/Viewport",
+          "description": "Current viewport metrics for this tab"
+        }
+      },
+      "required": ["nodes"]
+    },
+
+    // ========================================
+    // Viewport (from Page.getLayoutMetrics)
+    // ========================================
+    "Viewport": {
+      "type": "object",
+      "description": "Viewport and content size metrics",
+      "properties": {
+        "visualViewport": {
+          "type": "object",
+          "description": "The visible portion of the page (accounts for pinch-zoom)",
+          "properties": {
+            "x": { "type": "number", "description": "Horizontal scroll offset in CSS pixels" },
+            "y": { "type": "number", "description": "Vertical scroll offset in CSS pixels" },
+            "width": { "type": "number", "description": "Width of visible area in CSS pixels" },
+            "height": { "type": "number", "description": "Height of visible area in CSS pixels" },
+            "scale": { "type": "number", "description": "Page scale factor (zoom level)" }
+          },
+          "required": ["x", "y", "width", "height", "scale"]
+        },
+        "layoutViewport": {
+          "type": "object",
+          "description": "The layout viewport (used for CSS layout calculations)",
+          "properties": {
+            "x": { "type": "number", "description": "Horizontal scroll offset in CSS pixels" },
+            "y": { "type": "number", "description": "Vertical scroll offset in CSS pixels" },
+            "width": { "type": "number", "description": "Width in CSS pixels" },
+            "height": { "type": "number", "description": "Height in CSS pixels" }
+          },
+          "required": ["x", "y", "width", "height"]
+        },
+        "contentSize": {
+          "type": "object",
+          "description": "Full scrollable content size",
+          "properties": {
+            "width": { "type": "number", "description": "Total content width in CSS pixels" },
+            "height": { "type": "number", "description": "Total content height in CSS pixels" }
+          },
+          "required": ["width", "height"]
+        }
+      }
+    },
+
+    // ========================================
+    // Bounds (from DOM.getBoxModel)
+    // ========================================
+    "Bounds": {
+      "type": "object",
+      "description": "Bounding box coordinates in CSS pixels (relative to document)",
+      "properties": {
+        "x": { "type": "number", "description": "Left edge X coordinate" },
+        "y": { "type": "number", "description": "Top edge Y coordinate" },
+        "width": { "type": "number", "description": "Width of the content box" },
+        "height": { "type": "number", "description": "Height of the content box" },
+        "borderBox": {
+          "type": "object",
+          "description": "Border box (includes padding and border, excludes margin)",
+          "properties": {
+            "x": { "type": "number", "description": "Left edge X coordinate" },
+            "y": { "type": "number", "description": "Top edge Y coordinate" },
+            "width": { "type": "number", "description": "Width including border" },
+            "height": { "type": "number", "description": "Height including border" }
+          },
+          "required": ["x", "y", "width", "height"]
+        }
+      },
+      "required": ["x", "y", "width", "height"]
+    },
+
+    "AXNode": {
+      "type": "object",
+      "description": "A single node in the accessibility tree",
+      "properties": {
+        "nodeId": {
+          "type": "string",
+          "description": "Unique identifier for this accessibility node"
+        },
+        "ignored": {
+          "type": "boolean",
+          "description": "Whether this node is ignored for accessibility"
+        },
+        "ignoredReasons": {
+          "type": "array",
+          "description": "Reasons why this node is ignored",
+          "items": {
+            "$ref": "#/$defs/AXProperty"
+          }
+        },
+        "role": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Accessibility role (e.g., button, link, heading)"
+        },
+        "chromeRole": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Chrome-specific role"
+        },
+        "name": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Accessible name (computed from content, aria-label, etc.)"
+        },
+        "description": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Accessible description"
+        },
+        "value": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Current value (for inputs, sliders, etc.)"
+        },
+        "properties": {
+          "type": "array",
+          "description": "Additional accessibility properties",
+          "items": {
+            "$ref": "#/$defs/AXProperty"
+          }
+        },
+        "parentId": {
+          "type": "string",
+          "description": "nodeId of the parent node"
+        },
+        "childIds": {
+          "type": "array",
+          "description": "nodeIds of child nodes",
+          "items": {
+            "type": "string"
+          }
+        },
+        "backendDOMNodeId": {
+          "type": "integer",
+          "description": "Corresponding DOM node ID (for correlation with DOM tree)"
+        },
+        "frameId": {
+          "type": "string",
+          "description": "Frame ID if this node is in an iframe"
+        },
+        "bounds": {
+          "$ref": "#/$defs/Bounds",
+          "description": "Bounding box coordinates in CSS pixels (present for visible elements)"
+        }
+      },
+      "required": ["nodeId"]
+    },
+
+    "AXValue": {
+      "type": "object",
+      "description": "Accessibility value with type information",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "boolean",
+            "tristate",
+            "booleanOrUndefined",
+            "idref",
+            "idrefList",
+            "integer",
+            "node",
+            "nodeList",
+            "number",
+            "string",
+            "computedString",
+            "token",
+            "tokenList",
+            "domRelation",
+            "role",
+            "internalRole",
+            "valueUndefined"
+          ],
+          "description": "Type of the value"
+        },
+        "value": {
+          "description": "The actual value (type varies based on 'type' field)"
+        },
+        "relatedNodes": {
+          "type": "array",
+          "description": "Related accessibility nodes (for idref/nodeList types)",
+          "items": {
+            "$ref": "#/$defs/AXRelatedNode"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "description": "Sources that contributed to this value",
+          "items": {
+            "$ref": "#/$defs/AXValueSource"
+          }
+        }
+      },
+      "required": ["type"]
+    },
+
+    "AXProperty": {
+      "type": "object",
+      "description": "Accessibility property (name-value pair)",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Property name (e.g., 'focusable', 'editable', 'live')"
+        },
+        "value": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Property value"
+        }
+      },
+      "required": ["name", "value"]
+    },
+
+    "AXRelatedNode": {
+      "type": "object",
+      "description": "Reference to a related accessibility node",
+      "properties": {
+        "backendDOMNodeId": {
+          "type": "integer",
+          "description": "DOM node ID of the related node"
+        },
+        "idref": {
+          "type": "string",
+          "description": "ID reference string"
+        },
+        "text": {
+          "type": "string",
+          "description": "Text content of the related node"
+        }
+      }
+    },
+
+    "AXValueSource": {
+      "type": "object",
+      "description": "Source of an accessibility value",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "attribute",
+            "implicit",
+            "style",
+            "contents",
+            "placeholder",
+            "relatedElement"
+          ],
+          "description": "Type of value source"
+        },
+        "value": {
+          "$ref": "#/$defs/AXValue",
+          "description": "The value from this source"
+        },
+        "attribute": {
+          "type": "string",
+          "description": "HTML attribute name if type is 'attribute'"
+        },
+        "attributeValue": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Value of the HTML attribute"
+        },
+        "superseded": {
+          "type": "boolean",
+          "description": "Whether this source was superseded by a higher-priority source"
+        },
+        "nativeSource": {
+          "type": "string",
+          "description": "Native source type"
+        },
+        "nativeSourceValue": {
+          "$ref": "#/$defs/AXValue",
+          "description": "Value from native source"
+        },
+        "invalid": {
+          "type": "boolean",
+          "description": "Whether the value is invalid"
+        },
+        "invalidReason": {
+          "type": "string",
+          "description": "Reason why the value is invalid"
+        }
+      },
+      "required": ["type"]
+    },
+
+    // ========================================
+    // DOM Tree (fallback from DOM.getDocument)
+    // ========================================
+    "DOMTree": {
+      "type": "object",
+      "description": "DOM document tree (fallback when accessibility tree unavailable)",
+      "properties": {
+        "root": {
+          "$ref": "#/$defs/DOMNode",
+          "description": "Root document node"
+        },
+        "viewport": {
+          "$ref": "#/$defs/Viewport",
+          "description": "Current viewport metrics for this tab"
+        }
+      },
+      "required": ["root"]
+    },
+
+    "DOMNode": {
+      "type": "object",
+      "description": "A single node in the DOM tree",
+      "properties": {
+        "nodeId": {
+          "type": "integer",
+          "description": "Unique DOM node identifier"
+        },
+        "parentId": {
+          "type": "integer",
+          "description": "Parent node ID"
+        },
+        "backendNodeId": {
+          "type": "integer",
+          "description": "Backend node ID (stable across sessions)"
+        },
+        "nodeType": {
+          "type": "integer",
+          "description": "DOM node type (1=Element, 3=Text, 9=Document, etc.)",
+          "enum": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        "nodeName": {
+          "type": "string",
+          "description": "Node name (tag name for elements, #text for text nodes)"
+        },
+        "localName": {
+          "type": "string",
+          "description": "Local part of the qualified name"
+        },
+        "nodeValue": {
+          "type": "string",
+          "description": "Node value (text content for text nodes)"
+        },
+        "childNodeCount": {
+          "type": "integer",
+          "description": "Number of child nodes"
+        },
+        "children": {
+          "type": "array",
+          "description": "Child nodes (present when depth > 0)",
+          "items": {
+            "$ref": "#/$defs/DOMNode"
+          }
+        },
+        "attributes": {
+          "type": "array",
+          "description": "Element attributes as [name, value, name, value, ...] array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "documentURL": {
+          "type": "string",
+          "description": "Document URL (for document nodes)"
+        },
+        "baseURL": {
+          "type": "string",
+          "description": "Base URL for resolving relative URLs"
+        },
+        "publicId": {
+          "type": "string",
+          "description": "Public ID of the doctype"
+        },
+        "systemId": {
+          "type": "string",
+          "description": "System ID of the doctype"
+        },
+        "internalSubset": {
+          "type": "string",
+          "description": "Internal subset of the doctype"
+        },
+        "xmlVersion": {
+          "type": "string",
+          "description": "XML version (for XML documents)"
+        },
+        "name": {
+          "type": "string",
+          "description": "Attribute name (for Attr nodes)"
+        },
+        "value": {
+          "type": "string",
+          "description": "Attribute value (for Attr nodes)"
+        },
+        "pseudoType": {
+          "type": "string",
+          "description": "Pseudo element type (::before, ::after, etc.)"
+        },
+        "pseudoIdentifier": {
+          "type": "string",
+          "description": "Pseudo element identifier"
+        },
+        "shadowRootType": {
+          "type": "string",
+          "enum": ["user-agent", "open", "closed"],
+          "description": "Shadow root type"
+        },
+        "frameId": {
+          "type": "string",
+          "description": "Frame ID for frame owner elements"
+        },
+        "contentDocument": {
+          "$ref": "#/$defs/DOMNode",
+          "description": "Content document for frame owner elements"
+        },
+        "shadowRoots": {
+          "type": "array",
+          "description": "Shadow root nodes",
+          "items": {
+            "$ref": "#/$defs/DOMNode"
+          }
+        },
+        "templateContent": {
+          "$ref": "#/$defs/DOMNode",
+          "description": "Content of template elements"
+        },
+        "pseudoElements": {
+          "type": "array",
+          "description": "Pseudo element nodes",
+          "items": {
+            "$ref": "#/$defs/DOMNode"
+          }
+        },
+        "distributedNodes": {
+          "type": "array",
+          "description": "Distributed nodes for slot elements",
+          "items": {
+            "$ref": "#/$defs/BackendNode"
+          }
+        },
+        "isSVG": {
+          "type": "boolean",
+          "description": "Whether this is an SVG node"
+        },
+        "compatibilityMode": {
+          "type": "string",
+          "enum": ["QuirksMode", "LimitedQuirksMode", "NoQuirksMode"],
+          "description": "Document compatibility mode"
+        },
+        "assignedSlot": {
+          "$ref": "#/$defs/BackendNode",
+          "description": "Assigned slot for slotted content"
+        }
+      },
+      "required": ["nodeId", "backendNodeId", "nodeType", "nodeName", "localName", "nodeValue"]
+    },
+
+    "BackendNode": {
+      "type": "object",
+      "description": "Reference to a backend DOM node",
+      "properties": {
+        "nodeType": {
+          "type": "integer",
+          "description": "DOM node type"
+        },
+        "nodeName": {
+          "type": "string",
+          "description": "Node name"
+        },
+        "backendNodeId": {
+          "type": "integer",
+          "description": "Backend node ID"
+        }
+      },
+      "required": ["nodeType", "nodeName", "backendNodeId"]
+    }
+  }
+}
