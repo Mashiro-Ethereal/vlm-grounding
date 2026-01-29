@@ -1,5 +1,6 @@
 from .constants import (
     ACTION_FILENAME,
+    ACTION_TYPES,
     FINAL_SCREENSHOT_FILENAME,
     METADATA_FILENAME,
     RESULT_FILENAME,
@@ -10,11 +11,13 @@ from .constants import (
 )
 from .io import load_dataset_index, load_task, load_trajectory, save_trajectory
 from .models import Action, DatasetIndex, DatasetIndexEntry, Result, Step, Task, Trajectory
+from . import paths
 from .sft import iter_sft_samples
 from .validation import ValidationIssue, validate_dataset_dir, validate_trajectory_dir
 
 __all__ = [
     "ACTION_FILENAME",
+    "ACTION_TYPES",
     "FINAL_SCREENSHOT_FILENAME",
     "METADATA_FILENAME",
     "RESULT_FILENAME",
@@ -34,6 +37,7 @@ __all__ = [
     "load_dataset_index",
     "load_task",
     "load_trajectory",
+    "paths",
     "save_trajectory",
     "validate_dataset_dir",
     "validate_trajectory_dir",

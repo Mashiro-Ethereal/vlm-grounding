@@ -36,7 +36,7 @@ X11 cursor capture using XFixes. Classes: `Xcursor` for cursor image extraction.
 ### `sft.py` - iter_sft_samples() for SFT training data generation
 ### `cli.py` - CLI: `python -m data_format validate-trajectory <path>`
 
-## Data Format (see `data-format/SPEC.md`)
+## Data Format (see `data_format/SPEC.md`)
 
 ```
 dataset/trajectories/{id}/

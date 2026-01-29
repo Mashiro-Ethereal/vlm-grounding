@@ -12,7 +12,7 @@ class TestDataFormatCLI(unittest.TestCase):
             "-m",
             "data_format",
             "validate-trajectory",
-            "data-format/examples/traj_chrome_001",
+            "data_format/examples/traj_chrome_001",
         ]
         result = subprocess.run(command, capture_output=True, text=True, check=False)
 
@@ -25,7 +25,7 @@ class TestDataFormatCLI(unittest.TestCase):
             "-m",
             "data_format",
             "validate-trajectory",
-            "data-format/examples/does_not_exist",
+            "data_format/examples/does_not_exist",
         ]
         result = subprocess.run(command, capture_output=True, text=True, check=False)
 

@@ -17,7 +17,7 @@ from data_format import (
 
 class TestDataFormat(unittest.TestCase):
     def test_load_trajectory_example(self) -> None:
-        trajectory_dir = Path("data-format/examples/traj_chrome_001")
+        trajectory_dir = Path("data_format/examples/traj_chrome_001")
         trajectory = load_trajectory(trajectory_dir)
 
         self.assertEqual(trajectory.trajectory_id, "traj_chrome_001")
@@ -55,7 +55,7 @@ class TestDataFormat(unittest.TestCase):
         self.assertEqual(samples[1]["input"]["history"][0]["action_type"], "click")
 
     def test_validate_trajectory_dir_warnings(self) -> None:
-        trajectory_dir = Path("data-format/examples/traj_chrome_001")
+        trajectory_dir = Path("data_format/examples/traj_chrome_001")
         issues = validate_trajectory_dir(trajectory_dir)
 
         self.assertTrue(any(issue.severity == "warning" for issue in issues))

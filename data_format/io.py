@@ -4,16 +4,8 @@ import json
 from pathlib import Path
 from typing import Any, Dict, List
 
-from .constants import (
-    ACTION_FILENAME,
-    FINAL_SCREENSHOT_FILENAME,
-    RESULT_FILENAME,
-    SCREENSHOT_FILENAME,
-    STEPS_DIRNAME,
-    TASK_FILENAME,
-    UI_TREE_FILENAME,
-)
 from .models import Action, DatasetIndex, Result, Step, Task, Trajectory
+from . import paths
 
 
 def _load_json(path: Path) -> Dict[str, Any]:
@@ -40,19 +32,19 @@ def load_result(path: Path) -> Result:
 
 
 def load_step(step_dir: Path) -> Step:
-    action = load_action(step_dir / ACTION_FILENAME)
-    ui_tree = _load_json(step_dir / UI_TREE_FILENAME)
-    screenshot_path = step_dir / SCREENSHOT_FILENAME
+    action = load_action(paths.action_path(step_dir))
+    ui_tree = _load_json(paths.ui_tree_path(step_dir))
+    screenshot = paths.screenshot_path(step_dir)
     return Step(
         index=action.step_index,
         ui_tree=ui_tree,
         action=action,
-        screenshot_path=str(screenshot_path) if screenshot_path.exists() else None,
+        screenshot_path=str(screenshot) if screenshot.exists() else None,
     )
 
 
-def _list_step_dirs(steps_dir: Path) -> List[Path]:
-    candidates = [entry for entry in steps_dir.iterdir() if entry.is_dir()]
+def _list_step_dirs(traj_steps_dir: Path) -> List[Path]:
+    candidates = [entry for entry in traj_steps_dir.iterdir() if entry.is_dir()]
     numeric_dirs = []
     for entry in candidates:
         try:
@@ -63,12 +55,12 @@ def _list_step_dirs(steps_dir: Path) -> List[Path]:
 
 
 def load_trajectory(trajectory_dir: Path) -> Trajectory:
-    task = load_task(trajectory_dir / TASK_FILENAME)
-    steps_dir = trajectory_dir / STEPS_DIRNAME
-    steps = [load_step(step_dir) for step_dir in _list_step_dirs(steps_dir)]
-    result_path = trajectory_dir / RESULT_FILENAME
-    result = load_result(result_path) if result_path.exists() else None
-    final_screenshot = trajectory_dir / FINAL_SCREENSHOT_FILENAME
+    task = load_task(paths.task_path(trajectory_dir))
+    traj_steps_dir = paths.steps_dir(trajectory_dir)
+    steps = [load_step(step_dir) for step_dir in _list_step_dirs(traj_steps_dir)]
+    result_file = paths.result_path(trajectory_dir)
+    result = load_result(result_file) if result_file.exists() else None
+    final_screenshot = paths.final_screenshot_path(trajectory_dir)
     trajectory_id = result.trajectory_id if result else trajectory_dir.name
     return Trajectory(
         trajectory_id=trajectory_id,
@@ -81,16 +73,16 @@ def load_trajectory(trajectory_dir: Path) -> Trajectory:
 
 
 def save_trajectory(trajectory: Trajectory, trajectory_dir: Path) -> None:
-    _dump_json(trajectory_dir / TASK_FILENAME, trajectory.task.to_dict())
-    steps_dir = trajectory_dir / STEPS_DIRNAME
-    steps_dir.mkdir(parents=True, exist_ok=True)
+    _dump_json(paths.task_path(trajectory_dir), trajectory.task.to_dict())
+    traj_steps_dir = paths.steps_dir(trajectory_dir)
+    traj_steps_dir.mkdir(parents=True, exist_ok=True)
     for step in trajectory.steps:
-        step_dir = steps_dir / f"{step.index:03d}"
-        step_dir.mkdir(parents=True, exist_ok=True)
-        _dump_json(step_dir / ACTION_FILENAME, step.action.to_dict())
-        _dump_json(step_dir / UI_TREE_FILENAME, step.ui_tree)
+        step_directory = paths.step_dir(trajectory_dir, step.index)
+        step_directory.mkdir(parents=True, exist_ok=True)
+        _dump_json(paths.action_path(step_directory), step.action.to_dict())
+        _dump_json(paths.ui_tree_path(step_directory), step.ui_tree)
     if trajectory.result is not None:
-        _dump_json(trajectory_dir / RESULT_FILENAME, trajectory.result.to_dict())
+        _dump_json(paths.result_path(trajectory_dir), trajectory.result.to_dict())
 
 
 def load_dataset_index(index_path: Path) -> DatasetIndex:
