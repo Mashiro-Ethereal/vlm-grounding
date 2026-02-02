@@ -1,0 +1,7 @@
+{
+  "task_id": "speedtest",
+  "instruction": "Open Speedtest by Ookla",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

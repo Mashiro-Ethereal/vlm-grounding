@@ -1,0 +1,7 @@
+{
+  "task_id": "calendly",
+  "instruction": "Visit Calendly scheduling",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,709 @@
+{
+  "version": "1.0",
+  "total_trajectories": 100,
+  "successful": 100,
+  "failed": 0,
+  "created_at": "2026-02-02T14:13:51.987272+00:00",
+  "trajectories": [
+    {
+      "id": "aljazeera",
+      "task_id": "aljazeera",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "amazon",
+      "task_id": "amazon",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "angular",
+      "task_id": "angular",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "ap_news",
+      "task_id": "ap_news",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "apidoc",
+      "task_id": "apidoc",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "archive_org",
+      "task_id": "archive_org",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "arstechnica",
+      "task_id": "arstechnica",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "asana",
+      "task_id": "asana",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "bbc_news",
+      "task_id": "bbc_news",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "behance",
+      "task_id": "behance",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "bing",
+      "task_id": "bing",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "bloomberg",
+      "task_id": "bloomberg",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "brave_search",
+      "task_id": "brave_search",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "britannica",
+      "task_id": "britannica",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "calendly",
+      "task_id": "calendly",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "canva",
+      "task_id": "canva",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "cnn_news",
+      "task_id": "cnn_news",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "codecademy",
+      "task_id": "codecademy",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "coolors",
+      "task_id": "coolors",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "coursera",
+      "task_id": "coursera",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "crates_io",
+      "task_id": "crates_io",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "devto",
+      "task_id": "devto",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "discord",
+      "task_id": "discord",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "docker_hub",
+      "task_id": "docker_hub",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "dribbble",
+      "task_id": "dribbble",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "dropbox",
+      "task_id": "dropbox",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "duckduckgo",
+      "task_id": "duckduckgo",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "ecosia",
+      "task_id": "ecosia",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "edx",
+      "task_id": "edx",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "engadget",
+      "task_id": "engadget",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "evernote",
+      "task_id": "evernote",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "example_com",
+      "task_id": "example_com",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "example_org",
+      "task_id": "example_org",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "figma",
+      "task_id": "figma",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "fontawesome",
+      "task_id": "fontawesome",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "freecodecamp",
+      "task_id": "freecodecamp",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "github",
+      "task_id": "github",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "gitlab",
+      "task_id": "gitlab",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "golang",
+      "task_id": "golang",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "google",
+      "task_id": "google",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "hackernews",
+      "task_id": "hackernews",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "hashnode",
+      "task_id": "hashnode",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "httpbin",
+      "task_id": "httpbin",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "iana_domains",
+      "task_id": "iana_domains",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "imdb",
+      "task_id": "imdb",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "jsonplaceholder",
+      "task_id": "jsonplaceholder",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "khanacademy",
+      "task_id": "khanacademy",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "kubernetes",
+      "task_id": "kubernetes",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "maven",
+      "task_id": "maven",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "mdn",
+      "task_id": "mdn",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "medium",
+      "task_id": "medium",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "mit_ocw",
+      "task_id": "mit_ocw",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "nextjs",
+      "task_id": "nextjs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "nodejs_docs",
+      "task_id": "nodejs_docs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "notion",
+      "task_id": "notion",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "npmjs",
+      "task_id": "npmjs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "npr",
+      "task_id": "npr",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "nuget",
+      "task_id": "nuget",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "nytimes",
+      "task_id": "nytimes",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "pexels",
+      "task_id": "pexels",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "postman",
+      "task_id": "postman",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "pypi",
+      "task_id": "pypi",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "python_docs",
+      "task_id": "python_docs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "qwant",
+      "task_id": "qwant",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "rapidapi",
+      "task_id": "rapidapi",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "reactjs",
+      "task_id": "reactjs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "reddit",
+      "task_id": "reddit",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "reqres",
+      "task_id": "reqres",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "reuters",
+      "task_id": "reuters",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "rubygems",
+      "task_id": "rubygems",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "rust_lang",
+      "task_id": "rust_lang",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "skillshare",
+      "task_id": "skillshare",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "slack",
+      "task_id": "slack",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "slashdot",
+      "task_id": "slashdot",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "speedtest",
+      "task_id": "speedtest",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "stackoverflow",
+      "task_id": "stackoverflow",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "startpage",
+      "task_id": "startpage",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "swagger",
+      "task_id": "swagger",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "techcrunch",
+      "task_id": "techcrunch",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "theguardian",
+      "task_id": "theguardian",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "theverge",
+      "task_id": "theverge",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "timeanddate",
+      "task_id": "timeanddate",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "todoist",
+      "task_id": "todoist",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "trello",
+      "task_id": "trello",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "typescript",
+      "task_id": "typescript",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "udemy",
+      "task_id": "udemy",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "unsplash",
+      "task_id": "unsplash",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "vuejs",
+      "task_id": "vuejs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "w3schools",
+      "task_id": "w3schools",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "washingtonpost",
+      "task_id": "washingtonpost",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "weather_com",
+      "task_id": "weather_com",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "whatismyip",
+      "task_id": "whatismyip",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wikimedia",
+      "task_id": "wikimedia",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wikipedia",
+      "task_id": "wikipedia",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wiktionary",
+      "task_id": "wiktionary",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wired",
+      "task_id": "wired",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wolfram",
+      "task_id": "wolfram",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "xe_currency",
+      "task_id": "xe_currency",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "yahoo",
+      "task_id": "yahoo",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "zoom",
+      "task_id": "zoom",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    }
+  ]
+}

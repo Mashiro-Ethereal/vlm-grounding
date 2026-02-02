@@ -1,0 +1,7 @@
+{
+  "task_id": "npr",
+  "instruction": "Open NPR homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

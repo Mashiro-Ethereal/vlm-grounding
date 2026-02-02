@@ -1,0 +1,7 @@
+{
+  "task_id": "nytimes",
+  "instruction": "Navigate to NY Times",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

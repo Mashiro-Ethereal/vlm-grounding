@@ -1,0 +1,7 @@
+{
+  "task_id": "reuters",
+  "instruction": "Open Reuters news site",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

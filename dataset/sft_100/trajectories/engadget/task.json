@@ -1,0 +1,7 @@
+{
+  "task_id": "engadget",
+  "instruction": "Visit Engadget",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

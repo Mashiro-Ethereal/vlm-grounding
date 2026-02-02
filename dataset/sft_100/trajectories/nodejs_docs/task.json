@@ -1,0 +1,7 @@
+{
+  "task_id": "nodejs_docs",
+  "instruction": "Visit Node.js homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

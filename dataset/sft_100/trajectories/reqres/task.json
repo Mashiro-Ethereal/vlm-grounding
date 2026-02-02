@@ -1,0 +1,7 @@
+{
+  "task_id": "reqres",
+  "instruction": "Open ReqRes test API",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

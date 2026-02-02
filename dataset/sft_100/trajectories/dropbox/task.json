@@ -1,0 +1,7 @@
+{
+  "task_id": "dropbox",
+  "instruction": "Open Dropbox homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

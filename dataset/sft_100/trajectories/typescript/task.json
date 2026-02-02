@@ -1,0 +1,7 @@
+{
+  "task_id": "typescript",
+  "instruction": "Open TypeScript homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

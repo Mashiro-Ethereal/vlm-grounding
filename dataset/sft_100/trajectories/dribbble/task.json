@@ -1,0 +1,7 @@
+{
+  "task_id": "dribbble",
+  "instruction": "Open Dribbble design showcase",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

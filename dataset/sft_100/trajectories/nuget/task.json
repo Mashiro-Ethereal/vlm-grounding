@@ -1,0 +1,7 @@
+{
+  "task_id": "nuget",
+  "instruction": "Open NuGet gallery",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

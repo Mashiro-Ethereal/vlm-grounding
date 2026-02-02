@@ -1,0 +1,7 @@
+{
+  "task_id": "imdb",
+  "instruction": "Visit IMDB movie database",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

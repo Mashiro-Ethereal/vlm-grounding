@@ -1,0 +1,7 @@
+{
+  "task_id": "pypi",
+  "instruction": "Open PyPI package index",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

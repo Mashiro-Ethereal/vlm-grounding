@@ -1,0 +1,7 @@
+{
+  "task_id": "example_com",
+  "instruction": "View example.com homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

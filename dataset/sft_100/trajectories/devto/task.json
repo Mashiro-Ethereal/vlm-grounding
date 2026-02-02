@@ -1,0 +1,7 @@
+{
+  "task_id": "devto",
+  "instruction": "Open DEV Community",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

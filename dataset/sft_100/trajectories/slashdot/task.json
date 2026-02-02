@@ -1,0 +1,7 @@
+{
+  "task_id": "slashdot",
+  "instruction": "Open Slashdot news",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

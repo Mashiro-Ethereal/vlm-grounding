@@ -1,0 +1,7 @@
+{
+  "task_id": "asana",
+  "instruction": "Open Asana project management",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

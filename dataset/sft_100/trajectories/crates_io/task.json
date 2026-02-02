@@ -1,0 +1,7 @@
+{
+  "task_id": "crates_io",
+  "instruction": "Visit Rust crates registry",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

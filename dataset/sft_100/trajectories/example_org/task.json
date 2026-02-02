@@ -1,0 +1,7 @@
+{
+  "task_id": "example_org",
+  "instruction": "Open example.org",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

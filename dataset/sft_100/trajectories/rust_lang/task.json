@@ -1,0 +1,7 @@
+{
+  "task_id": "rust_lang",
+  "instruction": "Open Rust language site",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,7 @@
+{
+  "task_id": "theverge",
+  "instruction": "Open The Verge",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

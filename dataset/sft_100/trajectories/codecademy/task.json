@@ -1,0 +1,7 @@
+{
+  "task_id": "codecademy",
+  "instruction": "Visit Codecademy",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

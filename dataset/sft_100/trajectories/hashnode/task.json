@@ -1,0 +1,7 @@
+{
+  "task_id": "hashnode",
+  "instruction": "Visit Hashnode blog platform",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

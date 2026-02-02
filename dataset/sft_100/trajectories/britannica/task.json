@@ -1,0 +1,7 @@
+{
+  "task_id": "britannica",
+  "instruction": "Open Encyclopedia Britannica",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

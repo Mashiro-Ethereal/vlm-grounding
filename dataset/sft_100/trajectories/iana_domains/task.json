@@ -1,0 +1,7 @@
+{
+  "task_id": "iana_domains",
+  "instruction": "Visit IANA reserved domains",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

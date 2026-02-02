@@ -1,0 +1,7 @@
+{
+  "task_id": "gitlab",
+  "instruction": "Visit GitLab homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

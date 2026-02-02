@@ -1,0 +1,7 @@
+{
+  "task_id": "unsplash",
+  "instruction": "Visit Unsplash photos",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

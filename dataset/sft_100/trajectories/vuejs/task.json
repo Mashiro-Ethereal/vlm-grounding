@@ -1,0 +1,7 @@
+{
+  "task_id": "vuejs",
+  "instruction": "Open Vue.js homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

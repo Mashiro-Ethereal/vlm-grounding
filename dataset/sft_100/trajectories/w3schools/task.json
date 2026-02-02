@@ -1,0 +1,7 @@
+{
+  "task_id": "w3schools",
+  "instruction": "Visit W3Schools tutorials",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

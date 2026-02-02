@@ -1,0 +1,7 @@
+{
+  "task_id": "canva",
+  "instruction": "Open Canva design platform",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

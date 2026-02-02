@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-02-02T08:42:04.230570Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Nokia acquires Rapid technology and team! \ud83d\ude80",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1276,
+              "height": 583
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 618,
+                  "y": 263,
+                  "width": 40,
+                  "height": 56
+                },
+                "states": [
+                  "hidden"
+                ]
+              },
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 583,
+                  "width": 0,
+                  "height": 0
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "dialog",
+                    "name": "",
+                    "bounds": {
+                      "x": -1,
+                      "y": 582,
+                      "width": 1,
+                      "height": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

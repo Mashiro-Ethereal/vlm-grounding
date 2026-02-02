@@ -70,6 +70,10 @@ $RUNTIME run -d --name osworld -p 8080:8080 -p 8122:8122 localhost/osworld-deskt
 - `8080` - desktopd API (screenshot, keyboard, tablet input)
 - `8122` - Chromium DOM API (accessibility tree)
 
+## Changelog
+
+Store changelog entries in `changelog/` directory, one file per change. Use format `YYYYMMDD-description.md`. You may need to read changelogs before doing new feature.
+
 ## References
 
 - [`references/desktopd`](references/desktopd) - Original desktopd project (git submodule from https://github.com/AFK-surf/desktopd)

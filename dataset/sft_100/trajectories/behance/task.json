@@ -1,0 +1,7 @@
+{
+  "task_id": "behance",
+  "instruction": "Visit Behance portfolio",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

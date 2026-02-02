@@ -1,0 +1,7 @@
+{
+  "task_id": "npmjs",
+  "instruction": "Visit npm registry",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

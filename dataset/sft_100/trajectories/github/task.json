@@ -1,0 +1,7 @@
+{
+  "task_id": "github",
+  "instruction": "Navigate to GitHub homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

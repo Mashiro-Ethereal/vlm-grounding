@@ -1,0 +1,7 @@
+{
+  "task_id": "apidoc",
+  "instruction": "Open apiDoc documentation",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}
