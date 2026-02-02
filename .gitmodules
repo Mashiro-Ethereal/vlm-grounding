@@ -1,3 +1,6 @@
 [submodule "references/desktopd"]
 	path = references/desktopd
 	url = https://github.com/AFK-surf/desktopd
+[submodule "references/OSWorld"]
+	path = references/OSWorld
+	url = https://github.com/xlang-ai/OSWorld
