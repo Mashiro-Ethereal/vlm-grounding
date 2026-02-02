@@ -1,4 +1,5 @@
-*.png
+# Temporary files
+/tmp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

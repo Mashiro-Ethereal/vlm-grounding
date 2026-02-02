@@ -1,0 +1,79 @@
+{
+  "version": "1.0",
+  "total_trajectories": 10,
+  "successful": 10,
+  "failed": 0,
+  "created_at": "2026-02-02T04:41:33.707214+00:00",
+  "trajectories": [
+    {
+      "id": "duckduckgo_search",
+      "task_id": "duckduckgo_search",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "example_com_view",
+      "task_id": "example_com_view",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "github_homepage",
+      "task_id": "github_homepage",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "google_search_page",
+      "task_id": "google_search_page",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "hn_frontpage",
+      "task_id": "hn_frontpage",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "httpbin_get",
+      "task_id": "httpbin_get",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "jsonplaceholder_api",
+      "task_id": "jsonplaceholder_api",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "mdn_web_docs",
+      "task_id": "mdn_web_docs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "python_docs",
+      "task_id": "python_docs",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    },
+    {
+      "id": "wikipedia_main",
+      "task_id": "wikipedia_main",
+      "success": true,
+      "steps": 1,
+      "application": "chromium"
+    }
+  ]
+}

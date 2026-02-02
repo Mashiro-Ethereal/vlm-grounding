@@ -1,0 +1,8 @@
+{
+  "action_type": "wait",
+  "parameters": {
+    "seconds": 2
+  },
+  "reasoning": "Wait for Wikipedia to load",
+  "step_index": 0
+}

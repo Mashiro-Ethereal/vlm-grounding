@@ -45,3 +45,31 @@ dataset/trajectories/{id}/
 ├── result.json
 └── final_screenshot.png
 ```
+
+## Container Images (`image/`)
+
+Build and run the desktop container with Chromium and DOM API.
+
+**Container Runtime:** Auto-detect `docker` or `podman` on host (prefer `podman` if both exist).
+
+```bash
+# Detect runtime
+RUNTIME=$(command -v podman 2>/dev/null || command -v docker 2>/dev/null)
+
+# Build base image first
+$RUNTIME build -t localhost/desktopd:latest references/desktopd/
+
+# Build osworld image
+$RUNTIME build -t localhost/osworld-desktopd:latest image/
+
+# Run container
+$RUNTIME run -d --name osworld -p 8080:8080 -p 8122:8122 localhost/osworld-desktopd:latest
+```
+
+**Ports:**
+- `8080` - desktopd API (screenshot, keyboard, tablet input)
+- `8122` - Chromium DOM API (accessibility tree)
+
+## References
+
+- [`references/desktopd`](references/desktopd) - Original desktopd project (git submodule from https://github.com/AFK-surf/desktopd)

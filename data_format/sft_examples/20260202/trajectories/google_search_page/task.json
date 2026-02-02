@@ -1,0 +1,7 @@
+{
+  "task_id": "google_search_page",
+  "instruction": "Navigate to Google search page",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

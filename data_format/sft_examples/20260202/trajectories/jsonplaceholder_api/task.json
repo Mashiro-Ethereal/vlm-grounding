@@ -1,0 +1,7 @@
+{
+  "task_id": "jsonplaceholder_api",
+  "instruction": "View JSONPlaceholder API page",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

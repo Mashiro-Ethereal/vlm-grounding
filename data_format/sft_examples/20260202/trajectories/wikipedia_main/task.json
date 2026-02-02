@@ -1,0 +1,7 @@
+{
+  "task_id": "wikipedia_main",
+  "instruction": "Visit Wikipedia main page",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,7 @@
+{
+  "task_id": "httpbin_get",
+  "instruction": "Open httpbin.org for testing",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -27,19 +27,54 @@ except ImportError:
 
 CDP_PORT = 9222
 API_PORT = 8122
-CHROMIUM_CMD = [
-    "chromium",
-    "--disable-seccomp-filter-sandbox",
-    "--test-type",
-    f"--remote-debugging-port={CDP_PORT}",
-    "--remote-allow-origins=*",
-    "--no-first-run",
-    "--no-default-browser-check",
-    "--disable-background-networking",
-    "--disable-sync",
-    "--disable-translate",
-    "--metrics-recording-only",
-]
+
+
+def detect_display_platform():
+    """Auto-detect display platform from environment."""
+    # Check for Wayland
+    if os.environ.get("WAYLAND_DISPLAY"):
+        return "wayland"
+    # Check for X11
+    if os.environ.get("DISPLAY"):
+        return "x11"
+    # Default to wayland for headless containers
+    return "wayland"
+
+
+def build_chromium_cmd():
+    """Build Chromium command with auto-detected platform and optimizations."""
+    platform = detect_display_platform()
+    cmd = [
+        "chromium",
+        # Sandbox settings for containers
+        "--no-sandbox",
+        "--disable-seccomp-filter-sandbox",
+        # Display platform (auto-detected)
+        f"--ozone-platform={platform}",
+        # CDP debugging
+        "--test-type",
+        f"--remote-debugging-port={CDP_PORT}",
+        "--remote-allow-origins=*",
+        # Performance optimizations
+        "--enable-gpu-rasterization",
+        "--enable-zero-copy",
+        "--disable-dev-shm-usage",            # Use /tmp instead of /dev/shm
+        # Disable unnecessary features
+        "--no-first-run",
+        "--no-default-browser-check",
+        "--disable-background-networking",
+        "--disable-sync",
+        "--disable-translate",
+        "--metrics-recording-only",
+        "--disable-popup-blocking",
+        "--disable-infobars",
+        # Accessibility (needed for UI tree)
+        "--force-renderer-accessibility",
+    ]
+    return cmd
+
+
+CHROMIUM_CMD = build_chromium_cmd()
 
 chromium_process = None
 

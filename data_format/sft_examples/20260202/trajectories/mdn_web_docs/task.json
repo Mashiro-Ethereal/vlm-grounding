@@ -1,0 +1,7 @@
+{
+  "task_id": "mdn_web_docs",
+  "instruction": "Open MDN Web Docs",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

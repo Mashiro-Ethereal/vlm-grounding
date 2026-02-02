@@ -1,0 +1,7 @@
+{
+  "task_id": "duckduckgo_search",
+  "instruction": "Open DuckDuckGo search engine",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}
