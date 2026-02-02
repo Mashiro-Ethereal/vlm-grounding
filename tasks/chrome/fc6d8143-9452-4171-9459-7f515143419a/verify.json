@@ -1,0 +1,34 @@
+{
+  "id": "fc6d8143-9452-4171-9459-7f515143419a",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_html_parse",
+      "goto_prefix": "https://www.",
+      "category": "class",
+      "class_singleObject": {
+        "mach-flight-context-info__wrapper--date": "time"
+      },
+      "class_multiObject_child": {
+        "mach-flight-context-info__wrapper__info--separator": {
+          "0": "start",
+          "1": "end"
+        }
+      }
+    },
+    "expected": {
+      "type": "rule_relativeTime",
+      "rules": {
+        "relativeTime": {
+          "from": "tomorrow"
+        },
+        "expected": {
+          "start": "JFK",
+          "end": "ORD",
+          "time": "{DoW}, {Month} {Day0D}, {Year}"
+        }
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

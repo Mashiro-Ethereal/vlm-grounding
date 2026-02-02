@@ -1,0 +1,42 @@
+{
+  "id": "2ae9ba84-3a0d-4d4c-8338-3a1478dc5fe3",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "exact_match",
+    "result": {
+      "type": "profile_name"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": "Thomas"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

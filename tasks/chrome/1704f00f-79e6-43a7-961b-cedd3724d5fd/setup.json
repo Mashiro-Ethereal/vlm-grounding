@@ -1,0 +1,46 @@
+{
+  "id": "1704f00f-79e6-43a7-961b-cedd3724d5fd",
+  "instruction": "Find a large car from next Monday to Friday in Zurich, sorted by price.",
+  "config": [
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "google-chrome",
+          "--remote-debugging-port=1337"
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "socat",
+          "tcp-listen:9222,fork",
+          "tcp:localhost:1337"
+        ]
+      }
+    },
+    {
+      "type": "chrome_open_tabs",
+      "parameters": {
+        "urls_to_open": [
+          "https://www.rentalcars.com/"
+        ]
+      }
+    },
+    {
+      "type": "activate_window",
+      "parameters": {
+        "window_name": "Google Chrome"
+      }
+    }
+  ],
+  "snapshot": "chrome",
+  "related_apps": [
+    "chrome"
+  ],
+  "source": "test_task_0",
+  "proxy": true,
+  "fixed_ip": false
+}

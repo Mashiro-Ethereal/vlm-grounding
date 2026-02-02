@@ -1,0 +1,65 @@
+{
+  "id": "1704f00f-79e6-43a7-961b-cedd3724d5fd",
+  "evaluator": {
+    "func": [
+      "check_direct_json_object",
+      "check_direct_json_object"
+    ],
+    "result": [
+      {
+        "type": "active_tab_url_parse",
+        "goto_prefix": "https://www.",
+        "parse_keys": [
+          "locationName",
+          "dropLocationName",
+          "filterCriteria_carCategory",
+          "filterCriteria_sortBy"
+        ]
+      },
+      {
+        "type": "active_tab_url_parse",
+        "goto_prefix": "https://www.",
+        "parse_keys": [
+          "puDay",
+          "puMonth",
+          "puYear",
+          "doDay",
+          "doMonth",
+          "doYear"
+        ]
+      }
+    ],
+    "expected": [
+      {
+        "type": "rule",
+        "rules": {
+          "expected": {
+            "locationName": "Z\u00fcrich",
+            "dropLocationName": "Z\u00fcrich",
+            "filterCriteria_carCategory": "large",
+            "filterCriteria_sortBy": "PRICE"
+          }
+        }
+      },
+      {
+        "type": "rule_relativeTime",
+        "rules": {
+          "relativeTime": {
+            "from": "next Monday split",
+            "to": "next Friday split"
+          },
+          "timezone": "Europe/Zurich",
+          "expected": {
+            "puDay": "{DayD}",
+            "puMonth": "{MonthD}",
+            "puYear": "{Year}",
+            "doDay": "{DayD}",
+            "doMonth": "{MonthD}",
+            "doYear": "{Year}"
+          }
+        }
+      }
+    ]
+  },
+  "possibility_of_env_change": "medium"
+}

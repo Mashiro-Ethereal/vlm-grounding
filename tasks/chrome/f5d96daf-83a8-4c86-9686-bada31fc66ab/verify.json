@@ -1,0 +1,28 @@
+{
+  "id": "f5d96daf-83a8-4c86-9686-bada31fc66ab",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_url_parse",
+      "goto_prefix": "https://www.",
+      "parse_keys": [
+        "modelList"
+      ],
+      "split_list": true
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": {
+          "modelList": [
+            "iphone-15-pro-max",
+            "iphone-14-pro-max",
+            "iphone-13-pro-max"
+          ]
+        },
+        "ignore_list_order": true
+      }
+    }
+  },
+  "possibility_of_env_change": "medium"
+}

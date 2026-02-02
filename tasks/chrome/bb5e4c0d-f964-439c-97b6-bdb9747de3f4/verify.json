@@ -1,0 +1,45 @@
+{
+  "id": "bb5e4c0d-f964-439c-97b6-bdb9747de3f4",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "match_in_list",
+    "result": {
+      "type": "default_search_engine"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": [
+          "Microsoft Bing",
+          "Bing"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

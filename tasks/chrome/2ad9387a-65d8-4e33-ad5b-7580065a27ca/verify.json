@@ -1,0 +1,45 @@
+{
+  "id": "2ad9387a-65d8-4e33-ad5b-7580065a27ca",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "is_expected_bookmarks",
+    "result": {
+      "type": "bookmarks"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "bookmark_bar_folders_names",
+        "names": [
+          "Favorites"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

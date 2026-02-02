@@ -1,0 +1,32 @@
+{
+  "id": "bb5e4c0d-f964-439c-97b6-bdb9747de3f4",
+  "instruction": "Can you make Bing the main search engine when I look stuff up on the internet?",
+  "config": [
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "google-chrome",
+          "--remote-debugging-port=1337"
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "socat",
+          "tcp-listen:9222,fork",
+          "tcp:localhost:1337"
+        ]
+      }
+    }
+  ],
+  "snapshot": "chrome",
+  "related_apps": [
+    "chrome"
+  ],
+  "source": "https://support.google.com/chrome/answer/95426?sjid=16867045591165135686-AP",
+  "proxy": false,
+  "fixed_ip": false
+}

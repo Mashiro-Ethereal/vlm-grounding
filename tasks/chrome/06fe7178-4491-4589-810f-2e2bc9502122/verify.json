@@ -1,0 +1,21 @@
+{
+  "id": "06fe7178-4491-4589-810f-2e2bc9502122",
+  "evaluator": {
+    "func": "is_expected_tabs",
+    "result": {
+      "type": "open_tabs_info"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "url",
+        "urls": [
+          "https://www.lonelyplanet.com",
+          "https://www.airbnb.com",
+          "https://www.tripadvisor.com"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

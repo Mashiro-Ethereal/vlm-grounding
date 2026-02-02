@@ -1,0 +1,46 @@
+{
+  "id": "44ee5668-ecd5-4366-a6ce-c1c9b8d4e938",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "check_history_deleted",
+    "result": {
+      "type": "history",
+      "dest": "history.sqlite"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "keywords",
+        "keywords": [
+          "youtube"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

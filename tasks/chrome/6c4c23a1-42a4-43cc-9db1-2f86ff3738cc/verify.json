@@ -1,0 +1,36 @@
+{
+  "id": "6c4c23a1-42a4-43cc-9db1-2f86ff3738cc",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_html_parse",
+      "goto_prefix": "https://www.",
+      "category": "class",
+      "class_singleObject": {
+        "mach-flight-context-info__wrapper--date": "time",
+        "mach-global-tabs-small__wrapper__tab--active": "category"
+      },
+      "class_multiObject_child": {
+        "mach-flight-context-info__wrapper__info--separator": {
+          "0": "start",
+          "1": "end"
+        }
+      }
+    },
+    "expected": {
+      "type": "rule_relativeTime",
+      "rules": {
+        "relativeTime": {
+          "from": "5th next month"
+        },
+        "expected": {
+          "start": "SEA",
+          "end": "NYC",
+          "time": "{DoW}, {Month} {Day0D}, {Year}",
+          "category": "Miles"
+        }
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

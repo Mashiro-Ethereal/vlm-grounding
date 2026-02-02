@@ -1,0 +1,41 @@
+{
+  "id": "cabb3bae-cccb-41bd-9f5d-0f3a9fecd825",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_html_parse",
+      "goto_prefix": "https://www.",
+      "category": "class&url",
+      "class_multiObject_li": {
+        "pmpSearch_breadcrumb": [
+          "Spider-Man",
+          "Toys",
+          "Kids"
+        ],
+        "sbSelector": [
+          "Price Low-High"
+        ]
+      },
+      "url_include_expected_multichoice": {
+        "Spider-Man": "Spider-Man",
+        "spiderman": "Spider-Man",
+        "Toys": "Toys",
+        "Kids": "Kids",
+        "S=4": "Price Low-High"
+      }
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": {
+          "spider-man": true,
+          "toys": true,
+          "kids": true,
+          "price low-high": true,
+          "is_other_exist": false
+        }
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

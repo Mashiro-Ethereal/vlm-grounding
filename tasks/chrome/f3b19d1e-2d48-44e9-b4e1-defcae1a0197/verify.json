@@ -1,0 +1,18 @@
+{
+  "id": "f3b19d1e-2d48-44e9-b4e1-defcae1a0197",
+  "evaluator": {
+    "func": "is_expected_url_pattern_match",
+    "result": {
+      "type": "active_tab_info"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": [
+          "Ticket-Delivery-FAQs"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

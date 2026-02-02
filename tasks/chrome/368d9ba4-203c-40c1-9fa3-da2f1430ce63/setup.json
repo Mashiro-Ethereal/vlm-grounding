@@ -1,0 +1,46 @@
+{
+  "id": "368d9ba4-203c-40c1-9fa3-da2f1430ce63",
+  "instruction": "Find the Monthly forecast for Manchester, GB for this month",
+  "config": [
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "google-chrome",
+          "--remote-debugging-port=1337"
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "socat",
+          "tcp-listen:9222,fork",
+          "tcp:localhost:1337"
+        ]
+      }
+    },
+    {
+      "type": "chrome_open_tabs",
+      "parameters": {
+        "urls_to_open": [
+          "https://www.accuweather.com/"
+        ]
+      }
+    },
+    {
+      "type": "activate_window",
+      "parameters": {
+        "window_name": "Google Chrome"
+      }
+    }
+  ],
+  "snapshot": "chrome",
+  "related_apps": [
+    "chrome"
+  ],
+  "source": "test_task_1",
+  "proxy": true,
+  "fixed_ip": false
+}

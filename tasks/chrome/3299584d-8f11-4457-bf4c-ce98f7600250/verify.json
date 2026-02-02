@@ -1,0 +1,16 @@
+{
+  "id": "3299584d-8f11-4457-bf4c-ce98f7600250",
+  "evaluator": {
+    "func": "exact_match",
+    "result": {
+      "type": "new_startup_page"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": "true"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

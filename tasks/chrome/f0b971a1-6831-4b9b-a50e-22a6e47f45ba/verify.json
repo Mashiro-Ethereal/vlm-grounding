@@ -1,0 +1,18 @@
+{
+  "id": "f0b971a1-6831-4b9b-a50e-22a6e47f45ba",
+  "evaluator": {
+    "func": "is_expected_active_tab",
+    "result": {
+      "type": "active_url_from_accessTree",
+      "goto_prefix": "https://www."
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "url",
+        "url": "https://www.nfl.com/scores/2019/post4"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

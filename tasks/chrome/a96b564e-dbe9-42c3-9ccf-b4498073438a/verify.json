@@ -1,0 +1,18 @@
+{
+  "id": "a96b564e-dbe9-42c3-9ccf-b4498073438a",
+  "evaluator": {
+    "func": "is_expected_active_tab",
+    "result": {
+      "type": "active_tab_info",
+      "goto_prefix": "https://"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "url",
+        "url": "https://discussions.flightaware.com/t/the-banter-thread/4412"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

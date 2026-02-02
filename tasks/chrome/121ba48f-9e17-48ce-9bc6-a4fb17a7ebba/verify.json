@@ -1,0 +1,19 @@
+{
+  "id": "121ba48f-9e17-48ce-9bc6-a4fb17a7ebba",
+  "evaluator": {
+    "func": "is_added_to_steam_cart",
+    "result": {
+      "type": "page_info",
+      "url": "https://store.steampowered.com/cart/"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "items": [
+          "The Dota 2 Official Soundtrack"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

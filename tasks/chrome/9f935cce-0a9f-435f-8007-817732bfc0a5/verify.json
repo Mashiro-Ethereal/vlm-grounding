@@ -1,0 +1,19 @@
+{
+  "id": "9f935cce-0a9f-435f-8007-817732bfc0a5",
+  "evaluator": {
+    "func": "is_expected_url_pattern_match",
+    "result": {
+      "type": "active_url_from_accessTree",
+      "goto_prefix": "https://www."
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": [
+          "forms\\?title=&field_component_target_id=431"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

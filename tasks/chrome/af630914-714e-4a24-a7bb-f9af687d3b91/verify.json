@@ -1,0 +1,44 @@
+{
+  "id": "af630914-714e-4a24-a7bb-f9af687d3b91",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "check_font_size",
+    "result": {
+      "type": "chrome_font_size"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "range",
+        "min": 16,
+        "max": 99999
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

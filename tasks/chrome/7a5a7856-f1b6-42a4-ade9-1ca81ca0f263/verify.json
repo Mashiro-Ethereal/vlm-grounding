@@ -1,0 +1,45 @@
+{
+  "id": "7a5a7856-f1b6-42a4-ade9-1ca81ca0f263",
+  "evaluator": {
+    "postconfig": [
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "pkill",
+            "chrome"
+          ]
+        }
+      },
+      {
+        "type": "launch",
+        "parameters": {
+          "command": [
+            "google-chrome",
+            "--remote-debugging-port=1337"
+          ]
+        }
+      },
+      {
+        "type": "sleep",
+        "parameters": {
+          "seconds": 3
+        }
+      }
+    ],
+    "func": "is_expected_bookmarks",
+    "result": {
+      "type": "bookmarks"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "bookmark_bar_websites_urls",
+        "urls": [
+          "https://jalammar.github.io/illustrated-transformer/"
+        ]
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

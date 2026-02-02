@@ -1,0 +1,40 @@
+{
+  "id": "f79439ad-3ee8-4f99-a518-0eb60e5652b0",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_url_parse",
+      "goto_prefix": "https://www.",
+      "parse_keys": [
+        "originIata",
+        "destinationIata",
+        "tpAdults",
+        "tpTeens",
+        "tpChildren",
+        "tpStartDate",
+        "isReturn"
+      ],
+      "replace": {
+        "tpStartDate": "time"
+      }
+    },
+    "expected": {
+      "type": "rule_relativeTime",
+      "rules": {
+        "relativeTime": {
+          "from": "10th next month"
+        },
+        "expected": {
+          "originIata": "DUB",
+          "destinationIata": "VIE",
+          "tpAdults": "2",
+          "tpTeens": "0",
+          "tpChildren": "0",
+          "time": "{Year}-{Month0D}-{DayD}",
+          "isReturn": "false"
+        }
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "12086550-11c0-466b-b367-1d9e75b3910e",
+  "evaluator": {
+    "func": "is_expected_active_tab_approximate",
+    "result": {
+      "type": "active_url_from_accessTree",
+      "goto_prefix": ""
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "url",
+        "url": "chrome://password-manager/passwords"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

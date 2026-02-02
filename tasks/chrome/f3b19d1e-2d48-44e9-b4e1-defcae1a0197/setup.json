@@ -1,0 +1,46 @@
+{
+  "id": "f3b19d1e-2d48-44e9-b4e1-defcae1a0197",
+  "instruction": "Find the FAQ page about ticket delivery.",
+  "config": [
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "google-chrome",
+          "--remote-debugging-port=1337"
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "socat",
+          "tcp-listen:9222,fork",
+          "tcp:localhost:1337"
+        ]
+      }
+    },
+    {
+      "type": "chrome_open_tabs",
+      "parameters": {
+        "urls_to_open": [
+          "https://premier.ticketek.com.au/"
+        ]
+      }
+    },
+    {
+      "type": "activate_window",
+      "parameters": {
+        "window_name": "Google Chrome"
+      }
+    }
+  ],
+  "snapshot": "chrome",
+  "related_apps": [
+    "chrome"
+  ],
+  "source": "test_task_0",
+  "proxy": false,
+  "fixed_ip": false
+}

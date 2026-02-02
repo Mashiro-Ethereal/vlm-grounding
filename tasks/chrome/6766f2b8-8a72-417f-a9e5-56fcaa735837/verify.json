@@ -1,0 +1,16 @@
+{
+  "id": "6766f2b8-8a72-417f-a9e5-56fcaa735837",
+  "evaluator": {
+    "func": "is_in_list",
+    "result": {
+      "type": "find_unpacked_extension_path"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": "/home/user/Desktop/helloExtension"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "35253b65-1c19-4304-8aa4-6884b8218fc0",
+  "evaluator": {
+    "func": "is_shortcut_on_desktop",
+    "result": {
+      "type": "shortcuts_on_desktop"
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "type": "name",
+        "name": "Play Puzzle Game 2048"
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

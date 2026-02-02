@@ -1,0 +1,32 @@
+{
+  "id": "12086550-11c0-466b-b367-1d9e75b3910e",
+  "instruction": "Computer, please navigate to the area in my browser settings where my passwords are stored. I want to check my login information for Etsy without revealing it just yet.",
+  "config": [
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "google-chrome",
+          "--remote-debugging-port=1337"
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "socat",
+          "tcp-listen:9222,fork",
+          "tcp:localhost:1337"
+        ]
+      }
+    }
+  ],
+  "snapshot": "chrome",
+  "related_apps": [
+    "chrome"
+  ],
+  "source": "https://www.quora.com/What-are-the-cool-tricks-to-use-Google-Chrome",
+  "proxy": false,
+  "fixed_ip": false
+}

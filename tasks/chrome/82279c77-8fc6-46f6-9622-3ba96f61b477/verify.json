@@ -1,0 +1,28 @@
+{
+  "id": "82279c77-8fc6-46f6-9622-3ba96f61b477",
+  "evaluator": {
+    "func": "check_direct_json_object",
+    "result": {
+      "type": "active_tab_url_parse",
+      "goto_prefix": "https://www.",
+      "parse_keys": [
+        "list_price_max",
+        "maximum_distance",
+        "zip",
+        "fuel_slugs[]"
+      ]
+    },
+    "expected": {
+      "type": "rule",
+      "rules": {
+        "expected": {
+          "list_price_max": "50000",
+          "maximum_distance": "50",
+          "zip": "10001",
+          "fuel_slugs[]": "electric"
+        }
+      }
+    }
+  },
+  "possibility_of_env_change": "low"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "93eabf48-6a27-4cb6-b963-7d5fe1e0d3a9",
+  "evaluator": {
+    "func": "infeasible"
+  },
+  "possibility_of_env_change": "low"
+}
