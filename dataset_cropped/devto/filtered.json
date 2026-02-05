@@ -1,0 +1,248 @@
+{
+  "image_filename": "dataset_cropped/devto/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 16,
+  "test_samples": [
+    {
+      "id": "node_119",
+      "category": "link",
+      "name": "Create new account",
+      "bbox": [
+        98,
+        349,
+        274,
+        373
+      ],
+      "point": [
+        186.0,
+        361.0
+      ]
+    },
+    {
+      "id": "node_122",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        98,
+        393,
+        274,
+        417
+      ],
+      "point": [
+        186.0,
+        405.0
+      ]
+    },
+    {
+      "id": "node_128",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        82,
+        465,
+        290,
+        489
+      ],
+      "point": [
+        186.0,
+        477.0
+      ]
+    },
+    {
+      "id": "node_133",
+      "category": "link",
+      "name": "DEV++",
+      "bbox": [
+        82,
+        505,
+        290,
+        529
+      ],
+      "point": [
+        186.0,
+        517.0
+      ]
+    },
+    {
+      "id": "node_138",
+      "category": "link",
+      "name": "Podcasts",
+      "bbox": [
+        82,
+        545,
+        290,
+        569
+      ],
+      "point": [
+        186.0,
+        557.0
+      ]
+    },
+    {
+      "id": "node_463",
+      "category": "link",
+      "name": "Relevant",
+      "bbox": [
+        334,
+        76,
+        423,
+        103
+      ],
+      "point": [
+        378.5,
+        89.5
+      ]
+    },
+    {
+      "id": "node_467",
+      "category": "link",
+      "name": "Latest",
+      "bbox": [
+        447,
+        76,
+        502,
+        103
+      ],
+      "point": [
+        474.5,
+        89.5
+      ]
+    },
+    {
+      "id": "node_471",
+      "category": "link",
+      "name": "Top",
+      "bbox": [
+        527,
+        76,
+        557,
+        103
+      ],
+      "point": [
+        542.0,
+        89.5
+      ]
+    },
+    {
+      "id": "node_495",
+      "category": "link",
+      "name": "The DEV Team",
+      "bbox": [
+        383,
+        470,
+        443,
+        489
+      ],
+      "point": [
+        413.0,
+        479.5
+      ]
+    },
+    {
+      "id": "node_500",
+      "category": "link",
+      "name": "Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash \ud83d\udcb8 Jess Lee for The DEV Team \u30fb Jan 22 #githubchallenge #devchallenge #cli #githubcopilot",
+      "bbox": [
+        383,
+        501,
+        800,
+        520
+      ],
+      "point": [
+        591.5,
+        510.5
+      ]
+    },
+    {
+      "id": "node_1738",
+      "category": "link",
+      "name": "#discuss",
+      "bbox": [
+        958,
+        87,
+        1057,
+        111
+      ],
+      "point": [
+        1007.5,
+        99.0
+      ]
+    },
+    {
+      "id": "node_1745",
+      "category": "link",
+      "name": "The Secret Life of a Developer\u2019s Coffee Mug \u2615\ud83d\udcbb 6 comments",
+      "bbox": [
+        958,
+        179,
+        1228,
+        252
+      ],
+      "point": [
+        1093.0,
+        215.5
+      ]
+    },
+    {
+      "id": "node_1752",
+      "category": "link",
+      "name": "\ud83e\udd80 Inside Moltbook: When AI Agents Built Their Own Internet 5 comments",
+      "bbox": [
+        958,
+        285,
+        1228,
+        358
+      ],
+      "point": [
+        1093.0,
+        321.5
+      ]
+    },
+    {
+      "id": "node_1759",
+      "category": "link",
+      "name": "Do We Even Need Backend Developers Anymore? 2 comments",
+      "bbox": [
+        958,
+        391,
+        1228,
+        464
+      ],
+      "point": [
+        1093.0,
+        427.5
+      ]
+    },
+    {
+      "id": "node_1766",
+      "category": "link",
+      "name": "What was your win this week? 56 comments",
+      "bbox": [
+        958,
+        497,
+        1228,
+        546
+      ],
+      "point": [
+        1093.0,
+        521.5
+      ]
+    },
+    {
+      "id": "node_1772",
+      "category": "link",
+      "name": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity New",
+      "bbox": [
+        958,
+        579,
+        1228,
+        583
+      ],
+      "point": [
+        1093.0,
+        581.0
+      ]
+    }
+  ]
+}

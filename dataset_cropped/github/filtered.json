@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/github/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_120",
+      "category": "button",
+      "name": "Sign up for GitHub",
+      "bbox": [
+        563,
+        354,
+        707,
+        388
+      ],
+      "point": [
+        635.0,
+        371.0
+      ]
+    },
+    {
+      "id": "node_123",
+      "category": "link",
+      "name": "Try GitHub Copilot free",
+      "bbox": [
+        786,
+        351,
+        965,
+        391
+      ],
+      "point": [
+        875.5,
+        371.0
+      ]
+    },
+    {
+      "id": "node_767",
+      "category": "link",
+      "name": "Back to top",
+      "bbox": [
+        1202,
+        524,
+        1236,
+        558
+      ],
+      "point": [
+        1219.0,
+        541.0
+      ]
+    }
+  ]
+}

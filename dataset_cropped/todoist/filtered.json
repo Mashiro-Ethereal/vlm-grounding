@@ -1,0 +1,128 @@
+{
+  "image_filename": "dataset_cropped/todoist/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Made For",
+      "bbox": [
+        691,
+        25,
+        783,
+        45
+      ],
+      "point": [
+        737.0,
+        35.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "button",
+      "name": "Resources",
+      "bbox": [
+        814,
+        25,
+        915,
+        45
+      ],
+      "point": [
+        864.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        945,
+        25,
+        997,
+        45
+      ],
+      "point": [
+        971.0,
+        35.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1043,
+        25,
+        1088,
+        45
+      ],
+      "point": [
+        1065.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Start for free",
+      "bbox": [
+        1125,
+        25,
+        1222,
+        45
+      ],
+      "point": [
+        1173.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "link",
+      "name": "Meet Ramble",
+      "bbox": [
+        703,
+        101,
+        803,
+        121
+      ],
+      "point": [
+        753.0,
+        111.0
+      ]
+    },
+    {
+      "id": "node_854",
+      "category": "button",
+      "name": "Accept",
+      "bbox": [
+        1034,
+        512,
+        1088,
+        532
+      ],
+      "point": [
+        1061.0,
+        522.0
+      ]
+    },
+    {
+      "id": "node_857",
+      "category": "button",
+      "name": "Decline",
+      "bbox": [
+        1124,
+        512,
+        1181,
+        532
+      ],
+      "point": [
+        1152.5,
+        522.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image_filename": "dataset_cropped/freecodecamp/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 1,
+  "test_samples": [
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "Get started (it's free)",
+      "bbox": [
+        205,
+        526,
+        449,
+        564
+      ],
+      "point": [
+        327.0,
+        545.0
+      ]
+    }
+  ]
+}

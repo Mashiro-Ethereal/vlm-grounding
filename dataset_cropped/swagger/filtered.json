@@ -1,0 +1,128 @@
+{
+  "image_filename": "dataset_cropped/swagger/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_32",
+      "category": "button",
+      "name": "Products \uf078",
+      "bbox": [
+        282,
+        18,
+        366,
+        46
+      ],
+      "point": [
+        324.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "button",
+      "name": "Community \uf078",
+      "bbox": [
+        398,
+        18,
+        502,
+        46
+      ],
+      "point": [
+        450.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "button",
+      "name": "Learn \uf078",
+      "bbox": [
+        535,
+        18,
+        595,
+        46
+      ],
+      "point": [
+        565.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "button",
+      "name": "Resources \uf078",
+      "bbox": [
+        628,
+        18,
+        722,
+        46
+      ],
+      "point": [
+        675.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "link",
+      "name": "Sign In",
+      "bbox": [
+        984,
+        27,
+        1033,
+        43
+      ],
+      "point": [
+        1008.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "Get started",
+      "bbox": [
+        1095,
+        27,
+        1178,
+        43
+      ],
+      "point": [
+        1136.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_93",
+      "category": "link",
+      "name": "Find your tool",
+      "bbox": [
+        81,
+        490,
+        188,
+        506
+      ],
+      "point": [
+        134.5,
+        498.0
+      ]
+    },
+    {
+      "id": "node_96",
+      "category": "link",
+      "name": "Read the docs \uf178",
+      "bbox": [
+        241,
+        482,
+        371,
+        510
+      ],
+      "point": [
+        306.0,
+        496.0
+      ]
+    }
+  ]
+}

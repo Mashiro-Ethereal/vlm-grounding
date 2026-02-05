@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/dropbox/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Meet Dropbox Dash, your new AI teammate.",
+      "bbox": [
+        467,
+        16,
+        792,
+        40
+      ],
+      "point": [
+        629.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Dropbox",
+      "bbox": [
+        24,
+        72,
+        181,
+        112
+      ],
+      "point": [
+        102.5,
+        92.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        926,
+        72,
+        977,
+        112
+      ],
+      "point": [
+        951.5,
+        92.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1002,
+        72,
+        1043,
+        112
+      ],
+      "point": [
+        1022.5,
+        92.0
+      ]
+    }
+  ]
+}

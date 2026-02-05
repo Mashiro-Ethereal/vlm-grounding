@@ -1,0 +1,128 @@
+{
+  "image_filename": "dataset_cropped/theguardian/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Print subscriptions",
+      "bbox": [
+        829,
+        299,
+        975,
+        355
+      ],
+      "point": [
+        902.0,
+        327.0
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Search jobs",
+      "bbox": [
+        997,
+        299,
+        1085,
+        355
+      ],
+      "point": [
+        1041.0,
+        327.0
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1106,
+        299,
+        1180,
+        355
+      ],
+      "point": [
+        1143.0,
+        327.0
+      ]
+    },
+    {
+      "id": "node_36",
+      "category": "link",
+      "name": "Lisa Bloom on the fight for Epstein\u2019s victims",
+      "bbox": [
+        250,
+        377,
+        530,
+        491
+      ],
+      "point": [
+        390.0,
+        434.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Propaganda in cinemas, newsrooms slashed: the US media under Trump",
+      "bbox": [
+        570,
+        377,
+        850,
+        491
+      ],
+      "point": [
+        710.0,
+        434.0
+      ]
+    },
+    {
+      "id": "node_68",
+      "category": "link",
+      "name": "What is Moltbook? The strange new social media site for AI bots",
+      "bbox": [
+        890,
+        377,
+        1170,
+        491
+      ],
+      "point": [
+        1030.0,
+        434.0
+      ]
+    },
+    {
+      "id": "node_138",
+      "category": "button",
+      "name": "Move highlight stories forwards",
+      "bbox": [
+        1144,
+        411,
+        1180,
+        447
+      ],
+      "point": [
+        1162.0,
+        429.0
+      ]
+    },
+    {
+      "id": "node_146",
+      "category": "link",
+      "name": "The Guardian - Back to home The Guardian",
+      "bbox": [
+        856,
+        507,
+        1180,
+        568
+      ],
+      "point": [
+        1018.0,
+        537.5
+      ]
+    }
+  ]
+}

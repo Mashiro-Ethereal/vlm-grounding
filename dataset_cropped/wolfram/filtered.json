@@ -1,0 +1,353 @@
+{
+  "image_filename": "dataset_cropped/wolfram/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 23,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "button",
+      "name": "UPGRADE TO PRO",
+      "bbox": [
+        815,
+        5,
+        947,
+        40
+      ],
+      "point": [
+        881.0,
+        22.5
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "button",
+      "name": "APPS",
+      "bbox": [
+        969,
+        5,
+        1022,
+        40
+      ],
+      "point": [
+        995.5,
+        22.5
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "TOUR",
+      "bbox": [
+        1045,
+        5,
+        1081,
+        40
+      ],
+      "point": [
+        1063.0,
+        22.5
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "button",
+      "name": "Sign in",
+      "bbox": [
+        1119,
+        14,
+        1155,
+        31
+      ],
+      "point": [
+        1137.0,
+        22.5
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "button",
+      "name": "Language and theme selector",
+      "bbox": [
+        1201,
+        12,
+        1241,
+        32
+      ],
+      "point": [
+        1221.0,
+        22.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "button",
+      "name": "NATURAL LANGUAGE",
+      "bbox": [
+        247,
+        267,
+        384,
+        287
+      ],
+      "point": [
+        315.5,
+        277.0
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "button",
+      "name": "MATH INPUT",
+      "bbox": [
+        401,
+        267,
+        493,
+        287
+      ],
+      "point": [
+        447.0,
+        277.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "button",
+      "name": "EXTENDED KEYBOARD",
+      "bbox": [
+        632,
+        270,
+        771,
+        288
+      ],
+      "point": [
+        701.5,
+        279.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "EXAMPLES",
+      "bbox": [
+        781,
+        269,
+        859,
+        287
+      ],
+      "point": [
+        820.0,
+        278.0
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "button",
+      "name": "UPLOAD",
+      "bbox": [
+        869,
+        270,
+        932,
+        288
+      ],
+      "point": [
+        900.5,
+        279.0
+      ]
+    },
+    {
+      "id": "node_74",
+      "category": "button",
+      "name": "RANDOM",
+      "bbox": [
+        943,
+        269,
+        1010,
+        287
+      ],
+      "point": [
+        976.5,
+        278.0
+      ]
+    },
+    {
+      "id": "node_86",
+      "category": "link",
+      "name": "Mathematics",
+      "bbox": [
+        158,
+        397,
+        379,
+        420
+      ],
+      "point": [
+        268.5,
+        408.5
+      ]
+    },
+    {
+      "id": "node_91",
+      "category": "link",
+      "name": "Step-by-Step Solutions",
+      "bbox": [
+        159,
+        446,
+        368,
+        494
+      ],
+      "point": [
+        263.5,
+        470.0
+      ]
+    },
+    {
+      "id": "node_96",
+      "category": "link",
+      "name": "Elementary Math",
+      "bbox": [
+        159,
+        516,
+        368,
+        564
+      ],
+      "point": [
+        263.5,
+        540.0
+      ]
+    },
+    {
+      "id": "node_137",
+      "category": "link",
+      "name": "Science & Technology",
+      "bbox": [
+        399,
+        397,
+        620,
+        420
+      ],
+      "point": [
+        509.5,
+        408.5
+      ]
+    },
+    {
+      "id": "node_142",
+      "category": "link",
+      "name": "Units & Measures",
+      "bbox": [
+        400,
+        446,
+        609,
+        494
+      ],
+      "point": [
+        504.5,
+        470.0
+      ]
+    },
+    {
+      "id": "node_147",
+      "category": "link",
+      "name": "Physics",
+      "bbox": [
+        400,
+        516,
+        609,
+        564
+      ],
+      "point": [
+        504.5,
+        540.0
+      ]
+    },
+    {
+      "id": "node_188",
+      "category": "link",
+      "name": "Society & Culture",
+      "bbox": [
+        640,
+        397,
+        861,
+        420
+      ],
+      "point": [
+        750.5,
+        408.5
+      ]
+    },
+    {
+      "id": "node_193",
+      "category": "link",
+      "name": "People",
+      "bbox": [
+        641,
+        446,
+        850,
+        494
+      ],
+      "point": [
+        745.5,
+        470.0
+      ]
+    },
+    {
+      "id": "node_198",
+      "category": "link",
+      "name": "Arts & Media",
+      "bbox": [
+        641,
+        516,
+        850,
+        564
+      ],
+      "point": [
+        745.5,
+        540.0
+      ]
+    },
+    {
+      "id": "node_239",
+      "category": "link",
+      "name": "Everyday Life",
+      "bbox": [
+        881,
+        397,
+        1102,
+        420
+      ],
+      "point": [
+        991.5,
+        408.5
+      ]
+    },
+    {
+      "id": "node_244",
+      "category": "link",
+      "name": "Personal Health",
+      "bbox": [
+        882,
+        446,
+        1091,
+        494
+      ],
+      "point": [
+        986.5,
+        470.0
+      ]
+    },
+    {
+      "id": "node_249",
+      "category": "link",
+      "name": "Personal Finance",
+      "bbox": [
+        882,
+        516,
+        1091,
+        564
+      ],
+      "point": [
+        986.5,
+        540.0
+      ]
+    }
+  ]
+}

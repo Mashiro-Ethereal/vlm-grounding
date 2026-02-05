@@ -1,0 +1,113 @@
+{
+  "image_filename": "dataset_cropped/mdn/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "AD",
+      "bbox": [
+        1221,
+        9,
+        1235,
+        24
+      ],
+      "point": [
+        1228.0,
+        16.5
+      ]
+    },
+    {
+      "id": "node_94",
+      "category": "link",
+      "name": "MDN",
+      "bbox": [
+        18,
+        161,
+        55,
+        185
+      ],
+      "point": [
+        36.5,
+        173.0
+      ]
+    },
+    {
+      "id": "node_130",
+      "category": "link",
+      "name": "CSS",
+      "bbox": [
+        398,
+        354,
+        445,
+        383
+      ],
+      "point": [
+        421.5,
+        368.5
+      ]
+    },
+    {
+      "id": "node_135",
+      "category": "link",
+      "name": "HTML",
+      "bbox": [
+        458,
+        354,
+        524,
+        383
+      ],
+      "point": [
+        491.0,
+        368.5
+      ]
+    },
+    {
+      "id": "node_140",
+      "category": "link",
+      "name": "JavaScript",
+      "bbox": [
+        583,
+        354,
+        697,
+        383
+      ],
+      "point": [
+        640.0,
+        368.5
+      ]
+    },
+    {
+      "id": "node_146",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        489,
+        434,
+        595,
+        470
+      ],
+      "point": [
+        542.0,
+        452.0
+      ]
+    },
+    {
+      "id": "node_155",
+      "category": "link",
+      "name": "AD",
+      "bbox": [
+        1205,
+        514,
+        1219,
+        529
+      ],
+      "point": [
+        1212.0,
+        521.5
+      ]
+    }
+  ]
+}

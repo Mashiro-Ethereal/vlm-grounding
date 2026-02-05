@@ -1,0 +1,128 @@
+{
+  "image_filename": "dataset_cropped/pexels/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_42",
+      "category": "button",
+      "name": "Photos",
+      "bbox": [
+        58,
+        383,
+        169,
+        407
+      ],
+      "point": [
+        113.5,
+        395.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "textfield",
+      "name": "Search for free photos",
+      "bbox": [
+        200,
+        372,
+        496,
+        418
+      ],
+      "point": [
+        348.0,
+        395.0
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "button",
+      "name": "Join",
+      "bbox": [
+        643,
+        377,
+        895,
+        401
+      ],
+      "point": [
+        769.0,
+        389.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "button",
+      "name": "Join",
+      "bbox": [
+        955,
+        377,
+        1207,
+        401
+      ],
+      "point": [
+        1081.0,
+        389.0
+      ]
+    },
+    {
+      "id": "node_86",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        422,
+        472,
+        469,
+        520
+      ],
+      "point": [
+        445.5,
+        496.0
+      ]
+    },
+    {
+      "id": "node_89",
+      "category": "link",
+      "name": "Videos",
+      "bbox": [
+        519,
+        472,
+        571,
+        520
+      ],
+      "point": [
+        545.0,
+        496.0
+      ]
+    },
+    {
+      "id": "node_92",
+      "category": "link",
+      "name": "Leaderboard",
+      "bbox": [
+        612,
+        472,
+        712,
+        520
+      ],
+      "point": [
+        662.0,
+        496.0
+      ]
+    },
+    {
+      "id": "node_95",
+      "category": "link",
+      "name": "Challenges",
+      "bbox": [
+        753,
+        472,
+        838,
+        520
+      ],
+      "point": [
+        795.5,
+        496.0
+      ]
+    }
+  ]
+}

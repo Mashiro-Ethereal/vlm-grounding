@@ -1,0 +1,113 @@
+{
+  "image_filename": "dataset_cropped/coursera/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "For Individuals",
+      "bbox": [
+        64,
+        0,
+        165,
+        34
+      ],
+      "point": [
+        114.5,
+        17.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "For Businesses",
+      "bbox": [
+        197,
+        0,
+        295,
+        34
+      ],
+      "point": [
+        246.0,
+        17.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "For Universities",
+      "bbox": [
+        327,
+        0,
+        430,
+        34
+      ],
+      "point": [
+        378.5,
+        17.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "For Governments",
+      "bbox": [
+        463,
+        0,
+        578,
+        34
+      ],
+      "point": [
+        520.5,
+        17.0
+      ]
+    },
+    {
+      "id": "node_180",
+      "category": "link",
+      "name": "Launch a new career",
+      "bbox": [
+        64,
+        475,
+        409,
+        553
+      ],
+      "point": [
+        236.5,
+        514.0
+      ]
+    },
+    {
+      "id": "node_185",
+      "category": "link",
+      "name": "Gain in-demand skills",
+      "bbox": [
+        457,
+        475,
+        802,
+        553
+      ],
+      "point": [
+        629.5,
+        514.0
+      ]
+    },
+    {
+      "id": "node_190",
+      "category": "link",
+      "name": "Earn a degree",
+      "bbox": [
+        851,
+        475,
+        1196,
+        553
+      ],
+      "point": [
+        1023.5,
+        514.0
+      ]
+    }
+  ]
+}

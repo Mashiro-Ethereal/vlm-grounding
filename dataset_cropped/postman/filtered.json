@@ -1,0 +1,23 @@
+{
+  "image_filename": "dataset_cropped/postman/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 1,
+  "test_samples": [
+    {
+      "id": "node_146",
+      "category": "link",
+      "name": "Sign Up for Free",
+      "bbox": [
+        62,
+        359,
+        205,
+        383
+      ],
+      "point": [
+        133.5,
+        371.0
+      ]
+    }
+  ]
+}

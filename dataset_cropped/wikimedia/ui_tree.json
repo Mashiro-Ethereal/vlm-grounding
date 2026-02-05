@@ -1,0 +1,2474 @@
+{
+  "timestamp": "2026-02-02T08:38:48.830760Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Wikimedia",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 2361
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 16,
+                  "width": 1261,
+                  "height": 32
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 16,
+                      "width": 40,
+                      "height": 40
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_5",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 132,
+                  "y": 128,
+                  "width": 996,
+                  "height": 256
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_6",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 132,
+                      "y": 128,
+                      "width": 616,
+                      "height": 144
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "label",
+                        "name": "Welcome! The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely.",
+                        "bounds": {
+                          "x": 132,
+                          "y": 132,
+                          "width": 572,
+                          "height": 136
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "label",
+                            "name": "Welcome! The Wikimedia movement is a ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "global community of people, projects, and ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_10",
+                            "role": "label",
+                            "name": "activities working together to create and ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "share knowledge freely.",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_12",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 132,
+                      "y": 296,
+                      "width": 616,
+                      "height": 72
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_13",
+                        "role": "label",
+                        "name": "Join us in making all knowledge available to everyone, everywhere.",
+                        "bounds": {
+                          "x": 130,
+                          "y": 300,
+                          "width": 529,
+                          "height": 64
+                        },
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "label",
+                            "name": "Join us in making all knowledge available to ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": "everyone, everywhere.",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_16",
+                    "role": "image",
+                    "name": "",
+                    "bounds": {
+                      "x": 848,
+                      "y": 128,
+                      "width": 280,
+                      "height": 250
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_17",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 600,
+                  "width": 996,
+                  "height": 96
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_18",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 600,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_19",
+                        "role": "label",
+                        "name": "Our Projects",
+                        "bounds": {
+                          "x": 129,
+                          "y": 603,
+                          "width": 140,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "label",
+                            "name": "Our Projects",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_21",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 648,
+                      "width": 996,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_22",
+                        "role": "label",
+                        "name": "Our projects are the core of the ",
+                        "bounds": {
+                          "x": 129,
+                          "y": 650,
+                          "width": 257,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "label",
+                            "name": "Our projects are the core of the ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_24",
+                        "role": "link",
+                        "name": "Wikimedia movement",
+                        "bounds": {
+                          "x": 386,
+                          "y": 650,
+                          "width": 175,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_25",
+                            "role": "label",
+                            "name": "Wikimedia movement",
+                            "bounds": {
+                              "x": 386,
+                              "y": 650,
+                              "width": 175,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "label",
+                                "name": "Wikimedia movement",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_27",
+                        "role": "label",
+                        "name": ". All major projects are operated by the ",
+                        "bounds": {
+                          "x": 561,
+                          "y": 650,
+                          "width": 319,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_28",
+                            "role": "label",
+                            "name": ". All major projects are operated by the ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_29",
+                        "role": "link",
+                        "name": "Wikimedia Foundation",
+                        "bounds": {
+                          "x": 881,
+                          "y": 650,
+                          "width": 177,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_30",
+                            "role": "label",
+                            "name": "Wikimedia Foundation",
+                            "bounds": {
+                              "x": 881,
+                              "y": 650,
+                              "width": 177,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_31",
+                                "role": "label",
+                                "name": "Wikimedia Foundation",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_32",
+                        "role": "label",
+                        "name": ", and the content is collaboratively developed by over 260,000 users worldwide using the ",
+                        "bounds": {
+                          "x": 129,
+                          "y": 650,
+                          "width": 970,
+                          "height": 43
+                        },
+                        "children": [
+                          {
+                            "id": "node_33",
+                            "role": "label",
+                            "name": ", and ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_34",
+                            "role": "label",
+                            "name": "the content is collaboratively developed by over 260,000 users worldwide using the ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_35",
+                        "role": "link",
+                        "name": "MediaWiki",
+                        "bounds": {
+                          "x": 807,
+                          "y": 674,
+                          "width": 81,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "MediaWiki",
+                            "bounds": {
+                              "x": 807,
+                              "y": 674,
+                              "width": 81,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_37",
+                                "role": "label",
+                                "name": "MediaWiki",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_38",
+                        "role": "label",
+                        "name": " software.",
+                        "bounds": {
+                          "x": 889,
+                          "y": 674,
+                          "width": 78,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_39",
+                            "role": "label",
+                            "name": " software.",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_40",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 728,
+                  "width": 996,
+                  "height": 146
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_41",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 728,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "label",
+                        "name": "Reference",
+                        "bounds": {
+                          "x": 129,
+                          "y": 730,
+                          "width": 92,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_43",
+                            "role": "label",
+                            "name": "Reference",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_44",
+                    "role": "link",
+                    "name": "Wikipedia The Free Encyclopedia",
+                    "bounds": {
+                      "x": 135,
+                      "y": 776,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_45",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 195,
+                          "y": 780,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_46",
+                            "role": "label",
+                            "name": "Wikipedia",
+                            "bounds": {
+                              "x": 195,
+                              "y": 782,
+                              "width": 78,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_47",
+                                "role": "label",
+                                "name": "Wikipedia",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_48",
+                        "role": "label",
+                        "name": "The Free Encyclopedia",
+                        "bounds": {
+                          "x": 194,
+                          "y": 806,
+                          "width": 159,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_49",
+                            "role": "label",
+                            "name": "The Free Encyclopedia",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_50",
+                    "role": "link",
+                    "name": "Wiktionary Free dictionary",
+                    "bounds": {
+                      "x": 377,
+                      "y": 776,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_51",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 437,
+                          "y": 780,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_52",
+                            "role": "label",
+                            "name": "Wiktionary",
+                            "bounds": {
+                              "x": 437,
+                              "y": 782,
+                              "width": 85,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_53",
+                                "role": "label",
+                                "name": "Wiktionary",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_54",
+                        "role": "label",
+                        "name": "Free dictionary",
+                        "bounds": {
+                          "x": 437,
+                          "y": 806,
+                          "width": 104,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_55",
+                            "role": "label",
+                            "name": "Free dictionary",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_56",
+                    "role": "link",
+                    "name": "Wikiquote Free quote compendium",
+                    "bounds": {
+                      "x": 619,
+                      "y": 776,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_57",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 679,
+                          "y": 780,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_58",
+                            "role": "label",
+                            "name": "Wikiquote",
+                            "bounds": {
+                              "x": 679,
+                              "y": 782,
+                              "width": 79,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_59",
+                                "role": "label",
+                                "name": "Wikiquote",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_60",
+                        "role": "label",
+                        "name": "Free quote compendium",
+                        "bounds": {
+                          "x": 679,
+                          "y": 806,
+                          "width": 91,
+                          "height": 37
+                        },
+                        "children": [
+                          {
+                            "id": "node_61",
+                            "role": "label",
+                            "name": "Free quote ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_62",
+                            "role": "label",
+                            "name": "compendium",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_63",
+                    "role": "link",
+                    "name": "Wikibooks Free textbooks",
+                    "bounds": {
+                      "x": 861,
+                      "y": 776,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_64",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 921,
+                          "y": 780,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_65",
+                            "role": "label",
+                            "name": "Wikibooks",
+                            "bounds": {
+                              "x": 921,
+                              "y": 782,
+                              "width": 80,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_66",
+                                "role": "label",
+                                "name": "Wikibooks",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "label",
+                        "name": "Free textbooks",
+                        "bounds": {
+                          "x": 921,
+                          "y": 806,
+                          "width": 103,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_68",
+                            "role": "label",
+                            "name": "Free textbooks",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_69",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 906,
+                  "width": 996,
+                  "height": 125
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_70",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 906,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_71",
+                        "role": "label",
+                        "name": "Collections",
+                        "bounds": {
+                          "x": 129,
+                          "y": 908,
+                          "width": 99,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_72",
+                            "role": "label",
+                            "name": "Collections",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_73",
+                    "role": "link",
+                    "name": "Commons Free media collection",
+                    "bounds": {
+                      "x": 135,
+                      "y": 954,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_74",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 195,
+                          "y": 958,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_75",
+                            "role": "label",
+                            "name": "Commons",
+                            "bounds": {
+                              "x": 195,
+                              "y": 960,
+                              "width": 80,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_76",
+                                "role": "label",
+                                "name": "Commons",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_77",
+                        "role": "label",
+                        "name": "Free media collection",
+                        "bounds": {
+                          "x": 195,
+                          "y": 984,
+                          "width": 149,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_78",
+                            "role": "label",
+                            "name": "Free media collection",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_79",
+                    "role": "link",
+                    "name": "Wikisource Free content library",
+                    "bounds": {
+                      "x": 377,
+                      "y": 954,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_80",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 437,
+                          "y": 958,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_81",
+                            "role": "label",
+                            "name": "Wikisource",
+                            "bounds": {
+                              "x": 437,
+                              "y": 960,
+                              "width": 86,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_82",
+                                "role": "label",
+                                "name": "Wikisource",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_83",
+                        "role": "label",
+                        "name": "Free content library",
+                        "bounds": {
+                          "x": 437,
+                          "y": 984,
+                          "width": 137,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_84",
+                            "role": "label",
+                            "name": "Free content library",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_85",
+                    "role": "link",
+                    "name": "Wikiversity Free learning resources",
+                    "bounds": {
+                      "x": 619,
+                      "y": 954,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_86",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 679,
+                          "y": 958,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_87",
+                            "role": "label",
+                            "name": "Wikiversity",
+                            "bounds": {
+                              "x": 679,
+                              "y": 960,
+                              "width": 88,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_88",
+                                "role": "label",
+                                "name": "Wikiversity",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_89",
+                        "role": "label",
+                        "name": "Free learning resources",
+                        "bounds": {
+                          "x": 679,
+                          "y": 984,
+                          "width": 163,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_90",
+                            "role": "label",
+                            "name": "Free learning resources",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_91",
+                    "role": "link",
+                    "name": "Wikispecies Free content library",
+                    "bounds": {
+                      "x": 861,
+                      "y": 954,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_92",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 921,
+                          "y": 958,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_93",
+                            "role": "label",
+                            "name": "Wikispecies",
+                            "bounds": {
+                              "x": 921,
+                              "y": 960,
+                              "width": 93,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_94",
+                                "role": "label",
+                                "name": "Wikispecies",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_95",
+                        "role": "label",
+                        "name": "Free content library",
+                        "bounds": {
+                          "x": 921,
+                          "y": 984,
+                          "width": 137,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_96",
+                            "role": "label",
+                            "name": "Free content library",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_97",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 1063,
+                  "width": 996,
+                  "height": 146
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_98",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 1063,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_99",
+                        "role": "label",
+                        "name": "Technology",
+                        "bounds": {
+                          "x": 129,
+                          "y": 1065,
+                          "width": 102,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_100",
+                            "role": "label",
+                            "name": "Technology",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_101",
+                    "role": "link",
+                    "name": "Wikidata Free knowledge base",
+                    "bounds": {
+                      "x": 135,
+                      "y": 1111,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_102",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1115,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_103",
+                            "role": "label",
+                            "name": "Wikidata",
+                            "bounds": {
+                              "x": 195,
+                              "y": 1117,
+                              "width": 69,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_104",
+                                "role": "label",
+                                "name": "Wikidata",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_105",
+                        "role": "label",
+                        "name": "Free knowledge base",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1141,
+                          "width": 147,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_106",
+                            "role": "label",
+                            "name": "Free knowledge base",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_107",
+                    "role": "link",
+                    "name": "Wikifunctions Free function library",
+                    "bounds": {
+                      "x": 377,
+                      "y": 1111,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_108",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 437,
+                          "y": 1115,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_109",
+                            "role": "label",
+                            "name": "Wikifunctions",
+                            "bounds": {
+                              "x": 437,
+                              "y": 1117,
+                              "width": 107,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_110",
+                                "role": "label",
+                                "name": "Wikifunctions",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_111",
+                        "role": "label",
+                        "name": "Free function library",
+                        "bounds": {
+                          "x": 437,
+                          "y": 1141,
+                          "width": 140,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_112",
+                            "role": "label",
+                            "name": "Free function library",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_113",
+                    "role": "link",
+                    "name": "MediaWiki Free & open wiki software",
+                    "bounds": {
+                      "x": 619,
+                      "y": 1111,
+                      "width": 230,
+                      "height": 74
+                    },
+                    "children": [
+                      {
+                        "id": "node_114",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 679,
+                          "y": 1115,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_115",
+                            "role": "label",
+                            "name": "MediaWiki",
+                            "bounds": {
+                              "x": 679,
+                              "y": 1117,
+                              "width": 81,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_116",
+                                "role": "label",
+                                "name": "MediaWiki",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_117",
+                        "role": "label",
+                        "name": "Free & open wiki software",
+                        "bounds": {
+                          "x": 679,
+                          "y": 1141,
+                          "width": 116,
+                          "height": 37
+                        },
+                        "children": [
+                          {
+                            "id": "node_118",
+                            "role": "label",
+                            "name": "Free & open wiki ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_119",
+                            "role": "label",
+                            "name": "software",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_120",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 1241,
+                  "width": 996,
+                  "height": 125
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_121",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 1241,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_122",
+                        "role": "label",
+                        "name": "Guides",
+                        "bounds": {
+                          "x": 129,
+                          "y": 1243,
+                          "width": 61,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_123",
+                            "role": "label",
+                            "name": "Guides",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_124",
+                    "role": "link",
+                    "name": "Wikivoyage Free travel guide",
+                    "bounds": {
+                      "x": 135,
+                      "y": 1289,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_125",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1293,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_126",
+                            "role": "label",
+                            "name": "Wikivoyage",
+                            "bounds": {
+                              "x": 195,
+                              "y": 1295,
+                              "width": 92,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_127",
+                                "role": "label",
+                                "name": "Wikivoyage",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_128",
+                        "role": "label",
+                        "name": "Free travel guide",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1319,
+                          "width": 118,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_129",
+                            "role": "label",
+                            "name": "Free travel guide",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_130",
+                    "role": "link",
+                    "name": "Wikinews Free news source",
+                    "bounds": {
+                      "x": 377,
+                      "y": 1289,
+                      "width": 230,
+                      "height": 53
+                    },
+                    "children": [
+                      {
+                        "id": "node_131",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 437,
+                          "y": 1293,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_132",
+                            "role": "label",
+                            "name": "Wikinews",
+                            "bounds": {
+                              "x": 437,
+                              "y": 1295,
+                              "width": 75,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_133",
+                                "role": "label",
+                                "name": "Wikinews",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_134",
+                        "role": "label",
+                        "name": "Free news source",
+                        "bounds": {
+                          "x": 437,
+                          "y": 1319,
+                          "width": 121,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_135",
+                            "role": "label",
+                            "name": "Free news source",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_136",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 1398,
+                  "width": 996,
+                  "height": 167
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_137",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 1398,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_138",
+                        "role": "label",
+                        "name": "Collaboration",
+                        "bounds": {
+                          "x": 129,
+                          "y": 1400,
+                          "width": 121,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_139",
+                            "role": "label",
+                            "name": "Collaboration",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_140",
+                    "role": "link",
+                    "name": "Meta-Wiki Community coordination & documentation",
+                    "bounds": {
+                      "x": 135,
+                      "y": 1446,
+                      "width": 230,
+                      "height": 95
+                    },
+                    "children": [
+                      {
+                        "id": "node_141",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1450,
+                          "width": 170,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_142",
+                            "role": "label",
+                            "name": "Meta-Wiki",
+                            "bounds": {
+                              "x": 195,
+                              "y": 1452,
+                              "width": 78,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_143",
+                                "role": "label",
+                                "name": "Meta-Wiki",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_144",
+                        "role": "label",
+                        "name": "Community coordination & documentation",
+                        "bounds": {
+                          "x": 195,
+                          "y": 1476,
+                          "width": 106,
+                          "height": 58
+                        },
+                        "children": [
+                          {
+                            "id": "node_145",
+                            "role": "label",
+                            "name": "Community ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_146",
+                            "role": "label",
+                            "name": "coordination & ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_147",
+                            "role": "label",
+                            "name": "documentation",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_148",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 1605,
+                  "width": 1035,
+                  "height": 48
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_149",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 1605,
+                      "width": 1035,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_150",
+                        "role": "label",
+                        "name": "The ",
+                        "bounds": {
+                          "x": 128,
+                          "y": 1607,
+                          "width": 36,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_151",
+                            "role": "label",
+                            "name": "The ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_152",
+                        "role": "link",
+                        "name": "Wikimedia Foundation",
+                        "bounds": {
+                          "x": 163,
+                          "y": 1607,
+                          "width": 177,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_153",
+                            "role": "label",
+                            "name": "Wikimedia Foundation",
+                            "bounds": {
+                              "x": 163,
+                              "y": 1607,
+                              "width": 177,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_154",
+                                "role": "label",
+                                "name": "Wikimedia Foundation",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_155",
+                        "role": "label",
+                        "name": " is the non-profit organization that hosts all Wikimedia projects and supports communities all over the world who create and curate freely accessible content.",
+                        "bounds": {
+                          "x": 129,
+                          "y": 1607,
+                          "width": 1031,
+                          "height": 43
+                        },
+                        "children": [
+                          {
+                            "id": "node_156",
+                            "role": "label",
+                            "name": " is the non-profit organization that hosts all Wikimedia projects and supports communities all over the ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_157",
+                            "role": "label",
+                            "name": "world who create and curate freely accessible content.",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_158",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 97,
+                  "y": 1767,
+                  "width": 1067,
+                  "height": 225
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_159",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 535,
+                      "y": 1791,
+                      "width": 551,
+                      "height": 128
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_160",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 535,
+                          "y": 1791,
+                          "width": 551,
+                          "height": 60
+                        },
+                        "children": [
+                          {
+                            "id": "node_161",
+                            "role": "label",
+                            "name": "Your donation protects the human right to free and open knowledge for everyone.",
+                            "bounds": {
+                              "x": 534,
+                              "y": 1794,
+                              "width": 534,
+                              "height": 54
+                            },
+                            "children": [
+                              {
+                                "id": "node_162",
+                                "role": "label",
+                                "name": "Your donation protects the human right to free ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_163",
+                                "role": "label",
+                                "name": "and open knowledge for everyone.",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_164",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 535,
+                          "y": 1851,
+                          "width": 551,
+                          "height": 54
+                        },
+                        "children": [
+                          {
+                            "id": "node_165",
+                            "role": "link",
+                            "name": "Donate now",
+                            "bounds": {
+                              "x": 546,
+                              "y": 1868,
+                              "width": 124,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_166",
+                                "role": "label",
+                                "name": "Donate now",
+                                "bounds": {
+                                  "x": 576,
+                                  "y": 1875,
+                                  "width": 95,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_167",
+                                    "role": "label",
+                                    "name": "Donate now",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_168",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 2112,
+                  "width": 996,
+                  "height": 72
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_169",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 129,
+                      "y": 2112,
+                      "width": 996,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_170",
+                        "role": "label",
+                        "name": "Contact",
+                        "bounds": {
+                          "x": 129,
+                          "y": 2115,
+                          "width": 88,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_171",
+                            "role": "label",
+                            "name": "Contact",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_172",
+                    "role": "label",
+                    "name": "Questions about the Wikimedia Foundation or Wikimedia projects? Get in touch.",
+                    "bounds": {
+                      "x": 129,
+                      "y": 2162,
+                      "width": 641,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_173",
+                        "role": "label",
+                        "name": "Questions about the Wikimedia Foundation or Wikimedia projects? Get in touch.",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_174",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 129,
+                  "y": 2216,
+                  "width": 996,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_175",
+                    "role": "link",
+                    "name": "Contact",
+                    "bounds": {
+                      "x": 129,
+                      "y": 2218,
+                      "width": 54,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_176",
+                        "role": "label",
+                        "name": "Contact",
+                        "bounds": {
+                          "x": 129,
+                          "y": 2218,
+                          "width": 55,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_177",
+                            "role": "label",
+                            "name": "Contact",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_178",
+                "role": "separator",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 2325,
+                  "width": 1261,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_179",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 2340,
+                  "width": 1261,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_180",
+                    "role": "label",
+                    "name": "This page is available under the ",
+                    "bounds": {
+                      "x": 214,
+                      "y": 2342,
+                      "width": 230,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_181",
+                        "role": "label",
+                        "name": "This page is available under the ",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_182",
+                    "role": "link",
+                    "name": "Creative Commons Attribution-ShareAlike License",
+                    "bounds": {
+                      "x": 444,
+                      "y": 2342,
+                      "width": 348,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_183",
+                        "role": "label",
+                        "name": "Creative Commons Attribution-ShareAlike License",
+                        "bounds": {
+                          "x": 444,
+                          "y": 2342,
+                          "width": 348,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_184",
+                            "role": "label",
+                            "name": "Creative Commons Attribution-ShareAlike License",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_185",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 805,
+                      "y": 2340,
+                      "width": 8,
+                      "height": 21
+                    },
+                    "children": [
+                      {
+                        "id": "node_186",
+                        "role": "label",
+                        "name": "\u2022",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": [
+                          {
+                            "id": "node_187",
+                            "role": "label",
+                            "name": "\u2022",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_188",
+                    "role": "link",
+                    "name": "Terms of Use",
+                    "bounds": {
+                      "x": 826,
+                      "y": 2342,
+                      "width": 89,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_189",
+                        "role": "label",
+                        "name": "Terms of Use",
+                        "bounds": {
+                          "x": 825,
+                          "y": 2342,
+                          "width": 91,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_190",
+                            "role": "label",
+                            "name": "Terms of Use",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_191",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 929,
+                      "y": 2340,
+                      "width": 8,
+                      "height": 21
+                    },
+                    "children": [
+                      {
+                        "id": "node_192",
+                        "role": "label",
+                        "name": "\u2022",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": [
+                          {
+                            "id": "node_193",
+                            "role": "label",
+                            "name": "\u2022",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_194",
+                    "role": "link",
+                    "name": "Privacy Policy",
+                    "bounds": {
+                      "x": 949,
+                      "y": 2342,
+                      "width": 95,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_195",
+                        "role": "label",
+                        "name": "Privacy Policy",
+                        "bounds": {
+                          "x": 949,
+                          "y": 2342,
+                          "width": 95,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_196",
+                            "role": "label",
+                            "name": "Privacy Policy",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

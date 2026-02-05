@@ -1,0 +1,128 @@
+{
+  "image_filename": "dataset_cropped/jsonplaceholder/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 568,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_4",
+      "category": "link",
+      "name": "Check my new project \ud83d\udca7 MistCSS write React components with 50% less code",
+      "bbox": [
+        315,
+        10,
+        945,
+        29
+      ],
+      "point": [
+        630.0,
+        19.5
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "JSONPlaceholder",
+      "bbox": [
+        182,
+        66,
+        332,
+        85
+      ],
+      "point": [
+        257.0,
+        75.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Guide",
+      "bbox": [
+        662,
+        66,
+        708,
+        85
+      ],
+      "point": [
+        685.0,
+        75.5
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Sponsor this project",
+      "bbox": [
+        725,
+        66,
+        884,
+        85
+      ],
+      "point": [
+        804.5,
+        75.5
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        901,
+        66,
+        936,
+        85
+      ],
+      "point": [
+        918.5,
+        75.5
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "link",
+      "name": "My JSON Server",
+      "bbox": [
+        953,
+        66,
+        1077,
+        85
+      ],
+      "point": [
+        1015.0,
+        75.5
+      ]
+    },
+    {
+      "id": "node_44",
+      "category": "link",
+      "name": "JSON Server",
+      "bbox": [
+        335,
+        357,
+        486,
+        386
+      ],
+      "point": [
+        410.5,
+        371.5
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "link",
+      "name": "LowDB",
+      "bbox": [
+        523,
+        357,
+        608,
+        386
+      ],
+      "point": [
+        565.5,
+        371.5
+      ]
+    }
+  ]
+}

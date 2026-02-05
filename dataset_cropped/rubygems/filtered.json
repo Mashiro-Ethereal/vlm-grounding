@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/rubygems/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_48",
+      "category": "button",
+      "name": "Search Gems\u2026",
+      "bbox": [
+        986,
+        313,
+        1004,
+        331
+      ],
+      "point": [
+        995.0,
+        322.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Advanced Search\u2192",
+      "bbox": [
+        557,
+        348,
+        702,
+        366
+      ],
+      "point": [
+        629.5,
+        357.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "\u2301STATUS",
+      "bbox": [
+        403,
+        543,
+        627,
+        580
+      ],
+      "point": [
+        515.0,
+        561.5
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "link",
+      "name": "\u29d6UPTIME",
+      "bbox": [
+        634,
+        543,
+        858,
+        580
+      ],
+      "point": [
+        746.0,
+        561.5
+      ]
+    }
+  ]
+}

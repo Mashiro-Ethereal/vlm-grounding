@@ -1,0 +1,83 @@
+{
+  "image_filename": "dataset_cropped/codecademy/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_124",
+      "category": "link",
+      "name": "Bootcamps",
+      "bbox": [
+        544,
+        27,
+        623,
+        51
+      ],
+      "point": [
+        583.5,
+        39.0
+      ]
+    },
+    {
+      "id": "node_128",
+      "category": "link",
+      "name": "Coaching",
+      "bbox": [
+        639,
+        27,
+        704,
+        51
+      ],
+      "point": [
+        671.5,
+        39.0
+      ]
+    },
+    {
+      "id": "node_132",
+      "category": "link",
+      "name": "Teams",
+      "bbox": [
+        721,
+        27,
+        764,
+        51
+      ],
+      "point": [
+        742.5,
+        39.0
+      ]
+    },
+    {
+      "id": "node_141",
+      "category": "link",
+      "name": "Log In",
+      "bbox": [
+        997,
+        25,
+        1040,
+        53
+      ],
+      "point": [
+        1018.5,
+        39.0
+      ]
+    },
+    {
+      "id": "node_145",
+      "category": "link",
+      "name": "Sign Up",
+      "bbox": [
+        1093,
+        25,
+        1146,
+        53
+      ],
+      "point": [
+        1119.5,
+        39.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "image_filename": "dataset_cropped/speedtest/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Apps",
+      "bbox": [
+        652,
+        23,
+        687,
+        45
+      ],
+      "point": [
+        669.5,
+        34.0
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        713,
+        23,
+        752,
+        45
+      ],
+      "point": [
+        732.5,
+        34.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "button",
+      "name": "start speed test - connection type multi",
+      "bbox": [
+        470,
+        269,
+        650,
+        431
+      ],
+      "point": [
+        560.0,
+        350.0
+      ]
+    },
+    {
+      "id": "node_65",
+      "category": "link",
+      "name": "RESULTS",
+      "bbox": [
+        478,
+        184,
+        550,
+        198
+      ],
+      "point": [
+        514.0,
+        191.0
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "link",
+      "name": "SETTINGS",
+      "bbox": [
+        565,
+        184,
+        642,
+        198
+      ],
+      "point": [
+        603.5,
+        191.0
+      ]
+    }
+  ]
+}

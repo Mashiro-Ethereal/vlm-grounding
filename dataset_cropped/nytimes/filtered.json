@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/nytimes/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Duck.ai",
+      "bbox": [
+        1070,
+        42,
+        1140,
+        74
+      ],
+      "point": [
+        1105.0,
+        58.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Menu",
+      "bbox": [
+        1165,
+        42,
+        1197,
+        74
+      ],
+      "point": [
+        1181.0,
+        58.0
+      ]
+    },
+    {
+      "id": "node_51",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        898,
+        385,
+        930,
+        405
+      ],
+      "point": [
+        914.0,
+        395.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Protection. Privacy. Peace of mind.",
+      "bbox": [
+        505,
+        488,
+        755,
+        532
+      ],
+      "point": [
+        630.0,
+        510.0
+      ]
+    }
+  ]
+}

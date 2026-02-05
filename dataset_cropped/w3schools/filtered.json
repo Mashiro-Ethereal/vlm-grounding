@@ -1,0 +1,38 @@
+{
+  "image_filename": "dataset_cropped/w3schools/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_233",
+      "category": "button",
+      "name": "\ue802",
+      "bbox": [
+        790,
+        364,
+        869,
+        389
+      ],
+      "point": [
+        829.5,
+        376.5
+      ]
+    },
+    {
+      "id": "node_238",
+      "category": "link",
+      "name": "Not Sure Where To Begin?",
+      "bbox": [
+        501,
+        433,
+        758,
+        462
+      ],
+      "point": [
+        629.5,
+        447.5
+      ]
+    }
+  ]
+}

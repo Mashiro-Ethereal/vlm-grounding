@@ -1,0 +1,308 @@
+{
+  "image_filename": "dataset_cropped/slashdot/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 20,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Slashdot",
+      "bbox": [
+        13,
+        12,
+        180,
+        47
+      ],
+      "point": [
+        96.5,
+        29.5
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "Stories",
+      "bbox": [
+        205,
+        12,
+        253,
+        52
+      ],
+      "point": [
+        229.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "All",
+      "bbox": [
+        376,
+        12,
+        393,
+        52
+      ],
+      "point": [
+        384.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "link",
+      "name": "Popular",
+      "bbox": [
+        423,
+        12,
+        475,
+        52
+      ],
+      "point": [
+        449.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Polls",
+      "bbox": [
+        506,
+        12,
+        537,
+        52
+      ],
+      "point": [
+        521.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Software",
+      "bbox": [
+        568,
+        12,
+        650,
+        52
+      ],
+      "point": [
+        609.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Thought Leadership",
+      "bbox": [
+        681,
+        12,
+        820,
+        52
+      ],
+      "point": [
+        750.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "link",
+      "name": "Submit",
+      "bbox": [
+        863,
+        25,
+        912,
+        41
+      ],
+      "point": [
+        887.5,
+        33.0
+      ]
+    },
+    {
+      "id": "node_93",
+      "category": "link",
+      "name": "Devices",
+      "bbox": [
+        242,
+        57,
+        289,
+        77
+      ],
+      "point": [
+        265.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_97",
+      "category": "link",
+      "name": "Build",
+      "bbox": [
+        304,
+        57,
+        334,
+        77
+      ],
+      "point": [
+        319.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_101",
+      "category": "link",
+      "name": "Entertainment",
+      "bbox": [
+        349,
+        57,
+        435,
+        77
+      ],
+      "point": [
+        392.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "Technology",
+      "bbox": [
+        450,
+        57,
+        517,
+        77
+      ],
+      "point": [
+        483.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_109",
+      "category": "link",
+      "name": "Open Source",
+      "bbox": [
+        531,
+        57,
+        608,
+        77
+      ],
+      "point": [
+        569.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_113",
+      "category": "link",
+      "name": "Science",
+      "bbox": [
+        623,
+        57,
+        669,
+        77
+      ],
+      "point": [
+        646.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_117",
+      "category": "link",
+      "name": "YRO",
+      "bbox": [
+        684,
+        57,
+        709,
+        77
+      ],
+      "point": [
+        696.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_185",
+      "category": "link",
+      "name": "Facebook",
+      "bbox": [
+        241,
+        89,
+        302,
+        104
+      ],
+      "point": [
+        271.5,
+        96.5
+      ]
+    },
+    {
+      "id": "node_204",
+      "category": "link",
+      "name": "MongoDB Atlas: Multi-cloud, modern database on AWS, Azure, and Google Cloud. Get access to our most high performance version ever, with faster and easier scaling at lower cost.",
+      "bbox": [
+        58,
+        421,
+        828,
+        455
+      ],
+      "point": [
+        443.0,
+        438.0
+      ]
+    },
+    {
+      "id": "node_208",
+      "category": "link",
+      "name": "\u00d7",
+      "bbox": [
+        876,
+        419,
+        895,
+        433
+      ],
+      "point": [
+        885.5,
+        426.0
+      ]
+    },
+    {
+      "id": "node_218",
+      "category": "link",
+      "name": "Is the TV Industry Finally Conceding That the Future May Not Be 8K?",
+      "bbox": [
+        58,
+        491,
+        685,
+        510
+      ],
+      "point": [
+        371.5,
+        500.5
+      ]
+    },
+    {
+      "id": "node_249",
+      "category": "link",
+      "name": "writes Ars Technica",
+      "bbox": [
+        53,
+        571,
+        870,
+        583
+      ],
+      "point": [
+        461.5,
+        577.0
+      ]
+    }
+  ]
+}

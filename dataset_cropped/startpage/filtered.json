@@ -1,0 +1,38 @@
+{
+  "image_filename": "dataset_cropped/startpage/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_75",
+      "category": "button",
+      "name": "search button",
+      "bbox": [
+        862,
+        264,
+        878,
+        273
+      ],
+      "point": [
+        870.0,
+        268.5
+      ]
+    },
+    {
+      "id": "node_98",
+      "category": "link",
+      "name": "Get the app",
+      "bbox": [
+        719,
+        438,
+        859,
+        480
+      ],
+      "point": [
+        789.0,
+        459.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "image_filename": "dataset_cropped/google/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 17,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "category": "link",
+      "name": "About",
+      "bbox": [
+        26,
+        22,
+        63,
+        38
+      ],
+      "point": [
+        44.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Store",
+      "bbox": [
+        83,
+        22,
+        115,
+        38
+      ],
+      "point": [
+        99.0,
+        30.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Gmail",
+      "bbox": [
+        1017,
+        16,
+        1054,
+        40
+      ],
+      "point": [
+        1035.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Search for Images",
+      "bbox": [
+        1070,
+        16,
+        1117,
+        40
+      ],
+      "point": [
+        1093.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1193,
+        18,
+        1254,
+        38
+      ],
+      "point": [
+        1223.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "button",
+      "name": "Upload files or images",
+      "bbox": [
+        302,
+        186,
+        338,
+        222
+      ],
+      "point": [
+        320.0,
+        204.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "button",
+      "name": "Search by voice",
+      "bbox": [
+        792,
+        192,
+        816,
+        216
+      ],
+      "point": [
+        804.0,
+        204.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "button",
+      "name": "Search by image",
+      "bbox": [
+        832,
+        192,
+        856,
+        216
+      ],
+      "point": [
+        844.0,
+        204.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "button",
+      "name": "Google Search",
+      "bbox": [
+        511,
+        260,
+        606,
+        294
+      ],
+      "point": [
+        558.5,
+        277.0
+      ]
+    },
+    {
+      "id": "node_61",
+      "category": "button",
+      "name": "I'm Feeling Lucky",
+      "bbox": [
+        653,
+        260,
+        763,
+        294
+      ],
+      "point": [
+        708.0,
+        277.0
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "Advertising",
+      "bbox": [
+        35,
+        551,
+        105,
+        568
+      ],
+      "point": [
+        70.0,
+        559.5
+      ]
+    },
+    {
+      "id": "node_75",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        135,
+        551,
+        191,
+        568
+      ],
+      "point": [
+        163.0,
+        559.5
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "link",
+      "name": "How Search works",
+      "bbox": [
+        222,
+        551,
+        337,
+        568
+      ],
+      "point": [
+        279.5,
+        559.5
+      ]
+    },
+    {
+      "id": "node_82",
+      "category": "link",
+      "name": "Applying AI towards science and the environment",
+      "bbox": [
+        475,
+        551,
+        799,
+        568
+      ],
+      "point": [
+        637.0,
+        559.5
+      ]
+    },
+    {
+      "id": "node_86",
+      "category": "link",
+      "name": "Privacy",
+      "bbox": [
+        1045,
+        551,
+        1090,
+        568
+      ],
+      "point": [
+        1067.5,
+        559.5
+      ]
+    },
+    {
+      "id": "node_89",
+      "category": "link",
+      "name": "Terms",
+      "bbox": [
+        1120,
+        551,
+        1159,
+        568
+      ],
+      "point": [
+        1139.5,
+        559.5
+      ]
+    },
+    {
+      "id": "node_92",
+      "category": "button",
+      "name": "Settings",
+      "bbox": [
+        1174,
+        536,
+        1255,
+        582
+      ],
+      "point": [
+        1214.5,
+        559.0
+      ]
+    }
+  ]
+}

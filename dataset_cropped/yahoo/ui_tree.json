@@ -1,0 +1,317 @@
+{
+  "timestamp": "2026-02-02T08:38:34.513652Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Yahoo",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": 8,
+              "width": 1245,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 310,
+                  "y": 209,
+                  "width": 640,
+                  "height": 165
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "image",
+                    "name": "Yahoo Logo",
+                    "bounds": {
+                      "x": 543,
+                      "y": 209,
+                      "width": 174,
+                      "height": 48
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 310,
+                      "y": 261,
+                      "width": 640,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "link",
+                        "name": "English",
+                        "bounds": {
+                          "x": 522,
+                          "y": 265,
+                          "width": 57,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "label",
+                            "name": "English",
+                            "bounds": {
+                              "x": 522,
+                              "y": 265,
+                              "width": 57,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_8",
+                                "role": "label",
+                                "name": "English",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "label",
+                        "name": " | ",
+                        "bounds": {
+                          "x": 579,
+                          "y": 265,
+                          "width": 15,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "label",
+                            "name": " | ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "link",
+                        "name": "\u7e41\u9ad4\u4e2d\u6587",
+                        "bounds": {
+                          "x": 595,
+                          "y": 265,
+                          "width": 64,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "\u7e41\u9ad4\u4e2d\u6587",
+                            "bounds": {
+                              "x": 595,
+                              "y": 265,
+                              "width": 64,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "label",
+                                "name": "\u7e41\u9ad4\u4e2d\u6587",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_14",
+                        "role": "label",
+                        "name": " | ",
+                        "bounds": {
+                          "x": 659,
+                          "y": 265,
+                          "width": 15,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": " | ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_16",
+                        "role": "link",
+                        "name": "\u7b80\u4f53\u4e2d\u6587",
+                        "bounds": {
+                          "x": 674,
+                          "y": 265,
+                          "width": 64,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_17",
+                            "role": "label",
+                            "name": "\u7b80\u4f53\u4e2d\u6587",
+                            "bounds": {
+                              "x": 674,
+                              "y": 265,
+                              "width": 64,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_18",
+                                "role": "label",
+                                "name": "\u7b80\u4f53\u4e2d\u6587",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_19",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 310,
+                      "y": 301,
+                      "width": 640,
+                      "height": 57
+                    },
+                    "children": [
+                      {
+                        "id": "node_20",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 310,
+                          "y": 301,
+                          "width": 640,
+                          "height": 57
+                        },
+                        "children": [
+                          {
+                            "id": "node_21",
+                            "role": "label",
+                            "name": "As of November 1st, 2021 Yahoo\u2019s suite of services will no longer be accessible from mainland China. Yahoo products and services remain unaffected in all other global locations. We thank you for your support and readership.",
+                            "bounds": {
+                              "x": 310,
+                              "y": 301,
+                              "width": 635,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_22",
+                                "role": "label",
+                                "name": "As of November 1st, 2021 Yahoo\u2019s suite of services will no longer be accessible ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_23",
+                                "role": "label",
+                                "name": "from mainland China. Yahoo products and services remain unaffected in all ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "other global locations. We thank you for your support and readership.",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

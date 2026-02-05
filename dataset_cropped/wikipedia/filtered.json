@@ -1,0 +1,173 @@
+{
+  "image_filename": "dataset_cropped/wikipedia/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_32",
+      "category": "link",
+      "name": "English 7,125,000+ articles",
+      "bbox": [
+        419,
+        116,
+        575,
+        161
+      ],
+      "point": [
+        497.0,
+        138.5
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "\u65e5\u672c\u8a9e 1,487,000+ \u8a18\u4e8b",
+      "bbox": [
+        685,
+        116,
+        841,
+        161
+      ],
+      "point": [
+        763.0,
+        138.5
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Deutsch 3.090.000+ Artikel",
+      "bbox": [
+        365,
+        181,
+        521,
+        226
+      ],
+      "point": [
+        443.0,
+        203.5
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 2\u00a0081\u00a0000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+      "bbox": [
+        739,
+        181,
+        895,
+        226
+      ],
+      "point": [
+        817.0,
+        203.5
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "Fran\u00e7ais 2\u202f734\u202f000+ articles",
+      "bbox": [
+        357,
+        246,
+        510,
+        291
+      ],
+      "point": [
+        433.5,
+        268.5
+      ]
+    },
+    {
+      "id": "node_82",
+      "category": "link",
+      "name": "Espa\u00f1ol 2.088.000+ art\u00edculos",
+      "bbox": [
+        750,
+        246,
+        903,
+        291
+      ],
+      "point": [
+        826.5,
+        268.5
+      ]
+    },
+    {
+      "id": "node_92",
+      "category": "link",
+      "name": "Italiano 1.953.000+ voci",
+      "bbox": [
+        365,
+        311,
+        521,
+        356
+      ],
+      "point": [
+        443.0,
+        333.5
+      ]
+    },
+    {
+      "id": "node_102",
+      "category": "link",
+      "name": "\u4e2d\u6587 1,521,000+ \u6761\u76ee / \u689d\u76ee",
+      "bbox": [
+        739,
+        311,
+        895,
+        356
+      ],
+      "point": [
+        817.0,
+        333.5
+      ]
+    },
+    {
+      "id": "node_112",
+      "category": "link",
+      "name": "Portugu\u00eas 1.163.000+ artigos",
+      "bbox": [
+        419,
+        376,
+        575,
+        421
+      ],
+      "point": [
+        497.0,
+        398.5
+      ]
+    },
+    {
+      "id": "node_122",
+      "category": "link",
+      "name": "Polski 1\u00a0682\u00a0000+ hase\u0142",
+      "bbox": [
+        685,
+        376,
+        841,
+        421
+      ],
+      "point": [
+        763.0,
+        398.5
+      ]
+    },
+    {
+      "id": "node_131",
+      "category": "button",
+      "name": "Who is hiding in the globe?",
+      "bbox": [
+        522,
+        453,
+        737,
+        493
+      ],
+      "point": [
+        629.5,
+        473.0
+      ]
+    }
+  ]
+}

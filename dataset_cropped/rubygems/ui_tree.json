@@ -1,0 +1,3122 @@
+{
+  "timestamp": "2026-02-02T08:39:33.968676Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "RubyGems.org | your community gem host",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 1487
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 68
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 80,
+                      "y": 0,
+                      "width": 1100,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "\u2b21 \u2b22 RubyGems",
+                        "bounds": {
+                          "x": 80,
+                          "y": 12,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 80,
+                              "y": 12,
+                              "width": 40,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "label",
+                                "name": "\u2b21",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "label",
+                                    "name": "\u2b21",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "\u2b22",
+                            "bounds": {
+                              "x": 80,
+                              "y": 14,
+                              "width": 40,
+                              "height": 41
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "label",
+                                "name": "\u2b22",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "RubyGems",
+                            "bounds": {
+                              "x": 80,
+                              "y": 12,
+                              "width": 215,
+                              "height": 46
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "label",
+                                "name": "RubyGems",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_13",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 80,
+                          "y": 0,
+                          "width": 1100,
+                          "height": 75
+                        },
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 658,
+                              "y": 0,
+                              "width": 521,
+                              "height": 75
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "link",
+                                "name": "RELEASES",
+                                "bounds": {
+                                  "x": 674,
+                                  "y": 0,
+                                  "width": 76,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "label",
+                                    "name": "RELEASES",
+                                    "bounds": {
+                                      "x": 674,
+                                      "y": 26,
+                                      "width": 76,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "label",
+                                        "name": "RELEASES",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_18",
+                                "role": "link",
+                                "name": "BLOG",
+                                "bounds": {
+                                  "x": 787,
+                                  "y": 0,
+                                  "width": 41,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_19",
+                                    "role": "label",
+                                    "name": "BLOG",
+                                    "bounds": {
+                                      "x": 787,
+                                      "y": 26,
+                                      "width": 41,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_20",
+                                        "role": "label",
+                                        "name": "BLOG",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_21",
+                                "role": "link",
+                                "name": "GEMS",
+                                "bounds": {
+                                  "x": 866,
+                                  "y": 0,
+                                  "width": 43,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "label",
+                                    "name": "GEMS",
+                                    "bounds": {
+                                      "x": 866,
+                                      "y": 26,
+                                      "width": 43,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_23",
+                                        "role": "label",
+                                        "name": "GEMS",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_24",
+                                "role": "link",
+                                "name": "GUIDES",
+                                "bounds": {
+                                  "x": 946,
+                                  "y": 0,
+                                  "width": 57,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_25",
+                                    "role": "label",
+                                    "name": "GUIDES",
+                                    "bounds": {
+                                      "x": 946,
+                                      "y": 26,
+                                      "width": 57,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_26",
+                                        "role": "label",
+                                        "name": "GUIDES",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_27",
+                                "role": "link",
+                                "name": "SIGN IN",
+                                "bounds": {
+                                  "x": 1040,
+                                  "y": 0,
+                                  "width": 57,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "label",
+                                    "name": "SIGN IN",
+                                    "bounds": {
+                                      "x": 1040,
+                                      "y": 26,
+                                      "width": 57,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_29",
+                                        "role": "label",
+                                        "name": "SIGN IN",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_30",
+                                "role": "link",
+                                "name": "SIGN UP",
+                                "bounds": {
+                                  "x": 1134,
+                                  "y": 0,
+                                  "width": 61,
+                                  "height": 70
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_31",
+                                    "role": "label",
+                                    "name": "SIGN UP",
+                                    "bounds": {
+                                      "x": 1134,
+                                      "y": 26,
+                                      "width": 61,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_32",
+                                        "role": "label",
+                                        "name": "SIGN UP",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_33",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 68,
+                  "width": 1261,
+                  "height": 512
+                },
+                "children": [
+                  {
+                    "id": "node_34",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 68,
+                      "width": 1261,
+                      "height": 583
+                    }
+                  },
+                  {
+                    "id": "node_35",
+                    "role": "label",
+                    "name": "Find, install, and publish RubyGems.",
+                    "bounds": {
+                      "x": 240,
+                      "y": 98,
+                      "width": 780,
+                      "height": 144
+                    },
+                    "children": [
+                      {
+                        "id": "node_36",
+                        "role": "label",
+                        "name": "Find, install, and publish RubyGems.",
+                        "bounds": {
+                          "x": 324,
+                          "y": 98,
+                          "width": 611,
+                          "height": 143
+                        },
+                        "children": [
+                          {
+                            "id": "node_37",
+                            "role": "label",
+                            "name": "Find, install, and publish ",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_38",
+                            "role": "label",
+                            "name": "RubyGems.",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_39",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 240,
+                      "y": 302,
+                      "width": 780,
+                      "height": 64
+                    },
+                    "children": [
+                      {
+                        "id": "node_40",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 240,
+                          "y": 302,
+                          "width": 780,
+                          "height": 64
+                        },
+                        "children": [
+                          {
+                            "id": "node_41",
+                            "role": "textfield",
+                            "name": "Search Gems\u2026",
+                            "bounds": {
+                              "x": 250,
+                              "y": 312,
+                              "width": 722,
+                              "height": 21
+                            },
+                            "states": [
+                              "focused"
+                            ],
+                            "children": [
+                              {
+                                "id": "node_42",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 250,
+                                  "y": 312,
+                                  "width": 706,
+                                  "height": 21
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_43",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 240,
+                              "y": 343,
+                              "width": 780,
+                              "height": 0
+                            }
+                          },
+                          {
+                            "id": "node_44",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 1020,
+                              "y": 315,
+                              "width": 0,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_45",
+                                "role": "label",
+                                "name": "Search Gems\u2026",
+                                "bounds": {
+                                  "x": 1020,
+                                  "y": 302,
+                                  "width": 58,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_46",
+                                    "role": "label",
+                                    "name": "Search ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_47",
+                                    "role": "label",
+                                    "name": "Gems\u2026",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_48",
+                            "role": "button",
+                            "name": "Search Gems\u2026",
+                            "bounds": {
+                              "x": 986,
+                              "y": 313,
+                              "width": 18,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_49",
+                                "role": "label",
+                                "name": "\u2315",
+                                "bounds": {
+                                  "x": 985,
+                                  "y": 313,
+                                  "width": 20,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_50",
+                                    "role": "label",
+                                    "name": "\u2315",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_51",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 240,
+                              "y": 348,
+                              "width": 780,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_52",
+                                "role": "link",
+                                "name": "Advanced Search\u2192",
+                                "bounds": {
+                                  "x": 557,
+                                  "y": 348,
+                                  "width": 145,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_53",
+                                    "role": "label",
+                                    "name": "Advanced Search",
+                                    "bounds": {
+                                      "x": 557,
+                                      "y": 348,
+                                      "width": 130,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_54",
+                                        "role": "label",
+                                        "name": "Advanced Search",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_55",
+                                    "role": "label",
+                                    "name": "\u2192",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_56",
+                                        "role": "label",
+                                        "name": "\u2192",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_57",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 380,
+                      "y": 411,
+                      "width": 500,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_58",
+                        "role": "label",
+                        "name": "236,516,033,449 DOWNLOADS & COUNTING",
+                        "bounds": {
+                          "x": 380,
+                          "y": 411,
+                          "width": 167,
+                          "height": 48
+                        },
+                        "children": [
+                          {
+                            "id": "node_59",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 380,
+                              "y": 411,
+                              "width": 167,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "236,516,033,449",
+                                "bounds": {
+                                  "x": 380,
+                                  "y": 409,
+                                  "width": 227,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_61",
+                                    "role": "label",
+                                    "name": "236,516,033,449",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_62",
+                            "role": "label",
+                            "name": "DOWNLOADS & COUNTING",
+                            "bounds": {
+                              "x": 383,
+                              "y": 444,
+                              "width": 161,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_63",
+                                "role": "label",
+                                "name": "DOWNLOADS & COUNTING",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_64",
+                        "role": "link",
+                        "name": "> Install RubyGems",
+                        "bounds": {
+                          "x": 613,
+                          "y": 422,
+                          "width": 266,
+                          "height": 21
+                        },
+                        "children": [
+                          {
+                            "id": "node_65",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 843,
+                              "y": 422,
+                              "width": 18,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_66",
+                                "role": "label",
+                                "name": ">",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_67",
+                                    "role": "label",
+                                    "name": ">",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_68",
+                            "role": "label",
+                            "name": "Install RubyGems",
+                            "bounds": {
+                              "x": 613,
+                              "y": 422,
+                              "width": 177,
+                              "height": 21
+                            },
+                            "children": [
+                              {
+                                "id": "node_69",
+                                "role": "label",
+                                "name": "Install RubyGems",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_70",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 400,
+                      "y": 526,
+                      "width": 461,
+                      "height": 54
+                    },
+                    "children": [
+                      {
+                        "id": "node_71",
+                        "role": "link",
+                        "name": "\u2301STATUS",
+                        "bounds": {
+                          "x": 403,
+                          "y": 543,
+                          "width": 224,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_72",
+                            "role": "label",
+                            "name": "\u2301",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            },
+                            "children": [
+                              {
+                                "id": "node_73",
+                                "role": "label",
+                                "name": "\u2301",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_74",
+                            "role": "label",
+                            "name": "STATUS",
+                            "bounds": {
+                              "x": 507,
+                              "y": 547,
+                              "width": 45,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_75",
+                                "role": "label",
+                                "name": "STATUS",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_76",
+                        "role": "link",
+                        "name": "\u29d6UPTIME",
+                        "bounds": {
+                          "x": 634,
+                          "y": 543,
+                          "width": 224,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_77",
+                            "role": "label",
+                            "name": "\u29d6",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            },
+                            "children": [
+                              {
+                                "id": "node_78",
+                                "role": "label",
+                                "name": "\u29d6",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_79",
+                            "role": "label",
+                            "name": "UPTIME",
+                            "bounds": {
+                              "x": 738,
+                              "y": 547,
+                              "width": 44,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_80",
+                                "role": "label",
+                                "name": "UPTIME",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_81",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 629,
+                  "width": 1261,
+                  "height": 810
+                },
+                "children": [
+                  {
+                    "id": "node_82",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 160,
+                      "y": 629,
+                      "width": 940,
+                      "height": 394
+                    },
+                    "children": [
+                      {
+                        "id": "node_83",
+                        "role": "link",
+                        "name": "STATUS",
+                        "bounds": {
+                          "x": 920,
+                          "y": 629,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_84",
+                            "role": "label",
+                            "name": "STATUS",
+                            "bounds": {
+                              "x": 920,
+                              "y": 631,
+                              "width": 50,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_85",
+                                "role": "label",
+                                "name": "STATUS",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_86",
+                        "role": "link",
+                        "name": "UPTIME",
+                        "bounds": {
+                          "x": 920,
+                          "y": 658,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_87",
+                            "role": "label",
+                            "name": "UPTIME",
+                            "bounds": {
+                              "x": 920,
+                              "y": 660,
+                              "width": 51,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_88",
+                                "role": "label",
+                                "name": "UPTIME",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_89",
+                        "role": "link",
+                        "name": "CODE",
+                        "bounds": {
+                          "x": 920,
+                          "y": 688,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_90",
+                            "role": "label",
+                            "name": "CODE",
+                            "bounds": {
+                              "x": 920,
+                              "y": 690,
+                              "width": 37,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_91",
+                                "role": "label",
+                                "name": "CODE",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_92",
+                        "role": "link",
+                        "name": "DATA",
+                        "bounds": {
+                          "x": 920,
+                          "y": 718,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_93",
+                            "role": "label",
+                            "name": "DATA",
+                            "bounds": {
+                              "x": 920,
+                              "y": 720,
+                              "width": 36,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_94",
+                                "role": "label",
+                                "name": "DATA",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_95",
+                        "role": "link",
+                        "name": "STATS",
+                        "bounds": {
+                          "x": 920,
+                          "y": 748,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_96",
+                            "role": "label",
+                            "name": "STATS",
+                            "bounds": {
+                              "x": 920,
+                              "y": 750,
+                              "width": 41,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_97",
+                                "role": "label",
+                                "name": "STATS",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_98",
+                        "role": "link",
+                        "name": "CONTRIBUTE",
+                        "bounds": {
+                          "x": 920,
+                          "y": 778,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_99",
+                            "role": "label",
+                            "name": "CONTRIBUTE",
+                            "bounds": {
+                              "x": 920,
+                              "y": 780,
+                              "width": 86,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_100",
+                                "role": "label",
+                                "name": "CONTRIBUTE",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_101",
+                        "role": "link",
+                        "name": "ABOUT",
+                        "bounds": {
+                          "x": 920,
+                          "y": 808,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_102",
+                            "role": "label",
+                            "name": "ABOUT",
+                            "bounds": {
+                              "x": 920,
+                              "y": 810,
+                              "width": 48,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_103",
+                                "role": "label",
+                                "name": "ABOUT",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_104",
+                        "role": "link",
+                        "name": "HELP",
+                        "bounds": {
+                          "x": 920,
+                          "y": 838,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_105",
+                            "role": "label",
+                            "name": "HELP",
+                            "bounds": {
+                              "x": 920,
+                              "y": 840,
+                              "width": 35,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_106",
+                                "role": "label",
+                                "name": "HELP",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_107",
+                        "role": "link",
+                        "name": "API",
+                        "bounds": {
+                          "x": 920,
+                          "y": 868,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_108",
+                            "role": "label",
+                            "name": "API",
+                            "bounds": {
+                              "x": 920,
+                              "y": 870,
+                              "width": 22,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_109",
+                                "role": "label",
+                                "name": "API",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_110",
+                        "role": "link",
+                        "name": "POLICIES",
+                        "bounds": {
+                          "x": 920,
+                          "y": 898,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_111",
+                            "role": "label",
+                            "name": "POLICIES",
+                            "bounds": {
+                              "x": 920,
+                              "y": 900,
+                              "width": 61,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_112",
+                                "role": "label",
+                                "name": "POLICIES",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_113",
+                        "role": "link",
+                        "name": "SUPPORT US",
+                        "bounds": {
+                          "x": 920,
+                          "y": 928,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_114",
+                            "role": "label",
+                            "name": "SUPPORT US",
+                            "bounds": {
+                              "x": 920,
+                              "y": 930,
+                              "width": 85,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_115",
+                                "role": "label",
+                                "name": "SUPPORT US",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_116",
+                        "role": "link",
+                        "name": "SECURITY",
+                        "bounds": {
+                          "x": 920,
+                          "y": 957,
+                          "width": 180,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_117",
+                            "role": "label",
+                            "name": "SECURITY",
+                            "bounds": {
+                              "x": 920,
+                              "y": 959,
+                              "width": 67,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_118",
+                                "role": "label",
+                                "name": "SECURITY",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_119",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 160,
+                          "y": 629,
+                          "width": 550,
+                          "height": 376
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_120",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 160,
+                              "y": 629,
+                              "width": 550,
+                              "height": 119
+                            },
+                            "children": [
+                              {
+                                "id": "node_121",
+                                "role": "label",
+                                "name": "RubyGems.org is the Ruby community\u2019s gem hosting service. Instantly ",
+                                "bounds": {
+                                  "x": 160,
+                                  "y": 633,
+                                  "width": 479,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_122",
+                                    "role": "label",
+                                    "name": "RubyGems.org is the Ruby community\u2019s gem hosting ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_123",
+                                    "role": "label",
+                                    "name": "service. Instantly ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_124",
+                                "role": "link",
+                                "name": "publish your gems",
+                                "bounds": {
+                                  "x": 320,
+                                  "y": 662,
+                                  "width": 166,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_125",
+                                    "role": "label",
+                                    "name": "publish your gems",
+                                    "bounds": {
+                                      "x": 320,
+                                      "y": 662,
+                                      "width": 166,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_126",
+                                        "role": "label",
+                                        "name": "publish your gems",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_127",
+                                "role": "label",
+                                "name": " and then ",
+                                "bounds": {
+                                  "x": 486,
+                                  "y": 662,
+                                  "width": 91,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_128",
+                                    "role": "label",
+                                    "name": " and then ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_129",
+                                "role": "link",
+                                "name": "install them",
+                                "bounds": {
+                                  "x": 578,
+                                  "y": 662,
+                                  "width": 106,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_130",
+                                    "role": "label",
+                                    "name": "install them",
+                                    "bounds": {
+                                      "x": 578,
+                                      "y": 662,
+                                      "width": 106,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_131",
+                                        "role": "label",
+                                        "name": "install them",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_132",
+                                "role": "label",
+                                "name": ". Use ",
+                                "bounds": {
+                                  "x": 160,
+                                  "y": 662,
+                                  "width": 530,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_133",
+                                    "role": "label",
+                                    "name": ". ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_134",
+                                    "role": "label",
+                                    "name": "Use ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_135",
+                                "role": "link",
+                                "name": "the API",
+                                "bounds": {
+                                  "x": 199,
+                                  "y": 692,
+                                  "width": 63,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_136",
+                                    "role": "label",
+                                    "name": "the API",
+                                    "bounds": {
+                                      "x": 199,
+                                      "y": 692,
+                                      "width": 63,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_137",
+                                        "role": "label",
+                                        "name": "the API",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_138",
+                                "role": "label",
+                                "name": " to find out more about ",
+                                "bounds": {
+                                  "x": 263,
+                                  "y": 692,
+                                  "width": 214,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_139",
+                                    "role": "label",
+                                    "name": " to find out more about ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_140",
+                                "role": "link",
+                                "name": "available gems",
+                                "bounds": {
+                                  "x": 478,
+                                  "y": 692,
+                                  "width": 136,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_141",
+                                    "role": "label",
+                                    "name": "available gems",
+                                    "bounds": {
+                                      "x": 478,
+                                      "y": 692,
+                                      "width": 136,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_142",
+                                        "role": "label",
+                                        "name": "available gems",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_143",
+                                "role": "label",
+                                "name": ". ",
+                                "bounds": {
+                                  "x": 614,
+                                  "y": 692,
+                                  "width": 11,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_144",
+                                    "role": "label",
+                                    "name": ". ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_145",
+                                "role": "link",
+                                "name": "Become a contributor",
+                                "bounds": {
+                                  "x": 160,
+                                  "y": 692,
+                                  "width": 538,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_146",
+                                    "role": "label",
+                                    "name": "Become a contributor",
+                                    "bounds": {
+                                      "x": 160,
+                                      "y": 692,
+                                      "width": 538,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_147",
+                                        "role": "label",
+                                        "name": "Become ",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      },
+                                      {
+                                        "id": "node_148",
+                                        "role": "label",
+                                        "name": "a contributor",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_149",
+                                "role": "label",
+                                "name": " and improve the site yourself.",
+                                "bounds": {
+                                  "x": 277,
+                                  "y": 722,
+                                  "width": 274,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_150",
+                                    "role": "label",
+                                    "name": " and improve the site yourself.",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_151",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 160,
+                              "y": 766,
+                              "width": 550,
+                              "height": 239
+                            },
+                            "children": [
+                              {
+                                "id": "node_152",
+                                "role": "label",
+                                "name": "The RubyGems.org website and service are maintained and operated by Ruby Central\u2019s ",
+                                "bounds": {
+                                  "x": 159,
+                                  "y": 770,
+                                  "width": 540,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_153",
+                                    "role": "label",
+                                    "name": "The RubyGems.org website and service are maintained and ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_154",
+                                    "role": "label",
+                                    "name": "operated by Ruby Central\u2019s ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_155",
+                                "role": "link",
+                                "name": "Open Source Program",
+                                "bounds": {
+                                  "x": 412,
+                                  "y": 800,
+                                  "width": 197,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_156",
+                                    "role": "label",
+                                    "name": "Open Source Program",
+                                    "bounds": {
+                                      "x": 412,
+                                      "y": 800,
+                                      "width": 197,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_157",
+                                        "role": "label",
+                                        "name": "Open Source Program",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_158",
+                                "role": "label",
+                                "name": " and the RubyGems team. It is funded by the greater Ruby community through support from sponsors, members, and infrastructure donations. ",
+                                "bounds": {
+                                  "x": 160,
+                                  "y": 800,
+                                  "width": 528,
+                                  "height": 110
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_159",
+                                    "role": "label",
+                                    "name": " and the ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_160",
+                                    "role": "label",
+                                    "name": "RubyGems team. It is funded by the greater Ruby ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_161",
+                                    "role": "label",
+                                    "name": "community through support from sponsors, members, and ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_162",
+                                    "role": "label",
+                                    "name": "infrastructure donations. ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_163",
+                                "role": "label",
+                                "name": "If you build with Ruby and believe in our mission, you can join us in keeping RubyGems.org, RubyGems, and Bundler secure and sustainable for years to come by contributing ",
+                                "bounds": {
+                                  "x": 160,
+                                  "y": 890,
+                                  "width": 524,
+                                  "height": 110
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_164",
+                                    "role": "label",
+                                    "name": "If you build with Ruby and ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_165",
+                                    "role": "label",
+                                    "name": "believe in our mission, you can join us in keeping ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_166",
+                                    "role": "label",
+                                    "name": "RubyGems.org, RubyGems, and Bundler secure and ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_167",
+                                    "role": "label",
+                                    "name": "sustainable for years to come by contributing ",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_168",
+                                "role": "link",
+                                "name": "here",
+                                "bounds": {
+                                  "x": 631,
+                                  "y": 979,
+                                  "width": 46,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_169",
+                                    "role": "label",
+                                    "name": "here",
+                                    "bounds": {
+                                      "x": 631,
+                                      "y": 979,
+                                      "width": 46,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_170",
+                                        "role": "label",
+                                        "name": "here",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_171",
+                                "role": "label",
+                                "name": ".",
+                                "bounds": {
+                                  "x": 677,
+                                  "y": 979,
+                                  "width": 5,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_172",
+                                    "role": "label",
+                                    "name": ".",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_173",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 160,
+                      "y": 1129,
+                      "width": 940,
+                      "height": 289
+                    },
+                    "children": [
+                      {
+                        "id": "node_174",
+                        "role": "link",
+                        "name": "Operated by Ruby Central",
+                        "bounds": {
+                          "x": 218,
+                          "y": 1143,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_175",
+                            "role": "label",
+                            "name": "Operated by",
+                            "bounds": {
+                              "x": 226,
+                              "y": 1143,
+                              "width": 77,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_176",
+                                "role": "label",
+                                "name": "Operated by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_177",
+                            "role": "label",
+                            "name": "Ruby Central",
+                            "bounds": {
+                              "x": 301,
+                              "y": 1143,
+                              "width": 46,
+                              "height": 28
+                            },
+                            "children": [
+                              {
+                                "id": "node_178",
+                                "role": "label",
+                                "name": "Ruby ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_179",
+                                "role": "label",
+                                "name": "Central",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_180",
+                        "role": "link",
+                        "name": "Designed by DockYard",
+                        "bounds": {
+                          "x": 365,
+                          "y": 1143,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_181",
+                            "role": "label",
+                            "name": "Designed by",
+                            "bounds": {
+                              "x": 372,
+                              "y": 1143,
+                              "width": 77,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_182",
+                                "role": "label",
+                                "name": "Designed by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_183",
+                            "role": "label",
+                            "name": "DockYard",
+                            "bounds": {
+                              "x": 447,
+                              "y": 1143,
+                              "width": 57,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_184",
+                                "role": "label",
+                                "name": "DockYard",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_185",
+                        "role": "link",
+                        "name": "Hosted by AWS",
+                        "bounds": {
+                          "x": 512,
+                          "y": 1143,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_186",
+                            "role": "label",
+                            "name": "Hosted by",
+                            "bounds": {
+                              "x": 526,
+                              "y": 1143,
+                              "width": 63,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_187",
+                                "role": "label",
+                                "name": "Hosted by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_188",
+                            "role": "label",
+                            "name": "AWS",
+                            "bounds": {
+                              "x": 587,
+                              "y": 1143,
+                              "width": 29,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_189",
+                                "role": "label",
+                                "name": "AWS",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_190",
+                        "role": "link",
+                        "name": "Resolved with DNSimple",
+                        "bounds": {
+                          "x": 658,
+                          "y": 1143,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_191",
+                            "role": "label",
+                            "name": "Resolved with",
+                            "bounds": {
+                              "x": 662,
+                              "y": 1143,
+                              "width": 84,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_192",
+                                "role": "label",
+                                "name": "Resolved with",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_193",
+                            "role": "label",
+                            "name": "DNSimple",
+                            "bounds": {
+                              "x": 745,
+                              "y": 1143,
+                              "width": 61,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_194",
+                                "role": "label",
+                                "name": "DNSimple",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_195",
+                        "role": "link",
+                        "name": "Monitored by Datadog",
+                        "bounds": {
+                          "x": 805,
+                          "y": 1143,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_196",
+                            "role": "label",
+                            "name": "Monitored by",
+                            "bounds": {
+                              "x": 811,
+                              "y": 1143,
+                              "width": 81,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_197",
+                                "role": "label",
+                                "name": "Monitored by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_198",
+                            "role": "label",
+                            "name": "Datadog",
+                            "bounds": {
+                              "x": 890,
+                              "y": 1143,
+                              "width": 53,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_199",
+                                "role": "label",
+                                "name": "Datadog",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_200",
+                        "role": "link",
+                        "name": "Gems served by Fastly",
+                        "bounds": {
+                          "x": 952,
+                          "y": 1129,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_201",
+                            "role": "label",
+                            "name": "Gems served by",
+                            "bounds": {
+                              "x": 957,
+                              "y": 1129,
+                              "width": 81,
+                              "height": 28
+                            },
+                            "children": [
+                              {
+                                "id": "node_202",
+                                "role": "label",
+                                "name": "Gems served ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_203",
+                                "role": "label",
+                                "name": "by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_204",
+                            "role": "label",
+                            "name": "Fastly",
+                            "bounds": {
+                              "x": 1004,
+                              "y": 1143,
+                              "width": 37,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_205",
+                                "role": "label",
+                                "name": "Fastly",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_206",
+                        "role": "link",
+                        "name": "Monitored by Honeybadger",
+                        "bounds": {
+                          "x": 512,
+                          "y": 1282,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_207",
+                            "role": "label",
+                            "name": "Monitored by",
+                            "bounds": {
+                              "x": 517,
+                              "y": 1282,
+                              "width": 81,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_208",
+                                "role": "label",
+                                "name": "Monitored by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_209",
+                            "role": "label",
+                            "name": "Honeybadger",
+                            "bounds": {
+                              "x": 596,
+                              "y": 1282,
+                              "width": 84,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_210",
+                                "role": "label",
+                                "name": "Honeybadger",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_211",
+                        "role": "link",
+                        "name": "Secured by Mend.io",
+                        "bounds": {
+                          "x": 658,
+                          "y": 1282,
+                          "width": 90,
+                          "height": 100
+                        },
+                        "children": [
+                          {
+                            "id": "node_212",
+                            "role": "label",
+                            "name": "Secured by",
+                            "bounds": {
+                              "x": 670,
+                              "y": 1282,
+                              "width": 70,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_213",
+                                "role": "label",
+                                "name": "Secured by",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_214",
+                            "role": "label",
+                            "name": "Mend.io",
+                            "bounds": {
+                              "x": 737,
+                              "y": 1282,
+                              "width": 49,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_215",
+                                "role": "label",
+                                "name": "Mend.io",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_216",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 160,
+                      "y": 1418,
+                      "width": 940,
+                      "height": 20
+                    },
+                    "children": [
+                      {
+                        "id": "node_217",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 182,
+                          "y": 1419,
+                          "width": 58,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_218",
+                            "role": "link",
+                            "name": "ENGLISH",
+                            "bounds": {
+                              "x": 182,
+                              "y": 1419,
+                              "width": 58,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_219",
+                                "role": "label",
+                                "name": "ENGLISH",
+                                "bounds": {
+                                  "x": 182,
+                                  "y": 1421,
+                                  "width": 58,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_220",
+                                    "role": "label",
+                                    "name": "ENGLISH",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_221",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 273,
+                          "y": 1419,
+                          "width": 91,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_222",
+                            "role": "link",
+                            "name": "NEDERLANDS",
+                            "bounds": {
+                              "x": 273,
+                              "y": 1419,
+                              "width": 91,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_223",
+                                "role": "label",
+                                "name": "NEDERLANDS",
+                                "bounds": {
+                                  "x": 273,
+                                  "y": 1421,
+                                  "width": 91,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_224",
+                                    "role": "label",
+                                    "name": "NEDERLANDS",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_225",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 397,
+                          "y": 1419,
+                          "width": 48,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_226",
+                            "role": "link",
+                            "name": "\u7b80\u4f53\u4e2d\u6587",
+                            "bounds": {
+                              "x": 397,
+                              "y": 1419,
+                              "width": 48,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_227",
+                                "role": "label",
+                                "name": "\u7b80\u4f53\u4e2d\u6587",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 1420,
+                                  "width": 50,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_228",
+                                    "role": "label",
+                                    "name": "\u7b80\u4f53\u4e2d\u6587",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_229",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 478,
+                          "y": 1419,
+                          "width": 48,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_230",
+                            "role": "link",
+                            "name": "\u6b63\u9ad4\u4e2d\u6587",
+                            "bounds": {
+                              "x": 478,
+                              "y": 1419,
+                              "width": 48,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_231",
+                                "role": "label",
+                                "name": "\u6b63\u9ad4\u4e2d\u6587",
+                                "bounds": {
+                                  "x": 478,
+                                  "y": 1420,
+                                  "width": 50,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_232",
+                                    "role": "label",
+                                    "name": "\u6b63\u9ad4\u4e2d\u6587",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_233",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 559,
+                          "y": 1419,
+                          "width": 159,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_234",
+                            "role": "link",
+                            "name": "PORTUGU\u00caS DO BRASIL",
+                            "bounds": {
+                              "x": 559,
+                              "y": 1419,
+                              "width": 159,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_235",
+                                "role": "label",
+                                "name": "PORTUGU\u00caS DO BRASIL",
+                                "bounds": {
+                                  "x": 559,
+                                  "y": 1420,
+                                  "width": 160,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_236",
+                                    "role": "label",
+                                    "name": "PORTUGU\u00caS DO BRASIL",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_237",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 751,
+                          "y": 1419,
+                          "width": 67,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_238",
+                            "role": "link",
+                            "name": "FRAN\u00c7AIS",
+                            "bounds": {
+                              "x": 751,
+                              "y": 1419,
+                              "width": 67,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_239",
+                                "role": "label",
+                                "name": "FRAN\u00c7AIS",
+                                "bounds": {
+                                  "x": 751,
+                                  "y": 1421,
+                                  "width": 67,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_240",
+                                    "role": "label",
+                                    "name": "FRAN\u00c7AIS",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_241",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 851,
+                          "y": 1419,
+                          "width": 61,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_242",
+                            "role": "link",
+                            "name": "ESPA\u00d1OL",
+                            "bounds": {
+                              "x": 851,
+                              "y": 1419,
+                              "width": 61,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_243",
+                                "role": "label",
+                                "name": "ESPA\u00d1OL",
+                                "bounds": {
+                                  "x": 851,
+                                  "y": 1420,
+                                  "width": 63,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_244",
+                                    "role": "label",
+                                    "name": "ESPA\u00d1OL",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_245",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 946,
+                          "y": 1419,
+                          "width": 63,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_246",
+                            "role": "link",
+                            "name": "DEUTSCH",
+                            "bounds": {
+                              "x": 946,
+                              "y": 1419,
+                              "width": 63,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_247",
+                                "role": "label",
+                                "name": "DEUTSCH",
+                                "bounds": {
+                                  "x": 946,
+                                  "y": 1421,
+                                  "width": 63,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_248",
+                                    "role": "label",
+                                    "name": "DEUTSCH",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_249",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1042,
+                          "y": 1419,
+                          "width": 36,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_250",
+                            "role": "link",
+                            "name": "\u65e5\u672c\u8a9e",
+                            "bounds": {
+                              "x": 1042,
+                              "y": 1419,
+                              "width": 36,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_251",
+                                "role": "label",
+                                "name": "\u65e5\u672c\u8a9e",
+                                "bounds": {
+                                  "x": 1042,
+                                  "y": 1420,
+                                  "width": 37,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_252",
+                                    "role": "label",
+                                    "name": "\u65e5\u672c\u8a9e",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

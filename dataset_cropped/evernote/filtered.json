@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/evernote/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_657",
+      "category": "button",
+      "name": "Continue without accepting",
+      "bbox": [
+        803,
+        148,
+        941,
+        163
+      ],
+      "point": [
+        872.0,
+        155.5
+      ]
+    },
+    {
+      "id": "node_678",
+      "category": "link",
+      "name": "Cookie Notice",
+      "bbox": [
+        699,
+        337,
+        782,
+        352
+      ],
+      "point": [
+        740.5,
+        344.5
+      ]
+    },
+    {
+      "id": "node_684",
+      "category": "button",
+      "name": "Customize preferences",
+      "bbox": [
+        340,
+        401,
+        601,
+        425
+      ],
+      "point": [
+        470.5,
+        413.0
+      ]
+    },
+    {
+      "id": "node_687",
+      "category": "button",
+      "name": "Accept all cookies",
+      "bbox": [
+        659,
+        400,
+        921,
+        426
+      ],
+      "point": [
+        790.0,
+        413.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "image_filename": "dataset_cropped/typescript/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 15,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "link",
+      "name": "TypeScript Home Page",
+      "bbox": [
+        0,
+        11,
+        200,
+        47
+      ],
+      "point": [
+        100.0,
+        29.0
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "tab",
+      "name": "Download",
+      "bbox": [
+        208,
+        15,
+        282,
+        37
+      ],
+      "point": [
+        245.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "tab",
+      "name": "Docs",
+      "bbox": [
+        298,
+        15,
+        333,
+        37
+      ],
+      "point": [
+        315.5,
+        26.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "tab",
+      "name": "Handbook",
+      "bbox": [
+        349,
+        15,
+        425,
+        37
+      ],
+      "point": [
+        387.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "tab",
+      "name": "Community",
+      "bbox": [
+        441,
+        15,
+        525,
+        37
+      ],
+      "point": [
+        483.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "tab",
+      "name": "Playground",
+      "bbox": [
+        542,
+        15,
+        625,
+        37
+      ],
+      "point": [
+        583.5,
+        26.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "tab",
+      "name": "Tools",
+      "bbox": [
+        641,
+        15,
+        678,
+        37
+      ],
+      "point": [
+        659.5,
+        26.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "combobox",
+      "name": "Search the TypeScript site",
+      "bbox": [
+        1113,
+        1,
+        1259,
+        47
+      ],
+      "point": [
+        1186.0,
+        24.0
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "Try TypeScript Now Online or via npm",
+      "bbox": [
+        122,
+        352,
+        329,
+        396
+      ],
+      "point": [
+        225.5,
+        374.0
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "tab",
+      "name": "Editor Checks",
+      "bbox": [
+        658,
+        140,
+        741,
+        159
+      ],
+      "point": [
+        699.5,
+        149.5
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "tab",
+      "name": "Auto-complete",
+      "bbox": [
+        762,
+        140,
+        855,
+        159
+      ],
+      "point": [
+        808.5,
+        149.5
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "tab",
+      "name": "Interfaces",
+      "bbox": [
+        875,
+        140,
+        934,
+        159
+      ],
+      "point": [
+        904.5,
+        149.5
+      ]
+    },
+    {
+      "id": "node_79",
+      "category": "tab",
+      "name": "JSX",
+      "bbox": [
+        955,
+        140,
+        975,
+        159
+      ],
+      "point": [
+        965.0,
+        149.5
+      ]
+    },
+    {
+      "id": "node_168",
+      "category": "link",
+      "name": "Show code sample",
+      "bbox": [
+        1122,
+        407,
+        1152,
+        432
+      ],
+      "point": [
+        1137.0,
+        419.5
+      ]
+    },
+    {
+      "id": "node_171",
+      "category": "link",
+      "name": "TypeScript 5.9",
+      "bbox": [
+        502,
+        491,
+        619,
+        517
+      ],
+      "point": [
+        560.5,
+        504.0
+      ]
+    }
+  ]
+}

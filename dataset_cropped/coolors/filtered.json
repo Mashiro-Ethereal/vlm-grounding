@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/coolors/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_175",
+      "category": "link",
+      "name": "Start the Generator",
+      "bbox": [
+        110,
+        567,
+        257,
+        583
+      ],
+      "point": [
+        183.5,
+        575.0
+      ]
+    },
+    {
+      "id": "node_178",
+      "category": "link",
+      "name": "Explore 10M+ Palettes",
+      "bbox": [
+        309,
+        567,
+        479,
+        583
+      ],
+      "point": [
+        394.0,
+        575.0
+      ]
+    },
+    {
+      "id": "node_640",
+      "category": "link",
+      "name": "Manage your marketing, customers, and checkout flow with Squarespace. ads via Carbon HIDE",
+      "bbox": [
+        901,
+        453,
+        1231,
+        553
+      ],
+      "point": [
+        1066.0,
+        503.0
+      ]
+    }
+  ]
+}

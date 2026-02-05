@@ -1,0 +1,233 @@
+{
+  "image_filename": "dataset_cropped/vuejs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 15,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Vue.js",
+      "bbox": [
+        32,
+        1,
+        112,
+        54
+      ],
+      "point": [
+        72.0,
+        27.5
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        136,
+        0,
+        259,
+        54
+      ],
+      "point": [
+        197.5,
+        27.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "button",
+      "name": "Docs",
+      "bbox": [
+        589,
+        0,
+        638,
+        54
+      ],
+      "point": [
+        613.5,
+        27.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "API",
+      "bbox": [
+        663,
+        0,
+        684,
+        54
+      ],
+      "point": [
+        673.5,
+        27.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "link",
+      "name": "Playground",
+      "bbox": [
+        709,
+        0,
+        781,
+        54
+      ],
+      "point": [
+        745.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "button",
+      "name": "Ecosystem",
+      "bbox": [
+        805,
+        0,
+        891,
+        54
+      ],
+      "point": [
+        848.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "button",
+      "name": "About",
+      "bbox": [
+        915,
+        0,
+        970,
+        54
+      ],
+      "point": [
+        942.5,
+        27.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "link",
+      "name": "Sponsor",
+      "bbox": [
+        995,
+        0,
+        1048,
+        54
+      ],
+      "point": [
+        1021.5,
+        27.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Partners",
+      "bbox": [
+        1072,
+        0,
+        1126,
+        54
+      ],
+      "point": [
+        1099.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "button",
+      "name": "Select Language",
+      "bbox": [
+        1151,
+        0,
+        1193,
+        54
+      ],
+      "point": [
+        1172.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "button",
+      "name": "extra navigation",
+      "bbox": [
+        1217,
+        0,
+        1237,
+        54
+      ],
+      "point": [
+        1227.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "link",
+      "name": "Play icon Why Vue",
+      "bbox": [
+        321,
+        448,
+        392,
+        472
+      ],
+      "point": [
+        356.5,
+        460.0
+      ]
+    },
+    {
+      "id": "node_81",
+      "category": "link",
+      "name": "Get Started",
+      "bbox": [
+        444,
+        448,
+        549,
+        472
+      ],
+      "point": [
+        496.5,
+        460.0
+      ]
+    },
+    {
+      "id": "node_85",
+      "category": "link",
+      "name": "Install",
+      "bbox": [
+        603,
+        448,
+        649,
+        472
+      ],
+      "point": [
+        626.0,
+        460.0
+      ]
+    },
+    {
+      "id": "node_88",
+      "category": "link",
+      "name": "Get Security Updates for Vue 2",
+      "bbox": [
+        705,
+        448,
+        967,
+        472
+      ],
+      "point": [
+        836.0,
+        460.0
+      ]
+    }
+  ]
+}

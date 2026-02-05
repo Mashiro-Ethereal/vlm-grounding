@@ -1,0 +1,113 @@
+{
+  "image_filename": "dataset_cropped/ecosia/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "ai-search-button",
+      "bbox": [
+        977,
+        17,
+        1071,
+        55
+      ],
+      "point": [
+        1024.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "button",
+      "name": "News",
+      "bbox": [
+        1111,
+        17,
+        1119,
+        55
+      ],
+      "point": [
+        1115.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "button",
+      "name": "Show navigation menu",
+      "bbox": [
+        1148,
+        21,
+        1231,
+        51
+      ],
+      "point": [
+        1189.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_92",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        266,
+        193,
+        276,
+        225
+      ],
+      "point": [
+        271.0,
+        209.0
+      ]
+    },
+    {
+      "id": "node_96",
+      "category": "button",
+      "name": "Clear",
+      "bbox": [
+        863,
+        193,
+        873,
+        225
+      ],
+      "point": [
+        868.0,
+        209.0
+      ]
+    },
+    {
+      "id": "node_98",
+      "category": "button",
+      "name": "AI Search",
+      "bbox": [
+        904,
+        194,
+        988,
+        224
+      ],
+      "point": [
+        946.0,
+        209.0
+      ]
+    },
+    {
+      "id": "node_116",
+      "category": "button",
+      "name": "scroll down",
+      "bbox": [
+        626,
+        536,
+        634,
+        559
+      ],
+      "point": [
+        630.0,
+        547.5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "image_filename": "dataset_cropped/discord/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Download",
+      "bbox": [
+        317,
+        42,
+        383,
+        60
+      ],
+      "point": [
+        350.0,
+        51.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Nitro",
+      "bbox": [
+        397,
+        42,
+        430,
+        60
+      ],
+      "point": [
+        413.5,
+        51.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Discover",
+      "bbox": [
+        445,
+        42,
+        500,
+        60
+      ],
+      "point": [
+        472.5,
+        51.0
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "link",
+      "name": "Careers",
+      "bbox": [
+        894,
+        42,
+        943,
+        60
+      ],
+      "point": [
+        918.5,
+        51.0
+      ]
+    },
+    {
+      "id": "node_81",
+      "category": "link",
+      "name": "Log In",
+      "bbox": [
+        1166,
+        40,
+        1212,
+        60
+      ],
+      "point": [
+        1189.0,
+        50.0
+      ]
+    }
+  ]
+}

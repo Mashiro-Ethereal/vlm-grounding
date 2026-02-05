@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/qwant/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_107",
+      "category": "link",
+      "name": "Show menu",
+      "bbox": [
+        1181,
+        17,
+        1219,
+        55
+      ],
+      "point": [
+        1200.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_124",
+      "category": "textfield",
+      "name": "Enter your search term",
+      "bbox": [
+        377,
+        216,
+        861,
+        264
+      ],
+      "point": [
+        619.0,
+        240.0
+      ]
+    },
+    {
+      "id": "node_126",
+      "category": "button",
+      "name": "Search the web",
+      "bbox": [
+        873,
+        228,
+        905,
+        260
+      ],
+      "point": [
+        889.0,
+        244.0
+      ]
+    }
+  ]
+}

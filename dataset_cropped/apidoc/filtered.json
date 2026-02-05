@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/apidoc/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "DEMO",
+      "bbox": [
+        554,
+        16,
+        604,
+        36
+      ],
+      "point": [
+        579.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "GETTING STARTED",
+      "bbox": [
+        632,
+        16,
+        786,
+        36
+      ],
+      "point": [
+        709.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "EXAMPLES",
+      "bbox": [
+        813,
+        16,
+        901,
+        36
+      ],
+      "point": [
+        857.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "APIDOC-PARAMS",
+      "bbox": [
+        928,
+        16,
+        1066,
+        36
+      ],
+      "point": [
+        997.0,
+        26.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "image_filename": "dataset_cropped/imdb/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_79",
+      "category": "button",
+      "name": "Submit search",
+      "bbox": [
+        734,
+        15,
+        766,
+        39
+      ],
+      "point": [
+        750.0,
+        27.0
+      ]
+    },
+    {
+      "id": "node_89",
+      "category": "link",
+      "name": "Watchlist",
+      "bbox": [
+        897,
+        10,
+        980,
+        46
+      ],
+      "point": [
+        938.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_553",
+      "category": "button",
+      "name": "Previous slide",
+      "bbox": [
+        126,
+        456,
+        153,
+        500
+      ],
+      "point": [
+        139.5,
+        478.0
+      ]
+    },
+    {
+      "id": "node_554",
+      "category": "button",
+      "name": "Next slide",
+      "bbox": [
+        759,
+        456,
+        785,
+        500
+      ],
+      "point": [
+        772.0,
+        478.0
+      ]
+    },
+    {
+      "id": "node_617",
+      "category": "link",
+      "name": "4:45 Charli xcx Is in 'The Moment' 73 people liked this video There are 45 reactions to this video from other people, primarily Love it and Funny emojis",
+      "bbox": [
+        889,
+        414,
+        1107,
+        494
+      ],
+      "point": [
+        998.0,
+        454.0
+      ]
+    }
+  ]
+}

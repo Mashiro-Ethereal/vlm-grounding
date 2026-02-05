@@ -1,0 +1,173 @@
+{
+  "image_filename": "dataset_cropped/wiktionary/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "English 8,694,000+ entries",
+      "bbox": [
+        419,
+        135,
+        575,
+        180
+      ],
+      "point": [
+        497.0,
+        157.5
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 1\u00a0462\u00a0000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+      "bbox": [
+        685,
+        135,
+        841,
+        180
+      ],
+      "point": [
+        763.0,
+        157.5
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "link",
+      "name": "Fran\u00e7ais 6\u202f846\u202f000+ entr\u00e9es",
+      "bbox": [
+        365,
+        200,
+        521,
+        245
+      ],
+      "point": [
+        443.0,
+        222.5
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "\u4e2d\u6587 2,271,000+ \u8bcd\u6761 / \u8a5e\u689d",
+      "bbox": [
+        739,
+        200,
+        895,
+        245
+      ],
+      "point": [
+        817.0,
+        222.5
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac 1.572.000+ \u03bb\u03ae\u03bc\u03bc\u03b1\u03c4\u03b1",
+      "bbox": [
+        357,
+        265,
+        510,
+        310
+      ],
+      "point": [
+        433.5,
+        287.5
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Deutsch 1.227.000+ Eintr\u00e4ge",
+      "bbox": [
+        750,
+        265,
+        903,
+        310
+      ],
+      "point": [
+        826.5,
+        287.5
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "link",
+      "name": "Polski 828\u00a0000+ hase\u0142",
+      "bbox": [
+        365,
+        330,
+        521,
+        375
+      ],
+      "point": [
+        443.0,
+        352.5
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Espa\u00f1ol 944.000+ entradas",
+      "bbox": [
+        739,
+        330,
+        895,
+        375
+      ],
+      "point": [
+        817.0,
+        352.5
+      ]
+    },
+    {
+      "id": "node_93",
+      "category": "link",
+      "name": "Nederlands 1.007.000+ pagina's",
+      "bbox": [
+        419,
+        395,
+        575,
+        440
+      ],
+      "point": [
+        497.0,
+        417.5
+      ]
+    },
+    {
+      "id": "node_103",
+      "category": "link",
+      "name": "\u65e5\u672c\u8a9e 467,000+ \u9805\u76ee",
+      "bbox": [
+        685,
+        395,
+        841,
+        440
+      ],
+      "point": [
+        763.0,
+        417.5
+      ]
+    },
+    {
+      "id": "node_184",
+      "category": "button",
+      "name": "Read Wiktionary in your language",
+      "bbox": [
+        466,
+        552,
+        793,
+        566
+      ],
+      "point": [
+        629.5,
+        559.0
+      ]
+    }
+  ]
+}

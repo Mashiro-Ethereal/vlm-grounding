@@ -1,0 +1,248 @@
+{
+  "image_filename": "dataset_cropped/bbc_news/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 16,
+  "test_samples": [
+    {
+      "id": "node_28",
+      "category": "button",
+      "name": "Unlimited access",
+      "bbox": [
+        1005,
+        308,
+        1131,
+        326
+      ],
+      "point": [
+        1068.0,
+        317.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "link",
+      "name": "Sign In",
+      "bbox": [
+        1165,
+        300,
+        1244,
+        334
+      ],
+      "point": [
+        1204.5,
+        317.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        203,
+        370,
+        242,
+        388
+      ],
+      "point": [
+        222.5,
+        379.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "link",
+      "name": "News",
+      "bbox": [
+        258,
+        370,
+        293,
+        388
+      ],
+      "point": [
+        275.5,
+        379.0
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "Sport",
+      "bbox": [
+        310,
+        370,
+        346,
+        388
+      ],
+      "point": [
+        328.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        363,
+        370,
+        420,
+        388
+      ],
+      "point": [
+        391.5,
+        379.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Technology",
+      "bbox": [
+        436,
+        370,
+        511,
+        388
+      ],
+      "point": [
+        473.5,
+        379.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "Health",
+      "bbox": [
+        528,
+        370,
+        572,
+        388
+      ],
+      "point": [
+        550.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "Culture",
+      "bbox": [
+        588,
+        370,
+        636,
+        388
+      ],
+      "point": [
+        612.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "link",
+      "name": "Arts",
+      "bbox": [
+        653,
+        370,
+        681,
+        388
+      ],
+      "point": [
+        667.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_74",
+      "category": "link",
+      "name": "Travel",
+      "bbox": [
+        698,
+        370,
+        738,
+        388
+      ],
+      "point": [
+        718.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "link",
+      "name": "Earth",
+      "bbox": [
+        754,
+        370,
+        790,
+        388
+      ],
+      "point": [
+        772.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_82",
+      "category": "link",
+      "name": "Audio",
+      "bbox": [
+        806,
+        370,
+        844,
+        388
+      ],
+      "point": [
+        825.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_86",
+      "category": "link",
+      "name": "Video",
+      "bbox": [
+        861,
+        370,
+        899,
+        388
+      ],
+      "point": [
+        880.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_90",
+      "category": "link",
+      "name": "Live",
+      "bbox": [
+        915,
+        370,
+        941,
+        388
+      ],
+      "point": [
+        928.0,
+        379.0
+      ]
+    },
+    {
+      "id": "node_94",
+      "category": "link",
+      "name": "Documentaries",
+      "bbox": [
+        958,
+        370,
+        1057,
+        388
+      ],
+      "point": [
+        1007.5,
+        379.0
+      ]
+    }
+  ]
+}

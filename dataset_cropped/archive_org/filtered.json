@@ -1,0 +1,368 @@
+{
+  "image_filename": "dataset_cropped/archive_org/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 24,
+  "test_samples": [
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Web icon An illustration of a computer application window WEB",
+      "bbox": [
+        157,
+        0,
+        237,
+        50
+      ],
+      "point": [
+        197.0,
+        25.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Texts icon An illustration of an open book. TEXTS",
+      "bbox": [
+        237,
+        0,
+        328,
+        50
+      ],
+      "point": [
+        282.5,
+        25.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Video icon An illustration of two cells of a film strip. VIDEO",
+      "bbox": [
+        328,
+        0,
+        419,
+        50
+      ],
+      "point": [
+        373.5,
+        25.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Audio icon An illustration of an audio speaker. AUDIO",
+      "bbox": [
+        419,
+        0,
+        511,
+        50
+      ],
+      "point": [
+        465.0,
+        25.0
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Software icon An illustration of a 3.5\" floppy disk. SOFTWARE",
+      "bbox": [
+        511,
+        0,
+        632,
+        50
+      ],
+      "point": [
+        571.5,
+        25.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Images icon An illustration of two photographs. IMAGES",
+      "bbox": [
+        633,
+        0,
+        733,
+        50
+      ],
+      "point": [
+        683.0,
+        25.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "SIGN UP",
+      "bbox": [
+        1020,
+        18,
+        1077,
+        34
+      ],
+      "point": [
+        1048.5,
+        26.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "link",
+      "name": "LOG IN",
+      "bbox": [
+        1091,
+        18,
+        1138,
+        34
+      ],
+      "point": [
+        1114.5,
+        26.0
+      ]
+    },
+    {
+      "id": "node_79",
+      "category": "link",
+      "name": "Upload icon An illustration of a horizontal line over an up pointing arrow. UPLOAD",
+      "bbox": [
+        1149,
+        10,
+        1240,
+        40
+      ],
+      "point": [
+        1194.5,
+        25.0
+      ]
+    },
+    {
+      "id": "node_125",
+      "category": "link",
+      "name": "ABOUT",
+      "bbox": [
+        275,
+        60,
+        316,
+        74
+      ],
+      "point": [
+        295.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_129",
+      "category": "link",
+      "name": "BLOG",
+      "bbox": [
+        350,
+        60,
+        383,
+        74
+      ],
+      "point": [
+        366.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_133",
+      "category": "link",
+      "name": "EVENTS",
+      "bbox": [
+        418,
+        60,
+        465,
+        74
+      ],
+      "point": [
+        441.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_137",
+      "category": "link",
+      "name": "PROJECTS",
+      "bbox": [
+        499,
+        60,
+        558,
+        74
+      ],
+      "point": [
+        528.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_141",
+      "category": "link",
+      "name": "HELP",
+      "bbox": [
+        592,
+        60,
+        622,
+        74
+      ],
+      "point": [
+        607.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_145",
+      "category": "link",
+      "name": "DONATE Donate icon An illustration of a heart shape",
+      "bbox": [
+        656,
+        60,
+        725,
+        74
+      ],
+      "point": [
+        690.5,
+        67.0
+      ]
+    },
+    {
+      "id": "node_152",
+      "category": "link",
+      "name": "CONTACT",
+      "bbox": [
+        760,
+        60,
+        816,
+        74
+      ],
+      "point": [
+        788.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_156",
+      "category": "link",
+      "name": "JOBS",
+      "bbox": [
+        851,
+        60,
+        879,
+        74
+      ],
+      "point": [
+        865.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_160",
+      "category": "link",
+      "name": "VOLUNTEER",
+      "bbox": [
+        913,
+        60,
+        985,
+        74
+      ],
+      "point": [
+        949.0,
+        67.0
+      ]
+    },
+    {
+      "id": "node_175",
+      "category": "link",
+      "name": "web pages",
+      "bbox": [
+        687,
+        101,
+        773,
+        120
+      ],
+      "point": [
+        730.0,
+        110.5
+      ]
+    },
+    {
+      "id": "node_306",
+      "category": "link",
+      "name": "Timeless Songs, Fresh Lyrics: Musician Stephanie Woodford Reinterprets the Public Domain",
+      "bbox": [
+        924,
+        358,
+        1110,
+        406
+      ],
+      "point": [
+        1017.0,
+        382.0
+      ]
+    },
+    {
+      "id": "node_312",
+      "category": "link",
+      "name": "Recordings From Our Public Domain Day Celebrations are Now Available",
+      "bbox": [
+        924,
+        420,
+        1139,
+        451
+      ],
+      "point": [
+        1031.5,
+        435.5
+      ]
+    },
+    {
+      "id": "node_317",
+      "category": "link",
+      "name": "SPARC and Curationist Join Widening Effort to Protect Our Future Memory",
+      "bbox": [
+        924,
+        464,
+        1143,
+        495
+      ],
+      "point": [
+        1033.5,
+        479.5
+      ]
+    },
+    {
+      "id": "node_321",
+      "category": "link",
+      "name": "More posts",
+      "bbox": [
+        924,
+        507,
+        1146,
+        527
+      ],
+      "point": [
+        1035.0,
+        517.0
+      ]
+    },
+    {
+      "id": "node_623",
+      "category": "link",
+      "name": "Terms of Service (last updated 12/31/2014)",
+      "bbox": [
+        511,
+        563,
+        749,
+        576
+      ],
+      "point": [
+        630.0,
+        569.5
+      ]
+    }
+  ]
+}

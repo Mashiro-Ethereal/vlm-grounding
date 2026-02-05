@@ -1,0 +1,113 @@
+{
+  "image_filename": "dataset_cropped/nuget/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_16",
+      "category": "tab",
+      "name": "Packages",
+      "bbox": [
+        189,
+        12,
+        263,
+        34
+      ],
+      "point": [
+        226.0,
+        23.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "tab",
+      "name": "Upload",
+      "bbox": [
+        294,
+        12,
+        350,
+        34
+      ],
+      "point": [
+        322.0,
+        23.0
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "tab",
+      "name": "Statistics",
+      "bbox": [
+        380,
+        12,
+        453,
+        34
+      ],
+      "point": [
+        416.5,
+        23.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "tab",
+      "name": "Documentation",
+      "bbox": [
+        483,
+        12,
+        606,
+        34
+      ],
+      "point": [
+        544.5,
+        23.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "tab",
+      "name": "Downloads",
+      "bbox": [
+        636,
+        12,
+        723,
+        34
+      ],
+      "point": [
+        679.5,
+        23.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "tab",
+      "name": "Blog",
+      "bbox": [
+        754,
+        12,
+        789,
+        34
+      ],
+      "point": [
+        771.5,
+        23.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "tab",
+      "name": "Sign in",
+      "bbox": [
+        1130,
+        12,
+        1184,
+        34
+      ],
+      "point": [
+        1157.0,
+        23.0
+      ]
+    }
+  ]
+}

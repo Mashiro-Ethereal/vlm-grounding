@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-02-02T08:42:47.638392Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Example Domain",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 255,
+              "y": 87,
+              "width": 765,
+              "height": 117
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "Example Domain",
+                "bounds": {
+                  "x": 255,
+                  "y": 87,
+                  "width": 765,
+                  "height": 28
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Example Domain",
+                    "bounds": {
+                      "x": 255,
+                      "y": 87,
+                      "width": 226,
+                      "height": 28
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Example Domain",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_6",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 255,
+                  "y": 131,
+                  "width": 765,
+                  "height": 38
+                },
+                "children": [
+                  {
+                    "id": "node_7",
+                    "role": "label",
+                    "name": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+                    "bounds": {
+                      "x": 254,
+                      "y": 131,
+                      "width": 740,
+                      "height": 38
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "label",
+                        "name": "This domain is for use in documentation examples without needing permission. Avoid use in ",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "label",
+                        "name": "operations.",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_10",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 255,
+                  "y": 185,
+                  "width": 765,
+                  "height": 19
+                },
+                "children": [
+                  {
+                    "id": "node_11",
+                    "role": "link",
+                    "name": "Learn more",
+                    "bounds": {
+                      "x": 255,
+                      "y": 185,
+                      "width": 91,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_12",
+                        "role": "label",
+                        "name": "Learn more",
+                        "bounds": {
+                          "x": 255,
+                          "y": 185,
+                          "width": 91,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_13",
+                            "role": "label",
+                            "name": "Learn more",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

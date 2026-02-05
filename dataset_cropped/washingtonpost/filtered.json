@@ -1,0 +1,233 @@
+{
+  "image_filename": "dataset_cropped/washingtonpost/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 15,
+  "test_samples": [
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Search and browse sections",
+      "bbox": [
+        24,
+        318,
+        44,
+        338
+      ],
+      "point": [
+        34.0,
+        328.0
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "button",
+      "name": "News alerts",
+      "bbox": [
+        60,
+        318,
+        80,
+        338
+      ],
+      "point": [
+        70.0,
+        328.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Save and subscribe",
+      "bbox": [
+        996,
+        320,
+        1138,
+        336
+      ],
+      "point": [
+        1067.0,
+        328.0
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1179,
+        320,
+        1228,
+        336
+      ],
+      "point": [
+        1203.5,
+        328.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Logo of The Washington Post",
+      "bbox": [
+        302,
+        382,
+        958,
+        462
+      ],
+      "point": [
+        630.0,
+        422.0
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Politics",
+      "bbox": [
+        138,
+        537,
+        185,
+        551
+      ],
+      "point": [
+        161.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "link",
+      "name": "Opinions",
+      "bbox": [
+        224,
+        537,
+        280,
+        551
+      ],
+      "point": [
+        252.0,
+        544.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Style",
+      "bbox": [
+        319,
+        537,
+        350,
+        551
+      ],
+      "point": [
+        334.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Investigations",
+      "bbox": [
+        390,
+        537,
+        480,
+        551
+      ],
+      "point": [
+        435.0,
+        544.0
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Climate",
+      "bbox": [
+        519,
+        537,
+        567,
+        551
+      ],
+      "point": [
+        543.0,
+        544.0
+      ]
+    },
+    {
+      "id": "node_68",
+      "category": "link",
+      "name": "Well+Being",
+      "bbox": [
+        607,
+        537,
+        678,
+        551
+      ],
+      "point": [
+        642.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        718,
+        537,
+        775,
+        551
+      ],
+      "point": [
+        746.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "link",
+      "name": "Tech",
+      "bbox": [
+        815,
+        537,
+        844,
+        551
+      ],
+      "point": [
+        829.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_100",
+      "category": "link",
+      "name": "WP Intelligence",
+      "bbox": [
+        897,
+        537,
+        996,
+        551
+      ],
+      "point": [
+        946.5,
+        544.0
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "Ask The Post AI",
+      "bbox": [
+        1029,
+        537,
+        1126,
+        551
+      ],
+      "point": [
+        1077.5,
+        544.0
+      ]
+    }
+  ]
+}

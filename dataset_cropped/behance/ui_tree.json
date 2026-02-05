@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-02-02T08:42:11.697016Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": 13,
+              "width": 1260,
+              "height": 15
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 8,
+                  "y": 13,
+                  "width": 1260,
+                  "height": 15
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Sorry, our service is currently not available in your region",
+                    "bounds": {
+                      "x": 8,
+                      "y": 13,
+                      "width": 469,
+                      "height": 15
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Sorry, our service is currently not available in your region",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

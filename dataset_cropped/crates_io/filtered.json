@@ -1,0 +1,98 @@
+{
+  "image_filename": "dataset_cropped/crates_io/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "category": "link",
+      "name": "crates.io",
+      "bbox": [
+        177,
+        14,
+        335,
+        51
+      ],
+      "point": [
+        256.0,
+        32.5
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "button",
+      "name": "Submit",
+      "bbox": [
+        892,
+        156,
+        910,
+        192
+      ],
+      "point": [
+        901.0,
+        174.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Browse All Crates",
+      "bbox": [
+        775,
+        23,
+        900,
+        41
+      ],
+      "point": [
+        837.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "button",
+      "name": "Log in with GitHub",
+      "bbox": [
+        925,
+        23,
+        1083,
+        41
+      ],
+      "point": [
+        1004.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Install Cargo",
+      "bbox": [
+        460,
+        311,
+        575,
+        329
+      ],
+      "point": [
+        517.5,
+        320.0
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Getting Started",
+      "bbox": [
+        665,
+        311,
+        800,
+        329
+      ],
+      "point": [
+        732.5,
+        320.0
+      ]
+    }
+  ]
+}

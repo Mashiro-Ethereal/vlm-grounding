@@ -1,0 +1,173 @@
+{
+  "image_filename": "dataset_cropped/udemy/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 568,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_19",
+      "category": "button",
+      "name": "Close",
+      "bbox": [
+        1223,
+        8,
+        1243,
+        48
+      ],
+      "point": [
+        1233.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "button",
+      "name": "Explore",
+      "bbox": [
+        135,
+        80,
+        181,
+        120
+      ],
+      "point": [
+        158.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "button",
+      "name": "Submit search",
+      "bbox": [
+        212,
+        80,
+        232,
+        120
+      ],
+      "point": [
+        222.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_44",
+      "category": "link",
+      "name": "Plans & Pricing",
+      "bbox": [
+        618,
+        80,
+        709,
+        120
+      ],
+      "point": [
+        663.5,
+        100.0
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "link",
+      "name": "Udemy Business",
+      "bbox": [
+        733,
+        80,
+        834,
+        120
+      ],
+      "point": [
+        783.5,
+        100.0
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "link",
+      "name": "Teach on Udemy",
+      "bbox": [
+        859,
+        80,
+        960,
+        120
+      ],
+      "point": [
+        909.5,
+        100.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "Shopping cart with 0 items",
+      "bbox": [
+        983,
+        80,
+        1003,
+        120
+      ],
+      "point": [
+        993.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_69",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1034,
+        81,
+        1088,
+        119
+      ],
+      "point": [
+        1061.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        1121,
+        80,
+        1177,
+        120
+      ],
+      "point": [
+        1149.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_295",
+      "category": "link",
+      "name": "Get Personal Plan",
+      "bbox": [
+        100,
+        366,
+        231,
+        414
+      ],
+      "point": [
+        165.5,
+        390.0
+      ]
+    },
+    {
+      "id": "node_298",
+      "category": "link",
+      "name": "Learn AI",
+      "bbox": [
+        272,
+        367,
+        331,
+        413
+      ],
+      "point": [
+        301.5,
+        390.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "image_filename": "dataset_cropped/gitlab/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 13,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        32,
+        84,
+        64,
+        116
+      ],
+      "point": [
+        48.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Platform",
+      "bbox": [
+        88,
+        88,
+        151,
+        112
+      ],
+      "point": [
+        119.5,
+        100.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Product",
+      "bbox": [
+        183,
+        88,
+        241,
+        112
+      ],
+      "point": [
+        212.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        273,
+        88,
+        325,
+        112
+      ],
+      "point": [
+        299.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "button",
+      "name": "Resources",
+      "bbox": [
+        357,
+        88,
+        435,
+        112
+      ],
+      "point": [
+        396.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "button",
+      "name": "Company",
+      "bbox": [
+        468,
+        88,
+        539,
+        112
+      ],
+      "point": [
+        503.5,
+        100.0
+      ]
+    },
+    {
+      "id": "node_36",
+      "category": "button",
+      "name": "Contact us",
+      "bbox": [
+        571,
+        88,
+        651,
+        112
+      ],
+      "point": [
+        611.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        793,
+        92,
+        809,
+        108
+      ],
+      "point": [
+        801.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "Talk to sales",
+      "bbox": [
+        857,
+        88,
+        963,
+        110
+      ],
+      "point": [
+        910.0,
+        99.0
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1177,
+        88,
+        1229,
+        112
+      ],
+      "point": [
+        1203.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "button",
+      "name": "Register now",
+      "bbox": [
+        963,
+        16,
+        1079,
+        36
+      ],
+      "point": [
+        1021.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "textfield",
+      "name": "Email address Email address",
+      "bbox": [
+        441,
+        451,
+        684,
+        495
+      ],
+      "point": [
+        562.5,
+        473.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "button",
+      "name": "Get started",
+      "bbox": [
+        719,
+        462,
+        815,
+        484
+      ],
+      "point": [
+        767.0,
+        473.0
+      ]
+    }
+  ]
+}

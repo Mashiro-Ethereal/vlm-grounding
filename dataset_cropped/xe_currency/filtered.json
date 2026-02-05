@@ -1,0 +1,98 @@
+{
+  "image_filename": "dataset_cropped/xe_currency/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        32,
+        15,
+        82,
+        55
+      ],
+      "point": [
+        57.0,
+        35.0
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Get the App",
+      "bbox": [
+        1093,
+        24,
+        1172,
+        48
+      ],
+      "point": [
+        1132.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Toggle menu",
+      "bbox": [
+        1197,
+        20,
+        1228,
+        52
+      ],
+      "point": [
+        1212.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Personal",
+      "bbox": [
+        542,
+        114,
+        601,
+        134
+      ],
+      "point": [
+        571.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        657,
+        114,
+        718,
+        134
+      ],
+      "point": [
+        687.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "button",
+      "name": "Sign up and send",
+      "bbox": [
+        735,
+        458,
+        861,
+        480
+      ],
+      "point": [
+        798.0,
+        469.0
+      ]
+    }
+  ]
+}

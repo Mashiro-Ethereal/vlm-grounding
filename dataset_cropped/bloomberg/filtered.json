@@ -1,0 +1,68 @@
+{
+  "image_filename": "dataset_cropped/bloomberg/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_517",
+      "category": "link",
+      "name": "Engineering",
+      "bbox": [
+        397,
+        131,
+        509,
+        163
+      ],
+      "point": [
+        453.0,
+        147.0
+      ]
+    },
+    {
+      "id": "node_521",
+      "category": "link",
+      "name": "Internships",
+      "bbox": [
+        541,
+        131,
+        641,
+        163
+      ],
+      "point": [
+        591.0,
+        147.0
+      ]
+    },
+    {
+      "id": "node_525",
+      "category": "link",
+      "name": "Employee benefits",
+      "bbox": [
+        674,
+        131,
+        844,
+        163
+      ],
+      "point": [
+        759.0,
+        147.0
+      ]
+    },
+    {
+      "id": "node_534",
+      "category": "link",
+      "name": "Search jobs",
+      "bbox": [
+        562,
+        474,
+        667,
+        500
+      ],
+      "point": [
+        614.5,
+        487.0
+      ]
+    }
+  ]
+}

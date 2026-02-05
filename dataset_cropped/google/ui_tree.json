@@ -1,0 +1,1299 @@
+{
+  "timestamp": "2026-02-02T08:38:27.927805Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Google",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1276,
+              "height": 583
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1276,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1276,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1276,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_6",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 6,
+                      "y": 6,
+                      "width": 1264,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "link",
+                        "name": "About",
+                        "bounds": {
+                          "x": 26,
+                          "y": 22,
+                          "width": 37,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "label",
+                            "name": "About",
+                            "bounds": {
+                              "x": 26,
+                              "y": 22,
+                              "width": 38,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "label",
+                                "name": "About",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_10",
+                        "role": "link",
+                        "name": "Store",
+                        "bounds": {
+                          "x": 83,
+                          "y": 22,
+                          "width": 32,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "Store",
+                            "bounds": {
+                              "x": 83,
+                              "y": 22,
+                              "width": 32,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "label",
+                                "name": "Store",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_13",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 126,
+                          "y": 4,
+                          "width": 1143,
+                          "height": 51
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1002,
+                              "y": 16,
+                              "width": 115,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1017,
+                                  "y": 16,
+                                  "width": 37,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "link",
+                                    "name": "Gmail ",
+                                    "bounds": {
+                                      "x": 1017,
+                                      "y": 16,
+                                      "width": 37,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "label",
+                                        "name": "Gmail",
+                                        "bounds": {
+                                          "x": 1017,
+                                          "y": 20,
+                                          "width": 37,
+                                          "height": 15
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_18",
+                                            "role": "label",
+                                            "name": "Gmail",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_19",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1070,
+                                  "y": 16,
+                                  "width": 47,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "link",
+                                    "name": "Search for Images ",
+                                    "bounds": {
+                                      "x": 1070,
+                                      "y": 16,
+                                      "width": 47,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_21",
+                                        "role": "label",
+                                        "name": "Images",
+                                        "bounds": {
+                                          "x": 1070,
+                                          "y": 20,
+                                          "width": 48,
+                                          "height": 15
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_22",
+                                            "role": "label",
+                                            "name": "Images",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_23",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1129,
+                              "y": 4,
+                              "width": 48,
+                              "height": 51
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1133,
+                                  "y": 8,
+                                  "width": 40,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_25",
+                                    "role": "button",
+                                    "name": "Google apps",
+                                    "bounds": {
+                                      "x": 1141,
+                                      "y": 16,
+                                      "width": 24,
+                                      "height": 24
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_26",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1141,
+                                          "y": 16,
+                                          "width": 24,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_27",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1181,
+                              "y": 8,
+                              "width": 85,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_28",
+                                "role": "link",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1193,
+                                  "y": 18,
+                                  "width": 61,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": "Sign in",
+                                    "bounds": {
+                                      "x": 1202,
+                                      "y": 19,
+                                      "width": 41,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_30",
+                                        "role": "label",
+                                        "name": "Sign in",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_31",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 60,
+                      "width": 1276,
+                      "height": 92
+                    },
+                    "children": [
+                      {
+                        "id": "node_32",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 502,
+                          "y": 60,
+                          "width": 272,
+                          "height": 92
+                        },
+                        "children": [
+                          {
+                            "id": "node_33",
+                            "role": "image",
+                            "name": "Google",
+                            "bounds": {
+                              "x": 502,
+                              "y": 60,
+                              "width": 272,
+                              "height": 92
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_34",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 20,
+                      "y": 172,
+                      "width": 1236,
+                      "height": 146
+                    },
+                    "children": [
+                      {
+                        "id": "node_35",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 294,
+                          "y": 178,
+                          "width": 688,
+                          "height": 140
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 295,
+                              "y": 179,
+                              "width": 686,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_37",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 295,
+                                  "y": 179,
+                                  "width": 50,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_38",
+                                    "role": "button",
+                                    "name": "Upload files or images",
+                                    "bounds": {
+                                      "x": 302,
+                                      "y": 186,
+                                      "width": 36,
+                                      "height": 36
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_39",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 345,
+                                  "y": 179,
+                                  "width": 0,
+                                  "height": 50
+                                },
+                                "states": [
+                                  "hidden"
+                                ]
+                              },
+                              {
+                                "id": "node_40",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 345,
+                                  "y": 179,
+                                  "width": 439,
+                                  "height": 50
+                                },
+                                "states": [
+                                  "hidden"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_41",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 345,
+                                      "y": 193,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  },
+                                  {
+                                    "id": "node_42",
+                                    "role": "combobox",
+                                    "name": "Search",
+                                    "bounds": {
+                                      "x": 345,
+                                      "y": 193,
+                                      "width": 439,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "focused",
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_43",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 345,
+                                          "y": 193,
+                                          "width": 439,
+                                          "height": 22
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_44",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 784,
+                                  "y": 179,
+                                  "width": 188,
+                                  "height": 50
+                                },
+                                "states": [
+                                  "hidden"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_45",
+                                    "role": "button",
+                                    "name": "Search by voice",
+                                    "bounds": {
+                                      "x": 792,
+                                      "y": 192,
+                                      "width": 24,
+                                      "height": 24
+                                    }
+                                  },
+                                  {
+                                    "id": "node_46",
+                                    "role": "button",
+                                    "name": "Search by image",
+                                    "bounds": {
+                                      "x": 832,
+                                      "y": 192,
+                                      "width": 24,
+                                      "height": 24
+                                    }
+                                  },
+                                  {
+                                    "id": "node_47",
+                                    "role": "link",
+                                    "name": "AI Mode",
+                                    "bounds": {
+                                      "x": 882,
+                                      "y": 186,
+                                      "width": 78,
+                                      "height": 36
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_48",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 872,
+                                          "y": 186,
+                                          "width": 100,
+                                          "height": 36
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_49",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 822,
+                                              "y": 168,
+                                              "width": 200,
+                                              "height": 72
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_50",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 872,
+                                          "y": 186,
+                                          "width": 100,
+                                          "height": 36
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_51",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 822,
+                                              "y": 168,
+                                              "width": 200,
+                                              "height": 72
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_52",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 874,
+                                          "y": 188,
+                                          "width": 96,
+                                          "height": 32
+                                        }
+                                      },
+                                      {
+                                        "id": "node_53",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 882,
+                                          "y": 194,
+                                          "width": 78,
+                                          "height": 20
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_54",
+                                            "role": "label",
+                                            "name": "AI Mode",
+                                            "bounds": {
+                                              "x": 906,
+                                              "y": 195,
+                                              "width": 54,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_55",
+                                                "role": "label",
+                                                "name": "AI Mode",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_56",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 295,
+                                  "y": 179,
+                                  "width": 686,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_57",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 294,
+                              "y": 248,
+                              "width": 688,
+                              "height": 58
+                            },
+                            "children": [
+                              {
+                                "id": "node_58",
+                                "role": "button",
+                                "name": "Google Search",
+                                "bounds": {
+                                  "x": 511,
+                                  "y": 260,
+                                  "width": 95,
+                                  "height": 34
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_59",
+                                    "role": "label",
+                                    "name": "Google Search",
+                                    "bounds": {
+                                      "x": 511,
+                                      "y": 268,
+                                      "width": 95,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_60",
+                                        "role": "label",
+                                        "name": "Google Search",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_61",
+                                "role": "button",
+                                "name": "I'm Feeling Lucky",
+                                "bounds": {
+                                  "x": 653,
+                                  "y": 260,
+                                  "width": 110,
+                                  "height": 34
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_62",
+                                    "role": "label",
+                                    "name": "I'm Feeling Lucky",
+                                    "bounds": {
+                                      "x": 653,
+                                      "y": 268,
+                                      "width": 112,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_63",
+                                        "role": "label",
+                                        "name": "I'm Feeling Lucky",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_64",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 20,
+                          "y": 318,
+                          "width": 1236,
+                          "height": 0
+                        },
+                        "states": [
+                          "hidden"
+                        ]
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 20,
+                          "y": 318,
+                          "width": 1236,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_66",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 338,
+                      "width": 1276,
+                      "height": 0
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_67",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 338,
+                          "width": 1276,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_68",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 338,
+                      "width": 1276,
+                      "height": 0
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_69",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 338,
+                          "width": 1276,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_70",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 536,
+                      "width": 1276,
+                      "height": 47
+                    },
+                    "children": [
+                      {
+                        "id": "node_71",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 20,
+                          "y": 536,
+                          "width": 370,
+                          "height": 47
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_72",
+                            "role": "link",
+                            "name": "Advertising",
+                            "bounds": {
+                              "x": 35,
+                              "y": 551,
+                              "width": 70,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_73",
+                                "role": "label",
+                                "name": "Advertising",
+                                "bounds": {
+                                  "x": 35,
+                                  "y": 551,
+                                  "width": 70,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_74",
+                                    "role": "label",
+                                    "name": "Advertising",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_75",
+                            "role": "link",
+                            "name": "Business",
+                            "bounds": {
+                              "x": 135,
+                              "y": 551,
+                              "width": 56,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_76",
+                                "role": "label",
+                                "name": "Business",
+                                "bounds": {
+                                  "x": 135,
+                                  "y": 551,
+                                  "width": 56,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_77",
+                                    "role": "label",
+                                    "name": "Business",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_78",
+                            "role": "link",
+                            "name": "How Search works",
+                            "bounds": {
+                              "x": 222,
+                              "y": 551,
+                              "width": 115,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_79",
+                                "role": "label",
+                                "name": "How Search works",
+                                "bounds": {
+                                  "x": 222,
+                                  "y": 551,
+                                  "width": 115,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_80",
+                                    "role": "label",
+                                    "name": "How Search works",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_81",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 460,
+                          "y": 536,
+                          "width": 354,
+                          "height": 47
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_82",
+                            "role": "link",
+                            "name": "Applying AI towards science and the environment",
+                            "bounds": {
+                              "x": 475,
+                              "y": 551,
+                              "width": 324,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_83",
+                                "role": "label",
+                                "name": "Applying AI towards science and the environment",
+                                "bounds": {
+                                  "x": 494,
+                                  "y": 551,
+                                  "width": 307,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_84",
+                                    "role": "label",
+                                    "name": "Applying AI towards science and the environment",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_85",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 885,
+                          "y": 536,
+                          "width": 370,
+                          "height": 47
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_86",
+                            "role": "link",
+                            "name": "Privacy",
+                            "bounds": {
+                              "x": 1045,
+                              "y": 551,
+                              "width": 45,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_87",
+                                "role": "label",
+                                "name": "Privacy",
+                                "bounds": {
+                                  "x": 1045,
+                                  "y": 551,
+                                  "width": 46,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_88",
+                                    "role": "label",
+                                    "name": "Privacy",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_89",
+                            "role": "link",
+                            "name": "Terms",
+                            "bounds": {
+                              "x": 1120,
+                              "y": 551,
+                              "width": 39,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_90",
+                                "role": "label",
+                                "name": "Terms",
+                                "bounds": {
+                                  "x": 1120,
+                                  "y": 551,
+                                  "width": 39,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_91",
+                                    "role": "label",
+                                    "name": "Terms",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_92",
+                            "role": "button",
+                            "name": "Settings",
+                            "bounds": {
+                              "x": 1174,
+                              "y": 536,
+                              "width": 81,
+                              "height": 46
+                            },
+                            "states": [
+                              "collapsed"
+                            ],
+                            "children": [
+                              {
+                                "id": "node_93",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1189,
+                                  "y": 551,
+                                  "width": 51,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_94",
+                                    "role": "label",
+                                    "name": "Settings",
+                                    "bounds": {
+                                      "x": 1189,
+                                      "y": 551,
+                                      "width": 51,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_95",
+                                        "role": "label",
+                                        "name": "Settings",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_96",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            },
+                            "states": [
+                              "hidden"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_97",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": -1000,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_98",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 583,
+                  "width": 1276,
+                  "height": 0
+                },
+                "states": [
+                  "hidden"
+                ]
+              },
+              {
+                "id": "node_99",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 583,
+                  "width": 1276,
+                  "height": 0
+                },
+                "states": [
+                  "hidden"
+                ]
+              },
+              {
+                "id": "node_100",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 583,
+                  "width": 1276,
+                  "height": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

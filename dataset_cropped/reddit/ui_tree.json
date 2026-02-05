@@ -1,0 +1,383 @@
+{
+  "timestamp": "2026-02-02T08:39:36.800787Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "states": [
+          "focused"
+        ],
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 24,
+              "y": 24,
+              "width": 1213,
+              "height": 596
+            },
+            "states": [
+              "hidden"
+            ],
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 24,
+                  "y": 24,
+                  "width": 1213,
+                  "height": 596
+                },
+                "states": [
+                  "hidden"
+                ],
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "image",
+                    "name": "",
+                    "bounds": {
+                      "x": 462,
+                      "y": 24,
+                      "width": 336,
+                      "height": 336
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 390,
+                      "y": 376,
+                      "width": 480,
+                      "height": 228
+                    },
+                    "states": [
+                      "hidden"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 390,
+                          "y": 376,
+                          "width": 480,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "label",
+                            "name": "You've been blocked by network security.",
+                            "bounds": {
+                              "x": 410,
+                              "y": 376,
+                              "width": 440,
+                              "height": 56
+                            },
+                            "children": [
+                              {
+                                "id": "node_8",
+                                "role": "label",
+                                "name": "You've been blocked by network ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_9",
+                                "role": "label",
+                                "name": "security.",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_10",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 390,
+                          "y": 448,
+                          "width": 480,
+                          "height": 156
+                        },
+                        "states": [
+                          "hidden"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "To continue, log in to your Reddit account or use your developer token",
+                            "bounds": {
+                              "x": 414,
+                              "y": 448,
+                              "width": 431,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "label",
+                                "name": "To continue, log in to your Reddit account or use your ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_13",
+                                "role": "label",
+                                "name": "developer token",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_14",
+                            "role": "separator",
+                            "name": "\n",
+                            "bounds": {
+                              "x": 390,
+                              "y": 448,
+                              "width": 0,
+                              "height": 0
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "label",
+                                "name": "\n",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_16",
+                            "role": "separator",
+                            "name": "\n",
+                            "bounds": {
+                              "x": 390,
+                              "y": 448,
+                              "width": 0,
+                              "height": 0
+                            },
+                            "children": [
+                              {
+                                "id": "node_17",
+                                "role": "label",
+                                "name": "\n",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "If you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                            "bounds": {
+                              "x": 404,
+                              "y": 508,
+                              "width": 452,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "label",
+                                "name": "If you think you've been blocked by mistake, file a ticket ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              },
+                              {
+                                "id": "node_20",
+                                "role": "label",
+                                "name": "below and we'll look into it.",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_21",
+                            "role": "link",
+                            "name": "Log in",
+                            "bounds": {
+                              "x": 537,
+                              "y": 565,
+                              "width": 48,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_22",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 537,
+                                  "y": 565,
+                                  "width": 48,
+                                  "height": 38
+                                },
+                                "states": [
+                                  "hidden"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_23",
+                                    "role": "label",
+                                    "name": "Log in",
+                                    "bounds": {
+                                      "x": 537,
+                                      "y": 576,
+                                      "width": 48,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_24",
+                                        "role": "label",
+                                        "name": "Log in",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_25",
+                            "role": "link",
+                            "name": "File a ticket",
+                            "bounds": {
+                              "x": 631,
+                              "y": 565,
+                              "width": 92,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 631,
+                                  "y": 565,
+                                  "width": 92,
+                                  "height": 38
+                                },
+                                "states": [
+                                  "hidden"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "label",
+                                    "name": "File a ticket",
+                                    "bounds": {
+                                      "x": 631,
+                                      "y": 576,
+                                      "width": 94,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_28",
+                                        "role": "label",
+                                        "name": "File a ticket",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

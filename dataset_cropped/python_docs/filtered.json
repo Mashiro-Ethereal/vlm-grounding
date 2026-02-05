@@ -1,0 +1,623 @@
+{
+  "image_filename": "dataset_cropped/python_docs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 41,
+  "test_samples": [
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "index",
+      "bbox": [
+        1195,
+        21,
+        1234,
+        37
+      ],
+      "point": [
+        1214.5,
+        29.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "modules",
+      "bbox": [
+        1119,
+        21,
+        1180,
+        37
+      ],
+      "point": [
+        1149.5,
+        29.0
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Python",
+      "bbox": [
+        46,
+        21,
+        95,
+        37
+      ],
+      "point": [
+        70.5,
+        29.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "combobox",
+      "name": "Language",
+      "bbox": [
+        115,
+        21,
+        418,
+        38
+      ],
+      "point": [
+        266.5,
+        29.5
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "combobox",
+      "name": "Python version",
+      "bbox": [
+        425,
+        21,
+        514,
+        38
+      ],
+      "point": [
+        469.5,
+        29.5
+      ]
+    },
+    {
+      "id": "node_100",
+      "category": "link",
+      "name": "3.14.2 Documentation",
+      "bbox": [
+        525,
+        21,
+        686,
+        37
+      ],
+      "point": [
+        605.5,
+        29.0
+      ]
+    },
+    {
+      "id": "node_112",
+      "category": "button",
+      "name": "Go",
+      "bbox": [
+        1072,
+        23,
+        1098,
+        37
+      ],
+      "point": [
+        1085.0,
+        30.0
+      ]
+    },
+    {
+      "id": "node_121",
+      "category": "combobox",
+      "name": "Theme",
+      "bbox": [
+        835,
+        21,
+        889,
+        37
+      ],
+      "point": [
+        862.0,
+        29.0
+      ]
+    },
+    {
+      "id": "node_145",
+      "category": "link",
+      "name": "What's new in Python 3.14?",
+      "bbox": [
+        397,
+        229,
+        686,
+        253
+      ],
+      "point": [
+        541.5,
+        241.0
+      ]
+    },
+    {
+      "id": "node_152",
+      "category": "link",
+      "name": "all \"What's new\" documents since Python 2.0",
+      "bbox": [
+        419,
+        259,
+        745,
+        275
+      ],
+      "point": [
+        582.0,
+        267.0
+      ]
+    },
+    {
+      "id": "node_156",
+      "category": "link",
+      "name": "Tutorial",
+      "bbox": [
+        397,
+        295,
+        473,
+        319
+      ],
+      "point": [
+        435.0,
+        307.0
+      ]
+    },
+    {
+      "id": "node_165",
+      "category": "link",
+      "name": "Library reference",
+      "bbox": [
+        397,
+        385,
+        575,
+        409
+      ],
+      "point": [
+        486.0,
+        397.0
+      ]
+    },
+    {
+      "id": "node_173",
+      "category": "link",
+      "name": "Language reference",
+      "bbox": [
+        397,
+        451,
+        605,
+        475
+      ],
+      "point": [
+        501.0,
+        463.0
+      ]
+    },
+    {
+      "id": "node_181",
+      "category": "link",
+      "name": "Python setup and usage",
+      "bbox": [
+        397,
+        517,
+        648,
+        541
+      ],
+      "point": [
+        522.5,
+        529.0
+      ]
+    },
+    {
+      "id": "node_198",
+      "category": "link",
+      "name": "Installing Python modules",
+      "bbox": [
+        756,
+        241,
+        1024,
+        265
+      ],
+      "point": [
+        890.0,
+        253.0
+      ]
+    },
+    {
+      "id": "node_206",
+      "category": "link",
+      "name": "Distributing Python modules",
+      "bbox": [
+        756,
+        307,
+        1051,
+        331
+      ],
+      "point": [
+        903.5,
+        319.0
+      ]
+    },
+    {
+      "id": "node_214",
+      "category": "link",
+      "name": "Extending and embedding",
+      "bbox": [
+        756,
+        373,
+        1030,
+        397
+      ],
+      "point": [
+        893.0,
+        385.0
+      ]
+    },
+    {
+      "id": "node_222",
+      "category": "link",
+      "name": "Python's C API",
+      "bbox": [
+        756,
+        439,
+        905,
+        463
+      ],
+      "point": [
+        830.5,
+        451.0
+      ]
+    },
+    {
+      "id": "node_230",
+      "category": "link",
+      "name": "FAQs",
+      "bbox": [
+        756,
+        505,
+        807,
+        529
+      ],
+      "point": [
+        781.5,
+        517.0
+      ]
+    },
+    {
+      "id": "node_238",
+      "category": "link",
+      "name": "Deprecations",
+      "bbox": [
+        756,
+        571,
+        893,
+        583
+      ],
+      "point": [
+        824.5,
+        577.0
+      ]
+    },
+    {
+      "id": "node_331",
+      "category": "link",
+      "name": "Download these documents",
+      "bbox": [
+        26,
+        115,
+        211,
+        130
+      ],
+      "point": [
+        118.5,
+        122.5
+      ]
+    },
+    {
+      "id": "node_339",
+      "category": "link",
+      "name": "Python 3.15 (in development)",
+      "bbox": [
+        36,
+        187,
+        235,
+        202
+      ],
+      "point": [
+        135.5,
+        194.5
+      ]
+    },
+    {
+      "id": "node_343",
+      "category": "link",
+      "name": "Python 3.14 (stable)",
+      "bbox": [
+        36,
+        205,
+        171,
+        220
+      ],
+      "point": [
+        103.5,
+        212.5
+      ]
+    },
+    {
+      "id": "node_347",
+      "category": "link",
+      "name": "Python 3.13 (stable)",
+      "bbox": [
+        36,
+        222,
+        171,
+        237
+      ],
+      "point": [
+        103.5,
+        229.5
+      ]
+    },
+    {
+      "id": "node_351",
+      "category": "link",
+      "name": "Python 3.12 (security-fixes)",
+      "bbox": [
+        36,
+        239,
+        219,
+        254
+      ],
+      "point": [
+        127.5,
+        246.5
+      ]
+    },
+    {
+      "id": "node_355",
+      "category": "link",
+      "name": "Python 3.11 (security-fixes)",
+      "bbox": [
+        36,
+        257,
+        219,
+        272
+      ],
+      "point": [
+        127.5,
+        264.5
+      ]
+    },
+    {
+      "id": "node_359",
+      "category": "link",
+      "name": "Python 3.10 (security-fixes)",
+      "bbox": [
+        36,
+        274,
+        219,
+        289
+      ],
+      "point": [
+        127.5,
+        281.5
+      ]
+    },
+    {
+      "id": "node_363",
+      "category": "link",
+      "name": "Python 3.9 (EOL)",
+      "bbox": [
+        36,
+        291,
+        148,
+        306
+      ],
+      "point": [
+        92.0,
+        298.5
+      ]
+    },
+    {
+      "id": "node_367",
+      "category": "link",
+      "name": "Python 3.8 (EOL)",
+      "bbox": [
+        36,
+        309,
+        148,
+        324
+      ],
+      "point": [
+        92.0,
+        316.5
+      ]
+    },
+    {
+      "id": "node_371",
+      "category": "link",
+      "name": "Python 3.7 (EOL)",
+      "bbox": [
+        36,
+        326,
+        148,
+        341
+      ],
+      "point": [
+        92.0,
+        333.5
+      ]
+    },
+    {
+      "id": "node_375",
+      "category": "link",
+      "name": "Python 3.6 (EOL)",
+      "bbox": [
+        36,
+        343,
+        148,
+        358
+      ],
+      "point": [
+        92.0,
+        350.5
+      ]
+    },
+    {
+      "id": "node_379",
+      "category": "link",
+      "name": "Python 3.5 (EOL)",
+      "bbox": [
+        36,
+        361,
+        148,
+        376
+      ],
+      "point": [
+        92.0,
+        368.5
+      ]
+    },
+    {
+      "id": "node_383",
+      "category": "link",
+      "name": "Python 3.4 (EOL)",
+      "bbox": [
+        36,
+        378,
+        148,
+        393
+      ],
+      "point": [
+        92.0,
+        385.5
+      ]
+    },
+    {
+      "id": "node_387",
+      "category": "link",
+      "name": "Python 3.3 (EOL)",
+      "bbox": [
+        36,
+        395,
+        148,
+        410
+      ],
+      "point": [
+        92.0,
+        402.5
+      ]
+    },
+    {
+      "id": "node_391",
+      "category": "link",
+      "name": "Python 3.2 (EOL)",
+      "bbox": [
+        36,
+        413,
+        148,
+        428
+      ],
+      "point": [
+        92.0,
+        420.5
+      ]
+    },
+    {
+      "id": "node_395",
+      "category": "link",
+      "name": "Python 3.1 (EOL)",
+      "bbox": [
+        36,
+        430,
+        148,
+        445
+      ],
+      "point": [
+        92.0,
+        437.5
+      ]
+    },
+    {
+      "id": "node_399",
+      "category": "link",
+      "name": "Python 3.0 (EOL)",
+      "bbox": [
+        36,
+        447,
+        148,
+        462
+      ],
+      "point": [
+        92.0,
+        454.5
+      ]
+    },
+    {
+      "id": "node_403",
+      "category": "link",
+      "name": "Python 2.7 (EOL)",
+      "bbox": [
+        36,
+        465,
+        148,
+        480
+      ],
+      "point": [
+        92.0,
+        472.5
+      ]
+    },
+    {
+      "id": "node_407",
+      "category": "link",
+      "name": "Python 2.6 (EOL)",
+      "bbox": [
+        36,
+        482,
+        148,
+        497
+      ],
+      "point": [
+        92.0,
+        489.5
+      ]
+    },
+    {
+      "id": "node_411",
+      "category": "link",
+      "name": "All versions",
+      "bbox": [
+        36,
+        499,
+        112,
+        514
+      ],
+      "point": [
+        74.0,
+        506.5
+      ]
+    },
+    {
+      "id": "node_419",
+      "category": "link",
+      "name": "PEP Index",
+      "bbox": [
+        36,
+        572,
+        101,
+        583
+      ],
+      "point": [
+        68.5,
+        577.5
+      ]
+    }
+  ]
+}

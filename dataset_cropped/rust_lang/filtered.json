@@ -1,0 +1,158 @@
+{
+  "image_filename": "dataset_cropped/rust_lang/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 10,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Install",
+      "bbox": [
+        319,
+        33,
+        370,
+        55
+      ],
+      "point": [
+        344.5,
+        44.0
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        418,
+        33,
+        464,
+        55
+      ],
+      "point": [
+        441.0,
+        44.0
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Playground",
+      "bbox": [
+        512,
+        33,
+        604,
+        55
+      ],
+      "point": [
+        558.0,
+        44.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Tools",
+      "bbox": [
+        653,
+        33,
+        695,
+        55
+      ],
+      "point": [
+        674.0,
+        44.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "Governance",
+      "bbox": [
+        744,
+        33,
+        840,
+        55
+      ],
+      "point": [
+        792.0,
+        44.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Community",
+      "bbox": [
+        888,
+        33,
+        980,
+        55
+      ],
+      "point": [
+        934.0,
+        44.0
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        1029,
+        33,
+        1064,
+        55
+      ],
+      "point": [
+        1046.5,
+        44.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "combobox",
+      "name": "Language",
+      "bbox": [
+        1120,
+        37,
+        1242,
+        54
+      ],
+      "point": [
+        1181.0,
+        45.5
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "GET STARTED",
+      "bbox": [
+        855,
+        153,
+        1151,
+        196
+      ],
+      "point": [
+        1003.0,
+        174.5
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "link",
+      "name": "Version 1.93.0",
+      "bbox": [
+        921,
+        234,
+        1086,
+        266
+      ],
+      "point": [
+        1003.5,
+        250.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "image_filename": "dataset_cropped/aljazeera/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 17,
+  "test_samples": [
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Al Jazeera , link to home page",
+      "bbox": [
+        45,
+        138,
+        210,
+        198
+      ],
+      "point": [
+        127.5,
+        168.0
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "News",
+      "bbox": [
+        270,
+        154,
+        315,
+        181
+      ],
+      "point": [
+        292.5,
+        167.5
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "button",
+      "name": "Show more news sections",
+      "bbox": [
+        315,
+        154,
+        327,
+        181
+      ],
+      "point": [
+        321.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_44",
+      "category": "link",
+      "name": "Middle East",
+      "bbox": [
+        357,
+        154,
+        451,
+        181
+      ],
+      "point": [
+        404.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "link",
+      "name": "Explained",
+      "bbox": [
+        482,
+        154,
+        560,
+        181
+      ],
+      "point": [
+        521.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Opinion",
+      "bbox": [
+        590,
+        154,
+        652,
+        181
+      ],
+      "point": [
+        621.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "link",
+      "name": "Sport",
+      "bbox": [
+        682,
+        154,
+        726,
+        181
+      ],
+      "point": [
+        704.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_60",
+      "category": "link",
+      "name": "Video",
+      "bbox": [
+        756,
+        154,
+        802,
+        181
+      ],
+      "point": [
+        779.0,
+        167.5
+      ]
+    },
+    {
+      "id": "node_64",
+      "category": "button",
+      "name": "More",
+      "bbox": [
+        832,
+        154,
+        873,
+        181
+      ],
+      "point": [
+        852.5,
+        167.5
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "button",
+      "name": "Show more sections",
+      "bbox": [
+        874,
+        154,
+        885,
+        181
+      ],
+      "point": [
+        879.5,
+        167.5
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "link to live stream video player",
+      "bbox": [
+        998,
+        154,
+        1063,
+        181
+      ],
+      "point": [
+        1030.5,
+        167.5
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "button",
+      "name": "Click here to search",
+      "bbox": [
+        1084,
+        156,
+        1108,
+        180
+      ],
+      "point": [
+        1096.0,
+        168.0
+      ]
+    },
+    {
+      "id": "node_101",
+      "category": "link",
+      "name": "Trending",
+      "bbox": [
+        346,
+        198,
+        402,
+        248
+      ],
+      "point": [
+        374.0,
+        223.0
+      ]
+    },
+    {
+      "id": "node_106",
+      "category": "link",
+      "name": "Gaza",
+      "bbox": [
+        425,
+        198,
+        456,
+        248
+      ],
+      "point": [
+        440.5,
+        223.0
+      ]
+    },
+    {
+      "id": "node_110",
+      "category": "link",
+      "name": "Tracking Israel's ceasefire violations",
+      "bbox": [
+        471,
+        198,
+        694,
+        248
+      ],
+      "point": [
+        582.5,
+        223.0
+      ]
+    },
+    {
+      "id": "node_114",
+      "category": "link",
+      "name": "Russia-Ukraine war",
+      "bbox": [
+        710,
+        198,
+        828,
+        248
+      ],
+      "point": [
+        769.0,
+        223.0
+      ]
+    },
+    {
+      "id": "node_118",
+      "category": "link",
+      "name": "Donald Trump",
+      "bbox": [
+        844,
+        198,
+        931,
+        248
+      ],
+      "point": [
+        887.5,
+        223.0
+      ]
+    }
+  ]
+}

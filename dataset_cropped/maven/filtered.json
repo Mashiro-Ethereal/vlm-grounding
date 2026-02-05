@@ -1,0 +1,518 @@
+{
+  "image_filename": "dataset_cropped/maven/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 34,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        862,
+        17,
+        910,
+        43
+      ],
+      "point": [
+        886.0,
+        30.0
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Categories",
+      "bbox": [
+        960,
+        22,
+        1045,
+        39
+      ],
+      "point": [
+        1002.5,
+        30.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Popular",
+      "bbox": [
+        1089,
+        22,
+        1150,
+        39
+      ],
+      "point": [
+        1119.5,
+        30.5
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "About",
+      "bbox": [
+        1194,
+        22,
+        1241,
+        39
+      ],
+      "point": [
+        1217.5,
+        30.5
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Indexed Artifacts (64.8M)",
+      "bbox": [
+        28,
+        69,
+        230,
+        85
+      ],
+      "point": [
+        129.0,
+        77.0
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "link",
+      "name": "Categories (277)",
+      "bbox": [
+        64,
+        266,
+        195,
+        282
+      ],
+      "point": [
+        129.5,
+        274.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "link",
+      "name": "Maven Plugins",
+      "bbox": [
+        33,
+        307,
+        134,
+        323
+      ],
+      "point": [
+        83.5,
+        315.0
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Testing Frameworks & Tools",
+      "bbox": [
+        33,
+        337,
+        225,
+        353
+      ],
+      "point": [
+        129.0,
+        345.0
+      ]
+    },
+    {
+      "id": "node_90",
+      "category": "link",
+      "name": "Android Packages",
+      "bbox": [
+        33,
+        367,
+        156,
+        383
+      ],
+      "point": [
+        94.5,
+        375.0
+      ]
+    },
+    {
+      "id": "node_97",
+      "category": "link",
+      "name": "Language Runtime",
+      "bbox": [
+        33,
+        397,
+        165,
+        413
+      ],
+      "point": [
+        99.0,
+        405.0
+      ]
+    },
+    {
+      "id": "node_104",
+      "category": "link",
+      "name": "JVM Languages",
+      "bbox": [
+        33,
+        428,
+        139,
+        444
+      ],
+      "point": [
+        86.0,
+        436.0
+      ]
+    },
+    {
+      "id": "node_111",
+      "category": "link",
+      "name": "Logging Frameworks",
+      "bbox": [
+        33,
+        458,
+        177,
+        474
+      ],
+      "point": [
+        105.0,
+        466.0
+      ]
+    },
+    {
+      "id": "node_118",
+      "category": "link",
+      "name": "JSON Libraries",
+      "bbox": [
+        33,
+        488,
+        132,
+        504
+      ],
+      "point": [
+        82.5,
+        496.0
+      ]
+    },
+    {
+      "id": "node_125",
+      "category": "link",
+      "name": "Java Specifications",
+      "bbox": [
+        33,
+        518,
+        164,
+        534
+      ],
+      "point": [
+        98.5,
+        526.0
+      ]
+    },
+    {
+      "id": "node_132",
+      "category": "link",
+      "name": "Core Utilities",
+      "bbox": [
+        33,
+        548,
+        122,
+        564
+      ],
+      "point": [
+        77.5,
+        556.0
+      ]
+    },
+    {
+      "id": "node_139",
+      "category": "link",
+      "name": "Mocking",
+      "bbox": [
+        33,
+        579,
+        91,
+        583
+      ],
+      "point": [
+        62.0,
+        581.0
+      ]
+    },
+    {
+      "id": "node_227",
+      "category": "link",
+      "name": "Kotlin JS",
+      "bbox": [
+        340,
+        116,
+        406,
+        132
+      ],
+      "point": [
+        373.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_230",
+      "category": "link",
+      "name": "58 usages",
+      "bbox": [
+        853,
+        120,
+        915,
+        133
+      ],
+      "point": [
+        884.0,
+        126.5
+      ]
+    },
+    {
+      "id": "node_236",
+      "category": "link",
+      "name": "org.jetbrains.kotlin-wrappers",
+      "bbox": [
+        340,
+        141,
+        541,
+        157
+      ],
+      "point": [
+        440.5,
+        149.0
+      ]
+    },
+    {
+      "id": "node_241",
+      "category": "link",
+      "name": "kotlin-js",
+      "bbox": [
+        559,
+        141,
+        613,
+        157
+      ],
+      "point": [
+        586.0,
+        149.0
+      ]
+    },
+    {
+      "id": "node_246",
+      "category": "link",
+      "name": "2026.2.0",
+      "bbox": [
+        631,
+        141,
+        693,
+        157
+      ],
+      "point": [
+        662.0,
+        149.0
+      ]
+    },
+    {
+      "id": "node_261",
+      "category": "link",
+      "name": "Kotlin Browser",
+      "bbox": [
+        340,
+        264,
+        456,
+        280
+      ],
+      "point": [
+        398.0,
+        272.0
+      ]
+    },
+    {
+      "id": "node_264",
+      "category": "link",
+      "name": "45 usages",
+      "bbox": [
+        853,
+        268,
+        915,
+        281
+      ],
+      "point": [
+        884.0,
+        274.5
+      ]
+    },
+    {
+      "id": "node_270",
+      "category": "link",
+      "name": "org.jetbrains.kotlin-wrappers",
+      "bbox": [
+        340,
+        289,
+        541,
+        305
+      ],
+      "point": [
+        440.5,
+        297.0
+      ]
+    },
+    {
+      "id": "node_275",
+      "category": "link",
+      "name": "kotlin-browser",
+      "bbox": [
+        559,
+        289,
+        658,
+        305
+      ],
+      "point": [
+        608.5,
+        297.0
+      ]
+    },
+    {
+      "id": "node_280",
+      "category": "link",
+      "name": "2026.2.0",
+      "bbox": [
+        676,
+        289,
+        738,
+        305
+      ],
+      "point": [
+        707.0,
+        297.0
+      ]
+    },
+    {
+      "id": "node_295",
+      "category": "link",
+      "name": "Kotlin React Core",
+      "bbox": [
+        340,
+        412,
+        477,
+        428
+      ],
+      "point": [
+        408.5,
+        420.0
+      ]
+    },
+    {
+      "id": "node_298",
+      "category": "link",
+      "name": "20 usages",
+      "bbox": [
+        853,
+        416,
+        915,
+        429
+      ],
+      "point": [
+        884.0,
+        422.5
+      ]
+    },
+    {
+      "id": "node_304",
+      "category": "link",
+      "name": "org.jetbrains.kotlin-wrappers",
+      "bbox": [
+        340,
+        437,
+        541,
+        453
+      ],
+      "point": [
+        440.5,
+        445.0
+      ]
+    },
+    {
+      "id": "node_309",
+      "category": "link",
+      "name": "kotlin-react-core",
+      "bbox": [
+        559,
+        437,
+        673,
+        453
+      ],
+      "point": [
+        616.0,
+        445.0
+      ]
+    },
+    {
+      "id": "node_314",
+      "category": "link",
+      "name": "2026.2.0-19.2.4",
+      "bbox": [
+        691,
+        437,
+        802,
+        453
+      ],
+      "point": [
+        746.5,
+        445.0
+      ]
+    },
+    {
+      "id": "node_329",
+      "category": "link",
+      "name": "Kotlin React Core",
+      "bbox": [
+        340,
+        560,
+        477,
+        576
+      ],
+      "point": [
+        408.5,
+        568.0
+      ]
+    },
+    {
+      "id": "node_332",
+      "category": "link",
+      "name": "15 usages",
+      "bbox": [
+        853,
+        564,
+        915,
+        577
+      ],
+      "point": [
+        884.0,
+        570.5
+      ]
+    },
+    {
+      "id": "node_1241",
+      "category": "link",
+      "name": "Indexed Repositories (3151)",
+      "bbox": [
+        989,
+        351,
+        1212,
+        367
+      ],
+      "point": [
+        1100.5,
+        359.0
+      ]
+    }
+  ]
+}

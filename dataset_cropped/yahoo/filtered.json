@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/yahoo/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "category": "link",
+      "name": "English",
+      "bbox": [
+        522,
+        265,
+        579,
+        284
+      ],
+      "point": [
+        550.5,
+        274.5
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "link",
+      "name": "\u7e41\u9ad4\u4e2d\u6587",
+      "bbox": [
+        595,
+        265,
+        659,
+        284
+      ],
+      "point": [
+        627.0,
+        274.5
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "\u7b80\u4f53\u4e2d\u6587",
+      "bbox": [
+        674,
+        265,
+        738,
+        284
+      ],
+      "point": [
+        706.0,
+        274.5
+      ]
+    }
+  ]
+}

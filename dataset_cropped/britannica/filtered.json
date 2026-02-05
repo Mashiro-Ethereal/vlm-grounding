@@ -1,0 +1,38 @@
+{
+  "image_filename": "dataset_cropped/britannica/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "SUBSCRIBE",
+      "bbox": [
+        1031,
+        18,
+        1119,
+        37
+      ],
+      "point": [
+        1075.0,
+        27.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "button",
+      "name": "Login keyboard_arrow_down",
+      "bbox": [
+        1164,
+        18,
+        1224,
+        37
+      ],
+      "point": [
+        1194.0,
+        27.5
+      ]
+    }
+  ]
+}

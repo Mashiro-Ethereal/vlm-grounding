@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/slack/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "GET STARTED",
+      "bbox": [
+        464,
+        233,
+        562,
+        251
+      ],
+      "point": [
+        513.0,
+        242.0
+      ]
+    },
+    {
+      "id": "node_65",
+      "category": "link",
+      "name": "FIND YOUR PLAN",
+      "bbox": [
+        650,
+        233,
+        795,
+        251
+      ],
+      "point": [
+        722.5,
+        242.0
+      ]
+    },
+    {
+      "id": "node_1667",
+      "category": "link",
+      "name": "Get 50% off your first 3 months FIND YOUR PLAN",
+      "bbox": [
+        0,
+        525,
+        1261,
+        567
+      ],
+      "point": [
+        630.5,
+        546.0
+      ]
+    }
+  ]
+}

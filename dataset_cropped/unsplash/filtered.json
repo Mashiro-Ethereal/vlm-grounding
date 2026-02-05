@@ -1,0 +1,338 @@
+{
+  "image_filename": "dataset_cropped/unsplash/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 22,
+  "test_samples": [
+    {
+      "id": "node_14",
+      "category": "button",
+      "name": "Select asset type",
+      "bbox": [
+        64,
+        19,
+        135,
+        44
+      ],
+      "point": [
+        99.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "button",
+      "name": "Search Unsplash",
+      "bbox": [
+        25,
+        65,
+        57,
+        103
+      ],
+      "point": [
+        41.0,
+        84.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "button",
+      "name": "Visual search",
+      "bbox": [
+        1184,
+        65,
+        1236,
+        103
+      ],
+      "point": [
+        1210.0,
+        84.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Featured",
+      "bbox": [
+        24,
+        104,
+        85,
+        168
+      ],
+      "point": [
+        54.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Wallpapers",
+      "bbox": [
+        109,
+        104,
+        186,
+        168
+      ],
+      "point": [
+        147.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "link",
+      "name": "3D Renders",
+      "bbox": [
+        211,
+        104,
+        292,
+        168
+      ],
+      "point": [
+        251.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Nature",
+      "bbox": [
+        316,
+        104,
+        363,
+        168
+      ],
+      "point": [
+        339.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "link",
+      "name": "Textures",
+      "bbox": [
+        387,
+        104,
+        445,
+        168
+      ],
+      "point": [
+        416.0,
+        136.0
+      ]
+    },
+    {
+      "id": "node_61",
+      "category": "link",
+      "name": "Film",
+      "bbox": [
+        470,
+        104,
+        498,
+        168
+      ],
+      "point": [
+        484.0,
+        136.0
+      ]
+    },
+    {
+      "id": "node_65",
+      "category": "link",
+      "name": "Architecture",
+      "bbox": [
+        522,
+        104,
+        607,
+        168
+      ],
+      "point": [
+        564.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_69",
+      "category": "link",
+      "name": "Street Photography",
+      "bbox": [
+        632,
+        104,
+        768,
+        168
+      ],
+      "point": [
+        700.0,
+        136.0
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "link",
+      "name": "Experimental",
+      "bbox": [
+        792,
+        104,
+        885,
+        168
+      ],
+      "point": [
+        838.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "link",
+      "name": "Travel",
+      "bbox": [
+        910,
+        104,
+        951,
+        168
+      ],
+      "point": [
+        930.5,
+        136.0
+      ]
+    },
+    {
+      "id": "node_81",
+      "category": "link",
+      "name": "People",
+      "bbox": [
+        975,
+        104,
+        1021,
+        168
+      ],
+      "point": [
+        998.0,
+        136.0
+      ]
+    },
+    {
+      "id": "node_104",
+      "category": "button",
+      "name": "Search Unsplash",
+      "bbox": [
+        25,
+        475,
+        65,
+        529
+      ],
+      "point": [
+        45.0,
+        502.0
+      ]
+    },
+    {
+      "id": "node_107",
+      "category": "textfield",
+      "name": "Search Unsplash",
+      "bbox": [
+        77,
+        476,
+        518,
+        528
+      ],
+      "point": [
+        297.5,
+        502.0
+      ]
+    },
+    {
+      "id": "node_110",
+      "category": "button",
+      "name": "Visual search",
+      "bbox": [
+        520,
+        475,
+        576,
+        529
+      ],
+      "point": [
+        548.0,
+        502.0
+      ]
+    },
+    {
+      "id": "node_136",
+      "category": "link",
+      "name": "See all",
+      "bbox": [
+        1166,
+        244,
+        1216,
+        268
+      ],
+      "point": [
+        1191.0,
+        256.0
+      ]
+    },
+    {
+      "id": "node_140",
+      "category": "link",
+      "name": "Suited Up 49 images",
+      "bbox": [
+        951,
+        284,
+        1217,
+        324
+      ],
+      "point": [
+        1084.0,
+        304.0
+      ]
+    },
+    {
+      "id": "node_148",
+      "category": "link",
+      "name": "New 1,775 images",
+      "bbox": [
+        951,
+        344,
+        1217,
+        384
+      ],
+      "point": [
+        1084.0,
+        364.0
+      ]
+    },
+    {
+      "id": "node_156",
+      "category": "link",
+      "name": "snow 1,082 images",
+      "bbox": [
+        951,
+        404,
+        1217,
+        444
+      ],
+      "point": [
+        1084.0,
+        424.0
+      ]
+    },
+    {
+      "id": "node_164",
+      "category": "link",
+      "name": "Bundled Up 80 images",
+      "bbox": [
+        951,
+        464,
+        1217,
+        504
+      ],
+      "point": [
+        1084.0,
+        484.0
+      ]
+    }
+  ]
+}

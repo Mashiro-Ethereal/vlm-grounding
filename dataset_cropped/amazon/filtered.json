@@ -1,0 +1,113 @@
+{
+  "image_filename": "dataset_cropped/amazon/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Amazon",
+      "bbox": [
+        18,
+        6,
+        118,
+        55
+      ],
+      "point": [
+        68.0,
+        30.5
+      ]
+    },
+    {
+      "id": "node_133",
+      "category": "button",
+      "name": "Go",
+      "bbox": [
+        772,
+        10,
+        817,
+        50
+      ],
+      "point": [
+        794.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_139",
+      "category": "link",
+      "name": "Choose a language for shopping in Amazon United States. The current selection is English (EN).",
+      "bbox": [
+        846,
+        6,
+        894,
+        51
+      ],
+      "point": [
+        870.0,
+        28.5
+      ]
+    },
+    {
+      "id": "node_147",
+      "category": "link",
+      "name": "Hello, sign in Account & Lists",
+      "bbox": [
+        923,
+        5,
+        1045,
+        47
+      ],
+      "point": [
+        984.0,
+        26.0
+      ]
+    },
+    {
+      "id": "node_155",
+      "category": "link",
+      "name": "Returns & Orders",
+      "bbox": [
+        1079,
+        5,
+        1149,
+        45
+      ],
+      "point": [
+        1114.0,
+        25.0
+      ]
+    },
+    {
+      "id": "node_167",
+      "category": "button",
+      "name": "Open All Categories Menu",
+      "bbox": [
+        20,
+        68,
+        62,
+        91
+      ],
+      "point": [
+        41.0,
+        79.5
+      ]
+    },
+    {
+      "id": "node_323",
+      "category": "button",
+      "name": "Next slide",
+      "bbox": [
+        1177,
+        99,
+        1256,
+        329
+      ],
+      "point": [
+        1216.5,
+        214.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "image_filename": "dataset_cropped/arstechnica/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_57",
+      "category": "button",
+      "name": "Set view to Classic",
+      "bbox": [
+        74,
+        481,
+        148,
+        505
+      ],
+      "point": [
+        111.0,
+        493.0
+      ]
+    },
+    {
+      "id": "node_64",
+      "category": "button",
+      "name": "Set view to Grid",
+      "bbox": [
+        168,
+        481,
+        217,
+        505
+      ],
+      "point": [
+        192.5,
+        493.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "button",
+      "name": "Set view to List",
+      "bbox": [
+        238,
+        481,
+        283,
+        505
+      ],
+      "point": [
+        260.5,
+        493.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "button",
+      "name": "Set view to Neutron Star",
+      "bbox": [
+        303,
+        481,
+        431,
+        505
+      ],
+      "point": [
+        367.0,
+        493.0
+      ]
+    },
+    {
+      "id": "node_84",
+      "category": "button",
+      "name": "grid settings",
+      "bbox": [
+        1046,
+        481,
+        1185,
+        505
+      ],
+      "point": [
+        1115.5,
+        493.0
+      ]
+    },
+    {
+      "id": "node_134",
+      "category": "link",
+      "name": "At NIH, a power struggle over institute directorships deepens",
+      "bbox": [
+        149,
+        539,
+        551,
+        583
+      ],
+      "point": [
+        350.0,
+        561.0
+      ]
+    }
+  ]
+}

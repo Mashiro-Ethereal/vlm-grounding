@@ -1,0 +1,53 @@
+{
+  "image_filename": "dataset_cropped/kubernetes/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "KubeCon + CloudNativeCon Europe 2026",
+      "bbox": [
+        120,
+        128,
+        530,
+        153
+      ],
+      "point": [
+        325.0,
+        140.5
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Buy your ticket now! 23 - 26 March | Amsterdam, The Netherlands",
+      "bbox": [
+        120,
+        183,
+        551,
+        202
+      ],
+      "point": [
+        335.5,
+        192.5
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "Kubernetes",
+      "bbox": [
+        32,
+        580,
+        152,
+        583
+      ],
+      "point": [
+        92.0,
+        581.5
+      ]
+    }
+  ]
+}

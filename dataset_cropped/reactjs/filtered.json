@@ -1,0 +1,173 @@
+{
+  "image_filename": "dataset_cropped/reactjs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "v19.2",
+      "bbox": [
+        68,
+        17,
+        101,
+        47
+      ],
+      "point": [
+        84.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "button",
+      "name": "Search Ctrl K",
+      "bbox": [
+        129,
+        16,
+        706,
+        48
+      ],
+      "point": [
+        417.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        745,
+        17,
+        786,
+        47
+      ],
+      "point": [
+        765.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Reference",
+      "bbox": [
+        816,
+        17,
+        890,
+        47
+      ],
+      "point": [
+        853.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "link",
+      "name": "Community",
+      "bbox": [
+        920,
+        17,
+        1004,
+        47
+      ],
+      "point": [
+        962.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        1035,
+        17,
+        1068,
+        47
+      ],
+      "point": [
+        1051.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "button",
+      "name": "Use Dark Mode",
+      "bbox": [
+        1097,
+        8,
+        1145,
+        56
+      ],
+      "point": [
+        1121.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "link",
+      "name": "Translations",
+      "bbox": [
+        1145,
+        8,
+        1193,
+        56
+      ],
+      "point": [
+        1169.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Open on GitHub",
+      "bbox": [
+        1193,
+        8,
+        1240,
+        56
+      ],
+      "point": [
+        1216.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_64",
+      "category": "link",
+      "name": "Learn React",
+      "bbox": [
+        493,
+        444,
+        592,
+        467
+      ],
+      "point": [
+        542.5,
+        455.5
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "link",
+      "name": "API Reference",
+      "bbox": [
+        648,
+        444,
+        766,
+        467
+      ],
+      "point": [
+        707.0,
+        455.5
+      ]
+    }
+  ]
+}

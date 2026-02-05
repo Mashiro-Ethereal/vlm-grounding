@@ -1,0 +1,143 @@
+{
+  "image_filename": "dataset_cropped/zoom/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "category": "button",
+      "name": "Products",
+      "bbox": [
+        150,
+        29,
+        208,
+        45
+      ],
+      "point": [
+        179.0,
+        37.0
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "button",
+      "name": "AI",
+      "bbox": [
+        266,
+        29,
+        279,
+        45
+      ],
+      "point": [
+        272.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "button",
+      "name": "Solutions",
+      "bbox": [
+        318,
+        29,
+        379,
+        45
+      ],
+      "point": [
+        348.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        417,
+        29,
+        462,
+        45
+      ],
+      "point": [
+        439.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "button",
+      "name": "Meet",
+      "bbox": [
+        746,
+        29,
+        779,
+        45
+      ],
+      "point": [
+        762.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_81",
+      "category": "link",
+      "name": "Sign In Sign In",
+      "bbox": [
+        818,
+        29,
+        862,
+        45
+      ],
+      "point": [
+        840.0,
+        37.0
+      ]
+    },
+    {
+      "id": "node_87",
+      "category": "link",
+      "name": "Support Support",
+      "bbox": [
+        882,
+        29,
+        934,
+        45
+      ],
+      "point": [
+        908.0,
+        37.0
+      ]
+    },
+    {
+      "id": "node_93",
+      "category": "link",
+      "name": "Contact Sales Contact sales",
+      "bbox": [
+        967,
+        26,
+        1058,
+        48
+      ],
+      "point": [
+        1012.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "Sign Up Free Sign Up Free",
+      "bbox": [
+        1098,
+        26,
+        1181,
+        48
+      ],
+      "point": [
+        1139.5,
+        37.0
+      ]
+    }
+  ]
+}
