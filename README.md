@@ -48,3 +48,23 @@ Filter UI tree and draw bounding boxes:
 conda activate sft-ui
 python process_all_datasets.py
 ```
+
+Organize Dataset
+```
+python build_dataset.py
+```
+
+Dataset in `GUI_Grounding_Benchmark`
+
+Upload to OSS
+```
+python upload_to_oss.py
+```
+
+Dataset in OSS: `https://gui-test-zxh-0129.oss-cn-beijing.aliyuncs.com/gui_grounding_benchmark_v1/`
+
+Evaluate model
+```
+python eval_model.py
+```
+
