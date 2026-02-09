@@ -1,7 +1,175 @@
 {
   "image_filename": "dataset_cropped/mit_ocw/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "name": "MIT OpenCourseWare",
+      "role": "link",
+      "bbox": [
+        48,
+        49,
+        308,
+        68
+      ],
+      "point": [
+        178.0,
+        58.5
+      ]
+    },
+    {
+      "id": "node_10",
+      "name": "Give Now - Donate to MIT OpenCourseWare",
+      "role": "link",
+      "bbox": [
+        673,
+        47,
+        777,
+        68
+      ],
+      "point": [
+        725.0,
+        57.5
+      ]
+    },
+    {
+      "id": "node_13",
+      "name": "ABOUT OCW",
+      "role": "link",
+      "bbox": [
+        833,
+        47,
+        929,
+        68
+      ],
+      "point": [
+        881.0,
+        57.5
+      ]
+    },
+    {
+      "id": "node_16",
+      "name": "HELP & FAQS",
+      "role": "link",
+      "bbox": [
+        962,
+        47,
+        1065,
+        68
+      ],
+      "point": [
+        1013.5,
+        57.5
+      ]
+    },
+    {
+      "id": "node_19",
+      "name": "CONTACT US",
+      "role": "link",
+      "bbox": [
+        1097,
+        47,
+        1196,
+        68
+      ],
+      "point": [
+        1146.5,
+        57.5
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        60,
+        224,
+        352,
+        272
+      ],
+      "point": [
+        206.0,
+        248.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        370,
+        229,
+        431,
+        267
+      ],
+      "point": [
+        400.5,
+        248.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "name": "Explore",
+      "role": "link",
+      "bbox": [
+        514,
+        229,
+        581,
+        267
+      ],
+      "point": [
+        547.5,
+        248.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "Get Started",
+      "role": "link",
+      "bbox": [
+        80,
+        377,
+        262,
+        401
+      ],
+      "point": [
+        171.0,
+        389.0
+      ]
+    },
+    {
+      "id": "node_52",
+      "name": "Educators Start Here",
+      "role": "link",
+      "bbox": [
+        295,
+        377,
+        565,
+        401
+      ],
+      "point": [
+        430.0,
+        389.0
+      ]
+    },
+    {
+      "id": "node_69",
+      "name": "LEARN MORE ABOUT THE OCW MISSION",
+      "role": "link",
+      "bbox": [
+        717,
+        372,
+        1100,
+        396
+      ],
+      "point": [
+        908.5,
+        384.0
+      ]
+    }
+  ]
 }

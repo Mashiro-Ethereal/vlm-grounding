@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/amazon/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 41,
   "test_samples": [
     {
       "id": "node_39",
-      "category": "link",
       "name": "Amazon",
+      "role": "link",
       "bbox": [
         18,
         6,
@@ -20,9 +22,39 @@
       ]
     },
     {
+      "id": "node_42",
+      "name": "Delivering to Saintlouis 63101 Update location",
+      "role": "button",
+      "bbox": [
+        136,
+        5,
+        335,
+        55
+      ],
+      "point": [
+        235.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_128",
+      "name": "Search Amazon",
+      "role": "textfield",
+      "bbox": [
+        407,
+        18,
+        761,
+        39
+      ],
+      "point": [
+        584.0,
+        28.5
+      ]
+    },
+    {
       "id": "node_133",
-      "category": "button",
       "name": "Go",
+      "role": "button",
       "bbox": [
         772,
         10,
@@ -36,8 +68,8 @@
     },
     {
       "id": "node_139",
-      "category": "link",
       "name": "Choose a language for shopping in Amazon United States. The current selection is English (EN).",
+      "role": "link",
       "bbox": [
         846,
         6,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_147",
-      "category": "link",
       "name": "Hello, sign in Account & Lists",
+      "role": "link",
       "bbox": [
         923,
         5,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_155",
-      "category": "link",
       "name": "Returns & Orders",
+      "role": "link",
       "bbox": [
         1079,
         5,
@@ -80,9 +112,24 @@
       ]
     },
     {
+      "id": "node_160",
+      "name": "0 items in cart",
+      "role": "link",
+      "bbox": [
+        1169,
+        5,
+        1240,
+        44
+      ],
+      "point": [
+        1204.5,
+        24.5
+      ]
+    },
+    {
       "id": "node_167",
-      "category": "button",
       "name": "Open All Categories Menu",
+      "role": "button",
       "bbox": [
         20,
         68,
@@ -95,18 +142,483 @@
       ]
     },
     {
+      "id": "node_176",
+      "name": "Amazon Haul",
+      "role": "link",
+      "bbox": [
+        81,
+        73,
+        173,
+        85
+      ],
+      "point": [
+        127.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_181",
+      "name": "Medical Care",
+      "role": "link",
+      "bbox": [
+        194,
+        73,
+        284,
+        85
+      ],
+      "point": [
+        239.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_187",
+      "name": "Amazon Basics",
+      "role": "link",
+      "bbox": [
+        312,
+        73,
+        417,
+        85
+      ],
+      "point": [
+        364.5,
+        79.0
+      ]
+    },
+    {
+      "id": "node_192",
+      "name": "Best Sellers",
+      "role": "link",
+      "bbox": [
+        438,
+        73,
+        520,
+        85
+      ],
+      "point": [
+        479.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_197",
+      "name": "Books",
+      "role": "link",
+      "bbox": [
+        540,
+        73,
+        582,
+        85
+      ],
+      "point": [
+        561.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_202",
+      "name": "Registry",
+      "role": "link",
+      "bbox": [
+        602,
+        73,
+        659,
+        85
+      ],
+      "point": [
+        630.5,
+        79.0
+      ]
+    },
+    {
+      "id": "node_207",
+      "name": "Prime",
+      "role": "link",
+      "bbox": [
+        680,
+        73,
+        720,
+        85
+      ],
+      "point": [
+        700.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_213",
+      "name": "Gift Cards",
+      "role": "link",
+      "bbox": [
+        748,
+        73,
+        817,
+        85
+      ],
+      "point": [
+        782.5,
+        79.0
+      ]
+    },
+    {
+      "id": "node_219",
+      "name": "Smart Home",
+      "role": "link",
+      "bbox": [
+        845,
+        73,
+        933,
+        85
+      ],
+      "point": [
+        889.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_224",
+      "name": "New Releases",
+      "role": "link",
+      "bbox": [
+        953,
+        73,
+        1049,
+        85
+      ],
+      "point": [
+        1001.0,
+        79.0
+      ]
+    },
+    {
+      "id": "node_229",
+      "name": "Today's Deals",
+      "role": "link",
+      "bbox": [
+        1070,
+        73,
+        1165,
+        85
+      ],
+      "point": [
+        1117.5,
+        79.0
+      ]
+    },
+    {
+      "id": "node_234",
+      "name": "Groceries",
+      "role": "link",
+      "bbox": [
+        81,
+        112,
+        147,
+        124
+      ],
+      "point": [
+        114.0,
+        118.0
+      ]
+    },
+    {
+      "id": "node_240",
+      "name": "Customer Service",
+      "role": "link",
+      "bbox": [
+        176,
+        112,
+        300,
+        124
+      ],
+      "point": [
+        238.0,
+        118.0
+      ]
+    },
+    {
+      "id": "node_245",
+      "name": "Pharmacy",
+      "role": "link",
+      "bbox": [
+        320,
+        112,
+        389,
+        124
+      ],
+      "point": [
+        354.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_250",
+      "name": "Music",
+      "role": "link",
+      "bbox": [
+        409,
+        112,
+        448,
+        124
+      ],
+      "point": [
+        428.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_255",
+      "name": "Amazon Home",
+      "role": "link",
+      "bbox": [
+        469,
+        112,
+        571,
+        124
+      ],
+      "point": [
+        520.0,
+        118.0
+      ]
+    },
+    {
+      "id": "node_260",
+      "name": "Fashion",
+      "role": "link",
+      "bbox": [
+        592,
+        112,
+        644,
+        124
+      ],
+      "point": [
+        618.0,
+        118.0
+      ]
+    },
+    {
+      "id": "node_265",
+      "name": "Kindle Books",
+      "role": "link",
+      "bbox": [
+        665,
+        112,
+        754,
+        124
+      ],
+      "point": [
+        709.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_270",
+      "name": "Automotive",
+      "role": "link",
+      "bbox": [
+        774,
+        112,
+        855,
+        124
+      ],
+      "point": [
+        814.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_275",
+      "name": "Toys & Games",
+      "role": "link",
+      "bbox": [
+        875,
+        112,
+        974,
+        124
+      ],
+      "point": [
+        924.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_280",
+      "name": "Home Improvement",
+      "role": "link",
+      "bbox": [
+        995,
+        112,
+        1134,
+        124
+      ],
+      "point": [
+        1064.5,
+        118.0
+      ]
+    },
+    {
+      "id": "node_285",
+      "name": "Sports & Outdoors",
+      "role": "link",
+      "bbox": [
+        81,
+        151,
+        210,
+        163
+      ],
+      "point": [
+        145.5,
+        157.0
+      ]
+    },
+    {
+      "id": "node_290",
+      "name": "Baby",
+      "role": "link",
+      "bbox": [
+        230,
+        151,
+        265,
+        163
+      ],
+      "point": [
+        247.5,
+        157.0
+      ]
+    },
+    {
+      "id": "node_295",
+      "name": "Sell",
+      "role": "link",
+      "bbox": [
+        285,
+        151,
+        310,
+        163
+      ],
+      "point": [
+        297.5,
+        157.0
+      ]
+    },
+    {
+      "id": "node_309",
+      "name": "Previous slide",
+      "role": "button",
+      "bbox": [
+        0,
+        99,
+        84,
+        349
+      ],
+      "point": [
+        42.0,
+        224.0
+      ]
+    },
+    {
       "id": "node_323",
-      "category": "button",
       "name": "Next slide",
+      "role": "button",
       "bbox": [
         1177,
         99,
-        1256,
-        329
+        1261,
+        349
       ],
       "point": [
-        1216.5,
-        214.0
+        1219.0,
+        224.0
+      ]
+    },
+    {
+      "id": "node_337",
+      "name": "Swim",
+      "role": "link",
+      "bbox": [
+        40,
+        433,
+        158,
+        535
+      ],
+      "point": [
+        99.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_344",
+      "name": "Beauty",
+      "role": "link",
+      "bbox": [
+        171,
+        433,
+        289,
+        535
+      ],
+      "point": [
+        230.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_379",
+      "name": "NFL Echo Dot Bundle: Includes Echo Dot | Glacier White and Limited-Edition NFL Helmet Stand | New England Patriots 20% off Limited time deal",
+      "role": "link",
+      "bbox": [
+        350,
+        433,
+        472,
+        568
+      ],
+      "point": [
+        411.0,
+        500.5
+      ]
+    },
+    {
+      "id": "node_388",
+      "name": "Kindle Paperwhite Clear Case Bundle: Includes Amazon Kindle Paperwhite Signature Edition 32GB (newest model) | Metallic Raspberry & Clear Back Case | Raspberry 13% off Limited time deal",
+      "role": "link",
+      "bbox": [
+        478,
+        433,
+        600,
+        568
+      ],
+      "point": [
+        539.0,
+        500.5
+      ]
+    },
+    {
+      "id": "node_427",
+      "name": "Louis Vuitton",
+      "role": "link",
+      "bbox": [
+        660,
+        433,
+        778,
+        535
+      ],
+      "point": [
+        719.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_434",
+      "name": "Van Cleef & Arpels",
+      "role": "link",
+      "bbox": [
+        791,
+        433,
+        909,
+        535
+      ],
+      "point": [
+        850.0,
+        484.0
       ]
     }
   ]

@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/udemy/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 568,
-  "sample_count": 11,
+  "image_size": [
+    1261,
+    568
+  ],
+  "sample_count": 16,
   "test_samples": [
     {
       "id": "node_19",
-      "category": "button",
       "name": "Close",
+      "role": "button",
       "bbox": [
         1223,
         8,
@@ -20,9 +22,24 @@
       ]
     },
     {
+      "id": "node_26",
+      "name": "Udemy",
+      "role": "link",
+      "bbox": [
+        24,
+        83,
+        115,
+        117
+      ],
+      "point": [
+        69.5,
+        100.0
+      ]
+    },
+    {
       "id": "node_29",
-      "category": "button",
       "name": "Explore",
+      "role": "button",
       "bbox": [
         135,
         80,
@@ -35,9 +52,24 @@
       ]
     },
     {
+      "id": "node_39",
+      "name": "Search for anything",
+      "role": "combobox",
+      "bbox": [
+        242,
+        83,
+        568,
+        117
+      ],
+      "point": [
+        405.0,
+        100.0
+      ]
+    },
+    {
       "id": "node_41",
-      "category": "button",
       "name": "Submit search",
+      "role": "button",
       "bbox": [
         212,
         80,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_44",
-      "category": "link",
       "name": "Plans & Pricing",
+      "role": "link",
       "bbox": [
         618,
         80,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_48",
-      "category": "link",
       "name": "Udemy Business",
+      "role": "link",
       "bbox": [
         733,
         80,
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_57",
-      "category": "link",
       "name": "Teach on Udemy",
+      "role": "link",
       "bbox": [
         859,
         80,
@@ -96,8 +128,8 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "Shopping cart with 0 items",
+      "role": "link",
       "bbox": [
         983,
         80,
@@ -111,8 +143,8 @@
     },
     {
       "id": "node_69",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         1034,
         81,
@@ -126,8 +158,8 @@
     },
     {
       "id": "node_73",
-      "category": "link",
       "name": "Sign up",
+      "role": "link",
       "bbox": [
         1121,
         80,
@@ -140,9 +172,24 @@
       ]
     },
     {
+      "id": "node_77",
+      "name": "Choose a language",
+      "role": "button",
+      "bbox": [
+        1208,
+        81,
+        1226,
+        119
+      ],
+      "point": [
+        1217.0,
+        100.0
+      ]
+    },
+    {
       "id": "node_295",
-      "category": "link",
       "name": "Get Personal Plan",
+      "role": "link",
       "bbox": [
         100,
         366,
@@ -156,8 +203,8 @@
     },
     {
       "id": "node_298",
-      "category": "link",
       "name": "Learn AI",
+      "role": "link",
       "bbox": [
         272,
         367,
@@ -167,6 +214,36 @@
       "point": [
         301.5,
         390.0
+      ]
+    },
+    {
+      "id": "node_315",
+      "name": "Previous",
+      "role": "button",
+      "bbox": [
+        18,
+        316,
+        38,
+        356
+      ],
+      "point": [
+        28.0,
+        336.0
+      ]
+    },
+    {
+      "id": "node_317",
+      "name": "Next",
+      "role": "button",
+      "bbox": [
+        1222,
+        316,
+        1242,
+        356
+      ],
+      "point": [
+        1232.0,
+        336.0
       ]
     }
   ]

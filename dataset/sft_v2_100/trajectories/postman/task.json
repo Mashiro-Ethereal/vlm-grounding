@@ -1,0 +1,7 @@
+{
+  "task_id": "postman",
+  "instruction": "Visit Postman API platform",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

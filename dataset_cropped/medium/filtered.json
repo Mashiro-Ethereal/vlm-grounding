@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/medium/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 6,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
+      "id": "node_10",
+      "name": "Medium Logo",
+      "role": "link",
+      "bbox": [
+        64,
+        27,
+        176,
+        46
+      ],
+      "point": [
+        120.0,
+        36.5
+      ]
+    },
+    {
       "id": "node_17",
-      "category": "link",
       "name": "Our story",
+      "role": "link",
       "bbox": [
         780,
         28,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_22",
-      "category": "link",
       "name": "Membership",
+      "role": "link",
       "bbox": [
         863,
         28,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_27",
-      "category": "link",
       "name": "Write",
+      "role": "link",
       "bbox": [
         967,
         28,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_32",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1025,
         28,
@@ -66,12 +83,27 @@
     },
     {
       "id": "node_37",
-      "category": "button",
       "name": "Get started",
+      "role": "button",
       "bbox": [
         1109,
-        28,
+        27,
         1179,
+        47
+      ],
+      "point": [
+        1144.0,
+        37.0
+      ]
+    },
+    {
+      "id": "node_36",
+      "name": "Get started",
+      "role": "link",
+      "bbox": [
+        1092,
+        28,
+        1196,
         47
       ],
       "point": [
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_58",
-      "category": "button",
       "name": "Start reading",
+      "role": "button",
       "bbox": [
         85,
         503,

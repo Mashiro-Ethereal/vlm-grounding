@@ -1,13 +1,315 @@
 {
   "image_filename": "dataset_cropped/bing/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 1,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 38,
   "test_samples": [
     {
+      "id": "node_25",
+      "name": "Copilot",
+      "role": "link",
+      "bbox": [
+        250,
+        14,
+        319,
+        53
+      ],
+      "point": [
+        284.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_24",
+      "name": "Copilot",
+      "role": "menuitem",
+      "bbox": [
+        250,
+        14,
+        319,
+        53
+      ],
+      "point": [
+        284.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "Images",
+      "role": "link",
+      "bbox": [
+        355,
+        26,
+        402,
+        41
+      ],
+      "point": [
+        378.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "Images",
+      "role": "menuitem",
+      "bbox": [
+        355,
+        14,
+        402,
+        53
+      ],
+      "point": [
+        378.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_34",
+      "name": "Videos",
+      "role": "link",
+      "bbox": [
+        439,
+        26,
+        482,
+        41
+      ],
+      "point": [
+        460.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_33",
+      "name": "Videos",
+      "role": "menuitem",
+      "bbox": [
+        439,
+        14,
+        482,
+        53
+      ],
+      "point": [
+        460.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_38",
+      "name": "Shopping",
+      "role": "link",
+      "bbox": [
+        518,
+        26,
+        579,
+        41
+      ],
+      "point": [
+        548.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Shopping",
+      "role": "menuitem",
+      "bbox": [
+        518,
+        14,
+        579,
+        53
+      ],
+      "point": [
+        548.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_42",
+      "name": "Maps",
+      "role": "link",
+      "bbox": [
+        615,
+        26,
+        649,
+        41
+      ],
+      "point": [
+        632.0,
+        33.5
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Maps",
+      "role": "menuitem",
+      "bbox": [
+        615,
+        14,
+        649,
+        53
+      ],
+      "point": [
+        632.0,
+        33.5
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "News",
+      "role": "link",
+      "bbox": [
+        685,
+        26,
+        720,
+        41
+      ],
+      "point": [
+        702.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "News",
+      "role": "menuitem",
+      "bbox": [
+        685,
+        14,
+        720,
+        53
+      ],
+      "point": [
+        702.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_53",
+      "name": "More",
+      "role": "button",
+      "bbox": [
+        756,
+        21,
+        779,
+        40
+      ],
+      "point": [
+        767.5,
+        30.5
+      ]
+    },
+    {
+      "id": "node_49",
+      "name": ". . . More",
+      "role": "menuitem",
+      "bbox": [
+        756,
+        10,
+        779,
+        49
+      ],
+      "point": [
+        767.5,
+        29.5
+      ]
+    },
+    {
+      "id": "node_60",
+      "name": "Sign in Sign in",
+      "role": "link",
+      "bbox": [
+        874,
+        14,
+        961,
+        53
+      ],
+      "point": [
+        917.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_65",
+      "name": "Microsoft Rewards",
+      "role": "button",
+      "bbox": [
+        974,
+        11,
+        1097,
+        55
+      ],
+      "point": [
+        1035.5,
+        33.0
+      ]
+    },
+    {
+      "id": "node_73",
+      "name": "Mobile",
+      "role": "button",
+      "bbox": [
+        1109,
+        14,
+        1184,
+        53
+      ],
+      "point": [
+        1146.5,
+        33.5
+      ]
+    },
+    {
+      "id": "node_77",
+      "name": "Settings and quick links",
+      "role": "button",
+      "bbox": [
+        1201,
+        14,
+        1221,
+        53
+      ],
+      "point": [
+        1211.0,
+        33.5
+      ]
+    },
+    {
+      "id": "node_88",
+      "name": "Enter your search here - Search suggestions will show as you type",
+      "role": "textfield",
+      "bbox": [
+        191,
+        130,
+        1034,
+        152
+      ],
+      "point": [
+        612.5,
+        141.0
+      ]
+    },
+    {
+      "id": "node_91",
+      "name": "Search using voice",
+      "role": "button",
+      "bbox": [
+        1045,
+        130,
+        1062,
+        154
+      ],
+      "point": [
+        1053.5,
+        142.0
+      ]
+    },
+    {
       "id": "node_99",
-      "category": "button",
       "name": "Search using an image",
+      "role": "button",
       "bbox": [
         1078,
         130,
@@ -17,6 +319,261 @@
       "point": [
         1090.0,
         142.0
+      ]
+    },
+    {
+      "id": "node_107",
+      "name": "Open Copilot",
+      "role": "link",
+      "bbox": [
+        1129,
+        119,
+        1173,
+        163
+      ],
+      "point": [
+        1151.0,
+        141.0
+      ]
+    },
+    {
+      "id": "node_132",
+      "name": "Image creator",
+      "role": "link",
+      "bbox": [
+        159,
+        202,
+        283,
+        224
+      ],
+      "point": [
+        221.0,
+        213.0
+      ]
+    },
+    {
+      "id": "node_135",
+      "name": "Video creator",
+      "role": "link",
+      "bbox": [
+        335,
+        202,
+        454,
+        224
+      ],
+      "point": [
+        394.5,
+        213.0
+      ]
+    },
+    {
+      "id": "node_155",
+      "name": "Answer: A, Pyrenees, 1 of 3",
+      "role": "link",
+      "bbox": [
+        926,
+        224,
+        1017,
+        243
+      ],
+      "point": [
+        971.5,
+        233.5
+      ]
+    },
+    {
+      "id": "node_162",
+      "name": "Answer: B, Alps, 2 of 3",
+      "role": "link",
+      "bbox": [
+        926,
+        254,
+        986,
+        273
+      ],
+      "point": [
+        956.0,
+        263.5
+      ]
+    },
+    {
+      "id": "node_169",
+      "name": "Answer: C, Carpathians, 3 of 3",
+      "role": "link",
+      "bbox": [
+        926,
+        284,
+        1036,
+        303
+      ],
+      "point": [
+        981.0,
+        293.5
+      ]
+    },
+    {
+      "id": "node_198",
+      "name": "A shadow's promise",
+      "role": "link",
+      "bbox": [
+        980,
+        372,
+        1167,
+        412
+      ],
+      "point": [
+        1073.5,
+        392.0
+      ]
+    },
+    {
+      "id": "node_204",
+      "name": "Previous image",
+      "role": "button",
+      "bbox": [
+        1172,
+        372,
+        1212,
+        412
+      ],
+      "point": [
+        1192.0,
+        392.0
+      ]
+    },
+    {
+      "id": "node_205",
+      "name": "Next image",
+      "role": "button",
+      "bbox": [
+        1216,
+        372,
+        1256,
+        412
+      ],
+      "point": [
+        1236.0,
+        392.0
+      ]
+    },
+    {
+      "id": "node_206",
+      "name": "Feedback",
+      "role": "button",
+      "bbox": [
+        1215,
+        547,
+        1239,
+        579
+      ],
+      "point": [
+        1227.0,
+        563.0
+      ]
+    },
+    {
+      "id": "node_214",
+      "name": "Toggle feed area position",
+      "role": "button",
+      "bbox": [
+        22,
+        372,
+        62,
+        412
+      ],
+      "point": [
+        42.0,
+        392.0
+      ]
+    },
+    {
+      "id": "node_224",
+      "name": "Makes Grammy history © Thomson Reuters /Daniel Cole",
+      "role": "link",
+      "bbox": [
+        22,
+        420,
+        208,
+        548
+      ],
+      "point": [
+        115.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_230",
+      "name": "Actor found guilty © Chase Stevens/Las Vegas Review-Journal/Tribune News Service via Getty Images",
+      "role": "link",
+      "bbox": [
+        216,
+        420,
+        402,
+        548
+      ],
+      "point": [
+        309.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_236",
+      "name": "'Regrets' emails w/ Maxwell ©AP Photo/Damian Dovarganes, File; ©Corredor99/MediaPunch /IPX",
+      "role": "link",
+      "bbox": [
+        410,
+        420,
+        596,
+        548
+      ],
+      "point": [
+        503.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_244",
+      "name": "Signs 'ICE on notice' order ©AP Photo/Kiichiro Sato",
+      "role": "link",
+      "bbox": [
+        604,
+        420,
+        790,
+        548
+      ],
+      "point": [
+        697.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_252",
+      "name": "Flips TX state Senate seat © Taylor Rehmet campaign",
+      "role": "link",
+      "bbox": [
+        798,
+        420,
+        984,
+        548
+      ],
+      "point": [
+        891.0,
+        484.0
+      ]
+    },
+    {
+      "id": "node_260",
+      "name": "‘Sanford and Son’ star dies © Reach Publishing Services Limited",
+      "role": "link",
+      "bbox": [
+        992,
+        420,
+        1178,
+        548
+      ],
+      "point": [
+        1085.0,
+        484.0
       ]
     }
   ]

@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/python_docs/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 41,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 40,
   "test_samples": [
     {
       "id": "node_41",
-      "category": "link",
       "name": "index",
+      "role": "link",
       "bbox": [
         1195,
         21,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_45",
-      "category": "link",
       "name": "modules",
+      "role": "link",
       "bbox": [
         1119,
         21,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_55",
-      "category": "link",
       "name": "Python",
+      "role": "link",
       "bbox": [
         46,
         21,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_62",
-      "category": "combobox",
       "name": "Language",
+      "role": "combobox",
       "bbox": [
         115,
         21,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_78",
-      "category": "combobox",
       "name": "Python version",
+      "role": "combobox",
       "bbox": [
         425,
         21,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_100",
-      "category": "link",
       "name": "3.14.2 Documentation",
+      "role": "link",
       "bbox": [
         525,
         21,
@@ -95,9 +97,24 @@
       ]
     },
     {
+      "id": "node_110",
+      "name": "Quick search",
+      "role": "textfield",
+      "bbox": [
+        907,
+        23,
+        1057,
+        37
+      ],
+      "point": [
+        982.0,
+        30.0
+      ]
+    },
+    {
       "id": "node_112",
-      "category": "button",
       "name": "Go",
+      "role": "button",
       "bbox": [
         1072,
         23,
@@ -111,23 +128,23 @@
     },
     {
       "id": "node_121",
-      "category": "combobox",
       "name": "Theme",
+      "role": "combobox",
       "bbox": [
         835,
         21,
         889,
-        37
+        38
       ],
       "point": [
         862.0,
-        29.0
+        29.5
       ]
     },
     {
       "id": "node_145",
-      "category": "link",
       "name": "What's new in Python 3.14?",
+      "role": "link",
       "bbox": [
         397,
         229,
@@ -141,8 +158,8 @@
     },
     {
       "id": "node_152",
-      "category": "link",
       "name": "all \"What's new\" documents since Python 2.0",
+      "role": "link",
       "bbox": [
         419,
         259,
@@ -156,8 +173,8 @@
     },
     {
       "id": "node_156",
-      "category": "link",
       "name": "Tutorial",
+      "role": "link",
       "bbox": [
         397,
         295,
@@ -171,8 +188,8 @@
     },
     {
       "id": "node_165",
-      "category": "link",
       "name": "Library reference",
+      "role": "link",
       "bbox": [
         397,
         385,
@@ -186,8 +203,8 @@
     },
     {
       "id": "node_173",
-      "category": "link",
       "name": "Language reference",
+      "role": "link",
       "bbox": [
         397,
         451,
@@ -201,8 +218,8 @@
     },
     {
       "id": "node_181",
-      "category": "link",
       "name": "Python setup and usage",
+      "role": "link",
       "bbox": [
         397,
         517,
@@ -216,8 +233,8 @@
     },
     {
       "id": "node_198",
-      "category": "link",
       "name": "Installing Python modules",
+      "role": "link",
       "bbox": [
         756,
         241,
@@ -231,8 +248,8 @@
     },
     {
       "id": "node_206",
-      "category": "link",
       "name": "Distributing Python modules",
+      "role": "link",
       "bbox": [
         756,
         307,
@@ -246,8 +263,8 @@
     },
     {
       "id": "node_214",
-      "category": "link",
       "name": "Extending and embedding",
+      "role": "link",
       "bbox": [
         756,
         373,
@@ -261,8 +278,8 @@
     },
     {
       "id": "node_222",
-      "category": "link",
       "name": "Python's C API",
+      "role": "link",
       "bbox": [
         756,
         439,
@@ -276,8 +293,8 @@
     },
     {
       "id": "node_230",
-      "category": "link",
       "name": "FAQs",
+      "role": "link",
       "bbox": [
         756,
         505,
@@ -290,24 +307,9 @@
       ]
     },
     {
-      "id": "node_238",
-      "category": "link",
-      "name": "Deprecations",
-      "bbox": [
-        756,
-        571,
-        893,
-        583
-      ],
-      "point": [
-        824.5,
-        577.0
-      ]
-    },
-    {
       "id": "node_331",
-      "category": "link",
       "name": "Download these documents",
+      "role": "link",
       "bbox": [
         26,
         115,
@@ -321,8 +323,8 @@
     },
     {
       "id": "node_339",
-      "category": "link",
       "name": "Python 3.15 (in development)",
+      "role": "link",
       "bbox": [
         36,
         187,
@@ -336,8 +338,8 @@
     },
     {
       "id": "node_343",
-      "category": "link",
       "name": "Python 3.14 (stable)",
+      "role": "link",
       "bbox": [
         36,
         205,
@@ -351,8 +353,8 @@
     },
     {
       "id": "node_347",
-      "category": "link",
       "name": "Python 3.13 (stable)",
+      "role": "link",
       "bbox": [
         36,
         222,
@@ -366,8 +368,8 @@
     },
     {
       "id": "node_351",
-      "category": "link",
       "name": "Python 3.12 (security-fixes)",
+      "role": "link",
       "bbox": [
         36,
         239,
@@ -381,8 +383,8 @@
     },
     {
       "id": "node_355",
-      "category": "link",
       "name": "Python 3.11 (security-fixes)",
+      "role": "link",
       "bbox": [
         36,
         257,
@@ -396,8 +398,8 @@
     },
     {
       "id": "node_359",
-      "category": "link",
       "name": "Python 3.10 (security-fixes)",
+      "role": "link",
       "bbox": [
         36,
         274,
@@ -411,8 +413,8 @@
     },
     {
       "id": "node_363",
-      "category": "link",
       "name": "Python 3.9 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         291,
@@ -426,8 +428,8 @@
     },
     {
       "id": "node_367",
-      "category": "link",
       "name": "Python 3.8 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         309,
@@ -441,8 +443,8 @@
     },
     {
       "id": "node_371",
-      "category": "link",
       "name": "Python 3.7 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         326,
@@ -456,8 +458,8 @@
     },
     {
       "id": "node_375",
-      "category": "link",
       "name": "Python 3.6 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         343,
@@ -471,8 +473,8 @@
     },
     {
       "id": "node_379",
-      "category": "link",
       "name": "Python 3.5 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         361,
@@ -486,8 +488,8 @@
     },
     {
       "id": "node_383",
-      "category": "link",
       "name": "Python 3.4 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         378,
@@ -501,8 +503,8 @@
     },
     {
       "id": "node_387",
-      "category": "link",
       "name": "Python 3.3 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         395,
@@ -516,8 +518,8 @@
     },
     {
       "id": "node_391",
-      "category": "link",
       "name": "Python 3.2 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         413,
@@ -531,8 +533,8 @@
     },
     {
       "id": "node_395",
-      "category": "link",
       "name": "Python 3.1 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         430,
@@ -546,8 +548,8 @@
     },
     {
       "id": "node_399",
-      "category": "link",
       "name": "Python 3.0 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         447,
@@ -561,8 +563,8 @@
     },
     {
       "id": "node_403",
-      "category": "link",
       "name": "Python 2.7 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         465,
@@ -576,8 +578,8 @@
     },
     {
       "id": "node_407",
-      "category": "link",
       "name": "Python 2.6 (EOL)",
+      "role": "link",
       "bbox": [
         36,
         482,
@@ -591,8 +593,8 @@
     },
     {
       "id": "node_411",
-      "category": "link",
       "name": "All versions",
+      "role": "link",
       "bbox": [
         36,
         499,
@@ -602,21 +604,6 @@
       "point": [
         74.0,
         506.5
-      ]
-    },
-    {
-      "id": "node_419",
-      "category": "link",
-      "name": "PEP Index",
-      "bbox": [
-        36,
-        572,
-        101,
-        583
-      ],
-      "point": [
-        68.5,
-        577.5
       ]
     }
   ]

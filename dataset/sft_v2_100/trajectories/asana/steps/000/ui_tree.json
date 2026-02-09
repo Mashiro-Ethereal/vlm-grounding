@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-02-07T05:43:51.959663Z",
+  "screen": {
+    "width": 1261,
+    "height": 568
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 568
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Manage your team\u2019s work, projects, & tasks online \u2022 Asana",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 568
+        }
+      }
+    ]
+  }
+}

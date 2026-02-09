@@ -1,0 +1,7 @@
+{
+  "task_id": "trello",
+  "instruction": "Visit Trello boards",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

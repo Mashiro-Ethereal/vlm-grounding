@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/mdn/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 21,
   "test_samples": [
     {
       "id": "node_21",
-      "category": "link",
       "name": "AD",
+      "role": "link",
       "bbox": [
         1221,
         9,
@@ -20,9 +22,189 @@
       ]
     },
     {
-      "id": "node_94",
-      "category": "link",
+      "id": "node_26",
       "name": "MDN",
+      "role": "link",
+      "bbox": [
+        18,
+        112,
+        101,
+        136
+      ],
+      "point": [
+        59.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "name": "HTML",
+      "role": "button",
+      "bbox": [
+        214,
+        114,
+        277,
+        134
+      ],
+      "point": [
+        245.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_36",
+      "name": "CSS",
+      "role": "button",
+      "bbox": [
+        302,
+        114,
+        352,
+        134
+      ],
+      "point": [
+        327.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "JavaScript",
+      "role": "button",
+      "bbox": [
+        377,
+        114,
+        474,
+        134
+      ],
+      "point": [
+        425.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "Web APIs",
+      "role": "button",
+      "bbox": [
+        499,
+        114,
+        591,
+        134
+      ],
+      "point": [
+        545.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_51",
+      "name": "All",
+      "role": "button",
+      "bbox": [
+        616,
+        114,
+        653,
+        134
+      ],
+      "point": [
+        634.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "name": "Learn",
+      "role": "button",
+      "bbox": [
+        678,
+        114,
+        760,
+        134
+      ],
+      "point": [
+        719.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_61",
+      "name": "Tools",
+      "role": "button",
+      "bbox": [
+        785,
+        114,
+        865,
+        134
+      ],
+      "point": [
+        825.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "name": "About",
+      "role": "button",
+      "bbox": [
+        890,
+        114,
+        952,
+        134
+      ],
+      "point": [
+        921.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "name": "Blog",
+      "role": "link",
+      "bbox": [
+        976,
+        114,
+        1009,
+        134
+      ],
+      "point": [
+        992.5,
+        124.0
+      ]
+    },
+    {
+      "id": "node_75",
+      "name": "Search the site",
+      "role": "button",
+      "bbox": [
+        1128,
+        112,
+        1190,
+        136
+      ],
+      "point": [
+        1159.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "name": "Log in",
+      "role": "link",
+      "bbox": [
+        1219,
+        115,
+        1237,
+        133
+      ],
+      "point": [
+        1228.0,
+        124.0
+      ]
+    },
+    {
+      "id": "node_94",
+      "name": "MDN",
+      "role": "link",
       "bbox": [
         18,
         161,
@@ -35,9 +217,39 @@
       ]
     },
     {
+      "id": "node_100",
+      "name": "Switch color theme",
+      "role": "button",
+      "bbox": [
+        1012,
+        158,
+        1088,
+        188
+      ],
+      "point": [
+        1050.0,
+        173.0
+      ]
+    },
+    {
+      "id": "node_107",
+      "name": "English (US)",
+      "role": "button",
+      "bbox": [
+        1120,
+        158,
+        1236,
+        188
+      ],
+      "point": [
+        1178.0,
+        173.0
+      ]
+    },
+    {
       "id": "node_130",
-      "category": "link",
       "name": "CSS",
+      "role": "link",
       "bbox": [
         398,
         354,
@@ -51,8 +263,8 @@
     },
     {
       "id": "node_135",
-      "category": "link",
       "name": "HTML",
+      "role": "link",
       "bbox": [
         458,
         354,
@@ -66,8 +278,8 @@
     },
     {
       "id": "node_140",
-      "category": "link",
       "name": "JavaScript",
+      "role": "link",
       "bbox": [
         583,
         354,
@@ -81,8 +293,8 @@
     },
     {
       "id": "node_146",
-      "category": "button",
       "name": "Search",
+      "role": "button",
       "bbox": [
         489,
         434,
@@ -96,8 +308,8 @@
     },
     {
       "id": "node_155",
-      "category": "link",
       "name": "AD",
+      "role": "link",
       "bbox": [
         1205,
         514,

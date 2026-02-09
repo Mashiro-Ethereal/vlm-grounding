@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/hackernews/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 101,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 99,
   "test_samples": [
     {
       "id": "node_12",
-      "category": "link",
       "name": "Hacker News",
+      "role": "link",
       "bbox": [
         128,
         12,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_15",
-      "category": "link",
       "name": "new",
+      "role": "link",
       "bbox": [
         230,
         12,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "past",
+      "role": "link",
       "bbox": [
         271,
         12,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_25",
-      "category": "link",
       "name": "comments",
+      "role": "link",
       "bbox": [
         312,
         12,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_30",
-      "category": "link",
       "name": "ask",
+      "role": "link",
       "bbox": [
         396,
         12,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_35",
-      "category": "link",
       "name": "show",
+      "role": "link",
       "bbox": [
         431,
         12,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_40",
-      "category": "link",
       "name": "jobs",
+      "role": "link",
       "bbox": [
         479,
         12,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_45",
-      "category": "link",
       "name": "submit",
+      "role": "link",
       "bbox": [
         519,
         12,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_49",
-      "category": "link",
       "name": "login",
+      "role": "link",
       "bbox": [
         1121,
         12,
@@ -141,8 +143,8 @@
     },
     {
       "id": "node_65",
-      "category": "link",
       "name": "Defeating a 40-year-old copy protection dongle",
+      "role": "link",
       "bbox": [
         136,
         44,
@@ -156,8 +158,8 @@
     },
     {
       "id": "node_70",
-      "category": "link",
       "name": "dmitrybrant.com",
+      "role": "link",
       "bbox": [
         459,
         46,
@@ -171,8 +173,8 @@
     },
     {
       "id": "node_83",
-      "category": "link",
       "name": "zdw",
+      "role": "link",
       "bbox": [
         203,
         61,
@@ -186,8 +188,8 @@
     },
     {
       "id": "node_89",
-      "category": "link",
       "name": "11 hours ago",
+      "role": "link",
       "bbox": [
         224,
         61,
@@ -201,8 +203,8 @@
     },
     {
       "id": "node_97",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         295,
         61,
@@ -216,8 +218,8 @@
     },
     {
       "id": "node_102",
-      "category": "link",
-      "name": "139\u00a0comments",
+      "name": "139 comments",
+      "role": "link",
       "bbox": [
         324,
         61,
@@ -231,8 +233,8 @@
     },
     {
       "id": "node_115",
-      "category": "link",
       "name": "Apple's MacBook Pro DFU port documentation is wrong",
+      "role": "link",
       "bbox": [
         136,
         79,
@@ -246,8 +248,8 @@
     },
     {
       "id": "node_120",
-      "category": "link",
       "name": "lapcatsoftware.com",
+      "role": "link",
       "bbox": [
         511,
         81,
@@ -261,8 +263,8 @@
     },
     {
       "id": "node_133",
-      "category": "link",
       "name": "zdw",
+      "role": "link",
       "bbox": [
         197,
         96,
@@ -276,8 +278,8 @@
     },
     {
       "id": "node_139",
-      "category": "link",
       "name": "5 hours ago",
+      "role": "link",
       "bbox": [
         218,
         96,
@@ -291,8 +293,8 @@
     },
     {
       "id": "node_147",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         283,
         96,
@@ -306,8 +308,8 @@
     },
     {
       "id": "node_152",
-      "category": "link",
-      "name": "15\u00a0comments",
+      "name": "15 comments",
+      "role": "link",
       "bbox": [
         312,
         96,
@@ -321,8 +323,8 @@
     },
     {
       "id": "node_165",
-      "category": "link",
       "name": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "role": "link",
       "bbox": [
         136,
         114,
@@ -336,8 +338,8 @@
     },
     {
       "id": "node_170",
-      "category": "link",
       "name": "rafaelcosta.me",
+      "role": "link",
       "bbox": [
         630,
         116,
@@ -351,8 +353,8 @@
     },
     {
       "id": "node_183",
-      "category": "link",
       "name": "rafaelcosta",
+      "role": "link",
       "bbox": [
         203,
         131,
@@ -366,8 +368,8 @@
     },
     {
       "id": "node_189",
-      "category": "link",
       "name": "11 hours ago",
+      "role": "link",
       "bbox": [
         258,
         131,
@@ -381,8 +383,8 @@
     },
     {
       "id": "node_197",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         328,
         131,
@@ -396,8 +398,8 @@
     },
     {
       "id": "node_202",
-      "category": "link",
-      "name": "122\u00a0comments",
+      "name": "122 comments",
+      "role": "link",
       "bbox": [
         358,
         131,
@@ -411,8 +413,8 @@
     },
     {
       "id": "node_215",
-      "category": "link",
-      "name": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
+      "name": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "role": "link",
       "bbox": [
         136,
         149,
@@ -426,8 +428,8 @@
     },
     {
       "id": "node_220",
-      "category": "link",
       "name": "github.com/gavrielc",
+      "role": "link",
       "bbox": [
         692,
         151,
@@ -441,8 +443,8 @@
     },
     {
       "id": "node_233",
-      "category": "link",
       "name": "jimminyx",
+      "role": "link",
       "bbox": [
         203,
         166,
@@ -456,8 +458,8 @@
     },
     {
       "id": "node_239",
-      "category": "link",
       "name": "9 hours ago",
+      "role": "link",
       "bbox": [
         249,
         166,
@@ -471,8 +473,8 @@
     },
     {
       "id": "node_247",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         313,
         166,
@@ -486,8 +488,8 @@
     },
     {
       "id": "node_252",
-      "category": "link",
-      "name": "110\u00a0comments",
+      "name": "110 comments",
+      "role": "link",
       "bbox": [
         343,
         166,
@@ -501,8 +503,8 @@
     },
     {
       "id": "node_265",
-      "category": "link",
       "name": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "role": "link",
       "bbox": [
         136,
         184,
@@ -516,8 +518,8 @@
     },
     {
       "id": "node_270",
-      "category": "link",
       "name": "xikipedia.org",
+      "role": "link",
       "bbox": [
         537,
         186,
@@ -531,8 +533,8 @@
     },
     {
       "id": "node_283",
-      "category": "link",
       "name": "rebane2001",
+      "role": "link",
       "bbox": [
         203,
         201,
@@ -546,8 +548,8 @@
     },
     {
       "id": "node_289",
-      "category": "link",
       "name": "8 hours ago",
+      "role": "link",
       "bbox": [
         262,
         201,
@@ -561,8 +563,8 @@
     },
     {
       "id": "node_297",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         327,
         201,
@@ -576,8 +578,8 @@
     },
     {
       "id": "node_302",
-      "category": "link",
-      "name": "59\u00a0comments",
+      "name": "59 comments",
+      "role": "link",
       "bbox": [
         356,
         201,
@@ -591,8 +593,8 @@
     },
     {
       "id": "node_315",
-      "category": "link",
       "name": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "role": "link",
       "bbox": [
         136,
         219,
@@ -606,8 +608,8 @@
     },
     {
       "id": "node_320",
-      "category": "link",
       "name": "dtic.mil",
+      "role": "link",
       "bbox": [
         518,
         221,
@@ -621,8 +623,8 @@
     },
     {
       "id": "node_333",
-      "category": "link",
       "name": "kioku",
+      "role": "link",
       "bbox": [
         197,
         236,
@@ -636,8 +638,8 @@
     },
     {
       "id": "node_339",
-      "category": "link",
       "name": "7 hours ago",
+      "role": "link",
       "bbox": [
         225,
         236,
@@ -651,8 +653,8 @@
     },
     {
       "id": "node_347",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         289,
         236,
@@ -666,8 +668,8 @@
     },
     {
       "id": "node_352",
-      "category": "link",
-      "name": "27\u00a0comments",
+      "name": "27 comments",
+      "role": "link",
       "bbox": [
         318,
         236,
@@ -681,8 +683,8 @@
     },
     {
       "id": "node_365",
-      "category": "link",
       "name": "Apple I Advertisement (1976)",
+      "role": "link",
       "bbox": [
         136,
         254,
@@ -696,8 +698,8 @@
     },
     {
       "id": "node_370",
-      "category": "link",
       "name": "chez.com",
+      "role": "link",
       "bbox": [
         340,
         256,
@@ -711,8 +713,8 @@
     },
     {
       "id": "node_383",
-      "category": "link",
       "name": "janandonly",
+      "role": "link",
       "bbox": [
         203,
         271,
@@ -726,8 +728,8 @@
     },
     {
       "id": "node_389",
-      "category": "link",
       "name": "15 hours ago",
+      "role": "link",
       "bbox": [
         257,
         271,
@@ -741,8 +743,8 @@
     },
     {
       "id": "node_397",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         328,
         271,
@@ -756,8 +758,8 @@
     },
     {
       "id": "node_402",
-      "category": "link",
-      "name": "127\u00a0comments",
+      "name": "127 comments",
+      "role": "link",
       "bbox": [
         357,
         271,
@@ -771,8 +773,8 @@
     },
     {
       "id": "node_415",
-      "category": "link",
       "name": "Contracts in Nix",
+      "role": "link",
       "bbox": [
         136,
         289,
@@ -786,8 +788,8 @@
     },
     {
       "id": "node_420",
-      "category": "link",
       "name": "sraka.xyz",
+      "role": "link",
       "bbox": [
         250,
         291,
@@ -801,8 +803,8 @@
     },
     {
       "id": "node_433",
-      "category": "link",
       "name": "todsacerdoti",
+      "role": "link",
       "bbox": [
         197,
         306,
@@ -816,8 +818,8 @@
     },
     {
       "id": "node_439",
-      "category": "link",
       "name": "5 hours ago",
+      "role": "link",
       "bbox": [
         258,
         306,
@@ -831,8 +833,8 @@
     },
     {
       "id": "node_447",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         323,
         306,
@@ -846,8 +848,8 @@
     },
     {
       "id": "node_452",
-      "category": "link",
-      "name": "9\u00a0comments",
+      "name": "9 comments",
+      "role": "link",
       "bbox": [
         352,
         306,
@@ -861,8 +863,8 @@
     },
     {
       "id": "node_465",
-      "category": "link",
       "name": "Adventure Game Studio: OSS software for creating adventure games",
+      "role": "link",
       "bbox": [
         136,
         324,
@@ -876,8 +878,8 @@
     },
     {
       "id": "node_470",
-      "category": "link",
       "name": "adventuregamestudio.co.uk",
+      "role": "link",
       "bbox": [
         604,
         326,
@@ -891,8 +893,8 @@
     },
     {
       "id": "node_483",
-      "category": "link",
       "name": "doener",
+      "role": "link",
       "bbox": [
         203,
         341,
@@ -906,8 +908,8 @@
     },
     {
       "id": "node_489",
-      "category": "link",
       "name": "18 hours ago",
+      "role": "link",
       "bbox": [
         239,
         341,
@@ -921,8 +923,8 @@
     },
     {
       "id": "node_497",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         309,
         341,
@@ -936,8 +938,8 @@
     },
     {
       "id": "node_502",
-      "category": "link",
-      "name": "61\u00a0comments",
+      "name": "61 comments",
+      "role": "link",
       "bbox": [
         338,
         341,
@@ -951,8 +953,8 @@
     },
     {
       "id": "node_515",
-      "category": "link",
       "name": "Treasures found on HS2 route stored in secret warehouse",
+      "role": "link",
       "bbox": [
         136,
         359,
@@ -966,8 +968,8 @@
     },
     {
       "id": "node_520",
-      "category": "link",
       "name": "bbc.com",
+      "role": "link",
       "bbox": [
         526,
         361,
@@ -981,8 +983,8 @@
     },
     {
       "id": "node_533",
-      "category": "link",
       "name": "breve",
+      "role": "link",
       "bbox": [
         197,
         376,
@@ -996,8 +998,8 @@
     },
     {
       "id": "node_539",
-      "category": "link",
       "name": "9 hours ago",
+      "role": "link",
       "bbox": [
         226,
         376,
@@ -1011,8 +1013,8 @@
     },
     {
       "id": "node_547",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         291,
         376,
@@ -1026,8 +1028,8 @@
     },
     {
       "id": "node_552",
-      "category": "link",
-      "name": "21\u00a0comments",
+      "name": "21 comments",
+      "role": "link",
       "bbox": [
         320,
         376,
@@ -1041,8 +1043,8 @@
     },
     {
       "id": "node_565",
-      "category": "link",
       "name": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
+      "role": "link",
       "bbox": [
         136,
         394,
@@ -1056,8 +1058,8 @@
     },
     {
       "id": "node_570",
-      "category": "link",
       "name": "wired.com",
+      "role": "link",
       "bbox": [
         672,
         396,
@@ -1071,8 +1073,8 @@
     },
     {
       "id": "node_583",
-      "category": "link",
       "name": "smurda",
+      "role": "link",
       "bbox": [
         197,
         411,
@@ -1086,8 +1088,8 @@
     },
     {
       "id": "node_589",
-      "category": "link",
       "name": "3 hours ago",
+      "role": "link",
       "bbox": [
         235,
         411,
@@ -1101,8 +1103,8 @@
     },
     {
       "id": "node_597",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         300,
         411,
@@ -1116,8 +1118,8 @@
     },
     {
       "id": "node_602",
-      "category": "link",
-      "name": "15\u00a0comments",
+      "name": "15 comments",
+      "role": "link",
       "bbox": [
         329,
         411,
@@ -1131,8 +1133,8 @@
     },
     {
       "id": "node_615",
-      "category": "link",
       "name": "Time Machine-style Backups with rsync (2018)",
+      "role": "link",
       "bbox": [
         136,
         429,
@@ -1146,8 +1148,8 @@
     },
     {
       "id": "node_620",
-      "category": "link",
       "name": "samuelhewitt.com",
+      "role": "link",
       "bbox": [
         454,
         431,
@@ -1161,8 +1163,8 @@
     },
     {
       "id": "node_633",
-      "category": "link",
       "name": "accrual",
+      "role": "link",
       "bbox": [
         197,
         446,
@@ -1176,8 +1178,8 @@
     },
     {
       "id": "node_639",
-      "category": "link",
       "name": "8 hours ago",
+      "role": "link",
       "bbox": [
         234,
         446,
@@ -1191,8 +1193,8 @@
     },
     {
       "id": "node_647",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         298,
         446,
@@ -1206,8 +1208,8 @@
     },
     {
       "id": "node_652",
-      "category": "link",
-      "name": "31\u00a0comments",
+      "name": "31 comments",
+      "role": "link",
       "bbox": [
         328,
         446,
@@ -1221,8 +1223,8 @@
     },
     {
       "id": "node_665",
-      "category": "link",
       "name": "Ian's Shoelace Site",
+      "role": "link",
       "bbox": [
         136,
         464,
@@ -1236,8 +1238,8 @@
     },
     {
       "id": "node_670",
-      "category": "link",
       "name": "fieggen.com",
+      "role": "link",
       "bbox": [
         270,
         466,
@@ -1251,8 +1253,8 @@
     },
     {
       "id": "node_683",
-      "category": "link",
       "name": "righthand",
+      "role": "link",
       "bbox": [
         203,
         481,
@@ -1266,8 +1268,8 @@
     },
     {
       "id": "node_689",
-      "category": "link",
       "name": "14 hours ago",
+      "role": "link",
       "bbox": [
         251,
         481,
@@ -1281,8 +1283,8 @@
     },
     {
       "id": "node_697",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         322,
         481,
@@ -1296,8 +1298,8 @@
     },
     {
       "id": "node_702",
-      "category": "link",
-      "name": "21\u00a0comments",
+      "name": "21 comments",
+      "role": "link",
       "bbox": [
         351,
         481,
@@ -1311,8 +1313,8 @@
     },
     {
       "id": "node_715",
-      "category": "link",
       "name": "Building Your Own Efficient uint128 in C++",
+      "role": "link",
       "bbox": [
         136,
         499,
@@ -1326,8 +1328,8 @@
     },
     {
       "id": "node_720",
-      "category": "link",
       "name": "solidean.com",
+      "role": "link",
       "bbox": [
         431,
         501,
@@ -1341,8 +1343,8 @@
     },
     {
       "id": "node_733",
-      "category": "link",
       "name": "PaulHoule",
+      "role": "link",
       "bbox": [
         197,
         516,
@@ -1356,8 +1358,8 @@
     },
     {
       "id": "node_739",
-      "category": "link",
       "name": "11 hours ago",
+      "role": "link",
       "bbox": [
         246,
         516,
@@ -1371,8 +1373,8 @@
     },
     {
       "id": "node_747",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         317,
         516,
@@ -1386,8 +1388,8 @@
     },
     {
       "id": "node_752",
-      "category": "link",
-      "name": "32\u00a0comments",
+      "name": "32 comments",
+      "role": "link",
       "bbox": [
         346,
         516,
@@ -1401,8 +1403,8 @@
     },
     {
       "id": "node_765",
-      "category": "link",
       "name": "Two kinds of AI users are emerging",
+      "role": "link",
       "bbox": [
         136,
         534,
@@ -1416,8 +1418,8 @@
     },
     {
       "id": "node_770",
-      "category": "link",
       "name": "martinalderson.com",
+      "role": "link",
       "bbox": [
         376,
         536,
@@ -1431,8 +1433,8 @@
     },
     {
       "id": "node_783",
-      "category": "link",
       "name": "martinald",
+      "role": "link",
       "bbox": [
         203,
         551,
@@ -1446,8 +1448,8 @@
     },
     {
       "id": "node_789",
-      "category": "link",
       "name": "8 hours ago",
+      "role": "link",
       "bbox": [
         251,
         551,
@@ -1461,8 +1463,8 @@
     },
     {
       "id": "node_797",
-      "category": "link",
       "name": "hide",
+      "role": "link",
       "bbox": [
         315,
         551,
@@ -1476,8 +1478,8 @@
     },
     {
       "id": "node_802",
-      "category": "link",
-      "name": "139\u00a0comments",
+      "name": "139 comments",
+      "role": "link",
       "bbox": [
         345,
         551,
@@ -1487,36 +1489,6 @@
       "point": [
         379.5,
         556.5
-      ]
-    },
-    {
-      "id": "node_815",
-      "category": "link",
-      "name": "Efficient String Compression for Modern Database Systems",
-      "bbox": [
-        136,
-        569,
-        530,
-        583
-      ],
-      "point": [
-        333.0,
-        576.0
-      ]
-    },
-    {
-      "id": "node_820",
-      "category": "link",
-      "name": "cedardb.com",
-      "bbox": [
-        538,
-        571,
-        607,
-        583
-      ],
-      "point": [
-        572.5,
-        577.0
       ]
     }
   ]

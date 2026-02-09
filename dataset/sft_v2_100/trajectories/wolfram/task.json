@@ -1,0 +1,7 @@
+{
+  "task_id": "wolfram",
+  "instruction": "Open Wolfram Alpha",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

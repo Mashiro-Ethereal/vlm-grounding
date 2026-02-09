@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/engadget/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 7,
   "test_samples": [
     {
       "id": "node_10",
-      "category": "link",
       "name": "News",
+      "role": "link",
       "bbox": [
         344,
         29,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_15",
-      "category": "link",
       "name": "Reviews",
+      "role": "link",
       "bbox": [
         436,
         29,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "Buying guides",
+      "role": "link",
       "bbox": [
         547,
         29,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_25",
-      "category": "link",
       "name": "Gaming",
+      "role": "link",
       "bbox": [
         700,
         29,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_30",
-      "category": "link",
       "name": "Big tech",
+      "role": "link",
       "bbox": [
         808,
         29,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_35",
-      "category": "link",
       "name": "More",
+      "role": "link",
       "bbox": [
         920,
         29,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_42",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1179,
         35,

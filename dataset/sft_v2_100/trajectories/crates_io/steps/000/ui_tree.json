@@ -1,0 +1,451 @@
+{
+  "timestamp": "2026-02-07T05:41:55.715492Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "crates.io: Rust Package Registry",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 261
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "link",
+                "name": "crates.io",
+                "bounds": {
+                  "x": 177,
+                  "y": 14,
+                  "width": 158,
+                  "height": 37
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "crates.io",
+                    "bounds": {
+                      "x": 229,
+                      "y": 17,
+                      "width": 106,
+                      "height": 31
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "crates.io",
+                        "bounds": {
+                          "x": 229,
+                          "y": 18,
+                          "width": 107,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_6",
+                "role": "label",
+                "name": "The Rust community\u2019s crate registry",
+                "bounds": {
+                  "x": 335,
+                  "y": 87,
+                  "width": 590,
+                  "height": 41
+                },
+                "children": [
+                  {
+                    "id": "node_7",
+                    "role": "label",
+                    "name": "The Rust community\u2019s crate registry",
+                    "bounds": {
+                      "x": 333,
+                      "y": 87,
+                      "width": 598,
+                      "height": 44
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_8",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 335,
+                  "y": 156,
+                  "width": 590,
+                  "height": 36
+                },
+                "children": [
+                  {
+                    "id": "node_9",
+                    "role": "textfield",
+                    "name": "Search",
+                    "bounds": {
+                      "x": 351,
+                      "y": 164,
+                      "width": 520,
+                      "height": 20
+                    },
+                    "states": [
+                      "focused"
+                    ]
+                  },
+                  {
+                    "id": "node_10",
+                    "role": "button",
+                    "name": "Submit",
+                    "bounds": {
+                      "x": 892,
+                      "y": 156,
+                      "width": 18,
+                      "height": 36
+                    },
+                    "children": [
+                      {
+                        "id": "node_11",
+                        "role": "label",
+                        "name": "Submit",
+                        "bounds": {
+                          "x": 902,
+                          "y": 174,
+                          "width": 59,
+                          "height": 19
+                        }
+                      },
+                      {
+                        "id": "node_12",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 892,
+                          "y": 165,
+                          "width": 18,
+                          "height": 18
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_13",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 739,
+                  "y": 20,
+                  "width": 344,
+                  "height": 25
+                },
+                "children": [
+                  {
+                    "id": "node_14",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 739,
+                      "y": 20,
+                      "width": 22,
+                      "height": 25
+                    },
+                    "children": [
+                      {
+                        "id": "node_15",
+                        "role": "button",
+                        "name": "Change color scheme",
+                        "bounds": {
+                          "x": 739,
+                          "y": 20,
+                          "width": 22,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 739,
+                              "y": 20,
+                              "width": 22,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_17",
+                            "role": "label",
+                            "name": "Change color scheme",
+                            "bounds": {
+                              "x": 739,
+                              "y": 31,
+                              "width": 155,
+                              "height": 17
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_18",
+                    "role": "link",
+                    "name": "Browse All Crates",
+                    "bounds": {
+                      "x": 775,
+                      "y": 23,
+                      "width": 125,
+                      "height": 18
+                    },
+                    "children": [
+                      {
+                        "id": "node_19",
+                        "role": "label",
+                        "name": "Browse All Crates",
+                        "bounds": {
+                          "x": 775,
+                          "y": 24,
+                          "width": 125,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_20",
+                    "role": "label",
+                    "name": "|",
+                    "bounds": {
+                      "x": 909,
+                      "y": 24,
+                      "width": 6,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_21",
+                    "role": "button",
+                    "name": "Log in with GitHub",
+                    "bounds": {
+                      "x": 925,
+                      "y": 23,
+                      "width": 158,
+                      "height": 18
+                    },
+                    "children": [
+                      {
+                        "id": "node_22",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 925,
+                          "y": 26,
+                          "width": 16,
+                          "height": 13
+                        }
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "label",
+                        "name": "Log in with GitHub",
+                        "bounds": {
+                          "x": 950,
+                          "y": 23,
+                          "width": 134,
+                          "height": 18
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_24",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 261,
+              "width": 1261,
+              "height": 2111
+            },
+            "children": [
+              {
+                "id": "node_25",
+                "role": "link",
+                "name": "Install Cargo",
+                "bounds": {
+                  "x": 460,
+                  "y": 311,
+                  "width": 115,
+                  "height": 18
+                },
+                "children": [
+                  {
+                    "id": "node_26",
+                    "role": "image",
+                    "name": "",
+                    "bounds": {
+                      "x": 460,
+                      "y": 312,
+                      "width": 14,
+                      "height": 17
+                    }
+                  },
+                  {
+                    "id": "node_27",
+                    "role": "label",
+                    "name": "Install Cargo",
+                    "bounds": {
+                      "x": 483,
+                      "y": 312,
+                      "width": 93,
+                      "height": 17
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_28",
+                "role": "link",
+                "name": "Getting Started",
+                "bounds": {
+                  "x": 665,
+                  "y": 311,
+                  "width": 135,
+                  "height": 18
+                },
+                "children": [
+                  {
+                    "id": "node_29",
+                    "role": "image",
+                    "name": "",
+                    "bounds": {
+                      "x": 665,
+                      "y": 313,
+                      "width": 13,
+                      "height": 15
+                    }
+                  },
+                  {
+                    "id": "node_30",
+                    "role": "label",
+                    "name": "Getting Started",
+                    "bounds": {
+                      "x": 687,
+                      "y": 312,
+                      "width": 114,
+                      "height": 17
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_31",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 186,
+                  "y": 420,
+                  "width": 511,
+                  "height": 147
+                },
+                "children": [
+                  {
+                    "id": "node_32",
+                    "role": "label",
+                    "name": "Instantly publish your crates and install them. Use the API to interact and find out more information about available crates. Become a contributor and enhance the site with your work.",
+                    "bounds": {
+                      "x": 186,
+                      "y": 423,
+                      "width": 502,
+                      "height": 66
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_33",
+                "role": "label",
+                "name": "232,385,248,698",
+                "bounds": {
+                  "x": 740,
+                  "y": 420,
+                  "width": 262,
+                  "height": 36
+                }
+              },
+              {
+                "id": "node_34",
+                "role": "label",
+                "name": "Downloads",
+                "bounds": {
+                  "x": 911,
+                  "y": 460,
+                  "width": 91,
+                  "height": 19
+                }
+              },
+              {
+                "id": "node_35",
+                "role": "label",
+                "name": "224,848",
+                "bounds": {
+                  "x": 873,
+                  "y": 503,
+                  "width": 128,
+                  "height": 36
+                }
+              },
+              {
+                "id": "node_36",
+                "role": "label",
+                "name": "Crates in stock",
+                "bounds": {
+                  "x": 882,
+                  "y": 543,
+                  "width": 121,
+                  "height": 19
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,43 +1,90 @@
 {
   "image_filename": "dataset_cropped/coolors/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 3,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 6,
   "test_samples": [
     {
-      "id": "node_175",
-      "category": "link",
-      "name": "Start the Generator",
+      "id": "node_7",
+      "name": "Tools ",
+      "role": "link",
       "bbox": [
-        110,
-        567,
-        257,
-        583
+        903,
+        12,
+        965,
+        48
       ],
       "point": [
-        183.5,
-        575.0
+        934.0,
+        30.0
       ]
     },
     {
-      "id": "node_178",
-      "category": "link",
-      "name": "Explore 10M+ Palettes",
+      "id": "node_13",
+      "name": "Go Pro",
+      "role": "link",
       "bbox": [
-        309,
-        567,
-        479,
-        583
+        997,
+        12,
+        1045,
+        48
       ],
       "point": [
-        394.0,
-        575.0
+        1021.0,
+        30.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        1090,
+        12,
+        1138,
+        48
+      ],
+      "point": [
+        1114.0,
+        30.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "name": "Sign up",
+      "role": "link",
+      "bbox": [
+        1171,
+        12,
+        1224,
+        48
+      ],
+      "point": [
+        1197.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_22",
+      "name": "Squarespace With Squarespace, you can book projects, send documents, and get paid—all in one place. Get Started",
+      "role": "link",
+      "bbox": [
+        160,
+        15,
+        552,
+        45
+      ],
+      "point": [
+        356.0,
+        30.0
       ]
     },
     {
       "id": "node_640",
-      "category": "link",
       "name": "Manage your marketing, customers, and checkout flow with Squarespace. ads via Carbon HIDE",
+      "role": "link",
       "bbox": [
         901,
         453,

@@ -1,13 +1,165 @@
 {
   "image_filename": "dataset_cropped/slack/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 3,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 13,
   "test_samples": [
     {
-      "id": "node_62",
-      "category": "link",
+      "id": "node_10",
+      "name": "Slack",
+      "role": "link",
+      "bbox": [
+        51,
+        25,
+        152,
+        63
+      ],
+      "point": [
+        101.5,
+        44.0
+      ]
+    },
+    {
+      "id": "node_15",
+      "name": "Features",
+      "role": "button",
+      "bbox": [
+        188,
+        31,
+        265,
+        50
+      ],
+      "point": [
+        226.5,
+        40.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "Solutions",
+      "role": "button",
+      "bbox": [
+        289,
+        31,
+        372,
+        50
+      ],
+      "point": [
+        330.5,
+        40.5
+      ]
+    },
+    {
+      "id": "node_25",
+      "name": "Enterprise",
+      "role": "link",
+      "bbox": [
+        396,
+        29,
+        469,
+        51
+      ],
+      "point": [
+        432.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "Resources",
+      "role": "button",
+      "bbox": [
+        493,
+        31,
+        581,
+        50
+      ],
+      "point": [
+        537.0,
+        40.5
+      ]
+    },
+    {
+      "id": "node_35",
+      "name": "Pricing",
+      "role": "link",
+      "bbox": [
+        606,
+        29,
+        655,
+        51
+      ],
+      "point": [
+        630.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        785,
+        30,
+        805,
+        54
+      ],
+      "point": [
+        795.0,
+        42.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        825,
+        30,
+        873,
+        49
+      ],
+      "point": [
+        849.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_44",
+      "name": "REQUEST A DEMO",
+      "role": "link",
+      "bbox": [
+        910,
+        31,
+        1043,
+        49
+      ],
+      "point": [
+        976.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_47",
       "name": "GET STARTED",
+      "role": "link",
+      "bbox": [
+        1095,
+        31,
+        1193,
+        49
+      ],
+      "point": [
+        1144.0,
+        40.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "name": "GET STARTED",
+      "role": "link",
       "bbox": [
         464,
         233,
@@ -21,8 +173,8 @@
     },
     {
       "id": "node_65",
-      "category": "link",
       "name": "FIND YOUR PLAN",
+      "role": "link",
       "bbox": [
         650,
         233,
@@ -36,8 +188,8 @@
     },
     {
       "id": "node_1667",
-      "category": "link",
       "name": "Get 50% off your first 3 months FIND YOUR PLAN",
+      "role": "link",
       "bbox": [
         0,
         525,

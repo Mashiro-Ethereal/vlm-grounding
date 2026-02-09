@@ -1,13 +1,45 @@
 {
   "image_filename": "dataset_cropped/timeanddate/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 17,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 22,
   "test_samples": [
     {
+      "id": "node_8",
+      "name": "timeanddate.com",
+      "role": "link",
+      "bbox": [
+        30,
+        10,
+        190,
+        100
+      ],
+      "point": [
+        110.0,
+        55.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        1196,
+        116,
+        1224,
+        144
+      ],
+      "point": [
+        1210.0,
+        130.0
+      ]
+    },
+    {
       "id": "node_26",
-      "category": "link",
-      "name": "News \ue208",
+      "name": "News ",
+      "role": "link",
       "bbox": [
         30,
         116,
@@ -21,8 +53,8 @@
     },
     {
       "id": "node_33",
-      "category": "link",
-      "name": "World Clock \ue208",
+      "name": "World Clock ",
+      "role": "link",
       "bbox": [
         114,
         116,
@@ -36,8 +68,8 @@
     },
     {
       "id": "node_40",
-      "category": "link",
-      "name": "Time Zones \ue208",
+      "name": "Time Zones ",
+      "role": "link",
       "bbox": [
         242,
         116,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_47",
-      "category": "link",
-      "name": "Calendar \ue208",
+      "name": "Calendar ",
+      "role": "link",
       "bbox": [
         370,
         116,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_54",
-      "category": "link",
-      "name": "Weather \ue208",
+      "name": "Weather ",
+      "role": "link",
       "bbox": [
         479,
         116,
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_61",
-      "category": "link",
-      "name": "Sun, Moon & Space \ue208",
+      "name": "Sun, Moon & Space ",
+      "role": "link",
       "bbox": [
         584,
         116,
@@ -96,8 +128,8 @@
     },
     {
       "id": "node_68",
-      "category": "link",
-      "name": "Timers \ue208",
+      "name": "Timers ",
+      "role": "link",
       "bbox": [
         766,
         116,
@@ -111,8 +143,8 @@
     },
     {
       "id": "node_75",
-      "category": "link",
-      "name": "Calculators \ue208",
+      "name": "Calculators ",
+      "role": "link",
       "bbox": [
         859,
         116,
@@ -126,8 +158,8 @@
     },
     {
       "id": "node_82",
-      "category": "link",
-      "name": "\ue268 My Account \ue208",
+      "name": " My Account ",
+      "role": "link",
       "bbox": [
         1055,
         116,
@@ -141,8 +173,8 @@
     },
     {
       "id": "node_117",
-      "category": "link",
       "name": "St. Louis, Missouri, USA",
+      "role": "link",
       "bbox": [
         63,
         282,
@@ -156,8 +188,8 @@
     },
     {
       "id": "node_123",
-      "category": "link",
-      "name": "Set home location \ue208",
+      "name": "Set home location ",
+      "role": "link",
       "bbox": [
         63,
         351,
@@ -171,8 +203,8 @@
     },
     {
       "id": "node_130",
-      "category": "link",
       "name": "2:42:54am",
+      "role": "link",
       "bbox": [
         163,
         238,
@@ -185,9 +217,39 @@
       ]
     },
     {
+      "id": "node_148",
+      "name": "Search for city or place…",
+      "role": "textfield",
+      "bbox": [
+        71,
+        432,
+        261,
+        458
+      ],
+      "point": [
+        166.0,
+        445.0
+      ]
+    },
+    {
+      "id": "node_150",
+      "name": "",
+      "role": "button",
+      "bbox": [
+        274,
+        432,
+        295,
+        458
+      ],
+      "point": [
+        284.5,
+        445.0
+      ]
+    },
+    {
       "id": "node_264",
-      "category": "link",
       "name": "Feb 2026 2",
+      "role": "link",
       "bbox": [
         834,
         238,
@@ -201,8 +263,8 @@
     },
     {
       "id": "node_276",
-      "category": "radiobutton",
       "name": "Full year",
+      "role": "radiobutton",
       "bbox": [
         659,
         243,
@@ -215,9 +277,24 @@
       ]
     },
     {
+      "id": "node_279",
+      "name": "Enter year as a 4-digit number.",
+      "role": "textfield",
+      "bbox": [
+        751,
+        239,
+        821,
+        261
+      ],
+      "point": [
+        786.0,
+        250.0
+      ]
+    },
+    {
       "id": "node_284",
-      "category": "radiobutton",
       "name": "Month",
+      "role": "radiobutton",
       "bbox": [
         659,
         279,
@@ -231,8 +308,8 @@
     },
     {
       "id": "node_301",
-      "category": "combobox",
       "name": "Select country",
+      "role": "combobox",
       "bbox": [
         666,
         311,
@@ -246,8 +323,8 @@
     },
     {
       "id": "node_545",
-      "category": "button",
       "name": "View Calendar",
+      "role": "button",
       "bbox": [
         675,
         356,

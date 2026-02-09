@@ -1,13 +1,195 @@
 {
   "image_filename": "dataset_cropped/qwant/screenshot_cropped.png",
-  "image_width": 1276,
-  "image_height": 583,
-  "sample_count": 3,
+  "image_size": [
+    1276,
+    583
+  ],
+  "sample_count": 24,
   "test_samples": [
     {
+      "id": "node_13",
+      "name": "its partners",
+      "role": "link",
+      "bbox": [
+        514,
+        198,
+        597,
+        217
+      ],
+      "point": [
+        555.5,
+        207.5
+      ]
+    },
+    {
+      "id": "node_21",
+      "name": "Privacy policy",
+      "role": "link",
+      "bbox": [
+        568,
+        270,
+        663,
+        289
+      ],
+      "point": [
+        615.5,
+        279.5
+      ]
+    },
+    {
+      "id": "node_31",
+      "name": "our partners",
+      "role": "link",
+      "bbox": [
+        460,
+        318,
+        549,
+        337
+      ],
+      "point": [
+        504.5,
+        327.5
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Learn More: Configure your consents",
+      "role": "button",
+      "bbox": [
+        345,
+        379,
+        511,
+        401
+      ],
+      "point": [
+        428.0,
+        390.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "name": "Disagree and close: Disagree to our data processing and close",
+      "role": "button",
+      "bbox": [
+        555,
+        379,
+        721,
+        401
+      ],
+      "point": [
+        638.0,
+        390.0
+      ]
+    },
+    {
+      "id": "node_43",
+      "name": "Agree and close: Agree to our data processing and close",
+      "role": "button",
+      "bbox": [
+        765,
+        379,
+        931,
+        401
+      ],
+      "point": [
+        848.0,
+        390.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "name": "Junior",
+      "role": "link",
+      "bbox": [
+        10,
+        136,
+        46,
+        174
+      ],
+      "point": [
+        28.0,
+        155.0
+      ]
+    },
+    {
+      "id": "node_69",
+      "name": "Qwant Search",
+      "role": "link",
+      "bbox": [
+        18,
+        88,
+        238,
+        112
+      ],
+      "point": [
+        128.0,
+        100.0
+      ]
+    },
+    {
+      "id": "node_74",
+      "name": "Qwant Junior",
+      "role": "link",
+      "bbox": [
+        18,
+        136,
+        238,
+        160
+      ],
+      "point": [
+        128.0,
+        148.0
+      ]
+    },
+    {
+      "id": "node_80",
+      "name": "Shadow Drive",
+      "role": "link",
+      "bbox": [
+        18,
+        193,
+        238,
+        217
+      ],
+      "point": [
+        128.0,
+        205.0
+      ]
+    },
+    {
+      "id": "node_85",
+      "name": "Get 20GB of free storage! Keep your private files safe and secure with Shadow Drive, the cloud storage solution from Qwant’s partner, designed and hosted in Europe.",
+      "role": "link",
+      "bbox": [
+        20,
+        233,
+        236,
+        329
+      ],
+      "point": [
+        128.0,
+        281.0
+      ]
+    },
+    {
+      "id": "node_97",
+      "name": "Discover",
+      "role": "link",
+      "bbox": [
+        20,
+        333,
+        70,
+        349
+      ],
+      "point": [
+        45.0,
+        341.0
+      ]
+    },
+    {
       "id": "node_107",
-      "category": "link",
       "name": "Show menu",
+      "role": "link",
       "bbox": [
         1181,
         17,
@@ -21,23 +203,23 @@
     },
     {
       "id": "node_124",
-      "category": "textfield",
       "name": "Enter your search term",
+      "role": "textfield",
       "bbox": [
         377,
         216,
         861,
-        264
+        272
       ],
       "point": [
         619.0,
-        240.0
+        244.0
       ]
     },
     {
       "id": "node_126",
-      "category": "button",
       "name": "Search the web",
+      "role": "button",
       "bbox": [
         873,
         228,
@@ -47,6 +229,141 @@
       "point": [
         889.0,
         244.0
+      ]
+    },
+    {
+      "id": "node_131",
+      "name": "Amazon",
+      "role": "link",
+      "bbox": [
+        358,
+        320,
+        438,
+        416
+      ],
+      "point": [
+        398.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_139",
+      "name": "Chewy",
+      "role": "link",
+      "bbox": [
+        438,
+        320,
+        518,
+        416
+      ],
+      "point": [
+        478.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_147",
+      "name": "Best Buy",
+      "role": "link",
+      "bbox": [
+        518,
+        320,
+        598,
+        416
+      ],
+      "point": [
+        558.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_155",
+      "name": "Dermstore",
+      "role": "link",
+      "bbox": [
+        598,
+        320,
+        678,
+        416
+      ],
+      "point": [
+        638.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_163",
+      "name": "JCPenney",
+      "role": "link",
+      "bbox": [
+        678,
+        320,
+        758,
+        416
+      ],
+      "point": [
+        718.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_171",
+      "name": "StubHub",
+      "role": "link",
+      "bbox": [
+        758,
+        320,
+        838,
+        416
+      ],
+      "point": [
+        798.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_179",
+      "name": "Ross-Simons",
+      "role": "link",
+      "bbox": [
+        838,
+        320,
+        918,
+        416
+      ],
+      "point": [
+        878.0,
+        368.0
+      ]
+    },
+    {
+      "id": "node_223",
+      "name": "close",
+      "role": "button",
+      "bbox": [
+        1208,
+        415,
+        1224,
+        431
+      ],
+      "point": [
+        1216.0,
+        423.0
+      ]
+    },
+    {
+      "id": "node_225",
+      "name": "Add to Chrome",
+      "role": "link",
+      "bbox": [
+        1116,
+        509,
+        1215,
+        529
+      ],
+      "point": [
+        1165.5,
+        519.0
       ]
     }
   ]

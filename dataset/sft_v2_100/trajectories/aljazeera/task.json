@@ -1,0 +1,7 @@
+{
+  "task_id": "aljazeera",
+  "instruction": "Visit Al Jazeera news",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

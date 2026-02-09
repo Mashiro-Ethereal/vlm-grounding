@@ -1,13 +1,180 @@
 {
   "image_filename": "dataset_cropped/github/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 3,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 14,
   "test_samples": [
     {
+      "id": "node_31",
+      "name": "Homepage",
+      "role": "link",
+      "bbox": [
+        32,
+        18,
+        64,
+        53
+      ],
+      "point": [
+        48.0,
+        35.5
+      ]
+    },
+    {
+      "id": "node_39",
+      "name": "Platform",
+      "role": "button",
+      "bbox": [
+        88,
+        24,
+        172,
+        48
+      ],
+      "point": [
+        130.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_44",
+      "name": "Solutions",
+      "role": "button",
+      "bbox": [
+        188,
+        24,
+        278,
+        48
+      ],
+      "point": [
+        233.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "name": "Resources",
+      "role": "button",
+      "bbox": [
+        294,
+        24,
+        393,
+        48
+      ],
+      "point": [
+        343.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_54",
+      "name": "Open Source",
+      "role": "button",
+      "bbox": [
+        409,
+        24,
+        526,
+        48
+      ],
+      "point": [
+        467.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_59",
+      "name": "Enterprise",
+      "role": "button",
+      "bbox": [
+        543,
+        24,
+        638,
+        48
+      ],
+      "point": [
+        590.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_63",
+      "name": "Pricing",
+      "role": "link",
+      "bbox": [
+        655,
+        24,
+        707,
+        48
+      ],
+      "point": [
+        681.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_68",
+      "name": "Search or jump to…",
+      "role": "button",
+      "bbox": [
+        1030,
+        21,
+        1053,
+        51
+      ],
+      "point": [
+        1041.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_84",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        1078,
+        24,
+        1125,
+        48
+      ],
+      "point": [
+        1101.5,
+        36.0
+      ]
+    },
+    {
+      "id": "node_87",
+      "name": "Sign up",
+      "role": "link",
+      "bbox": [
+        1163,
+        25,
+        1215,
+        47
+      ],
+      "point": [
+        1189.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_118",
+      "name": "Enter your email",
+      "role": "textfield",
+      "bbox": [
+        287,
+        366,
+        517,
+        394
+      ],
+      "point": [
+        402.0,
+        380.0
+      ]
+    },
+    {
       "id": "node_120",
-      "category": "button",
       "name": "Sign up for GitHub",
+      "role": "button",
       "bbox": [
         563,
         354,
@@ -21,8 +188,8 @@
     },
     {
       "id": "node_123",
-      "category": "link",
       "name": "Try GitHub Copilot free",
+      "role": "link",
       "bbox": [
         786,
         351,
@@ -36,8 +203,8 @@
     },
     {
       "id": "node_767",
-      "category": "link",
       "name": "Back to top",
+      "role": "link",
       "bbox": [
         1202,
         524,

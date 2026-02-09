@@ -1,0 +1,11 @@
+{
+  "trajectory_id": "iana_domains",
+  "success": true,
+  "total_steps": 1,
+  "completion_time_ms": 5047,
+  "error_message": null,
+  "model_info": {
+    "name": "human",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "task_id": "ecosia",
+  "instruction": "Visit Ecosia search engine",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

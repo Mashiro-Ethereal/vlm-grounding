@@ -1,0 +1,7 @@
+{
+  "task_id": "xe_currency",
+  "instruction": "Visit XE currency converter",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,559 @@
+{
+  "timestamp": "2026-02-07T05:41:58.923473Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "NuGet Gallery | Home",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "unknown",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 1792
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 45
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 60,
+                      "y": 0,
+                      "width": 1140,
+                      "height": 1
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Skip To Content",
+                        "bounds": {
+                          "x": 568,
+                          "y": -10,
+                          "width": 124,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_6",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 60,
+                      "y": 1,
+                      "width": 1140,
+                      "height": 44
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "link",
+                        "name": "NuGet Home",
+                        "bounds": {
+                          "x": 60,
+                          "y": 9,
+                          "width": 114,
+                          "height": 29
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "image",
+                            "name": "NuGet Home",
+                            "bounds": {
+                              "x": 60,
+                              "y": 9,
+                              "width": 94,
+                              "height": 29
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 75,
+                          "y": 1,
+                          "width": 1110,
+                          "height": 44
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 174,
+                              "y": 1,
+                              "width": 630,
+                              "height": 44
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "tab",
+                                "name": "Packages",
+                                "bounds": {
+                                  "x": 189,
+                                  "y": 12,
+                                  "width": 74,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_12",
+                                    "role": "label",
+                                    "name": "Packages",
+                                    "bounds": {
+                                      "x": 189,
+                                      "y": 13,
+                                      "width": 74,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_13",
+                                "role": "tab",
+                                "name": "Upload",
+                                "bounds": {
+                                  "x": 294,
+                                  "y": 12,
+                                  "width": 56,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "label",
+                                    "name": "Upload",
+                                    "bounds": {
+                                      "x": 294,
+                                      "y": 13,
+                                      "width": 56,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "tab",
+                                "name": "Statistics",
+                                "bounds": {
+                                  "x": 380,
+                                  "y": 12,
+                                  "width": 73,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "label",
+                                    "name": "Statistics",
+                                    "bounds": {
+                                      "x": 380,
+                                      "y": 13,
+                                      "width": 73,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_17",
+                                "role": "tab",
+                                "name": "Documentation",
+                                "bounds": {
+                                  "x": 483,
+                                  "y": 12,
+                                  "width": 123,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_18",
+                                    "role": "label",
+                                    "name": "Documentation",
+                                    "bounds": {
+                                      "x": 483,
+                                      "y": 13,
+                                      "width": 123,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_19",
+                                "role": "tab",
+                                "name": "Downloads",
+                                "bounds": {
+                                  "x": 636,
+                                  "y": 12,
+                                  "width": 87,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "label",
+                                    "name": "Downloads",
+                                    "bounds": {
+                                      "x": 636,
+                                      "y": 13,
+                                      "width": 87,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_21",
+                                "role": "tab",
+                                "name": "Blog",
+                                "bounds": {
+                                  "x": 754,
+                                  "y": 12,
+                                  "width": 35,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "label",
+                                    "name": "Blog",
+                                    "bounds": {
+                                      "x": 754,
+                                      "y": 13,
+                                      "width": 35,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_23",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1115,
+                              "y": 1,
+                              "width": 84,
+                              "height": 44
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "tab",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1130,
+                                  "y": 12,
+                                  "width": 54,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_25",
+                                    "role": "label",
+                                    "name": "Sign in",
+                                    "bounds": {
+                                      "x": 1130,
+                                      "y": 13,
+                                      "width": 54,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_26",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 45,
+                  "width": 1261,
+                  "height": 1410
+                },
+                "children": [
+                  {
+                    "id": "node_27",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 45,
+                      "width": 1261,
+                      "height": 1410
+                    },
+                    "children": [
+                      {
+                        "id": "node_28",
+                        "role": "label",
+                        "name": "Create .NET apps faster with NuGet",
+                        "bounds": {
+                          "x": 77,
+                          "y": 82,
+                          "width": 1106,
+                          "height": 104
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "label",
+                            "name": "Create .NET apps faster with NuGet",
+                            "bounds": {
+                              "x": 176,
+                              "y": 75,
+                              "width": 908,
+                              "height": 117
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_30",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 255,
+                          "y": 218,
+                          "width": 750,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_31",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 255,
+                              "y": 218,
+                              "width": 750,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_32",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 255,
+                                  "y": 218,
+                                  "width": 750,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_33",
+                                    "role": "textfield",
+                                    "name": "Enter packages to search",
+                                    "bounds": {
+                                      "x": 268,
+                                      "y": 225,
+                                      "width": 683,
+                                      "height": 21
+                                    },
+                                    "states": [
+                                      "focused"
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_34",
+                                    "role": "button",
+                                    "name": "Search",
+                                    "bounds": {
+                                      "x": 977,
+                                      "y": 226,
+                                      "width": 14,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_35",
+                        "role": "image",
+                        "name": "NuGet.org has 859981375979 package downloads, 11031151 package versions, and 495174 unique packages.",
+                        "bounds": {
+                          "x": 180,
+                          "y": 254,
+                          "width": 900,
+                          "height": 396
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 648,
+                              "y": 264,
+                              "width": 240,
+                              "height": 75
+                            },
+                            "children": [
+                              {
+                                "id": "node_37",
+                                "role": "label",
+                                "name": "859,981,375,979",
+                                "bounds": {
+                                  "x": 648,
+                                  "y": 267,
+                                  "width": 240,
+                                  "height": 33
+                                }
+                              },
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "package downloads",
+                                "bounds": {
+                                  "x": 684,
+                                  "y": 306,
+                                  "width": 169,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_39",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 220,
+                              "y": 317,
+                              "width": 160,
+                              "height": 75
+                            },
+                            "children": [
+                              {
+                                "id": "node_40",
+                                "role": "label",
+                                "name": "11,031,151",
+                                "bounds": {
+                                  "x": 220,
+                                  "y": 320,
+                                  "width": 160,
+                                  "height": 33
+                                }
+                              },
+                              {
+                                "id": "node_41",
+                                "role": "label",
+                                "name": "package versions",
+                                "bounds": {
+                                  "x": 226,
+                                  "y": 359,
+                                  "width": 149,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_42",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 880,
+                              "y": 359,
+                              "width": 144,
+                              "height": 75
+                            },
+                            "children": [
+                              {
+                                "id": "node_43",
+                                "role": "label",
+                                "name": "495,174",
+                                "bounds": {
+                                  "x": 894,
+                                  "y": 362,
+                                  "width": 115,
+                                  "height": 33
+                                }
+                              },
+                              {
+                                "id": "node_44",
+                                "role": "label",
+                                "name": "unique packages",
+                                "bounds": {
+                                  "x": 880,
+                                  "y": 401,
+                                  "width": 145,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

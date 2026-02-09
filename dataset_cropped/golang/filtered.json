@@ -1,13 +1,45 @@
 {
   "image_filename": "dataset_cropped/golang/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 14,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 16,
   "test_samples": [
     {
+      "id": "node_5",
+      "name": "Go",
+      "role": "link",
+      "bbox": [
+        24,
+        12,
+        142,
+        44
+      ],
+      "point": [
+        83.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_8",
+      "name": "Skip to main content",
+      "role": "link",
+      "bbox": [
+        105,
+        17,
+        272,
+        39
+      ],
+      "point": [
+        188.5,
+        28.0
+      ]
+    },
+    {
       "id": "node_13",
-      "category": "link",
       "name": "Why Go",
+      "role": "link",
       "bbox": [
         590,
         3,
@@ -21,8 +53,8 @@
     },
     {
       "id": "node_18",
-      "category": "link",
       "name": "Learn",
+      "role": "link",
       "bbox": [
         734,
         3,
@@ -36,8 +68,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Docs",
+      "role": "link",
       "bbox": [
         837,
         3,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_28",
-      "category": "link",
       "name": "Packages",
+      "role": "link",
       "bbox": [
         958,
         3,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_33",
-      "category": "link",
       "name": "Community",
+      "role": "link",
       "bbox": [
         1091,
         3,
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_200",
-      "category": "button",
       "name": "Get Started",
+      "role": "button",
       "bbox": [
         49,
         374,
@@ -96,8 +128,8 @@
     },
     {
       "id": "node_203",
-      "category": "button",
       "name": "Download",
+      "role": "button",
       "bbox": [
         350,
         374,
@@ -111,8 +143,8 @@
     },
     {
       "id": "node_211",
-      "category": "link",
       "name": "Windows 64-bit",
+      "role": "link",
       "bbox": [
         205,
         438,
@@ -126,8 +158,8 @@
     },
     {
       "id": "node_216",
-      "category": "link",
       "name": "macOS",
+      "role": "link",
       "bbox": [
         313,
         438,
@@ -141,8 +173,8 @@
     },
     {
       "id": "node_221",
-      "category": "link",
       "name": "Linux",
+      "role": "link",
       "bbox": [
         368,
         438,
@@ -156,8 +188,8 @@
     },
     {
       "id": "node_226",
-      "category": "link",
       "name": "more",
+      "role": "link",
       "bbox": [
         440,
         438,
@@ -171,8 +203,8 @@
     },
     {
       "id": "node_238",
-      "category": "link",
       "name": "Learn more.",
+      "role": "link",
       "bbox": [
         122,
         487,
@@ -186,8 +218,8 @@
     },
     {
       "id": "node_880",
-      "category": "link",
       "name": "Learn more.",
+      "role": "link",
       "bbox": [
         968,
         536,
@@ -201,8 +233,8 @@
     },
     {
       "id": "node_884",
-      "category": "button",
       "name": "Okay",
+      "role": "button",
       "bbox": [
         1089,
         535,

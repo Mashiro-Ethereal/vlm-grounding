@@ -1,0 +1,7 @@
+{
+  "task_id": "whatismyip",
+  "instruction": "Check IP address",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

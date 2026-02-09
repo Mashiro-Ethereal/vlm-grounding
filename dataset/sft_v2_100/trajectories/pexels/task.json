@@ -1,0 +1,7 @@
+{
+  "task_id": "pexels",
+  "instruction": "Open Pexels stock photos",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

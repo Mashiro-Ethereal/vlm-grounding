@@ -1,0 +1,7 @@
+{
+  "task_id": "cnn_news",
+  "instruction": "Navigate to CNN homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

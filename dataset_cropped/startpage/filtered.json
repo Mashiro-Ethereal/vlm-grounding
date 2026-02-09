@@ -1,28 +1,120 @@
 {
   "image_filename": "dataset_cropped/startpage/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 2,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
+      "id": "node_12",
+      "name": "Get the app",
+      "role": "link",
+      "bbox": [
+        782,
+        18,
+        893,
+        45
+      ],
+      "point": [
+        837.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_15",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        1186,
+        24,
+        1202,
+        40
+      ],
+      "point": [
+        1194.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Privacy, Please!",
+      "role": "button",
+      "bbox": [
+        1050,
+        85,
+        1178,
+        111
+      ],
+      "point": [
+        1114.0,
+        98.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "name": "hamburger menu",
+      "role": "button",
+      "bbox": [
+        1205,
+        88,
+        1245,
+        108
+      ],
+      "point": [
+        1225.0,
+        98.0
+      ]
+    },
+    {
+      "id": "node_72",
+      "name": "search",
+      "role": "textfield",
+      "bbox": [
+        379,
+        262,
+        822,
+        282
+      ],
+      "point": [
+        600.5,
+        272.0
+      ]
+    },
+    {
       "id": "node_75",
-      "category": "button",
       "name": "search button",
+      "role": "button",
       "bbox": [
         862,
         264,
         878,
-        273
+        280
       ],
       "point": [
         870.0,
-        268.5
+        272.0
+      ]
+    },
+    {
+      "id": "node_77",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        870,
+        369,
+        882,
+        381
+      ],
+      "point": [
+        876.0,
+        375.0
       ]
     },
     {
       "id": "node_98",
-      "category": "link",
       "name": "Get the app",
+      "role": "link",
       "bbox": [
         719,
         438,

@@ -1,0 +1,970 @@
+{
+  "timestamp": "2026-02-07T05:45:48.342266Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Font Awesome",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 8463
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 8463
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 16,
+                      "width": 1261,
+                      "height": 44
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 70,
+                          "y": 16,
+                          "width": 1120,
+                          "height": 44
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "link",
+                            "name": "Font Awesome Font Awesome",
+                            "bounds": {
+                              "x": 86,
+                              "y": 26,
+                              "width": 25,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 86,
+                                  "y": 23,
+                                  "width": 25,
+                                  "height": 23
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "label",
+                                    "name": "Font Awesome",
+                                    "bounds": {
+                                      "x": 110,
+                                      "y": 26,
+                                      "width": 110,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_9",
+                                "role": "label",
+                                "name": "Font Awesome",
+                                "bounds": {
+                                  "x": 110,
+                                  "y": 29,
+                                  "width": 110,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_10",
+                            "role": "label",
+                            "name": "Start",
+                            "bounds": {
+                              "x": 183,
+                              "y": 30,
+                              "width": 36,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "Search Icons",
+                            "bounds": {
+                              "x": 287,
+                              "y": 29,
+                              "width": 94,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "Icons",
+                            "bounds": {
+                              "x": 336,
+                              "y": 30,
+                              "width": 38,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_13",
+                            "role": "link",
+                            "name": "Docs",
+                            "bounds": {
+                              "x": 423,
+                              "y": 26,
+                              "width": 36,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_14",
+                                "role": "label",
+                                "name": "Docs",
+                                "bounds": {
+                                  "x": 423,
+                                  "y": 30,
+                                  "width": 36,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": "Plans",
+                            "bounds": {
+                              "x": 508,
+                              "y": 30,
+                              "width": 39,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_16",
+                            "role": "label",
+                            "name": "Support",
+                            "bounds": {
+                              "x": 595,
+                              "y": 30,
+                              "width": 59,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_17",
+                            "role": "link",
+                            "name": "Podcast",
+                            "bounds": {
+                              "x": 703,
+                              "y": 26,
+                              "width": 60,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_18",
+                                "role": "label",
+                                "name": "Podcast",
+                                "bounds": {
+                                  "x": 703,
+                                  "y": 30,
+                                  "width": 60,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_19",
+                            "role": "label",
+                            "name": "Sign In",
+                            "bounds": {
+                              "x": 1173,
+                              "y": 28,
+                              "width": 51,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_20",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1069,
+                              "y": 29,
+                              "width": 41,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "label",
+                                "name": "Sign In",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_22",
+                    "role": "panel",
+                    "name": "Duotone Thin!",
+                    "bounds": {
+                      "x": 439,
+                      "y": 128,
+                      "width": 383,
+                      "height": 64
+                    },
+                    "children": [
+                      {
+                        "id": "node_23",
+                        "role": "label",
+                        "name": "\uf2b4",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_24",
+                        "role": "label",
+                        "name": "Duotone Thin!",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_25",
+                    "role": "label",
+                    "name": "Font Awesome. Icons. Easy. Done.",
+                    "bounds": {
+                      "x": 439,
+                      "y": 217,
+                      "width": 383,
+                      "height": 90
+                    }
+                  },
+                  {
+                    "id": "node_26",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 439,
+                      "y": 347,
+                      "width": 383,
+                      "height": 60
+                    }
+                  },
+                  {
+                    "id": "node_27",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 439,
+                      "y": 539,
+                      "width": 383,
+                      "height": 21
+                    }
+                  },
+                  {
+                    "id": "node_28",
+                    "role": "label",
+                    "name": "LINK TO NEW ICON PACKS ON THIS PAGE",
+                    "bounds": {
+                      "x": 652,
+                      "y": 26,
+                      "width": 36,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_29",
+                    "role": "label",
+                    "name": "HOT OFF THE GRIDDLE",
+                    "bounds": {
+                      "x": 713,
+                      "y": 26,
+                      "width": 39,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_30",
+                    "role": "label",
+                    "name": "PRO+",
+                    "bounds": {
+                      "x": 779,
+                      "y": 26,
+                      "width": 33,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_31",
+                    "role": "label",
+                    "name": "It's a mystery block... here we go!",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_32",
+                    "role": "label",
+                    "name": "MORE ICON PACKS COMING SOON!",
+                    "bounds": {
+                      "x": 838,
+                      "y": 26,
+                      "width": 44,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_33",
+                    "role": "label",
+                    "name": "LINK TO TECH UPDATES ON THIS PAGE",
+                    "bounds": {
+                      "x": 698,
+                      "y": 26,
+                      "width": 3,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_34",
+                    "role": "label",
+                    "name": "ONLY THE FRESHEST INGREDIENTS",
+                    "bounds": {
+                      "x": 764,
+                      "y": 26,
+                      "width": 3,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_35",
+                    "role": "label",
+                    "name": "NEW!",
+                    "bounds": {
+                      "x": 823,
+                      "y": 26,
+                      "width": 3,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_36",
+                    "role": "label",
+                    "name": "NEW!",
+                    "bounds": {
+                      "x": 892,
+                      "y": 26,
+                      "width": 3,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_37",
+                    "role": "label",
+                    "name": "NEW!",
+                    "bounds": {
+                      "x": 932,
+                      "y": 26,
+                      "width": 3,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_38",
+                    "role": "label",
+                    "name": "Show Styling Tools",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_39",
+                    "role": "label",
+                    "name": "Show animation options",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_40",
+                    "role": "label",
+                    "name": "Nox!",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_41",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 196,
+                      "y": 151,
+                      "width": 728,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "combobox",
+                        "name": "Icon Family",
+                        "bounds": {
+                          "x": 196,
+                          "y": 76,
+                          "width": 728,
+                          "height": 90
+                        },
+                        "states": [
+                          "collapsed"
+                        ]
+                      },
+                      {
+                        "id": "node_43",
+                        "role": "label",
+                        "name": "Icon Family",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "Classic Solid",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_45",
+                        "role": "label",
+                        "name": "Classic Regular",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_46",
+                        "role": "label",
+                        "name": "Classic Light",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_47",
+                        "role": "label",
+                        "name": "Classic Thin",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_48",
+                    "role": "label",
+                    "name": "Copy Code Snippet",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_49",
+                    "role": "label",
+                    "name": "Set up your web project to use this icon!",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_50",
+                    "role": "label",
+                    "name": "Magically add modifiers to this icon!",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_51",
+                    "role": "label",
+                    "name": "Use basic CSS style to add color to an icon. Click to learn more",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_52",
+                    "role": "label",
+                    "name": "Remove Coloring",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_53",
+                    "role": "radiobutton",
+                    "name": "Color it yellow",
+                    "bounds": {
+                      "x": 942,
+                      "y": 71,
+                      "width": 300,
+                      "height": 250
+                    }
+                  },
+                  {
+                    "id": "node_54",
+                    "role": "label",
+                    "name": "Color it yellow",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_55",
+                    "role": "radiobutton",
+                    "name": "Color it teal",
+                    "bounds": {
+                      "x": 942,
+                      "y": 371,
+                      "width": 300,
+                      "height": 250
+                    }
+                  },
+                  {
+                    "id": "node_56",
+                    "role": "label",
+                    "name": "Color it teal",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_57",
+                    "role": "label",
+                    "name": "Color it blue",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_58",
+                    "role": "label",
+                    "name": "Color it violet",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_59",
+                    "role": "label",
+                    "name": "Pick your own color",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_60",
+                    "role": "label",
+                    "name": "Pick your own color",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_61",
+                    "role": "label",
+                    "name": "With our web toolkit, you can easily size an icon with a CSS class. Click to learn more",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_62",
+                    "role": "label",
+                    "name": "Remove Sizing",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_63",
+                    "role": "label",
+                    "name": "xl",
+                    "bounds": {
+                      "x": 556,
+                      "y": 181,
+                      "width": 3,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "id": "node_64",
+                    "role": "label",
+                    "name": "With our web toolkit, you can easily rotate an icon with a CSS class. Click to learn more",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_65",
+                    "role": "label",
+                    "name": "No Rotation",
+                    "bounds": {
+                      "x": 445,
+                      "y": 542,
+                      "width": 9,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_66",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 451,
+                      "y": 477,
+                      "width": 16,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_67",
+                        "role": "label",
+                        "name": "Remove Rotation",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_68",
+                    "role": "label",
+                    "name": "90\u00b0",
+                    "bounds": {
+                      "x": 547,
+                      "y": 410,
+                      "width": 26,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_69",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 489,
+                      "y": 431,
+                      "width": 19,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_70",
+                        "role": "label",
+                        "name": "Rotate 90deg to the right",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_71",
+                    "role": "label",
+                    "name": "180\u00b0",
+                    "bounds": {
+                      "x": 640,
+                      "y": 477,
+                      "width": 29,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_72",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 603,
+                      "y": 431,
+                      "width": 27,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_73",
+                        "role": "label",
+                        "name": "Rotate 180deg to the right",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_74",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 647,
+                      "y": 542,
+                      "width": 28,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_75",
+                        "role": "label",
+                        "name": "Rotate 270deg to the right",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_76",
+                    "role": "textfield",
+                    "name": "Custom...",
+                    "bounds": {
+                      "x": 196,
+                      "y": 76,
+                      "width": 728,
+                      "height": 90
+                    }
+                  },
+                  {
+                    "id": "node_77",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 392,
+                      "y": 516,
+                      "width": 99,
+                      "height": 18
+                    },
+                    "children": [
+                      {
+                        "id": "node_78",
+                        "role": "label",
+                        "name": "With our web toolkit, you can easily flip an icon with a CSS class. Click to learn more",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_79",
+                    "role": "label",
+                    "name": "Remove Flipping",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_80",
+                    "role": "label",
+                    "name": "Flip Horizontal",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_81",
+                    "role": "label",
+                    "name": "Flip Vertical",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_82",
+                    "role": "label",
+                    "name": "Flip Both",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_83",
+                    "role": "link",
+                    "name": "76309 stargazers on GitHub",
+                    "bounds": {
+                      "x": 196,
+                      "y": 76,
+                      "width": 728,
+                      "height": 90
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "task_id": "fontawesome",
+  "instruction": "Visit Font Awesome icons",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

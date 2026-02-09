@@ -1,13 +1,60 @@
 {
   "image_filename": "dataset_cropped/pexels/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 8,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 13,
   "test_samples": [
     {
+      "id": "node_12",
+      "name": "Explore",
+      "role": "link",
+      "bbox": [
+        879,
+        26,
+        937,
+        53
+      ],
+      "point": [
+        908.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "License",
+      "role": "link",
+      "bbox": [
+        1000,
+        29,
+        1059,
+        51
+      ],
+      "point": [
+        1029.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "name": "Join",
+      "role": "button",
+      "bbox": [
+        1176,
+        18,
+        1209,
+        62
+      ],
+      "point": [
+        1192.5,
+        40.0
+      ]
+    },
+    {
       "id": "node_42",
-      "category": "button",
       "name": "Photos",
+      "role": "button",
       "bbox": [
         58,
         383,
@@ -21,8 +68,8 @@
     },
     {
       "id": "node_49",
-      "category": "textfield",
       "name": "Search for free photos",
+      "role": "textfield",
       "bbox": [
         200,
         372,
@@ -36,8 +83,8 @@
     },
     {
       "id": "node_63",
-      "category": "button",
       "name": "Join",
+      "role": "button",
       "bbox": [
         643,
         377,
@@ -50,9 +97,24 @@
       ]
     },
     {
+      "id": "node_54",
+      "name": "Textures in Focus 26 days left Textures in Focus Join",
+      "role": "link",
+      "bbox": [
+        643,
+        149,
+        895,
+        401
+      ],
+      "point": [
+        769.0,
+        275.0
+      ]
+    },
+    {
       "id": "node_76",
-      "category": "button",
       "name": "Join",
+      "role": "button",
       "bbox": [
         955,
         377,
@@ -65,9 +127,24 @@
       ]
     },
     {
+      "id": "node_67",
+      "name": "Purple Hue 13 days left Purple Hue Join",
+      "role": "link",
+      "bbox": [
+        955,
+        149,
+        1207,
+        401
+      ],
+      "point": [
+        1081.0,
+        275.0
+      ]
+    },
+    {
       "id": "node_86",
-      "category": "link",
       "name": "Home",
+      "role": "link",
       "bbox": [
         422,
         472,
@@ -81,8 +158,8 @@
     },
     {
       "id": "node_89",
-      "category": "link",
       "name": "Videos",
+      "role": "link",
       "bbox": [
         519,
         472,
@@ -96,8 +173,8 @@
     },
     {
       "id": "node_92",
-      "category": "link",
       "name": "Leaderboard",
+      "role": "link",
       "bbox": [
         612,
         472,
@@ -111,8 +188,8 @@
     },
     {
       "id": "node_95",
-      "category": "link",
       "name": "Challenges",
+      "role": "link",
       "bbox": [
         753,
         472,

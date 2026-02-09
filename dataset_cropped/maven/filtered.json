@@ -1,13 +1,45 @@
 {
   "image_filename": "dataset_cropped/maven/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 34,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 41,
   "test_samples": [
     {
+      "id": "node_5",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        25,
+        33,
+        235,
+        49
+      ],
+      "point": [
+        130.0,
+        41.0
+      ]
+    },
+    {
+      "id": "node_9",
+      "name": "Type / to search",
+      "role": "textfield",
+      "bbox": [
+        281,
+        18,
+        829,
+        42
+      ],
+      "point": [
+        555.0,
+        30.0
+      ]
+    },
+    {
       "id": "node_11",
-      "category": "button",
       "name": "Search",
+      "role": "button",
       "bbox": [
         862,
         17,
@@ -21,8 +53,8 @@
     },
     {
       "id": "node_15",
-      "category": "link",
       "name": "Categories",
+      "role": "link",
       "bbox": [
         960,
         22,
@@ -36,8 +68,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "Popular",
+      "role": "link",
       "bbox": [
         1089,
         22,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_25",
-      "category": "link",
       "name": "About",
+      "role": "link",
       "bbox": [
         1194,
         22,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_30",
-      "category": "link",
       "name": "Indexed Artifacts (64.8M)",
+      "role": "link",
       "bbox": [
         28,
         69,
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_67",
-      "category": "link",
       "name": "Categories (277)",
+      "role": "link",
       "bbox": [
         64,
         266,
@@ -96,8 +128,8 @@
     },
     {
       "id": "node_76",
-      "category": "link",
       "name": "Maven Plugins",
+      "role": "link",
       "bbox": [
         33,
         307,
@@ -111,8 +143,8 @@
     },
     {
       "id": "node_83",
-      "category": "link",
       "name": "Testing Frameworks & Tools",
+      "role": "link",
       "bbox": [
         33,
         337,
@@ -126,8 +158,8 @@
     },
     {
       "id": "node_90",
-      "category": "link",
       "name": "Android Packages",
+      "role": "link",
       "bbox": [
         33,
         367,
@@ -141,8 +173,8 @@
     },
     {
       "id": "node_97",
-      "category": "link",
       "name": "Language Runtime",
+      "role": "link",
       "bbox": [
         33,
         397,
@@ -156,8 +188,8 @@
     },
     {
       "id": "node_104",
-      "category": "link",
       "name": "JVM Languages",
+      "role": "link",
       "bbox": [
         33,
         428,
@@ -171,8 +203,8 @@
     },
     {
       "id": "node_111",
-      "category": "link",
       "name": "Logging Frameworks",
+      "role": "link",
       "bbox": [
         33,
         458,
@@ -186,8 +218,8 @@
     },
     {
       "id": "node_118",
-      "category": "link",
       "name": "JSON Libraries",
+      "role": "link",
       "bbox": [
         33,
         488,
@@ -201,8 +233,8 @@
     },
     {
       "id": "node_125",
-      "category": "link",
       "name": "Java Specifications",
+      "role": "link",
       "bbox": [
         33,
         518,
@@ -216,8 +248,8 @@
     },
     {
       "id": "node_132",
-      "category": "link",
       "name": "Core Utilities",
+      "role": "link",
       "bbox": [
         33,
         548,
@@ -230,24 +262,9 @@
       ]
     },
     {
-      "id": "node_139",
-      "category": "link",
-      "name": "Mocking",
-      "bbox": [
-        33,
-        579,
-        91,
-        583
-      ],
-      "point": [
-        62.0,
-        581.0
-      ]
-    },
-    {
       "id": "node_227",
-      "category": "link",
       "name": "Kotlin JS",
+      "role": "link",
       "bbox": [
         340,
         116,
@@ -261,23 +278,23 @@
     },
     {
       "id": "node_230",
-      "category": "link",
       "name": "58 usages",
+      "role": "link",
       "bbox": [
         853,
         120,
         915,
-        133
+        135
       ],
       "point": [
         884.0,
-        126.5
+        127.5
       ]
     },
     {
       "id": "node_236",
-      "category": "link",
       "name": "org.jetbrains.kotlin-wrappers",
+      "role": "link",
       "bbox": [
         340,
         141,
@@ -291,8 +308,8 @@
     },
     {
       "id": "node_241",
-      "category": "link",
       "name": "kotlin-js",
+      "role": "link",
       "bbox": [
         559,
         141,
@@ -306,8 +323,8 @@
     },
     {
       "id": "node_246",
-      "category": "link",
       "name": "2026.2.0",
+      "role": "link",
       "bbox": [
         631,
         141,
@@ -321,8 +338,8 @@
     },
     {
       "id": "node_261",
-      "category": "link",
       "name": "Kotlin Browser",
+      "role": "link",
       "bbox": [
         340,
         264,
@@ -336,23 +353,23 @@
     },
     {
       "id": "node_264",
-      "category": "link",
       "name": "45 usages",
+      "role": "link",
       "bbox": [
         853,
         268,
         915,
-        281
+        283
       ],
       "point": [
         884.0,
-        274.5
+        275.5
       ]
     },
     {
       "id": "node_270",
-      "category": "link",
       "name": "org.jetbrains.kotlin-wrappers",
+      "role": "link",
       "bbox": [
         340,
         289,
@@ -366,8 +383,8 @@
     },
     {
       "id": "node_275",
-      "category": "link",
       "name": "kotlin-browser",
+      "role": "link",
       "bbox": [
         559,
         289,
@@ -381,8 +398,8 @@
     },
     {
       "id": "node_280",
-      "category": "link",
       "name": "2026.2.0",
+      "role": "link",
       "bbox": [
         676,
         289,
@@ -396,8 +413,8 @@
     },
     {
       "id": "node_295",
-      "category": "link",
       "name": "Kotlin React Core",
+      "role": "link",
       "bbox": [
         340,
         412,
@@ -411,23 +428,23 @@
     },
     {
       "id": "node_298",
-      "category": "link",
       "name": "20 usages",
+      "role": "link",
       "bbox": [
         853,
         416,
         915,
-        429
+        431
       ],
       "point": [
         884.0,
-        422.5
+        423.5
       ]
     },
     {
       "id": "node_304",
-      "category": "link",
       "name": "org.jetbrains.kotlin-wrappers",
+      "role": "link",
       "bbox": [
         340,
         437,
@@ -441,8 +458,8 @@
     },
     {
       "id": "node_309",
-      "category": "link",
       "name": "kotlin-react-core",
+      "role": "link",
       "bbox": [
         559,
         437,
@@ -456,8 +473,8 @@
     },
     {
       "id": "node_314",
-      "category": "link",
       "name": "2026.2.0-19.2.4",
+      "role": "link",
       "bbox": [
         691,
         437,
@@ -471,8 +488,8 @@
     },
     {
       "id": "node_329",
-      "category": "link",
       "name": "Kotlin React Core",
+      "role": "link",
       "bbox": [
         340,
         560,
@@ -486,23 +503,23 @@
     },
     {
       "id": "node_332",
-      "category": "link",
       "name": "15 usages",
+      "role": "link",
       "bbox": [
         853,
         564,
         915,
-        577
+        579
       ],
       "point": [
         884.0,
-        570.5
+        571.5
       ]
     },
     {
       "id": "node_1241",
-      "category": "link",
       "name": "Indexed Repositories (3151)",
+      "role": "link",
       "bbox": [
         989,
         351,
@@ -512,6 +529,96 @@
       "point": [
         1100.5,
         359.0
+      ]
+    },
+    {
+      "id": "node_1247",
+      "name": "Central",
+      "role": "link",
+      "bbox": [
+        956,
+        388,
+        1246,
+        413
+      ],
+      "point": [
+        1101.0,
+        400.5
+      ]
+    },
+    {
+      "id": "node_1254",
+      "name": "Atlassian External",
+      "role": "link",
+      "bbox": [
+        956,
+        418,
+        1246,
+        443
+      ],
+      "point": [
+        1101.0,
+        430.5
+      ]
+    },
+    {
+      "id": "node_1261",
+      "name": "Atlassian",
+      "role": "link",
+      "bbox": [
+        956,
+        448,
+        1246,
+        473
+      ],
+      "point": [
+        1101.0,
+        460.5
+      ]
+    },
+    {
+      "id": "node_1268",
+      "name": "WSO2 Releases",
+      "role": "link",
+      "bbox": [
+        956,
+        478,
+        1246,
+        503
+      ],
+      "point": [
+        1101.0,
+        490.5
+      ]
+    },
+    {
+      "id": "node_1275",
+      "name": "WSO2 Public",
+      "role": "link",
+      "bbox": [
+        956,
+        509,
+        1246,
+        534
+      ],
+      "point": [
+        1101.0,
+        521.5
+      ]
+    },
+    {
+      "id": "node_1282",
+      "name": "Hortonworks",
+      "role": "link",
+      "bbox": [
+        956,
+        539,
+        1246,
+        564
+      ],
+      "point": [
+        1101.0,
+        551.5
       ]
     }
   ]

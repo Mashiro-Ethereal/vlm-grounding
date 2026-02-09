@@ -1,17 +1,184 @@
 {
   "image_filename": "dataset_cropped/angular/screenshot_cropped.png",
-  "image_width": 1268,
-  "image_height": 583,
-  "sample_count": 1,
+  "image_size": [
+    1268,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_18",
+      "name": "Angular homepage",
+      "role": "link",
+      "bbox": [
+        0,
+        36,
+        110,
+        70
+      ],
+      "point": [
+        55.0,
+        53.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "name": "Select Angular version",
+      "role": "button",
+      "bbox": [
+        35,
+        92,
+        74,
+        107
+      ],
+      "point": [
+        54.5,
+        99.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Open search dialog with Control K",
+      "role": "button",
+      "bbox": [
+        6,
+        129,
+        104,
+        179
+      ],
+      "point": [
+        55.0,
+        154.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "name": "Docs",
+      "role": "link",
+      "bbox": [
+        0,
+        219,
+        110,
+        271
+      ],
+      "point": [
+        55.0,
+        245.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "name": "Tutorials",
+      "role": "link",
+      "bbox": [
+        0,
+        311,
+        110,
+        355
+      ],
+      "point": [
+        55.0,
+        333.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "name": "Playground",
+      "role": "link",
+      "bbox": [
+        0,
+        395,
+        110,
+        453
+      ],
+      "point": [
+        55.0,
+        424.0
+      ]
+    },
+    {
+      "id": "node_47",
+      "name": "Reference",
+      "role": "link",
+      "bbox": [
+        0,
+        494,
+        110,
+        546
+      ],
+      "point": [
+        55.0,
+        520.0
+      ]
+    },
+    {
+      "id": "node_61",
+      "name": "Learn more about how Google uses cookies",
+      "role": "link",
+      "bbox": [
+        1002,
+        529,
+        1078,
+        546
+      ],
+      "point": [
+        1040.0,
+        537.5
+      ]
+    },
+    {
+      "id": "node_70",
+      "name": "Ok, Got it",
+      "role": "button",
+      "bbox": [
+        1134,
+        529,
+        1193,
+        545
+      ],
+      "point": [
+        1163.5,
+        537.0
+      ]
+    },
+    {
+      "id": "node_84",
+      "name": "Angular v21 is here! 🕹️ Start your adventure",
+      "role": "link",
+      "bbox": [
+        170,
+        60,
+        443,
+        82
+      ],
+      "point": [
+        306.5,
+        71.0
+      ]
+    },
+    {
       "id": "node_97",
-      "category": "button",
       "name": "Get Started",
+      "role": "button",
       "bbox": [
         637,
-        415,
+        412,
         742,
+        436
+      ],
+      "point": [
+        689.5,
+        424.0
+      ]
+    },
+    {
+      "id": "node_96",
+      "name": "Get Started",
+      "role": "link",
+      "bbox": [
+        613,
+        415,
+        766,
         435
       ],
       "point": [

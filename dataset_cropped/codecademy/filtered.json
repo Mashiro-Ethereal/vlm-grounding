@@ -1,13 +1,90 @@
 {
   "image_filename": "dataset_cropped/codecademy/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 5,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 11,
   "test_samples": [
     {
+      "id": "node_14",
+      "name": "Codecademy Logo Mini",
+      "role": "link",
+      "bbox": [
+        96,
+        24,
+        130,
+        55
+      ],
+      "point": [
+        113.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "Catalog",
+      "role": "button",
+      "bbox": [
+        146,
+        27,
+        218,
+        52
+      ],
+      "point": [
+        182.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_71",
+      "name": "Resources",
+      "role": "button",
+      "bbox": [
+        235,
+        27,
+        327,
+        52
+      ],
+      "point": [
+        281.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_114",
+      "name": "Community",
+      "role": "button",
+      "bbox": [
+        343,
+        27,
+        444,
+        52
+      ],
+      "point": [
+        393.5,
+        39.5
+      ]
+    },
+    {
+      "id": "node_119",
+      "name": "Pricing",
+      "role": "button",
+      "bbox": [
+        460,
+        27,
+        527,
+        52
+      ],
+      "point": [
+        493.5,
+        39.5
+      ]
+    },
+    {
       "id": "node_124",
-      "category": "link",
       "name": "Bootcamps",
+      "role": "link",
       "bbox": [
         544,
         27,
@@ -21,8 +98,8 @@
     },
     {
       "id": "node_128",
-      "category": "link",
       "name": "Coaching",
+      "role": "link",
       "bbox": [
         639,
         27,
@@ -36,8 +113,8 @@
     },
     {
       "id": "node_132",
-      "category": "link",
       "name": "Teams",
+      "role": "link",
       "bbox": [
         721,
         27,
@@ -50,9 +127,24 @@
       ]
     },
     {
+      "id": "node_138",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        925,
+        21,
+        961,
+        57
+      ],
+      "point": [
+        943.0,
+        39.0
+      ]
+    },
+    {
       "id": "node_141",
-      "category": "link",
       "name": "Log In",
+      "role": "link",
       "bbox": [
         997,
         25,
@@ -66,8 +158,8 @@
     },
     {
       "id": "node_145",
-      "category": "link",
       "name": "Sign Up",
+      "role": "link",
       "bbox": [
         1093,
         25,

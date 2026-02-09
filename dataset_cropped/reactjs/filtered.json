@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/reactjs/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 11,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_8",
+      "name": "React",
+      "role": "link",
+      "bbox": [
+        20,
+        12,
+        60,
+        52
+      ],
+      "point": [
+        40.0,
+        32.0
+      ]
+    },
+    {
       "id": "node_12",
-      "category": "link",
       "name": "v19.2",
+      "role": "link",
       "bbox": [
         68,
         17,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_18",
-      "category": "button",
       "name": "Search Ctrl K",
+      "role": "button",
       "bbox": [
         129,
         16,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_30",
-      "category": "link",
       "name": "Learn",
+      "role": "link",
       "bbox": [
         745,
         17,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_34",
-      "category": "link",
       "name": "Reference",
+      "role": "link",
       "bbox": [
         816,
         17,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_38",
-      "category": "link",
       "name": "Community",
+      "role": "link",
       "bbox": [
         920,
         17,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_42",
-      "category": "link",
       "name": "Blog",
+      "role": "link",
       "bbox": [
         1035,
         17,
@@ -96,8 +113,8 @@
     },
     {
       "id": "node_46",
-      "category": "button",
       "name": "Use Dark Mode",
+      "role": "button",
       "bbox": [
         1097,
         8,
@@ -111,8 +128,8 @@
     },
     {
       "id": "node_49",
-      "category": "link",
       "name": "Translations",
+      "role": "link",
       "bbox": [
         1145,
         8,
@@ -126,23 +143,23 @@
     },
     {
       "id": "node_52",
-      "category": "link",
       "name": "Open on GitHub",
+      "role": "link",
       "bbox": [
         1193,
         8,
-        1240,
+        1241,
         56
       ],
       "point": [
-        1216.5,
+        1217.0,
         32.0
       ]
     },
     {
       "id": "node_64",
-      "category": "link",
       "name": "Learn React",
+      "role": "link",
       "bbox": [
         493,
         444,
@@ -156,8 +173,8 @@
     },
     {
       "id": "node_67",
-      "category": "link",
       "name": "API Reference",
+      "role": "link",
       "bbox": [
         648,
         444,

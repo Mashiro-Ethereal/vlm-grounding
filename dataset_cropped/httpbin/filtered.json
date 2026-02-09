@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/httpbin/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 5,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
       "id": "node_46",
-      "category": "link",
       "name": "the developer - Website",
+      "role": "link",
       "bbox": [
         20,
         207,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_51",
-      "category": "link",
       "name": "Send email to the developer",
+      "role": "link",
       "bbox": [
         20,
         229,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_64",
-      "category": "link",
       "name": "HTTP Methods",
+      "role": "link",
       "bbox": [
         30,
         418,
@@ -50,9 +52,24 @@
       ]
     },
     {
+      "id": "node_70",
+      "name": "Expand operation",
+      "role": "button",
+      "bbox": [
+        1195,
+        422,
+        1215,
+        449
+      ],
+      "point": [
+        1205.0,
+        435.5
+      ]
+    },
+    {
       "id": "node_74",
-      "category": "link",
       "name": "Auth",
+      "role": "link",
       "bbox": [
         30,
         480,
@@ -65,9 +82,24 @@
       ]
     },
     {
+      "id": "node_80",
+      "name": "Expand operation",
+      "role": "button",
+      "bbox": [
+        1195,
+        484,
+        1215,
+        511
+      ],
+      "point": [
+        1205.0,
+        497.5
+      ]
+    },
+    {
       "id": "node_84",
-      "category": "link",
       "name": "Status codes",
+      "role": "link",
       "bbox": [
         30,
         542,
@@ -77,6 +109,21 @@
       "point": [
         96.0,
         560.0
+      ]
+    },
+    {
+      "id": "node_90",
+      "name": "Expand operation",
+      "role": "button",
+      "bbox": [
+        1195,
+        546,
+        1215,
+        573
+      ],
+      "point": [
+        1205.0,
+        559.5
       ]
     }
   ]

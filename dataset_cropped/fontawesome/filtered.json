@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/fontawesome/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 5,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
+      "id": "node_10",
+      "name": "Speedtest",
+      "role": "link",
+      "bbox": [
+        18,
+        22,
+        152,
+        48
+      ],
+      "point": [
+        85.0,
+        35.0
+      ]
+    },
+    {
       "id": "node_22",
-      "category": "link",
       "name": "Apps",
+      "role": "link",
       "bbox": [
         652,
         23,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_27",
-      "category": "link",
       "name": "Learn",
+      "role": "link",
       "bbox": [
         713,
         23,
@@ -35,24 +52,54 @@
       ]
     },
     {
+      "id": "node_39",
+      "name": "Help",
+      "role": "link",
+      "bbox": [
+        907,
+        23,
+        920,
+        45
+      ],
+      "point": [
+        913.5,
+        34.0
+      ]
+    },
+    {
+      "id": "node_43",
+      "name": "Log In",
+      "role": "link",
+      "bbox": [
+        947,
+        23,
+        960,
+        45
+      ],
+      "point": [
+        953.5,
+        34.0
+      ]
+    },
+    {
       "id": "node_56",
-      "category": "button",
       "name": "start speed test - connection type multi",
+      "role": "button",
       "bbox": [
         470,
         269,
         650,
-        431
+        449
       ],
       "point": [
         560.0,
-        350.0
+        359.0
       ]
     },
     {
       "id": "node_65",
-      "category": "link",
       "name": "RESULTS",
+      "role": "link",
       "bbox": [
         478,
         184,
@@ -66,8 +113,8 @@
     },
     {
       "id": "node_70",
-      "category": "link",
       "name": "SETTINGS",
+      "role": "link",
       "bbox": [
         565,
         184,

@@ -1,0 +1,7 @@
+{
+  "task_id": "reddit",
+  "instruction": "Visit Reddit homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

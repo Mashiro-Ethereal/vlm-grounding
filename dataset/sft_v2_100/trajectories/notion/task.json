@@ -1,0 +1,7 @@
+{
+  "task_id": "notion",
+  "instruction": "Open Notion homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

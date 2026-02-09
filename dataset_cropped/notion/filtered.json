@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/notion/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 11,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_7",
+      "name": "Notion – Home",
+      "role": "link",
+      "bbox": [
+        25,
+        18,
+        54,
+        48
+      ],
+      "point": [
+        39.5,
+        33.0
+      ]
+    },
+    {
       "id": "node_11",
-      "category": "button",
       "name": "Product",
+      "role": "button",
       "bbox": [
         310,
         23,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_17",
-      "category": "button",
       "name": "AI",
+      "role": "button",
       "bbox": [
         405,
         23,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_22",
-      "category": "button",
       "name": "Solutions",
+      "role": "button",
       "bbox": [
         461,
         23,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_27",
-      "category": "button",
       "name": "Resources",
+      "role": "button",
       "bbox": [
         566,
         23,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_31",
-      "category": "link",
       "name": "Enterprise",
+      "role": "link",
       "bbox": [
         679,
         23,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_34",
-      "category": "link",
       "name": "Pricing",
+      "role": "link",
       "bbox": [
         771,
         23,
@@ -96,8 +113,8 @@
     },
     {
       "id": "node_37",
-      "category": "link",
       "name": "Request a demo",
+      "role": "link",
       "bbox": [
         842,
         23,
@@ -111,8 +128,8 @@
     },
     {
       "id": "node_41",
-      "category": "link",
       "name": "Get Notion free",
+      "role": "link",
       "bbox": [
         1042,
         20,
@@ -126,8 +143,8 @@
     },
     {
       "id": "node_44",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         1185,
         23,
@@ -141,8 +158,8 @@
     },
     {
       "id": "node_78",
-      "category": "link",
       "name": "Get Notion free",
+      "role": "link",
       "bbox": [
         481,
         493,
@@ -156,8 +173,8 @@
     },
     {
       "id": "node_81",
-      "category": "link",
       "name": "Request a demo",
+      "role": "link",
       "bbox": [
         656,
         493,

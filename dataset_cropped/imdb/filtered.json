@@ -1,13 +1,45 @@
 {
   "image_filename": "dataset_cropped/imdb/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 5,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 15,
   "test_samples": [
     {
+      "id": "node_5",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        130,
+        12,
+        194,
+        44
+      ],
+      "point": [
+        162.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_71",
+      "name": "Search IMDb",
+      "role": "textfield",
+      "bbox": [
+        373,
+        17,
+        714,
+        37
+      ],
+      "point": [
+        543.5,
+        27.0
+      ]
+    },
+    {
       "id": "node_79",
-      "category": "button",
       "name": "Submit search",
+      "role": "button",
       "bbox": [
         734,
         15,
@@ -20,9 +52,24 @@
       ]
     },
     {
+      "id": "node_83",
+      "name": "Go To IMDb Pro",
+      "role": "link",
+      "bbox": [
+        795,
+        10,
+        847,
+        46
+      ],
+      "point": [
+        821.0,
+        28.0
+      ]
+    },
+    {
       "id": "node_89",
-      "category": "link",
       "name": "Watchlist",
+      "role": "link",
       "bbox": [
         897,
         10,
@@ -35,9 +82,84 @@
       ]
     },
     {
+      "id": "node_93",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        1013,
+        10,
+        1058,
+        46
+      ],
+      "point": [
+        1035.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_102",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        891,
+        66,
+        1045,
+        102
+      ],
+      "point": [
+        968.0,
+        84.0
+      ]
+    },
+    {
+      "id": "node_107",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        1083,
+        75,
+        1103,
+        95
+      ],
+      "point": [
+        1093.0,
+        85.0
+      ]
+    },
+    {
+      "id": "node_113",
+      "name": "Create account",
+      "role": "link",
+      "bbox": [
+        997,
+        116,
+        1111,
+        140
+      ],
+      "point": [
+        1054.0,
+        128.0
+      ]
+    },
+    {
+      "id": "node_136",
+      "name": "Get information, provide feedback or report sponsored ad",
+      "role": "button",
+      "bbox": [
+        1041,
+        318,
+        1115,
+        332
+      ],
+      "point": [
+        1078.0,
+        325.0
+      ]
+    },
+    {
       "id": "node_553",
-      "category": "button",
       "name": "Previous slide",
+      "role": "button",
       "bbox": [
         126,
         456,
@@ -51,31 +173,61 @@
     },
     {
       "id": "node_554",
-      "category": "button",
       "name": "Next slide",
+      "role": "button",
       "bbox": [
         759,
         456,
-        785,
+        786,
         500
       ],
       "point": [
-        772.0,
+        772.5,
         478.0
       ]
     },
     {
+      "id": "node_585",
+      "name": "1:39 'The Devil Wears Prada 2' 156 people liked this video There are 66 reactions to this video from other people, primarily Love it and Excited emojis",
+      "role": "link",
+      "bbox": [
+        889,
+        188,
+        1115,
+        268
+      ],
+      "point": [
+        1002.0,
+        228.0
+      ]
+    },
+    {
+      "id": "node_601",
+      "name": "1:26 'I Love Boosters' 224 people liked this video There are 99 reactions to this video from other people, primarily Love it and Appreciate emojis",
+      "role": "link",
+      "bbox": [
+        889,
+        301,
+        1115,
+        381
+      ],
+      "point": [
+        1002.0,
+        341.0
+      ]
+    },
+    {
       "id": "node_617",
-      "category": "link",
       "name": "4:45 Charli xcx Is in 'The Moment' 73 people liked this video There are 45 reactions to this video from other people, primarily Love it and Funny emojis",
+      "role": "link",
       "bbox": [
         889,
         414,
-        1107,
+        1115,
         494
       ],
       "point": [
-        998.0,
+        1002.0,
         454.0
       ]
     }

@@ -1,0 +1,7 @@
+{
+  "task_id": "medium",
+  "instruction": "Open Medium homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

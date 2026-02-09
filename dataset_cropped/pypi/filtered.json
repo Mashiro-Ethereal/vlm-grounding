@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/pypi/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 9,
   "test_samples": [
     {
+      "id": "node_13",
+      "name": "PyPI",
+      "role": "link",
+      "bbox": [
+        85,
+        15,
+        150,
+        72
+      ],
+      "point": [
+        117.5,
+        43.5
+      ]
+    },
+    {
       "id": "node_19",
-      "category": "link",
       "name": "Help",
+      "role": "link",
       "bbox": [
         807,
         32,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Docs",
+      "role": "link",
       "bbox": [
         871,
         32,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_27",
-      "category": "link",
       "name": "Sponsors",
+      "role": "link",
       "bbox": [
         937,
         32,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_31",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         1033,
         32,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_35",
-      "category": "link",
       "name": "Register",
+      "role": "link",
       "bbox": [
         1106,
         32,
@@ -80,9 +97,24 @@
       ]
     },
     {
+      "id": "node_49",
+      "name": "Search PyPI",
+      "role": "textfield",
+      "bbox": [
+        333,
+        290,
+        884,
+        324
+      ],
+      "point": [
+        608.5,
+        307.0
+      ]
+    },
+    {
       "id": "node_51",
-      "category": "button",
       "name": "Search",
+      "role": "button",
       "bbox": [
         891,
         283,
@@ -96,13 +128,13 @@
     },
     {
       "id": "node_57",
-      "category": "link",
       "name": "browse projects",
+      "role": "link",
       "bbox": [
         578,
-        362,
+        361,
         705,
-        388
+        389
       ],
       "point": [
         641.5,

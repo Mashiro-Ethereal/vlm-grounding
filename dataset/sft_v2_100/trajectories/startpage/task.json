@@ -1,0 +1,7 @@
+{
+  "task_id": "startpage",
+  "instruction": "Open Startpage search",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

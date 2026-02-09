@@ -1,0 +1,8 @@
+{
+  "action_type": "wait",
+  "parameters": {
+    "seconds": 2
+  },
+  "reasoning": "Wait for page to fully load",
+  "step_index": 0
+}

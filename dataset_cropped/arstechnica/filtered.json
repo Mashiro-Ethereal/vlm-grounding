@@ -1,13 +1,120 @@
 {
   "image_filename": "dataset_cropped/arstechnica/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 6,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_19",
+      "name": "Ars Technica home",
+      "role": "link",
+      "bbox": [
+        74,
+        388,
+        271,
+        453
+      ],
+      "point": [
+        172.5,
+        420.5
+      ]
+    },
+    {
+      "id": "node_24",
+      "name": "Open Sections menu dropdown",
+      "role": "button",
+      "bbox": [
+        706,
+        409,
+        791,
+        433
+      ],
+      "point": [
+        748.5,
+        421.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "name": "FORUM",
+      "role": "link",
+      "bbox": [
+        811,
+        409,
+        865,
+        433
+      ],
+      "point": [
+        838.0,
+        421.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "name": "SUBSCRIBE",
+      "role": "link",
+      "bbox": [
+        907,
+        409,
+        989,
+        433
+      ],
+      "point": [
+        948.0,
+        421.0
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Open Theme selection dropdown",
+      "role": "button",
+      "bbox": [
+        1030,
+        411,
+        1050,
+        431
+      ],
+      "point": [
+        1040.0,
+        421.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "name": "Search dialog...",
+      "role": "button",
+      "bbox": [
+        1070,
+        411,
+        1090,
+        431
+      ],
+      "point": [
+        1080.0,
+        421.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "Sign in dialog...",
+      "role": "button",
+      "bbox": [
+        1131,
+        409,
+        1185,
+        433
+      ],
+      "point": [
+        1158.0,
+        421.0
+      ]
+    },
+    {
       "id": "node_57",
-      "category": "button",
       "name": "Set view to Classic",
+      "role": "button",
       "bbox": [
         74,
         481,
@@ -21,8 +128,8 @@
     },
     {
       "id": "node_64",
-      "category": "button",
       "name": "Set view to Grid",
+      "role": "button",
       "bbox": [
         168,
         481,
@@ -36,8 +143,8 @@
     },
     {
       "id": "node_71",
-      "category": "button",
       "name": "Set view to List",
+      "role": "button",
       "bbox": [
         238,
         481,
@@ -51,8 +158,8 @@
     },
     {
       "id": "node_78",
-      "category": "button",
       "name": "Set view to Neutron Star",
+      "role": "button",
       "bbox": [
         303,
         481,
@@ -66,8 +173,8 @@
     },
     {
       "id": "node_84",
-      "category": "button",
       "name": "grid settings",
+      "role": "button",
       "bbox": [
         1046,
         481,
@@ -77,21 +184,6 @@
       "point": [
         1115.5,
         493.0
-      ]
-    },
-    {
-      "id": "node_134",
-      "category": "link",
-      "name": "At NIH, a power struggle over institute directorships deepens",
-      "bbox": [
-        149,
-        539,
-        551,
-        583
-      ],
-      "point": [
-        350.0,
-        561.0
       ]
     }
   ]

@@ -1,0 +1,7 @@
+{
+  "task_id": "mit_ocw",
+  "instruction": "Open MIT OpenCourseWare",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

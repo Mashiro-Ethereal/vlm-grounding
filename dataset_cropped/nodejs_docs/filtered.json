@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/nodejs_docs/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 31,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 39,
   "test_samples": [
     {
+      "id": "node_8",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        32,
+        16,
+        112,
+        46
+      ],
+      "point": [
+        72.0,
+        31.0
+      ]
+    },
+    {
       "id": "node_14",
-      "category": "link",
       "name": "Learn",
+      "role": "link",
       "bbox": [
         156,
         21,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_17",
-      "category": "link",
       "name": "About",
+      "role": "link",
       "bbox": [
         221,
         21,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "Download",
+      "role": "link",
       "bbox": [
         288,
         21,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Blog",
+      "role": "link",
       "bbox": [
         383,
         21,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_26",
-      "category": "link",
       "name": "Docs",
+      "role": "link",
       "bbox": [
         439,
         21,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_29",
-      "category": "link",
       "name": "Contribute",
+      "role": "link",
       "bbox": [
         499,
         21,
@@ -96,8 +113,8 @@
     },
     {
       "id": "node_32",
-      "category": "link",
       "name": "Courses",
+      "role": "link",
       "bbox": [
         617,
         21,
@@ -111,8 +128,8 @@
     },
     {
       "id": "node_36",
-      "category": "button",
-      "name": "Start typing... \u2318 K",
+      "name": "Start typing... ⌘ K",
+      "role": "button",
       "bbox": [
         852,
         17,
@@ -126,8 +143,8 @@
     },
     {
       "id": "node_42",
-      "category": "button",
       "name": "Switch to Dark Mode",
+      "role": "button",
       "bbox": [
         1113,
         21,
@@ -141,8 +158,8 @@
     },
     {
       "id": "node_43",
-      "category": "button",
       "name": "Choose Language",
+      "role": "button",
       "bbox": [
         1157,
         21,
@@ -155,9 +172,24 @@
       ]
     },
     {
+      "id": "node_44",
+      "name": "Node.js Github",
+      "role": "link",
+      "bbox": [
+        1201,
+        21,
+        1221,
+        41
+      ],
+      "point": [
+        1211.0,
+        31.0
+      ]
+    },
+    {
       "id": "node_61",
-      "category": "button",
-      "name": "Get Node.js\u00ae",
+      "name": "Get Node.js®",
+      "role": "button",
       "bbox": [
         131,
         419,
@@ -171,8 +203,8 @@
     },
     {
       "id": "node_64",
-      "category": "button",
       "name": "Get security support for EOL Node.js versions",
+      "role": "button",
       "bbox": [
         131,
         473,
@@ -185,9 +217,99 @@
       ]
     },
     {
+      "id": "node_72",
+      "name": "HeroDevs",
+      "role": "button",
+      "bbox": [
+        138,
+        563,
+        153,
+        577
+      ],
+      "point": [
+        145.5,
+        570.0
+      ]
+    },
+    {
+      "id": "node_74",
+      "name": "Cloudflare",
+      "role": "button",
+      "bbox": [
+        199,
+        563,
+        234,
+        577
+      ],
+      "point": [
+        216.5,
+        570.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "name": "Codemod",
+      "role": "button",
+      "bbox": [
+        281,
+        563,
+        297,
+        577
+      ],
+      "point": [
+        289.0,
+        570.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "name": "Microsoft Azure",
+      "role": "button",
+      "bbox": [
+        343,
+        563,
+        359,
+        577
+      ],
+      "point": [
+        351.0,
+        570.0
+      ]
+    },
+    {
+      "id": "node_80",
+      "name": "DigitalOcean",
+      "role": "button",
+      "bbox": [
+        405,
+        563,
+        421,
+        577
+      ],
+      "point": [
+        413.0,
+        570.0
+      ]
+    },
+    {
+      "id": "node_82",
+      "name": "Vercel",
+      "role": "button",
+      "bbox": [
+        467,
+        563,
+        485,
+        577
+      ],
+      "point": [
+        476.0,
+        570.0
+      ]
+    },
+    {
       "id": "node_95",
-      "category": "tab",
       "name": "Create an HTTP Server",
+      "role": "tab",
       "bbox": [
         589,
         162,
@@ -201,8 +323,8 @@
     },
     {
       "id": "node_98",
-      "category": "tab",
       "name": "Write Tests",
+      "role": "tab",
       "bbox": [
         751,
         162,
@@ -216,8 +338,8 @@
     },
     {
       "id": "node_101",
-      "category": "tab",
       "name": "Read and Hash a File",
+      "role": "tab",
       "bbox": [
         839,
         162,
@@ -231,8 +353,8 @@
     },
     {
       "id": "node_104",
-      "category": "tab",
       "name": "Streams Pipeline",
+      "role": "tab",
       "bbox": [
         991,
         162,
@@ -246,23 +368,23 @@
     },
     {
       "id": "node_107",
-      "category": "tab",
       "name": "Work with Threads",
+      "role": "tab",
       "bbox": [
         1116,
         162,
-        1132,
+        1238,
         181
       ],
       "point": [
-        1124.0,
+        1177.0,
         171.5
       ]
     },
     {
       "id": "node_126",
-      "category": "button",
       "name": "createServer",
+      "role": "button",
       "bbox": [
         692,
         240,
@@ -276,8 +398,8 @@
     },
     {
       "id": "node_153",
-      "category": "button",
       "name": "server",
+      "role": "button",
       "bbox": [
         667,
         279,
@@ -291,8 +413,8 @@
     },
     {
       "id": "node_160",
-      "category": "button",
       "name": "createServer",
+      "role": "button",
       "bbox": [
         743,
         279,
@@ -306,8 +428,8 @@
     },
     {
       "id": "node_167",
-      "category": "button",
       "name": "req",
+      "role": "button",
       "bbox": [
         860,
         279,
@@ -321,8 +443,8 @@
     },
     {
       "id": "node_174",
-      "category": "button",
       "name": "res",
+      "role": "button",
       "bbox": [
         902,
         279,
@@ -336,8 +458,8 @@
     },
     {
       "id": "node_189",
-      "category": "button",
       "name": "res",
+      "role": "button",
       "bbox": [
         633,
         300,
@@ -351,8 +473,8 @@
     },
     {
       "id": "node_194",
-      "category": "button",
       "name": "writeHead",
+      "role": "button",
       "bbox": [
         667,
         300,
@@ -366,8 +488,8 @@
     },
     {
       "id": "node_231",
-      "category": "button",
       "name": "res",
+      "role": "button",
       "bbox": [
         633,
         320,
@@ -381,8 +503,8 @@
     },
     {
       "id": "node_236",
-      "category": "button",
       "name": "end",
+      "role": "button",
       "bbox": [
         667,
         320,
@@ -396,8 +518,8 @@
     },
     {
       "id": "node_277",
-      "category": "button",
       "name": "server",
+      "role": "button",
       "bbox": [
         617,
         398,
@@ -411,8 +533,8 @@
     },
     {
       "id": "node_282",
-      "category": "button",
       "name": "listen",
+      "role": "button",
       "bbox": [
         675,
         398,
@@ -426,8 +548,8 @@
     },
     {
       "id": "node_311",
-      "category": "button",
       "name": "console",
+      "role": "button",
       "bbox": [
         633,
         418,
@@ -441,8 +563,8 @@
     },
     {
       "id": "node_316",
-      "category": "button",
       "name": "log",
+      "role": "button",
       "bbox": [
         701,
         418,
@@ -456,8 +578,8 @@
     },
     {
       "id": "node_357",
-      "category": "button",
       "name": "Copy to clipboard",
+      "role": "button",
       "bbox": [
         977,
         531,

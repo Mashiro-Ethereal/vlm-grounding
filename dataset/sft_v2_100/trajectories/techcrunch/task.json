@@ -1,0 +1,7 @@
+{
+  "task_id": "techcrunch",
+  "instruction": "Visit TechCrunch",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

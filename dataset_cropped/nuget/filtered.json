@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/nuget/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 10,
   "test_samples": [
     {
+      "id": "node_12",
+      "name": "NuGet Home",
+      "role": "link",
+      "bbox": [
+        60,
+        9,
+        174,
+        38
+      ],
+      "point": [
+        117.0,
+        23.5
+      ]
+    },
+    {
       "id": "node_16",
-      "category": "tab",
       "name": "Packages",
+      "role": "tab",
       "bbox": [
         189,
         12,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_19",
-      "category": "tab",
       "name": "Upload",
+      "role": "tab",
       "bbox": [
         294,
         12,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_22",
-      "category": "tab",
       "name": "Statistics",
+      "role": "tab",
       "bbox": [
         380,
         12,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_25",
-      "category": "tab",
       "name": "Documentation",
+      "role": "tab",
       "bbox": [
         483,
         12,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_28",
-      "category": "tab",
       "name": "Downloads",
+      "role": "tab",
       "bbox": [
         636,
         12,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_31",
-      "category": "tab",
       "name": "Blog",
+      "role": "tab",
       "bbox": [
         754,
         12,
@@ -96,8 +113,8 @@
     },
     {
       "id": "node_35",
-      "category": "tab",
       "name": "Sign in",
+      "role": "tab",
       "bbox": [
         1130,
         12,
@@ -107,6 +124,36 @@
       "point": [
         1157.0,
         23.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "name": "Enter packages to search",
+      "role": "textfield",
+      "bbox": [
+        268,
+        225,
+        951,
+        246
+      ],
+      "point": [
+        609.5,
+        235.5
+      ]
+    },
+    {
+      "id": "node_51",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        977,
+        226,
+        991,
+        246
+      ],
+      "point": [
+        984.0,
+        236.0
       ]
     }
   ]

@@ -1,0 +1,601 @@
+{
+  "timestamp": "2026-02-07T05:41:55.740362Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "RubyGems.org | your community gem host",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 68
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 80,
+                  "y": 12,
+                  "width": 40,
+                  "height": 45
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "\u2b21",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_5",
+                "role": "label",
+                "name": "\u2b22",
+                "bounds": {
+                  "x": 80,
+                  "y": 14,
+                  "width": 40,
+                  "height": 41
+                }
+              },
+              {
+                "id": "node_6",
+                "role": "label",
+                "name": "RubyGems",
+                "bounds": {
+                  "x": 80,
+                  "y": 12,
+                  "width": 215,
+                  "height": 46
+                }
+              },
+              {
+                "id": "node_7",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 80,
+                  "y": 0,
+                  "width": 1100,
+                  "height": 75
+                },
+                "children": [
+                  {
+                    "id": "node_8",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 658,
+                      "y": 0,
+                      "width": 521,
+                      "height": 75
+                    },
+                    "children": [
+                      {
+                        "id": "node_9",
+                        "role": "link",
+                        "name": "RELEASES",
+                        "bounds": {
+                          "x": 674,
+                          "y": 0,
+                          "width": 76,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "label",
+                            "name": "RELEASES",
+                            "bounds": {
+                              "x": 674,
+                              "y": 26,
+                              "width": 76,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "link",
+                        "name": "BLOG",
+                        "bounds": {
+                          "x": 787,
+                          "y": 0,
+                          "width": 41,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "BLOG",
+                            "bounds": {
+                              "x": 787,
+                              "y": 26,
+                              "width": 41,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_13",
+                        "role": "link",
+                        "name": "GEMS",
+                        "bounds": {
+                          "x": 866,
+                          "y": 0,
+                          "width": 43,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "label",
+                            "name": "GEMS",
+                            "bounds": {
+                              "x": 866,
+                              "y": 26,
+                              "width": 43,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_15",
+                        "role": "link",
+                        "name": "GUIDES",
+                        "bounds": {
+                          "x": 946,
+                          "y": 0,
+                          "width": 57,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "label",
+                            "name": "GUIDES",
+                            "bounds": {
+                              "x": 946,
+                              "y": 26,
+                              "width": 57,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "link",
+                        "name": "SIGN IN",
+                        "bounds": {
+                          "x": 1040,
+                          "y": 0,
+                          "width": 57,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "SIGN IN",
+                            "bounds": {
+                              "x": 1040,
+                              "y": 26,
+                              "width": 57,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_19",
+                        "role": "link",
+                        "name": "SIGN UP",
+                        "bounds": {
+                          "x": 1134,
+                          "y": 0,
+                          "width": 61,
+                          "height": 70
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "label",
+                            "name": "SIGN UP",
+                            "bounds": {
+                              "x": 1134,
+                              "y": 26,
+                              "width": 61,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_21",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 68,
+              "width": 1261,
+              "height": 512
+            },
+            "children": [
+              {
+                "id": "node_22",
+                "role": "label",
+                "name": "Find, install, and publish RubyGems.",
+                "bounds": {
+                  "x": 240,
+                  "y": 98,
+                  "width": 780,
+                  "height": 144
+                },
+                "children": [
+                  {
+                    "id": "node_23",
+                    "role": "label",
+                    "name": "Find, install, and publish RubyGems.",
+                    "bounds": {
+                      "x": 324,
+                      "y": 98,
+                      "width": 611,
+                      "height": 143
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_24",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 240,
+                  "y": 302,
+                  "width": 780,
+                  "height": 64
+                },
+                "children": [
+                  {
+                    "id": "node_25",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 240,
+                      "y": 302,
+                      "width": 780,
+                      "height": 64
+                    },
+                    "children": [
+                      {
+                        "id": "node_26",
+                        "role": "textfield",
+                        "name": "Search Gems\u2026",
+                        "bounds": {
+                          "x": 250,
+                          "y": 312,
+                          "width": 722,
+                          "height": 21
+                        },
+                        "states": [
+                          "focused"
+                        ]
+                      },
+                      {
+                        "id": "node_27",
+                        "role": "label",
+                        "name": "Search Gems\u2026",
+                        "bounds": {
+                          "x": 1020,
+                          "y": 302,
+                          "width": 58,
+                          "height": 36
+                        }
+                      },
+                      {
+                        "id": "node_28",
+                        "role": "button",
+                        "name": "Search Gems\u2026",
+                        "bounds": {
+                          "x": 986,
+                          "y": 313,
+                          "width": 18,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "label",
+                            "name": "\u2315",
+                            "bounds": {
+                              "x": 985,
+                              "y": 313,
+                              "width": 20,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_30",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 240,
+                          "y": 348,
+                          "width": 780,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_31",
+                            "role": "link",
+                            "name": "Advanced Search\u2192",
+                            "bounds": {
+                              "x": 557,
+                              "y": 348,
+                              "width": 145,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_32",
+                                "role": "label",
+                                "name": "Advanced Search",
+                                "bounds": {
+                                  "x": 557,
+                                  "y": 348,
+                                  "width": 130,
+                                  "height": 18
+                                }
+                              },
+                              {
+                                "id": "node_33",
+                                "role": "label",
+                                "name": "\u2192",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_34",
+                "role": "label",
+                "name": "237,249,331,844 DOWNLOADS & COUNTING",
+                "bounds": {
+                  "x": 380,
+                  "y": 411,
+                  "width": 167,
+                  "height": 48
+                },
+                "children": [
+                  {
+                    "id": "node_35",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 380,
+                      "y": 411,
+                      "width": 167,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_36",
+                        "role": "label",
+                        "name": "237,249,331,844",
+                        "bounds": {
+                          "x": 380,
+                          "y": 409,
+                          "width": 227,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_37",
+                    "role": "label",
+                    "name": "DOWNLOADS & COUNTING",
+                    "bounds": {
+                      "x": 383,
+                      "y": 444,
+                      "width": 161,
+                      "height": 14
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_38",
+                "role": "link",
+                "name": "> Install RubyGems",
+                "bounds": {
+                  "x": 613,
+                  "y": 422,
+                  "width": 266,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_39",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 843,
+                      "y": 422,
+                      "width": 18,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_40",
+                        "role": "label",
+                        "name": ">",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_41",
+                    "role": "label",
+                    "name": "Install RubyGems",
+                    "bounds": {
+                      "x": 613,
+                      "y": 422,
+                      "width": 177,
+                      "height": 21
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_42",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 400,
+                  "y": 526,
+                  "width": 461,
+                  "height": 54
+                },
+                "children": [
+                  {
+                    "id": "node_43",
+                    "role": "link",
+                    "name": "\u2301STATUS",
+                    "bounds": {
+                      "x": 403,
+                      "y": 543,
+                      "width": 224,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "\u2301",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_45",
+                        "role": "label",
+                        "name": "STATUS",
+                        "bounds": {
+                          "x": 507,
+                          "y": 547,
+                          "width": 45,
+                          "height": 14
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_46",
+                    "role": "link",
+                    "name": "\u29d6UPTIME",
+                    "bounds": {
+                      "x": 634,
+                      "y": 543,
+                      "width": 224,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_47",
+                        "role": "label",
+                        "name": "\u29d6",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_48",
+                        "role": "label",
+                        "name": "UPTIME",
+                        "bounds": {
+                          "x": 738,
+                          "y": 547,
+                          "width": 44,
+                          "height": 14
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

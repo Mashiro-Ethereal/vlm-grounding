@@ -1,0 +1,11 @@
+{
+  "trajectory_id": "ap_news",
+  "success": true,
+  "total_steps": 1,
+  "completion_time_ms": 32990,
+  "error_message": null,
+  "model_info": {
+    "name": "human",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "task_id": "yahoo",
+  "instruction": "Open Yahoo homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

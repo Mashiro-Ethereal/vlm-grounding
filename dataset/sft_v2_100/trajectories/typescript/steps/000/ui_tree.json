@@ -1,0 +1,1312 @@
+{
+  "timestamp": "2026-02-07T05:41:38.121966Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "TypeScript: JavaScript With Syntax For Types.",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 5663
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "Skip to main content",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1,
+                          "height": 1
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "Skip to main content",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 147,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 48
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "link",
+                            "name": "TypeScript Home Page",
+                            "bounds": {
+                              "x": 0,
+                              "y": 11,
+                              "width": 200,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 16,
+                                  "y": 11,
+                                  "width": 27,
+                                  "height": 26
+                                }
+                              },
+                              {
+                                "id": "node_10",
+                                "role": "label",
+                                "name": "TypeScript",
+                                "bounds": {
+                                  "x": 52,
+                                  "y": 6,
+                                  "width": 115,
+                                  "height": 32
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "panel",
+                            "name": "top menu",
+                            "bounds": {
+                              "x": 200,
+                              "y": 0,
+                              "width": 486,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 200,
+                                  "y": 0,
+                                  "width": 486,
+                                  "height": 48
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "tab",
+                                    "name": "Download",
+                                    "bounds": {
+                                      "x": 208,
+                                      "y": 15,
+                                      "width": 74,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_14",
+                                        "role": "label",
+                                        "name": "Download",
+                                        "bounds": {
+                                          "x": 208,
+                                          "y": 15,
+                                          "width": 74,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_15",
+                                    "role": "tab",
+                                    "name": "Docs",
+                                    "bounds": {
+                                      "x": 298,
+                                      "y": 15,
+                                      "width": 35,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_16",
+                                        "role": "label",
+                                        "name": "Docs",
+                                        "bounds": {
+                                          "x": 298,
+                                          "y": 15,
+                                          "width": 36,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_17",
+                                    "role": "tab",
+                                    "name": "Handbook",
+                                    "bounds": {
+                                      "x": 349,
+                                      "y": 15,
+                                      "width": 76,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_18",
+                                        "role": "label",
+                                        "name": "Handbook",
+                                        "bounds": {
+                                          "x": 349,
+                                          "y": 15,
+                                          "width": 77,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_19",
+                                    "role": "tab",
+                                    "name": "Community",
+                                    "bounds": {
+                                      "x": 441,
+                                      "y": 15,
+                                      "width": 84,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_20",
+                                        "role": "label",
+                                        "name": "Community",
+                                        "bounds": {
+                                          "x": 441,
+                                          "y": 15,
+                                          "width": 86,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_21",
+                                    "role": "tab",
+                                    "name": "Playground",
+                                    "bounds": {
+                                      "x": 542,
+                                      "y": 15,
+                                      "width": 83,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_22",
+                                        "role": "label",
+                                        "name": "Playground",
+                                        "bounds": {
+                                          "x": 542,
+                                          "y": 15,
+                                          "width": 83,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_23",
+                                    "role": "tab",
+                                    "name": "Tools",
+                                    "bounds": {
+                                      "x": 641,
+                                      "y": 15,
+                                      "width": 37,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_24",
+                                        "role": "label",
+                                        "name": "Tools",
+                                        "bounds": {
+                                          "x": 641,
+                                          "y": 15,
+                                          "width": 38,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_25",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1074,
+                              "y": 0,
+                              "width": 186,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1074,
+                                  "y": 0,
+                                  "width": 186,
+                                  "height": 48
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1090,
+                                      "y": 0,
+                                      "width": 170,
+                                      "height": 48
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_28",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1090,
+                                          "y": 16,
+                                          "width": 16,
+                                          "height": 16
+                                        }
+                                      },
+                                      {
+                                        "id": "node_29",
+                                        "role": "combobox",
+                                        "name": "Search the TypeScript site",
+                                        "bounds": {
+                                          "x": 1113,
+                                          "y": 1,
+                                          "width": 146,
+                                          "height": 46
+                                        },
+                                        "states": [
+                                          "collapsed"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_30",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 48,
+                      "width": 1261,
+                      "height": 5313
+                    },
+                    "children": [
+                      {
+                        "id": "node_31",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 48,
+                          "width": 1261,
+                          "height": 5313
+                        },
+                        "children": [
+                          {
+                            "id": "node_32",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 90,
+                              "y": 112,
+                              "width": 1080,
+                              "height": 368
+                            },
+                            "children": [
+                              {
+                                "id": "node_33",
+                                "role": "label",
+                                "name": "TypeScript is JavaScript with syntax for types.",
+                                "bounds": {
+                                  "x": 106,
+                                  "y": 128,
+                                  "width": 468,
+                                  "height": 89
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_34",
+                                    "role": "label",
+                                    "name": "TypeScript is ",
+                                    "bounds": {
+                                      "x": 106,
+                                      "y": 123,
+                                      "width": 216,
+                                      "height": 53
+                                    }
+                                  },
+                                  {
+                                    "id": "node_35",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 106,
+                                      "y": 123,
+                                      "width": 397,
+                                      "height": 97
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_36",
+                                        "role": "label",
+                                        "name": "JavaScript with syntax for types.",
+                                        "bounds": {
+                                          "x": 106,
+                                          "y": 123,
+                                          "width": 397,
+                                          "height": 97
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_37",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 106,
+                                  "y": 244,
+                                  "width": 488,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_38",
+                                    "role": "label",
+                                    "name": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+                                    "bounds": {
+                                      "x": 106,
+                                      "y": 244,
+                                      "width": 483,
+                                      "height": 79
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_39",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 106,
+                                  "y": 344,
+                                  "width": 508,
+                                  "height": 60
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_40",
+                                    "role": "link",
+                                    "name": "Try TypeScript Now Online or via npm",
+                                    "bounds": {
+                                      "x": 122,
+                                      "y": 352,
+                                      "width": 207,
+                                      "height": 44
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_41",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 122,
+                                          "y": 352,
+                                          "width": 141,
+                                          "height": 22
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_42",
+                                            "role": "label",
+                                            "name": "Try TypeScript Now",
+                                            "bounds": {
+                                              "x": 122,
+                                              "y": 352,
+                                              "width": 141,
+                                              "height": 21
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_43",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 122,
+                                          "y": 374,
+                                          "width": 141,
+                                          "height": 22
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_44",
+                                            "role": "label",
+                                            "name": "Online or via npm",
+                                            "bounds": {
+                                              "x": 122,
+                                              "y": 374,
+                                              "width": 126,
+                                              "height": 21
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_45",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 303,
+                                          "y": 372,
+                                          "width": 21,
+                                          "height": 5
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_46",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 648,
+                                  "y": 130,
+                                  "width": 487,
+                                  "height": 39
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_47",
+                                    "role": "tab",
+                                    "name": "Editor Checks",
+                                    "bounds": {
+                                      "x": 658,
+                                      "y": 140,
+                                      "width": 83,
+                                      "height": 19
+                                    },
+                                    "states": [
+                                      "selected"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_48",
+                                        "role": "label",
+                                        "name": "Editor Checks",
+                                        "bounds": {
+                                          "x": 658,
+                                          "y": 140,
+                                          "width": 84,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_49",
+                                    "role": "tab",
+                                    "name": "Auto-complete",
+                                    "bounds": {
+                                      "x": 762,
+                                      "y": 140,
+                                      "width": 93,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_50",
+                                        "role": "label",
+                                        "name": "Auto-complete",
+                                        "bounds": {
+                                          "x": 762,
+                                          "y": 140,
+                                          "width": 93,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_51",
+                                    "role": "tab",
+                                    "name": "Interfaces",
+                                    "bounds": {
+                                      "x": 875,
+                                      "y": 140,
+                                      "width": 59,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_52",
+                                        "role": "label",
+                                        "name": "Interfaces",
+                                        "bounds": {
+                                          "x": 875,
+                                          "y": 140,
+                                          "width": 61,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_53",
+                                    "role": "tab",
+                                    "name": "JSX",
+                                    "bounds": {
+                                      "x": 955,
+                                      "y": 140,
+                                      "width": 20,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_54",
+                                        "role": "label",
+                                        "name": "JSX",
+                                        "bounds": {
+                                          "x": 955,
+                                          "y": 140,
+                                          "width": 22,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_55",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 648,
+                                  "y": 169,
+                                  "width": 487,
+                                  "height": 261
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_56",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 648,
+                                      "y": 170,
+                                      "width": 487,
+                                      "height": 260
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_57",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 660,
+                                          "y": 182,
+                                          "width": 463,
+                                          "height": 184
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_58",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 660,
+                                              "y": 182,
+                                              "width": 463,
+                                              "height": 184
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_59",
+                                                "role": "label",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 660,
+                                                  "y": 182,
+                                                  "width": 463,
+                                                  "height": 184
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_60",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 182,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_61",
+                                                        "role": "label",
+                                                        "name": "const",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 182,
+                                                          "width": 41,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_62",
+                                                        "role": "label",
+                                                        "name": " ",
+                                                        "bounds": {
+                                                          "x": 701,
+                                                          "y": 182,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_63",
+                                                        "role": "label",
+                                                        "name": "user",
+                                                        "bounds": {
+                                                          "x": 709,
+                                                          "y": 182,
+                                                          "width": 32,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_64",
+                                                        "role": "label",
+                                                        "name": " ",
+                                                        "bounds": {
+                                                          "x": 742,
+                                                          "y": 182,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_65",
+                                                        "role": "label",
+                                                        "name": "=",
+                                                        "bounds": {
+                                                          "x": 750,
+                                                          "y": 182,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_66",
+                                                        "role": "label",
+                                                        "name": " {",
+                                                        "bounds": {
+                                                          "x": 758,
+                                                          "y": 182,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_67",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 198,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_68",
+                                                        "role": "label",
+                                                        "name": "  ",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 198,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_69",
+                                                        "role": "label",
+                                                        "name": "firstName",
+                                                        "bounds": {
+                                                          "x": 676,
+                                                          "y": 198,
+                                                          "width": 73,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_70",
+                                                        "role": "label",
+                                                        "name": ": ",
+                                                        "bounds": {
+                                                          "x": 750,
+                                                          "y": 198,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_71",
+                                                        "role": "label",
+                                                        "name": "\"Angela\"",
+                                                        "bounds": {
+                                                          "x": 767,
+                                                          "y": 198,
+                                                          "width": 66,
+                                                          "height": 17
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_72",
+                                                        "role": "label",
+                                                        "name": ",",
+                                                        "bounds": {
+                                                          "x": 832,
+                                                          "y": 198,
+                                                          "width": 9,
+                                                          "height": 17
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_73",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 214,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_74",
+                                                        "role": "label",
+                                                        "name": "  ",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 214,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_75",
+                                                        "role": "label",
+                                                        "name": "lastName",
+                                                        "bounds": {
+                                                          "x": 676,
+                                                          "y": 214,
+                                                          "width": 65,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_76",
+                                                        "role": "label",
+                                                        "name": ": ",
+                                                        "bounds": {
+                                                          "x": 742,
+                                                          "y": 214,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_77",
+                                                        "role": "label",
+                                                        "name": "\"Davis\"",
+                                                        "bounds": {
+                                                          "x": 758,
+                                                          "y": 214,
+                                                          "width": 57,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_78",
+                                                        "role": "label",
+                                                        "name": ",",
+                                                        "bounds": {
+                                                          "x": 816,
+                                                          "y": 214,
+                                                          "width": 9,
+                                                          "height": 17
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_79",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 230,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_80",
+                                                        "role": "label",
+                                                        "name": "  ",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 230,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_81",
+                                                        "role": "label",
+                                                        "name": "role",
+                                                        "bounds": {
+                                                          "x": 676,
+                                                          "y": 230,
+                                                          "width": 32,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_82",
+                                                        "role": "label",
+                                                        "name": ": ",
+                                                        "bounds": {
+                                                          "x": 709,
+                                                          "y": 230,
+                                                          "width": 16,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_83",
+                                                        "role": "label",
+                                                        "name": "\"Professor\"",
+                                                        "bounds": {
+                                                          "x": 726,
+                                                          "y": 230,
+                                                          "width": 90,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_84",
+                                                        "role": "label",
+                                                        "name": ",",
+                                                        "bounds": {
+                                                          "x": 816,
+                                                          "y": 230,
+                                                          "width": 9,
+                                                          "height": 17
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_85",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 246,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_86",
+                                                        "role": "label",
+                                                        "name": "}",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 246,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_87",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 262,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_88",
+                                                        "role": "label",
+                                                        "name": "\u00a0",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 262,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_89",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 278,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_90",
+                                                        "role": "label",
+                                                        "name": "console",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 278,
+                                                          "width": 57,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_91",
+                                                        "role": "label",
+                                                        "name": ".",
+                                                        "bounds": {
+                                                          "x": 717,
+                                                          "y": 278,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_92",
+                                                        "role": "label",
+                                                        "name": "log",
+                                                        "bounds": {
+                                                          "x": 726,
+                                                          "y": 278,
+                                                          "width": 25,
+                                                          "height": 17
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_93",
+                                                        "role": "label",
+                                                        "name": "(",
+                                                        "bounds": {
+                                                          "x": 750,
+                                                          "y": 278,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_94",
+                                                        "role": "label",
+                                                        "name": "user",
+                                                        "bounds": {
+                                                          "x": 758,
+                                                          "y": 278,
+                                                          "width": 32,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_95",
+                                                        "role": "label",
+                                                        "name": ".",
+                                                        "bounds": {
+                                                          "x": 791,
+                                                          "y": 278,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_96",
+                                                        "role": "label",
+                                                        "name": "name",
+                                                        "bounds": {
+                                                          "x": 799,
+                                                          "y": 278,
+                                                          "width": 32,
+                                                          "height": 16
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_97",
+                                                        "role": "label",
+                                                        "name": ")",
+                                                        "bounds": {
+                                                          "x": 832,
+                                                          "y": 278,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_98",
+                                                    "role": "label",
+                                                    "name": "Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.",
+                                                    "bounds": {
+                                                      "x": 658,
+                                                      "y": 308,
+                                                      "width": 434,
+                                                      "height": 33
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_99",
+                                                    "role": "label",
+                                                    "name": "Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 308,
+                                                      "width": 434,
+                                                      "height": 33
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_100",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 660,
+                                                      "y": 350,
+                                                      "width": 463,
+                                                      "height": 16
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_101",
+                                                        "role": "label",
+                                                        "name": "\u00a0",
+                                                        "bounds": {
+                                                          "x": 660,
+                                                          "y": 350,
+                                                          "width": 8,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_102",
+                                "role": "link",
+                                "name": "Show code sample",
+                                "bounds": {
+                                  "x": 1122,
+                                  "y": 407,
+                                  "width": 30,
+                                  "height": 30
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_103",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1132,
+                                      "y": 415,
+                                      "width": 11,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_104",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 32,
+                              "y": 491,
+                              "width": 1197,
+                              "height": 26
+                            },
+                            "children": [
+                              {
+                                "id": "node_105",
+                                "role": "link",
+                                "name": "TypeScript 5.9",
+                                "bounds": {
+                                  "x": 502,
+                                  "y": 491,
+                                  "width": 117,
+                                  "height": 26
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_106",
+                                    "role": "label",
+                                    "name": "TypeScript ",
+                                    "bounds": {
+                                      "x": 502,
+                                      "y": 491,
+                                      "width": 93,
+                                      "height": 26
+                                    }
+                                  },
+                                  {
+                                    "id": "node_107",
+                                    "role": "label",
+                                    "name": "5.9",
+                                    "bounds": {
+                                      "x": 595,
+                                      "y": 491,
+                                      "width": 24,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_108",
+                                "role": "label",
+                                "name": "is now available",
+                                "bounds": {
+                                  "x": 625,
+                                  "y": 491,
+                                  "width": 132,
+                                  "height": 26
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

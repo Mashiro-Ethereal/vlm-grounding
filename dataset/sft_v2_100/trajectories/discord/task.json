@@ -1,0 +1,7 @@
+{
+  "task_id": "discord",
+  "instruction": "Open Discord platform",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

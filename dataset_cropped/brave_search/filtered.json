@@ -1,7 +1,250 @@
 {
   "image_filename": "dataset_cropped/brave_search/screenshot_cropped.png",
-  "image_width": 1276,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1276,
+    583
+  ],
+  "sample_count": 16,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "name": "Quick settings",
+      "role": "button",
+      "bbox": [
+        1210,
+        32,
+        1246,
+        68
+      ],
+      "point": [
+        1228.0,
+        50.0
+      ]
+    },
+    {
+      "id": "node_14",
+      "name": "Brave logo",
+      "role": "link",
+      "bbox": [
+        534,
+        118,
+        740,
+        182
+      ],
+      "point": [
+        637.0,
+        150.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "name": "AI Features",
+      "role": "button",
+      "bbox": [
+        321,
+        225,
+        357,
+        261
+      ],
+      "point": [
+        339.0,
+        243.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        368,
+        230,
+        838,
+        256
+      ],
+      "point": [
+        603.0,
+        243.0
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Start voice input",
+      "role": "button",
+      "bbox": [
+        857,
+        225,
+        893,
+        261
+      ],
+      "point": [
+        875.0,
+        243.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "Ask",
+      "role": "button",
+      "bbox": [
+        914,
+        225,
+        959,
+        261
+      ],
+      "point": [
+        936.5,
+        243.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "Download",
+      "role": "link",
+      "bbox": [
+        797,
+        366,
+        881,
+        390
+      ],
+      "point": [
+        839.0,
+        378.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "name": "Advertise",
+      "role": "link",
+      "bbox": [
+        485,
+        549,
+        539,
+        567
+      ],
+      "point": [
+        512.0,
+        558.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "name": "API",
+      "role": "link",
+      "bbox": [
+        555,
+        549,
+        574,
+        567
+      ],
+      "point": [
+        564.5,
+        558.0
+      ]
+    },
+    {
+      "id": "node_59",
+      "name": "News",
+      "role": "link",
+      "bbox": [
+        590,
+        549,
+        621,
+        567
+      ],
+      "point": [
+        605.5,
+        558.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "name": "FAQ",
+      "role": "link",
+      "bbox": [
+        638,
+        549,
+        661,
+        567
+      ],
+      "point": [
+        649.5,
+        558.0
+      ]
+    },
+    {
+      "id": "node_65",
+      "name": "Privacy Policy",
+      "role": "link",
+      "bbox": [
+        678,
+        549,
+        757,
+        567
+      ],
+      "point": [
+        717.5,
+        558.0
+      ]
+    },
+    {
+      "id": "node_68",
+      "name": "Report a security issue",
+      "role": "link",
+      "bbox": [
+        773,
+        549,
+        902,
+        567
+      ],
+      "point": [
+        837.5,
+        558.0
+      ]
+    },
+    {
+      "id": "node_75",
+      "name": "Settings",
+      "role": "link",
+      "bbox": [
+        895,
+        537,
+        945,
+        553
+      ],
+      "point": [
+        920.0,
+        545.0
+      ]
+    },
+    {
+      "id": "node_80",
+      "name": "Learn more.",
+      "role": "link",
+      "bbox": [
+        952,
+        537,
+        1025,
+        553
+      ],
+      "point": [
+        988.5,
+        545.0
+      ]
+    },
+    {
+      "id": "node_83",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        1076,
+        536,
+        1090,
+        554
+      ],
+      "point": [
+        1083.0,
+        545.0
+      ]
+    }
+  ]
 }

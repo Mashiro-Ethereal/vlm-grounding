@@ -1,7 +1,40 @@
 {
   "image_filename": "dataset_cropped/calendly/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "name": "Talk to sales",
+      "role": "link",
+      "bbox": [
+        1141,
+        0,
+        1220,
+        40
+      ],
+      "point": [
+        1180.5,
+        20.0
+      ]
+    },
+    {
+      "id": "node_15",
+      "name": "Calendly logo",
+      "role": "link",
+      "bbox": [
+        40,
+        59,
+        205,
+        99
+      ],
+      "point": [
+        122.5,
+        79.0
+      ]
+    }
+  ]
 }

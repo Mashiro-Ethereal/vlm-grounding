@@ -1,0 +1,7 @@
+{
+  "task_id": "swagger",
+  "instruction": "Open Swagger API tools",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

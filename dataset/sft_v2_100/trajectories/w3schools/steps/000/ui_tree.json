@@ -1,0 +1,1145 @@
+{
+  "timestamp": "2026-02-07T05:43:32.844467Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "W3Schools Online Web Tutorials",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 13177
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 56
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "Home link",
+                    "bounds": {
+                      "x": 16,
+                      "y": 8,
+                      "width": 43,
+                      "height": 37
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 75,
+                      "y": 0,
+                      "width": 442,
+                      "height": 56
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "button",
+                        "name": "Tutorials ",
+                        "bounds": {
+                          "x": 91,
+                          "y": 16,
+                          "width": 70,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "label",
+                            "name": "Tutorials ",
+                            "bounds": {
+                              "x": 91,
+                              "y": 18,
+                              "width": 61,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_8",
+                        "role": "button",
+                        "name": "References ",
+                        "bounds": {
+                          "x": 193,
+                          "y": 16,
+                          "width": 84,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "References ",
+                            "bounds": {
+                              "x": 193,
+                              "y": 18,
+                              "width": 76,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_10",
+                        "role": "button",
+                        "name": "Exercises ",
+                        "bounds": {
+                          "x": 310,
+                          "y": 16,
+                          "width": 72,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_11",
+                            "role": "label",
+                            "name": "Exercises ",
+                            "bounds": {
+                              "x": 310,
+                              "y": 18,
+                              "width": 63,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_12",
+                        "role": "button",
+                        "name": "Certificates ",
+                        "bounds": {
+                          "x": 414,
+                          "y": 16,
+                          "width": 87,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_13",
+                            "role": "label",
+                            "name": "Certificates ",
+                            "bounds": {
+                              "x": 414,
+                              "y": 18,
+                              "width": 78,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_14",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 525,
+                      "y": 10,
+                      "width": 175,
+                      "height": 36
+                    },
+                    "children": [
+                      {
+                        "id": "node_15",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 525,
+                          "y": 10,
+                          "width": 175,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 524,
+                              "y": 9,
+                              "width": 1,
+                              "height": 1
+                            },
+                            "children": [
+                              {
+                                "id": "node_17",
+                                "role": "label",
+                                "name": "Search field",
+                                "bounds": {
+                                  "x": 524,
+                                  "y": 11,
+                                  "width": 78,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "textfield",
+                            "name": "Search field",
+                            "bounds": {
+                              "x": 541,
+                              "y": 16,
+                              "width": 118,
+                              "height": 24
+                            }
+                          },
+                          {
+                            "id": "node_19",
+                            "role": "button",
+                            "name": "Button to search",
+                            "bounds": {
+                              "x": 673,
+                              "y": 19,
+                              "width": 18,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_20",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 673,
+                                  "y": 19,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_21",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 708,
+                      "y": 10,
+                      "width": 39,
+                      "height": 39
+                    },
+                    "children": [
+                      {
+                        "id": "node_22",
+                        "role": "button",
+                        "name": "All our services",
+                        "bounds": {
+                          "x": 708,
+                          "y": 14,
+                          "width": 36,
+                          "height": 28
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 713,
+                              "y": 14,
+                              "width": 27,
+                              "height": 27
+                            }
+                          },
+                          {
+                            "id": "node_24",
+                            "role": "label",
+                            "name": "\u00a0",
+                            "bounds": {
+                              "x": 714,
+                              "y": 55,
+                              "width": 24,
+                              "height": 151
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_25",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 747,
+                      "y": 0,
+                      "width": 503,
+                      "height": 56
+                    },
+                    "children": [
+                      {
+                        "id": "node_26",
+                        "role": "button",
+                        "name": "Sign in to your account",
+                        "bounds": {
+                          "x": 1172,
+                          "y": 16,
+                          "width": 63,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_27",
+                            "role": "label",
+                            "name": "Sign In",
+                            "bounds": {
+                              "x": 1180,
+                              "y": 17,
+                              "width": 46,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_28",
+                        "role": "link",
+                        "name": "W3Schools Certificates",
+                        "bounds": {
+                          "x": 1042,
+                          "y": 16,
+                          "width": 83,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "label",
+                            "name": "Get Certified",
+                            "bounds": {
+                              "x": 1042,
+                              "y": 18,
+                              "width": 83,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_30",
+                        "role": "link",
+                        "name": "Become a PLUS user and unlock powerful features",
+                        "bounds": {
+                          "x": 953,
+                          "y": 16,
+                          "width": 57,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_31",
+                            "role": "label",
+                            "name": "Upgrade",
+                            "bounds": {
+                              "x": 953,
+                              "y": 18,
+                              "width": 58,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_32",
+                        "role": "link",
+                        "name": "Contact us about W3Schools Academy for educational institutions",
+                        "bounds": {
+                          "x": 861,
+                          "y": 16,
+                          "width": 59,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_33",
+                            "role": "label",
+                            "name": "Teachers",
+                            "bounds": {
+                              "x": 861,
+                              "y": 18,
+                              "width": 60,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_34",
+                        "role": "link",
+                        "name": "Get Your Own Website With W3Schools Spaces",
+                        "bounds": {
+                          "x": 782,
+                          "y": 16,
+                          "width": 46,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_35",
+                            "role": "label",
+                            "name": "Spaces",
+                            "bounds": {
+                              "x": 782,
+                              "y": 18,
+                              "width": 48,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_36",
+                        "role": "link",
+                        "name": "W3Schools Bootcamps",
+                        "bounds": {
+                          "x": 1159,
+                          "y": 92,
+                          "width": 75,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_37",
+                            "role": "label",
+                            "name": "Bootcamps",
+                            "bounds": {
+                              "x": 1159,
+                              "y": 94,
+                              "width": 77,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_38",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 56,
+                  "width": 1261,
+                  "height": 33
+                },
+                "children": [
+                  {
+                    "id": "node_39",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 56,
+                      "width": 1261,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_40",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1215,
+                          "y": 61,
+                          "width": 45,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_41",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1215,
+                              "y": 62,
+                              "width": 45,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_42",
+                                "role": "label",
+                                "name": "\u00a0\u00a0\u00a0\u00a0\u00a0\u276f\u00a0\u00a0\u00a0",
+                                "bounds": {
+                                  "x": 1215,
+                                  "y": 62,
+                                  "width": 45,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_43",
+                        "role": "link",
+                        "name": "HTML",
+                        "bounds": {
+                          "x": 15,
+                          "y": 61,
+                          "width": 40,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_44",
+                            "role": "label",
+                            "name": "HTML",
+                            "bounds": {
+                              "x": 15,
+                              "y": 62,
+                              "width": 40,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_45",
+                        "role": "link",
+                        "name": "CSS",
+                        "bounds": {
+                          "x": 86,
+                          "y": 61,
+                          "width": 27,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_46",
+                            "role": "label",
+                            "name": "CSS",
+                            "bounds": {
+                              "x": 86,
+                              "y": 62,
+                              "width": 27,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_47",
+                        "role": "link",
+                        "name": "JAVASCRIPT",
+                        "bounds": {
+                          "x": 144,
+                          "y": 61,
+                          "width": 86,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_48",
+                            "role": "label",
+                            "name": "JAVASCRIPT",
+                            "bounds": {
+                              "x": 144,
+                              "y": 62,
+                              "width": 86,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_49",
+                        "role": "link",
+                        "name": "SQL",
+                        "bounds": {
+                          "x": 261,
+                          "y": 61,
+                          "width": 28,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_50",
+                            "role": "label",
+                            "name": "SQL",
+                            "bounds": {
+                              "x": 261,
+                              "y": 62,
+                              "width": 28,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_51",
+                        "role": "link",
+                        "name": "PYTHON",
+                        "bounds": {
+                          "x": 320,
+                          "y": 61,
+                          "width": 58,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_52",
+                            "role": "label",
+                            "name": "PYTHON",
+                            "bounds": {
+                              "x": 320,
+                              "y": 62,
+                              "width": 58,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_53",
+                        "role": "link",
+                        "name": "JAVA",
+                        "bounds": {
+                          "x": 410,
+                          "y": 61,
+                          "width": 34,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_54",
+                            "role": "label",
+                            "name": "JAVA",
+                            "bounds": {
+                              "x": 410,
+                              "y": 62,
+                              "width": 34,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_55",
+                        "role": "link",
+                        "name": "PHP",
+                        "bounds": {
+                          "x": 475,
+                          "y": 61,
+                          "width": 29,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_56",
+                            "role": "label",
+                            "name": "PHP",
+                            "bounds": {
+                              "x": 475,
+                              "y": 62,
+                              "width": 29,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_57",
+                        "role": "link",
+                        "name": "HOW TO",
+                        "bounds": {
+                          "x": 536,
+                          "y": 61,
+                          "width": 58,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_58",
+                            "role": "label",
+                            "name": "HOW TO",
+                            "bounds": {
+                              "x": 536,
+                              "y": 62,
+                              "width": 58,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_59",
+                        "role": "link",
+                        "name": "W3.CSS",
+                        "bounds": {
+                          "x": 625,
+                          "y": 61,
+                          "width": 53,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_60",
+                            "role": "label",
+                            "name": "W3.CSS",
+                            "bounds": {
+                              "x": 625,
+                              "y": 62,
+                              "width": 53,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_61",
+                        "role": "link",
+                        "name": "C",
+                        "bounds": {
+                          "x": 709,
+                          "y": 61,
+                          "width": 9,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_62",
+                            "role": "label",
+                            "name": "C",
+                            "bounds": {
+                              "x": 709,
+                              "y": 62,
+                              "width": 9,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_63",
+                        "role": "link",
+                        "name": "C++",
+                        "bounds": {
+                          "x": 750,
+                          "y": 61,
+                          "width": 26,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_64",
+                            "role": "label",
+                            "name": "C++",
+                            "bounds": {
+                              "x": 750,
+                              "y": 62,
+                              "width": 26,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "link",
+                        "name": "C#",
+                        "bounds": {
+                          "x": 807,
+                          "y": 61,
+                          "width": 18,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_66",
+                            "role": "label",
+                            "name": "C#",
+                            "bounds": {
+                              "x": 807,
+                              "y": 62,
+                              "width": 18,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "link",
+                        "name": "BOOTSTRAP",
+                        "bounds": {
+                          "x": 856,
+                          "y": 61,
+                          "width": 85,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_68",
+                            "role": "label",
+                            "name": "BOOTSTRAP",
+                            "bounds": {
+                              "x": 856,
+                              "y": 62,
+                              "width": 85,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_69",
+                        "role": "link",
+                        "name": "REACT",
+                        "bounds": {
+                          "x": 973,
+                          "y": 61,
+                          "width": 45,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_70",
+                            "role": "label",
+                            "name": "REACT",
+                            "bounds": {
+                              "x": 973,
+                              "y": 62,
+                              "width": 45,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_71",
+                        "role": "link",
+                        "name": "MYSQL",
+                        "bounds": {
+                          "x": 1050,
+                          "y": 61,
+                          "width": 48,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_72",
+                            "role": "label",
+                            "name": "MYSQL",
+                            "bounds": {
+                              "x": 1050,
+                              "y": 62,
+                              "width": 48,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_73",
+                        "role": "link",
+                        "name": "JQUERY",
+                        "bounds": {
+                          "x": 1129,
+                          "y": 61,
+                          "width": 56,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_74",
+                            "role": "label",
+                            "name": "JQUERY",
+                            "bounds": {
+                              "x": 1129,
+                              "y": 62,
+                              "width": 56,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_75",
+                        "role": "link",
+                        "name": "EXCEL",
+                        "bounds": {
+                          "x": 1216,
+                          "y": 61,
+                          "width": 44,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_76",
+                            "role": "label",
+                            "name": "EXCEL",
+                            "bounds": {
+                              "x": 1216,
+                              "y": 62,
+                              "width": 44,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_77",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 13053
+                },
+                "children": [
+                  {
+                    "id": "node_78",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 88,
+                      "width": 1261,
+                      "height": 12965
+                    },
+                    "children": [
+                      {
+                        "id": "node_79",
+                        "role": "label",
+                        "name": "Learn to Code",
+                        "bounds": {
+                          "x": 230,
+                          "y": 170,
+                          "width": 800,
+                          "height": 105
+                        },
+                        "children": [
+                          {
+                            "id": "node_80",
+                            "role": "label",
+                            "name": "Learn to Code",
+                            "bounds": {
+                              "x": 418,
+                              "y": 178,
+                              "width": 423,
+                              "height": 88
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_81",
+                        "role": "label",
+                        "name": "With the world's largest web developer site.",
+                        "bounds": {
+                          "x": 230,
+                          "y": 285,
+                          "width": 800,
+                          "height": 34
+                        },
+                        "children": [
+                          {
+                            "id": "node_82",
+                            "role": "label",
+                            "name": "With the world's largest web developer site.",
+                            "bounds": {
+                              "x": 408,
+                              "y": 287,
+                              "width": 443,
+                              "height": 29
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_83",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 380,
+                          "y": 353,
+                          "width": 500,
+                          "height": 47
+                        },
+                        "children": [
+                          {
+                            "id": "node_84",
+                            "role": "textfield",
+                            "name": "Search our tutorials",
+                            "bounds": {
+                              "x": 406,
+                              "y": 364,
+                              "width": 363,
+                              "height": 25
+                            }
+                          },
+                          {
+                            "id": "node_85",
+                            "role": "button",
+                            "name": "\ue802",
+                            "bounds": {
+                              "x": 790,
+                              "y": 364,
+                              "width": 79,
+                              "height": 25
+                            },
+                            "children": [
+                              {
+                                "id": "node_86",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 822,
+                                  "y": 368,
+                                  "width": 15,
+                                  "height": 17
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_87",
+                                    "role": "label",
+                                    "name": "\ue802",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_88",
+                        "role": "label",
+                        "name": "Not Sure Where To Begin?",
+                        "bounds": {
+                          "x": 230,
+                          "y": 431,
+                          "width": 800,
+                          "height": 34
+                        },
+                        "children": [
+                          {
+                            "id": "node_89",
+                            "role": "link",
+                            "name": "Not Sure Where To Begin?",
+                            "bounds": {
+                              "x": 501,
+                              "y": 433,
+                              "width": 257,
+                              "height": 29
+                            },
+                            "children": [
+                              {
+                                "id": "node_90",
+                                "role": "label",
+                                "name": "Not Sure Where To Begin?",
+                                "bounds": {
+                                  "x": 501,
+                                  "y": 433,
+                                  "width": 257,
+                                  "height": 29
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_91",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 555,
+                          "width": 1261,
+                          "height": 72
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_92",
+                "role": "label",
+                "name": "\ue822",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_93",
+                "role": "label",
+                "name": "\ue83f",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

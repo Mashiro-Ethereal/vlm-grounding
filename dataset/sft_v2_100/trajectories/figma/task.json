@@ -1,0 +1,7 @@
+{
+  "task_id": "figma",
+  "instruction": "Visit Figma design tool",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

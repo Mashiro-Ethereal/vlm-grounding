@@ -1,0 +1,7 @@
+{
+  "task_id": "udemy",
+  "instruction": "Open Udemy marketplace",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

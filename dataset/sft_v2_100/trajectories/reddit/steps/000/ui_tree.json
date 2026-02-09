@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-02-07T05:42:02.967660Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "image",
+            "name": "",
+            "bounds": {
+              "x": 462,
+              "y": 24,
+              "width": 336,
+              "height": 336
+            }
+          },
+          {
+            "id": "node_3",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 390,
+              "y": 376,
+              "width": 480,
+              "height": 56
+            },
+            "children": [
+              {
+                "id": "node_4",
+                "role": "label",
+                "name": "You've been blocked by network security.",
+                "bounds": {
+                  "x": 410,
+                  "y": 376,
+                  "width": 440,
+                  "height": 56
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_5",
+            "role": "label",
+            "name": "To continue, log in to your Reddit account or use your developer token",
+            "bounds": {
+              "x": 414,
+              "y": 448,
+              "width": 431,
+              "height": 39
+            }
+          },
+          {
+            "id": "node_6",
+            "role": "label",
+            "name": "If you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+            "bounds": {
+              "x": 404,
+              "y": 508,
+              "width": 452,
+              "height": 39
+            }
+          },
+          {
+            "id": "node_7",
+            "role": "link",
+            "name": "Log in",
+            "bounds": {
+              "x": 537,
+              "y": 565,
+              "width": 48,
+              "height": 38
+            },
+            "children": [
+              {
+                "id": "node_8",
+                "role": "label",
+                "name": "Log in",
+                "bounds": {
+                  "x": 537,
+                  "y": 576,
+                  "width": 48,
+                  "height": 16
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_9",
+            "role": "link",
+            "name": "File a ticket",
+            "bounds": {
+              "x": 631,
+              "y": 565,
+              "width": 92,
+              "height": 38
+            },
+            "children": [
+              {
+                "id": "node_10",
+                "role": "label",
+                "name": "File a ticket",
+                "bounds": {
+                  "x": 631,
+                  "y": 576,
+                  "width": 94,
+                  "height": 16
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

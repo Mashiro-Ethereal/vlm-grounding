@@ -1,7 +1,9 @@
 {
   "image_filename": "dataset_cropped/wikimedia/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 0,
   "test_samples": []
 }

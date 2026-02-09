@@ -1,0 +1,7 @@
+{
+  "task_id": "rubygems",
+  "instruction": "Open RubyGems registry",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

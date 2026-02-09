@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/apidoc/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 4,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
       "id": "node_8",
-      "category": "link",
       "name": "DEMO",
+      "role": "link",
       "bbox": [
         554,
         16,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_12",
-      "category": "link",
       "name": "GETTING STARTED",
+      "role": "link",
       "bbox": [
         632,
         16,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_16",
-      "category": "link",
       "name": "EXAMPLES",
+      "role": "link",
       "bbox": [
         813,
         16,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "APIDOC-PARAMS",
+      "role": "link",
       "bbox": [
         928,
         16,
@@ -62,6 +64,126 @@
       "point": [
         997.0,
         26.0
+      ]
+    },
+    {
+      "id": "node_35",
+      "name": "Java, JavaScript, PHP, …",
+      "role": "tab",
+      "bbox": [
+        209,
+        272,
+        383,
+        292
+      ],
+      "point": [
+        296.0,
+        282.0
+      ]
+    },
+    {
+      "id": "node_38",
+      "name": "CoffeeScript",
+      "role": "tab",
+      "bbox": [
+        403,
+        272,
+        493,
+        292
+      ],
+      "point": [
+        448.0,
+        282.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Elixir",
+      "role": "tab",
+      "bbox": [
+        513,
+        272,
+        550,
+        292
+      ],
+      "point": [
+        531.5,
+        282.0
+      ]
+    },
+    {
+      "id": "node_44",
+      "name": "Erlang",
+      "role": "tab",
+      "bbox": [
+        570,
+        272,
+        617,
+        292
+      ],
+      "point": [
+        593.5,
+        282.0
+      ]
+    },
+    {
+      "id": "node_47",
+      "name": "Perl",
+      "role": "tab",
+      "bbox": [
+        637,
+        272,
+        666,
+        292
+      ],
+      "point": [
+        651.5,
+        282.0
+      ]
+    },
+    {
+      "id": "node_50",
+      "name": "Python",
+      "role": "tab",
+      "bbox": [
+        687,
+        272,
+        738,
+        292
+      ],
+      "point": [
+        712.5,
+        282.0
+      ]
+    },
+    {
+      "id": "node_53",
+      "name": "Ruby",
+      "role": "tab",
+      "bbox": [
+        758,
+        272,
+        795,
+        292
+      ],
+      "point": [
+        776.5,
+        282.0
+      ]
+    },
+    {
+      "id": "node_56",
+      "name": "Lua",
+      "role": "tab",
+      "bbox": [
+        208,
+        304,
+        234,
+        324
+      ],
+      "point": [
+        221.0,
+        314.0
       ]
     }
   ]

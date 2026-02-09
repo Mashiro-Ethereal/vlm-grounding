@@ -1,0 +1,1260 @@
+{
+  "timestamp": "2026-02-07T05:45:29.099360Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "IANA-managed Reserved Domains",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 127
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 80,
+                  "y": 25,
+                  "width": 1100,
+                  "height": 77
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 80,
+                      "y": 25,
+                      "width": 234,
+                      "height": 77
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "Homepage",
+                        "bounds": {
+                          "x": 80,
+                          "y": 80,
+                          "width": 234,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "image",
+                            "name": "Homepage",
+                            "bounds": {
+                              "x": 80,
+                              "y": 25,
+                              "width": 234,
+                              "height": 72
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 863,
+                      "y": 41,
+                      "width": 82,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "link",
+                        "name": "Domains",
+                        "bounds": {
+                          "x": 873,
+                          "y": 41,
+                          "width": 66,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "Domains",
+                            "bounds": {
+                              "x": 873,
+                              "y": 41,
+                              "width": 66,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_10",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 946,
+                      "y": 41,
+                      "width": 86,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_11",
+                        "role": "link",
+                        "name": "Protocols",
+                        "bounds": {
+                          "x": 956,
+                          "y": 41,
+                          "width": 70,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "Protocols",
+                            "bounds": {
+                              "x": 956,
+                              "y": 41,
+                              "width": 70,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_13",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 1032,
+                      "y": 41,
+                      "width": 86,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_14",
+                        "role": "link",
+                        "name": "Numbers",
+                        "bounds": {
+                          "x": 1042,
+                          "y": 41,
+                          "width": 70,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": "Numbers",
+                            "bounds": {
+                              "x": 1042,
+                              "y": 41,
+                              "width": 70,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_16",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 1119,
+                      "y": 41,
+                      "width": 61,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_17",
+                        "role": "link",
+                        "name": "About",
+                        "bounds": {
+                          "x": 1129,
+                          "y": 41,
+                          "width": 45,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "About",
+                            "bounds": {
+                              "x": 1129,
+                              "y": 41,
+                              "width": 46,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_19",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 128,
+              "width": 1261,
+              "height": 1187
+            },
+            "children": [
+              {
+                "id": "node_20",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 80,
+                  "y": 153,
+                  "width": 1100,
+                  "height": 1137
+                },
+                "children": [
+                  {
+                    "id": "node_21",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 330,
+                      "y": 178,
+                      "width": 850,
+                      "height": 1112
+                    },
+                    "children": [
+                      {
+                        "id": "node_22",
+                        "role": "label",
+                        "name": "IANA-managed Reserved Domains",
+                        "bounds": {
+                          "x": 330,
+                          "y": 178,
+                          "width": 850,
+                          "height": 39
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "label",
+                            "name": "IANA-managed Reserved Domains",
+                            "bounds": {
+                              "x": 330,
+                              "y": 178,
+                              "width": 474,
+                              "height": 39
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_24",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 330,
+                          "y": 236,
+                          "width": 850,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_25",
+                            "role": "label",
+                            "name": "Certain domains are set aside, and nominally registered to \u201cIANA\u201d, for specific policy or technical purposes.",
+                            "bounds": {
+                              "x": 330,
+                              "y": 236,
+                              "width": 799,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_26",
+                        "role": "label",
+                        "name": "Example domains",
+                        "bounds": {
+                          "x": 330,
+                          "y": 282,
+                          "width": 850,
+                          "height": 33
+                        },
+                        "children": [
+                          {
+                            "id": "node_27",
+                            "role": "label",
+                            "name": "Example domains",
+                            "bounds": {
+                              "x": 330,
+                              "y": 282,
+                              "width": 203,
+                              "height": 33
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_28",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 330,
+                          "y": 334,
+                          "width": 850,
+                          "height": 66
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "label",
+                            "name": "As described in ",
+                            "bounds": {
+                              "x": 330,
+                              "y": 334,
+                              "width": 118,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_30",
+                            "role": "link",
+                            "name": "RFC 2606",
+                            "bounds": {
+                              "x": 448,
+                              "y": 334,
+                              "width": 69,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_31",
+                                "role": "label",
+                                "name": "RFC 2606",
+                                "bounds": {
+                                  "x": 448,
+                                  "y": 334,
+                                  "width": 69,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_32",
+                            "role": "label",
+                            "name": " and ",
+                            "bounds": {
+                              "x": 517,
+                              "y": 334,
+                              "width": 37,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_33",
+                            "role": "link",
+                            "name": "RFC 6761",
+                            "bounds": {
+                              "x": 554,
+                              "y": 334,
+                              "width": 69,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_34",
+                                "role": "label",
+                                "name": "RFC 6761",
+                                "bounds": {
+                                  "x": 554,
+                                  "y": 334,
+                                  "width": 69,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_35",
+                            "role": "label",
+                            "name": ", a number of domains such as ",
+                            "bounds": {
+                              "x": 623,
+                              "y": 334,
+                              "width": 234,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "example.com",
+                            "bounds": {
+                              "x": 858,
+                              "y": 335,
+                              "width": 105,
+                              "height": 20
+                            }
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "label",
+                            "name": " and ",
+                            "bounds": {
+                              "x": 964,
+                              "y": 334,
+                              "width": 37,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_38",
+                            "role": "label",
+                            "name": "example.org",
+                            "bounds": {
+                              "x": 1001,
+                              "y": 335,
+                              "width": 107,
+                              "height": 20
+                            }
+                          },
+                          {
+                            "id": "node_39",
+                            "role": "label",
+                            "name": " are maintained for documentation purposes. These domains may be used as illustrative examples in documents without prior coordination with us. They are not available for registration or transfer.",
+                            "bounds": {
+                              "x": 330,
+                              "y": 334,
+                              "width": 813,
+                              "height": 66
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_40",
+                        "role": "label",
+                        "name": "Test IDN top-level domains",
+                        "bounds": {
+                          "x": 330,
+                          "y": 424,
+                          "width": 850,
+                          "height": 33
+                        },
+                        "children": [
+                          {
+                            "id": "node_41",
+                            "role": "label",
+                            "name": "Test IDN top-level domains",
+                            "bounds": {
+                              "x": 330,
+                              "y": 424,
+                              "width": 308,
+                              "height": 33
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_42",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 330,
+                          "y": 476,
+                          "width": 850,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_43",
+                            "role": "label",
+                            "name": "These domains were temporarily delegated by IANA for the ",
+                            "bounds": {
+                              "x": 330,
+                              "y": 476,
+                              "width": 449,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_44",
+                            "role": "link",
+                            "name": "IDN Evaluation",
+                            "bounds": {
+                              "x": 779,
+                              "y": 476,
+                              "width": 111,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_45",
+                                "role": "label",
+                                "name": "IDN Evaluation",
+                                "bounds": {
+                                  "x": 779,
+                                  "y": 476,
+                                  "width": 111,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_46",
+                            "role": "label",
+                            "name": " being conducted by ",
+                            "bounds": {
+                              "x": 891,
+                              "y": 476,
+                              "width": 156,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_47",
+                            "role": "link",
+                            "name": "ICANN",
+                            "bounds": {
+                              "x": 1047,
+                              "y": 476,
+                              "width": 50,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "label",
+                                "name": "ICANN",
+                                "bounds": {
+                                  "x": 1047,
+                                  "y": 476,
+                                  "width": 50,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_49",
+                            "role": "label",
+                            "name": ".",
+                            "bounds": {
+                              "x": 1098,
+                              "y": 476,
+                              "width": 4,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_50",
+                        "role": "table",
+                        "name": "",
+                        "bounds": {
+                          "x": 330,
+                          "y": 517,
+                          "width": 850,
+                          "height": 405
+                        },
+                        "children": [
+                          {
+                            "id": "node_51",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 330,
+                              "y": 517,
+                              "width": 850,
+                              "height": 23
+                            },
+                            "children": [
+                              {
+                                "id": "node_52",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 330,
+                                  "y": 517,
+                                  "width": 850,
+                                  "height": 23
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_53",
+                                    "role": "tablecell",
+                                    "name": "DOMAIN",
+                                    "bounds": {
+                                      "x": 338,
+                                      "y": 521,
+                                      "width": 111,
+                                      "height": 14
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_54",
+                                        "role": "label",
+                                        "name": "DOMAIN",
+                                        "bounds": {
+                                          "x": 338,
+                                          "y": 521,
+                                          "width": 44,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_55",
+                                    "role": "tablecell",
+                                    "name": "DOMAIN (A-LABEL)",
+                                    "bounds": {
+                                      "x": 461,
+                                      "y": 521,
+                                      "width": 221,
+                                      "height": 14
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_56",
+                                        "role": "label",
+                                        "name": "DOMAIN (A-LABEL)",
+                                        "bounds": {
+                                          "x": 461,
+                                          "y": 521,
+                                          "width": 94,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_57",
+                                    "role": "tablecell",
+                                    "name": "LANGUAGE",
+                                    "bounds": {
+                                      "x": 695,
+                                      "y": 521,
+                                      "width": 215,
+                                      "height": 14
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_58",
+                                        "role": "label",
+                                        "name": "LANGUAGE",
+                                        "bounds": {
+                                          "x": 695,
+                                          "y": 521,
+                                          "width": 57,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_59",
+                                    "role": "tablecell",
+                                    "name": "SCRIPT",
+                                    "bounds": {
+                                      "x": 922,
+                                      "y": 521,
+                                      "width": 249,
+                                      "height": 14
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_60",
+                                        "role": "label",
+                                        "name": "SCRIPT",
+                                        "bounds": {
+                                          "x": 922,
+                                          "y": 521,
+                                          "width": 36,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_61",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 330,
+                              "y": 552,
+                              "width": 850,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_62",
+                                "role": "tablecell",
+                                "name": "\u0625\u062e\u062a\u0628\u0627\u0631",
+                                "bounds": {
+                                  "x": 338,
+                                  "y": 548,
+                                  "width": 111,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_63",
+                                    "role": "label",
+                                    "name": "\u0625\u062e\u062a\u0628\u0627\u0631",
+                                    "bounds": {
+                                      "x": 337,
+                                      "y": 548,
+                                      "width": 38,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_64",
+                                "role": "tablecell",
+                                "name": "XN--KGBECHTV",
+                                "bounds": {
+                                  "x": 461,
+                                  "y": 548,
+                                  "width": 221,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_65",
+                                    "role": "link",
+                                    "name": "XN--KGBECHTV",
+                                    "bounds": {
+                                      "x": 461,
+                                      "y": 549,
+                                      "width": 115,
+                                      "height": 20
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_66",
+                                        "role": "label",
+                                        "name": "XN--KGBECHTV",
+                                        "bounds": {
+                                          "x": 461,
+                                          "y": 549,
+                                          "width": 115,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_67",
+                                "role": "tablecell",
+                                "name": "Arabic",
+                                "bounds": {
+                                  "x": 695,
+                                  "y": 548,
+                                  "width": 215,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_68",
+                                    "role": "label",
+                                    "name": "Arabic",
+                                    "bounds": {
+                                      "x": 695,
+                                      "y": 548,
+                                      "width": 48,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_69",
+                                "role": "tablecell",
+                                "name": "Arabic",
+                                "bounds": {
+                                  "x": 922,
+                                  "y": 548,
+                                  "width": 249,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_70",
+                                    "role": "label",
+                                    "name": "Arabic",
+                                    "bounds": {
+                                      "x": 922,
+                                      "y": 548,
+                                      "width": 48,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_71",
+                            "role": "tablecell",
+                            "name": "\u0622\u0632\u0645\u0627\u06cc\u0634\u06cc",
+                            "bounds": {
+                              "x": 338,
+                              "y": 582,
+                              "width": 111,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_72",
+                                "role": "label",
+                                "name": "\u0622\u0632\u0645\u0627\u06cc\u0634\u06cc",
+                                "bounds": {
+                                  "x": 338,
+                                  "y": 582,
+                                  "width": 60,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_73",
+                            "role": "tablecell",
+                            "name": "XN--HGBK6AJ7F53BBA",
+                            "bounds": {
+                              "x": 461,
+                              "y": 582,
+                              "width": 221,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_74",
+                            "role": "tablecell",
+                            "name": "Persian",
+                            "bounds": {
+                              "x": 695,
+                              "y": 582,
+                              "width": 215,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_75",
+                                "role": "label",
+                                "name": "Persian",
+                                "bounds": {
+                                  "x": 695,
+                                  "y": 582,
+                                  "width": 55,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_76",
+                            "role": "tablecell",
+                            "name": "Arabic",
+                            "bounds": {
+                              "x": 922,
+                              "y": 582,
+                              "width": 249,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_77",
+                                "role": "label",
+                                "name": "Arabic",
+                                "bounds": {
+                                  "x": 922,
+                                  "y": 582,
+                                  "width": 48,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_78",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 80,
+                      "y": 228,
+                      "width": 250,
+                      "height": 1062
+                    },
+                    "children": [
+                      {
+                        "id": "node_79",
+                        "role": "label",
+                        "name": "Domain Names",
+                        "bounds": {
+                          "x": 91,
+                          "y": 233,
+                          "width": 205,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_80",
+                            "role": "label",
+                            "name": "Domain Names",
+                            "bounds": {
+                              "x": 91,
+                              "y": 233,
+                              "width": 103,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_81",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 81,
+                          "y": 268,
+                          "width": 225,
+                          "height": 154
+                        },
+                        "children": [
+                          {
+                            "id": "node_82",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 270,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_83",
+                                "role": "link",
+                                "name": "Overview",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 270,
+                                  "width": 56,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_84",
+                                    "role": "label",
+                                    "name": "Overview",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 270,
+                                      "width": 58,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_85",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 292,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_86",
+                                "role": "link",
+                                "name": "Root Zone Management",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 292,
+                                  "width": 147,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_87",
+                                    "role": "label",
+                                    "name": "Root Zone Management",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 292,
+                                      "width": 149,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_88",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 314,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_89",
+                                "role": "link",
+                                "name": ".INT Registry",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 314,
+                                  "width": 78,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_90",
+                                    "role": "label",
+                                    "name": ".INT Registry",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 314,
+                                      "width": 79,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_91",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 336,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_92",
+                                "role": "link",
+                                "name": ".ARPA Registry",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 336,
+                                  "width": 88,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_93",
+                                    "role": "label",
+                                    "name": ".ARPA Registry",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 336,
+                                      "width": 89,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_94",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 358,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_95",
+                                "role": "link",
+                                "name": "IDN Practices Repository",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 358,
+                                  "width": 150,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_96",
+                                    "role": "label",
+                                    "name": "IDN Practices Repository",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 358,
+                                      "width": 151,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_97",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 380,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_98",
+                                "role": "link",
+                                "name": "Root Key Signing Key (DNSSEC)",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 380,
+                                  "width": 188,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_99",
+                                    "role": "label",
+                                    "name": "Root Key Signing Key (DNSSEC)",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 380,
+                                      "width": 189,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_100",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 91,
+                              "y": 402,
+                              "width": 205,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_101",
+                                "role": "link",
+                                "name": "Reserved Domains",
+                                "bounds": {
+                                  "x": 91,
+                                  "y": 402,
+                                  "width": 120,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_102",
+                                    "role": "label",
+                                    "name": "Reserved Domains",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 402,
+                                      "width": 120,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

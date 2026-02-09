@@ -1,0 +1,1107 @@
+{
+  "timestamp": "2026-02-07T05:41:05.548302Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Wikipedia",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 20,
+              "width": 1261,
+              "height": 1261
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 12,
+                  "y": 20,
+                  "width": 1235,
+                  "height": 702
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 495,
+                      "y": 20,
+                      "width": 270,
+                      "height": 91
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Wikipedia 25 years of the free encyclopedia",
+                        "bounds": {
+                          "x": 495,
+                          "y": 32,
+                          "width": 269,
+                          "height": 67
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 503,
+                              "y": 72,
+                              "width": 253,
+                              "height": 21
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "label",
+                                "name": "25 years of the free encyclopedia",
+                                "bounds": {
+                                  "x": 503,
+                                  "y": 73,
+                                  "width": 254,
+                                  "height": 18
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_8",
+                    "role": "panel",
+                    "name": "Top languages",
+                    "bounds": {
+                      "x": 357,
+                      "y": 116,
+                      "width": 546,
+                      "height": 325
+                    },
+                    "children": [
+                      {
+                        "id": "node_9",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 419,
+                          "y": 116,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "link",
+                            "name": "English 7,125,000+ articles",
+                            "bounds": {
+                              "x": 419,
+                              "y": 116,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 419,
+                                  "y": 116,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_12",
+                                    "role": "label",
+                                    "name": "English",
+                                    "bounds": {
+                                      "x": 465,
+                                      "y": 118,
+                                      "width": 65,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_13",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 433,
+                                  "y": 141,
+                                  "width": 128,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "label",
+                                    "name": "7,125,000+ ",
+                                    "bounds": {
+                                      "x": 433,
+                                      "y": 143,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_15",
+                                    "role": "label",
+                                    "name": "articles",
+                                    "bounds": {
+                                      "x": 514,
+                                      "y": 143,
+                                      "width": 48,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_16",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 685,
+                          "y": 116,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_17",
+                            "role": "link",
+                            "name": "\u65e5\u672c\u8a9e 1,487,000+ \u8a18\u4e8b",
+                            "bounds": {
+                              "x": 685,
+                              "y": 116,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_18",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 685,
+                                  "y": 116,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_19",
+                                    "role": "label",
+                                    "name": "\u65e5\u672c\u8a9e",
+                                    "bounds": {
+                                      "x": 739,
+                                      "y": 118,
+                                      "width": 48,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_20",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 709,
+                                  "y": 141,
+                                  "width": 107,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_21",
+                                    "role": "label",
+                                    "name": "1,487,000+ ",
+                                    "bounds": {
+                                      "x": 709,
+                                      "y": 143,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_22",
+                                    "role": "label",
+                                    "name": "\u8a18\u4e8b",
+                                    "bounds": {
+                                      "x": 790,
+                                      "y": 143,
+                                      "width": 26,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 365,
+                          "y": 181,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "link",
+                            "name": "Deutsch 3.090.000+ Artikel",
+                            "bounds": {
+                              "x": 365,
+                              "y": 181,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 365,
+                                  "y": 181,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "label",
+                                    "name": "Deutsch",
+                                    "bounds": {
+                                      "x": 406,
+                                      "y": 183,
+                                      "width": 73,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_27",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 381,
+                                  "y": 206,
+                                  "width": 122,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "label",
+                                    "name": "3.090.000+ ",
+                                    "bounds": {
+                                      "x": 381,
+                                      "y": 208,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": "Artikel",
+                                    "bounds": {
+                                      "x": 463,
+                                      "y": 208,
+                                      "width": 41,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_30",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 739,
+                          "y": 181,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_31",
+                            "role": "link",
+                            "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 2\u00a0081\u00a0000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+                            "bounds": {
+                              "x": 739,
+                              "y": 181,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_32",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 739,
+                                  "y": 181,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_33",
+                                    "role": "label",
+                                    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                                    "bounds": {
+                                      "x": 780,
+                                      "y": 183,
+                                      "width": 74,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_34",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 753,
+                                  "y": 206,
+                                  "width": 127,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_35",
+                                    "role": "label",
+                                    "name": "2\u00a0081\u00a0000+ ",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 208,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_36",
+                                    "role": "label",
+                                    "name": "\u0441\u0442\u0430\u0442\u0435\u0439",
+                                    "bounds": {
+                                      "x": 834,
+                                      "y": 208,
+                                      "width": 46,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_37",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 354,
+                          "y": 246,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_38",
+                            "role": "link",
+                            "name": "Fran\u00e7ais 2\u202f734\u202f000+ articles",
+                            "bounds": {
+                              "x": 354,
+                              "y": 246,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_39",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 354,
+                                  "y": 246,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_40",
+                                    "role": "label",
+                                    "name": "Fran\u00e7ais",
+                                    "bounds": {
+                                      "x": 394,
+                                      "y": 248,
+                                      "width": 75,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_41",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 369,
+                                  "y": 271,
+                                  "width": 125,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_42",
+                                    "role": "label",
+                                    "name": "2\u202f734\u202f000+ ",
+                                    "bounds": {
+                                      "x": 369,
+                                      "y": 273,
+                                      "width": 78,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_43",
+                                    "role": "label",
+                                    "name": "articles",
+                                    "bounds": {
+                                      "x": 447,
+                                      "y": 273,
+                                      "width": 48,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_44",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 750,
+                          "y": 246,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_45",
+                            "role": "link",
+                            "name": "Espa\u00f1ol 2.088.000+ art\u00edculos",
+                            "bounds": {
+                              "x": 750,
+                              "y": 246,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_46",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 750,
+                                  "y": 246,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_47",
+                                    "role": "label",
+                                    "name": "Espa\u00f1ol",
+                                    "bounds": {
+                                      "x": 793,
+                                      "y": 248,
+                                      "width": 70,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_48",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 760,
+                                  "y": 271,
+                                  "width": 136,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_49",
+                                    "role": "label",
+                                    "name": "2.088.000+ ",
+                                    "bounds": {
+                                      "x": 760,
+                                      "y": 273,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_50",
+                                    "role": "label",
+                                    "name": "art\u00edculos",
+                                    "bounds": {
+                                      "x": 841,
+                                      "y": 273,
+                                      "width": 56,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_51",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 365,
+                          "y": 311,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_52",
+                            "role": "link",
+                            "name": "Italiano 1.953.000+ voci",
+                            "bounds": {
+                              "x": 365,
+                              "y": 311,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_53",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 365,
+                                  "y": 311,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_54",
+                                    "role": "label",
+                                    "name": "Italiano",
+                                    "bounds": {
+                                      "x": 409,
+                                      "y": 313,
+                                      "width": 69,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_55",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 389,
+                                  "y": 336,
+                                  "width": 107,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_56",
+                                    "role": "label",
+                                    "name": "1.953.000+ ",
+                                    "bounds": {
+                                      "x": 389,
+                                      "y": 338,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_57",
+                                    "role": "label",
+                                    "name": "voci",
+                                    "bounds": {
+                                      "x": 470,
+                                      "y": 338,
+                                      "width": 26,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_58",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 739,
+                          "y": 311,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_59",
+                            "role": "link",
+                            "name": "\u4e2d\u6587 1,521,000+ \u6761\u76ee / \u689d\u76ee",
+                            "bounds": {
+                              "x": 739,
+                              "y": 311,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 739,
+                                  "y": 311,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_61",
+                                    "role": "label",
+                                    "name": "\u4e2d\u6587",
+                                    "bounds": {
+                                      "x": 801,
+                                      "y": 313,
+                                      "width": 34,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_62",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 744,
+                                  "y": 336,
+                                  "width": 145,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_63",
+                                    "role": "label",
+                                    "name": "1,521,000+ ",
+                                    "bounds": {
+                                      "x": 744,
+                                      "y": 338,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_64",
+                                    "role": "label",
+                                    "name": "\u6761\u76ee / \u689d\u76ee",
+                                    "bounds": {
+                                      "x": 825,
+                                      "y": 338,
+                                      "width": 64,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 419,
+                          "y": 376,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_66",
+                            "role": "link",
+                            "name": "Portugu\u00eas 1.163.000+ artigos",
+                            "bounds": {
+                              "x": 419,
+                              "y": 376,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_67",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 419,
+                                  "y": 376,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_68",
+                                    "role": "label",
+                                    "name": "Portugu\u00eas",
+                                    "bounds": {
+                                      "x": 451,
+                                      "y": 378,
+                                      "width": 92,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_69",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 434,
+                                  "y": 401,
+                                  "width": 126,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_70",
+                                    "role": "label",
+                                    "name": "1.163.000+ ",
+                                    "bounds": {
+                                      "x": 434,
+                                      "y": 403,
+                                      "width": 81,
+                                      "height": 15
+                                    }
+                                  },
+                                  {
+                                    "id": "node_71",
+                                    "role": "label",
+                                    "name": "artigos",
+                                    "bounds": {
+                                      "x": 516,
+                                      "y": 403,
+                                      "width": 46,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_72",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 685,
+                          "y": 376,
+                          "width": 156,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_73",
+                            "role": "link",
+                            "name": "Polski 1\u00a0682\u00a0000+ hase\u0142",
+                            "bounds": {
+                              "x": 685,
+                              "y": 376,
+                              "width": 156,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_74",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 685,
+                                  "y": 376,
+                                  "width": 156,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_75",
+                                    "role": "label",
+                                    "name": "Polski",
+                                    "bounds": {
+                                      "x": 736,
+                                      "y": 378,
+                                      "width": 53,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_76",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 705,
+                                  "y": 401,
+                                  "width": 115,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_77",
+                                    "role": "label",
+                                    "name": "hase\u0142",
+                                    "bounds": {
+                                      "x": 786,
+                                      "y": 403,
+                                      "width": 35,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_78",
+                    "role": "button",
+                    "name": "Who is hiding in the globe?",
+                    "bounds": {
+                      "x": 522,
+                      "y": 453,
+                      "width": 215,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_79",
+                        "role": "label",
+                        "name": "Who is hiding in the globe?",
+                        "bounds": {
+                          "x": 522,
+                          "y": 464,
+                          "width": 215,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_80",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 405,
+                      "y": 507,
+                      "width": 450,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_81",
+                        "role": "label",
+                        "name": "A special new friend is waiting inside the puzzle globe. Uncover who it is and learn what other surprises are in store for Wikipedia's 25th birthday.",
+                        "bounds": {
+                          "x": 412,
+                          "y": 510,
+                          "width": 436,
+                          "height": 34
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_82",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 360,
+                      "y": 571,
+                      "width": 540,
+                      "height": 61
+                    },
+                    "children": [
+                      {
+                        "id": "node_83",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 360,
+                          "y": 571,
+                          "width": 540,
+                          "height": 61
+                        },
+                        "children": [
+                          {
+                            "id": "node_84",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 360,
+                              "y": 576,
+                              "width": 540,
+                              "height": 44
+                            },
+                            "children": [
+                              {
+                                "id": "node_85",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 405,
+                                  "y": 576,
+                                  "width": 394,
+                                  "height": 44
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_86",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 404,
+                                      "y": 575,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_87",
+                                        "role": "label",
+                                        "name": "Search Wikipedia",
+                                        "bounds": {
+                                          "x": 404,
+                                          "y": 577,
+                                          "width": 68,
+                                          "height": 37
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_88",
+                "role": "label",
+                "name": "\u2022",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_89",
+                "role": "label",
+                "name": "\u2022",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

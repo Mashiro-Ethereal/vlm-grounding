@@ -1,13 +1,150 @@
 {
   "image_filename": "dataset_cropped/bloomberg/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 4,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 15,
   "test_samples": [
     {
+      "id": "node_10",
+      "name": "Bloomberg the Company & Its Products",
+      "role": "button",
+      "bbox": [
+        148,
+        9,
+        367,
+        21
+      ],
+      "point": [
+        257.5,
+        15.0
+      ]
+    },
+    {
+      "id": "node_15",
+      "name": "Bloomberg Terminal Demo Request",
+      "role": "link",
+      "bbox": [
+        405,
+        9,
+        603,
+        21
+      ],
+      "point": [
+        504.0,
+        15.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Bloomberg Anywhere Remote Login",
+      "role": "link",
+      "bbox": [
+        625,
+        7,
+        843,
+        23
+      ],
+      "point": [
+        734.0,
+        15.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Bloomberg Customer Support",
+      "role": "link",
+      "bbox": [
+        864,
+        9,
+        1031,
+        21
+      ],
+      "point": [
+        947.5,
+        15.0
+      ]
+    },
+    {
+      "id": "node_57",
+      "name": "About us",
+      "role": "menuitem",
+      "bbox": [
+        480,
+        55,
+        538,
+        76
+      ],
+      "point": [
+        509.0,
+        65.5
+      ]
+    },
+    {
+      "id": "node_64",
+      "name": "Careers",
+      "role": "menuitem",
+      "bbox": [
+        637,
+        55,
+        686,
+        76
+      ],
+      "point": [
+        661.5,
+        65.5
+      ]
+    },
+    {
+      "id": "node_72",
+      "name": "Stories",
+      "role": "menuitem",
+      "bbox": [
+        786,
+        55,
+        830,
+        76
+      ],
+      "point": [
+        808.0,
+        65.5
+      ]
+    },
+    {
+      "id": "node_75",
+      "name": "Find jobs",
+      "role": "menuitem",
+      "bbox": [
+        929,
+        55,
+        988,
+        76
+      ],
+      "point": [
+        958.5,
+        65.5
+      ]
+    },
+    {
+      "id": "node_110",
+      "name": "SEARCH JOBS",
+      "role": "link",
+      "bbox": [
+        188,
+        412,
+        295,
+        433
+      ],
+      "point": [
+        241.5,
+        422.5
+      ]
+    },
+    {
       "id": "node_517",
-      "category": "link",
       "name": "Engineering",
+      "role": "link",
       "bbox": [
         397,
         131,
@@ -21,8 +158,8 @@
     },
     {
       "id": "node_521",
-      "category": "link",
       "name": "Internships",
+      "role": "link",
       "bbox": [
         541,
         131,
@@ -36,8 +173,8 @@
     },
     {
       "id": "node_525",
-      "category": "link",
       "name": "Employee benefits",
+      "role": "link",
       "bbox": [
         674,
         131,
@@ -51,8 +188,8 @@
     },
     {
       "id": "node_534",
-      "category": "link",
       "name": "Search jobs",
+      "role": "link",
       "bbox": [
         562,
         474,
@@ -62,6 +199,36 @@
       "point": [
         614.5,
         487.0
+      ]
+    },
+    {
+      "id": "node_545",
+      "name": "Privacy Policy",
+      "role": "link",
+      "bbox": [
+        91,
+        520,
+        187,
+        541
+      ],
+      "point": [
+        139.0,
+        530.5
+      ]
+    },
+    {
+      "id": "node_551",
+      "name": "change your preferences",
+      "role": "button",
+      "bbox": [
+        197,
+        541,
+        349,
+        562
+      ],
+      "point": [
+        273.0,
+        551.5
       ]
     }
   ]

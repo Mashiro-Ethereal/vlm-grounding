@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/theguardian/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 8,
   "test_samples": [
     {
       "id": "node_20",
-      "category": "link",
       "name": "Print subscriptions",
+      "role": "link",
       "bbox": [
         829,
         299,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_24",
-      "category": "link",
       "name": "Search jobs",
+      "role": "link",
       "bbox": [
         997,
         299,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_27",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1106,
         299,
@@ -51,53 +53,53 @@
     },
     {
       "id": "node_36",
-      "category": "link",
-      "name": "Lisa Bloom on the fight for Epstein\u2019s victims",
+      "name": "Lisa Bloom on the fight for Epstein’s victims",
+      "role": "link",
       "bbox": [
-        250,
-        377,
-        530,
+        240,
+        367,
+        540,
         491
       ],
       "point": [
         390.0,
-        434.0
+        429.0
       ]
     },
     {
       "id": "node_53",
-      "category": "link",
       "name": "Propaganda in cinemas, newsrooms slashed: the US media under Trump",
+      "role": "link",
       "bbox": [
-        570,
-        377,
-        850,
+        560,
+        367,
+        860,
         491
       ],
       "point": [
         710.0,
-        434.0
+        429.0
       ]
     },
     {
       "id": "node_68",
-      "category": "link",
       "name": "What is Moltbook? The strange new social media site for AI bots",
+      "role": "link",
       "bbox": [
-        890,
-        377,
-        1170,
+        880,
+        367,
+        1180,
         491
       ],
       "point": [
         1030.0,
-        434.0
+        429.0
       ]
     },
     {
       "id": "node_138",
-      "category": "button",
       "name": "Move highlight stories forwards",
+      "role": "button",
       "bbox": [
         1144,
         411,
@@ -110,18 +112,18 @@
       ]
     },
     {
-      "id": "node_146",
-      "category": "link",
-      "name": "The Guardian - Back to home The Guardian",
+      "id": "node_141",
+      "name": "Int",
+      "role": "button",
       "bbox": [
-        856,
-        507,
+        1149,
+        513,
         1180,
-        568
+        535
       ],
       "point": [
-        1018.0,
-        537.5
+        1164.5,
+        524.0
       ]
     }
   ]

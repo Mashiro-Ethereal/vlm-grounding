@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/discord/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 5,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 11,
   "test_samples": [
     {
+      "id": "node_9",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        40,
+        30,
+        185,
+        70
+      ],
+      "point": [
+        112.5,
+        50.0
+      ]
+    },
+    {
       "id": "node_15",
-      "category": "link",
       "name": "Download",
+      "role": "link",
       "bbox": [
         317,
         42,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_19",
-      "category": "link",
       "name": "Nitro",
+      "role": "link",
       "bbox": [
         397,
         42,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Discover",
+      "role": "link",
       "bbox": [
         445,
         42,
@@ -50,9 +67,84 @@
       ]
     },
     {
+      "id": "node_27",
+      "name": "Safety",
+      "role": "button",
+      "bbox": [
+        515,
+        42,
+        572,
+        60
+      ],
+      "point": [
+        543.5,
+        51.0
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Quests",
+      "role": "button",
+      "bbox": [
+        583,
+        42,
+        644,
+        60
+      ],
+      "point": [
+        613.5,
+        51.0
+      ]
+    },
+    {
+      "id": "node_47",
+      "name": "Support",
+      "role": "button",
+      "bbox": [
+        656,
+        42,
+        724,
+        60
+      ],
+      "point": [
+        690.0,
+        51.0
+      ]
+    },
+    {
+      "id": "node_57",
+      "name": "Blog",
+      "role": "button",
+      "bbox": [
+        736,
+        42,
+        782,
+        60
+      ],
+      "point": [
+        759.0,
+        51.0
+      ]
+    },
+    {
+      "id": "node_67",
+      "name": "Developers",
+      "role": "button",
+      "bbox": [
+        793,
+        42,
+        882,
+        60
+      ],
+      "point": [
+        837.5,
+        51.0
+      ]
+    },
+    {
       "id": "node_77",
-      "category": "link",
       "name": "Careers",
+      "role": "link",
       "bbox": [
         894,
         42,
@@ -66,8 +158,8 @@
     },
     {
       "id": "node_81",
-      "category": "link",
       "name": "Log In",
+      "role": "link",
       "bbox": [
         1166,
         40,

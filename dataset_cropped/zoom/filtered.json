@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/zoom/screenshot_cropped.png",
-  "image_width": 1276,
-  "image_height": 583,
-  "sample_count": 9,
+  "image_size": [
+    1276,
+    583
+  ],
+  "sample_count": 10,
   "test_samples": [
     {
+      "id": "node_6",
+      "name": "zoom-logo-white.png",
+      "role": "link",
+      "bbox": [
+        20,
+        26,
+        120,
+        48
+      ],
+      "point": [
+        70.0,
+        37.0
+      ]
+    },
+    {
       "id": "node_10",
-      "category": "button",
       "name": "Products",
+      "role": "button",
       "bbox": [
         150,
         29,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_50",
-      "category": "button",
       "name": "AI",
+      "role": "button",
       "bbox": [
         266,
         29,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_58",
-      "category": "button",
       "name": "Solutions",
+      "role": "button",
       "bbox": [
         318,
         29,
@@ -51,13 +68,13 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "Pricing",
+      "role": "link",
       "bbox": [
         417,
-        29,
+        28,
         462,
-        45
+        46
       ],
       "point": [
         439.5,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_76",
-      "category": "button",
       "name": "Meet",
+      "role": "button",
       "bbox": [
         746,
         29,
@@ -81,13 +98,13 @@
     },
     {
       "id": "node_81",
-      "category": "link",
       "name": "Sign In Sign In",
+      "role": "link",
       "bbox": [
         818,
-        29,
+        28,
         862,
-        45
+        46
       ],
       "point": [
         840.0,
@@ -96,13 +113,13 @@
     },
     {
       "id": "node_87",
-      "category": "link",
       "name": "Support Support",
+      "role": "link",
       "bbox": [
         882,
-        29,
+        28,
         934,
-        45
+        46
       ],
       "point": [
         908.0,
@@ -111,8 +128,8 @@
     },
     {
       "id": "node_93",
-      "category": "link",
       "name": "Contact Sales Contact sales",
+      "role": "link",
       "bbox": [
         967,
         26,
@@ -126,8 +143,8 @@
     },
     {
       "id": "node_105",
-      "category": "link",
       "name": "Sign Up Free Sign Up Free",
+      "role": "link",
       "bbox": [
         1098,
         26,

@@ -1,7 +1,145 @@
 {
   "image_filename": "dataset_cropped/edx/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "name": "edX Online Homepage",
+      "role": "link",
+      "bbox": [
+        16,
+        20,
+        76,
+        53
+      ],
+      "point": [
+        46.0,
+        36.5
+      ]
+    },
+    {
+      "id": "node_9",
+      "name": "Learn - Open navigation menu",
+      "role": "button",
+      "bbox": [
+        122,
+        19,
+        195,
+        55
+      ],
+      "point": [
+        158.5,
+        37.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "name": "What do you want to learn?",
+      "role": "textfield",
+      "bbox": [
+        234,
+        22,
+        440,
+        50
+      ],
+      "point": [
+        337.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Search for courses, certificates and degrees",
+      "role": "button",
+      "bbox": [
+        468,
+        14,
+        492,
+        60
+      ],
+      "point": [
+        480.0,
+        37.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "name": "edX For Business",
+      "role": "link",
+      "bbox": [
+        894,
+        27,
+        1010,
+        48
+      ],
+      "point": [
+        952.0,
+        37.5
+      ]
+    },
+    {
+      "id": "node_22",
+      "name": "Sign In",
+      "role": "link",
+      "bbox": [
+        1035,
+        27,
+        1080,
+        48
+      ],
+      "point": [
+        1057.5,
+        37.5
+      ]
+    },
+    {
+      "id": "node_25",
+      "name": "Register for free",
+      "role": "link",
+      "bbox": [
+        1118,
+        27,
+        1226,
+        48
+      ],
+      "point": [
+        1172.0,
+        37.5
+      ]
+    },
+    {
+      "id": "node_35",
+      "name": "Learn more",
+      "role": "link",
+      "bbox": [
+        929,
+        81,
+        1004,
+        98
+      ],
+      "point": [
+        966.5,
+        89.5
+      ]
+    },
+    {
+      "id": "node_40",
+      "name": "Close site banner.",
+      "role": "button",
+      "bbox": [
+        1221,
+        77,
+        1245,
+        101
+      ],
+      "point": [
+        1233.0,
+        89.0
+      ]
+    }
+  ]
 }

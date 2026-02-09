@@ -1,7 +1,205 @@
 {
   "image_filename": "dataset_cropped/nextjs/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 13,
+  "test_samples": [
+    {
+      "id": "node_4",
+      "name": "Skip to content",
+      "role": "link",
+      "bbox": [
+        95,
+        63,
+        206,
+        191
+      ],
+      "point": [
+        150.5,
+        127.0
+      ]
+    },
+    {
+      "id": "node_9",
+      "name": "Go to Vercel homepage",
+      "role": "link",
+      "bbox": [
+        24,
+        21,
+        49,
+        43
+      ],
+      "point": [
+        36.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_12",
+      "name": "Go to the homepage",
+      "role": "link",
+      "bbox": [
+        89,
+        23,
+        178,
+        41
+      ],
+      "point": [
+        133.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_14",
+      "name": "Showcase",
+      "role": "link",
+      "bbox": [
+        223,
+        20,
+        288,
+        43
+      ],
+      "point": [
+        255.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "Docs",
+      "role": "link",
+      "bbox": [
+        313,
+        20,
+        345,
+        43
+      ],
+      "point": [
+        329.0,
+        31.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "Blog",
+      "role": "link",
+      "bbox": [
+        369,
+        20,
+        398,
+        43
+      ],
+      "point": [
+        383.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Templates",
+      "role": "link",
+      "bbox": [
+        423,
+        20,
+        488,
+        43
+      ],
+      "point": [
+        455.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Enterprise",
+      "role": "link",
+      "bbox": [
+        512,
+        20,
+        577,
+        43
+      ],
+      "point": [
+        544.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "Search documentation... CtrlK",
+      "role": "button",
+      "bbox": [
+        811,
+        16,
+        1048,
+        48
+      ],
+      "point": [
+        929.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Vercel logomark Deploy",
+      "role": "link",
+      "bbox": [
+        1072,
+        16,
+        1158,
+        48
+      ],
+      "point": [
+        1115.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Learn",
+      "role": "link",
+      "bbox": [
+        1182,
+        16,
+        1230,
+        48
+      ],
+      "point": [
+        1206.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_66",
+      "name": "Get Started",
+      "role": "link",
+      "bbox": [
+        503,
+        511,
+        601,
+        559
+      ],
+      "point": [
+        552.0,
+        535.0
+      ]
+    },
+    {
+      "id": "node_69",
+      "name": "Learn Next.js",
+      "role": "link",
+      "bbox": [
+        646,
+        511,
+        756,
+        559
+      ],
+      "point": [
+        701.0,
+        535.0
+      ]
+    }
+  ]
 }

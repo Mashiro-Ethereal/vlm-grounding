@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/todoist/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 8,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_6",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        24,
+        18,
+        152,
+        53
+      ],
+      "point": [
+        88.0,
+        35.5
+      ]
+    },
+    {
       "id": "node_11",
-      "category": "button",
       "name": "Made For",
+      "role": "button",
       "bbox": [
         691,
         25,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_21",
-      "category": "button",
       "name": "Resources",
+      "role": "button",
       "bbox": [
         814,
         25,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_34",
-      "category": "link",
       "name": "Pricing",
+      "role": "link",
       "bbox": [
         945,
         25,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_39",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         1043,
         25,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_43",
-      "category": "link",
       "name": "Start for free",
+      "role": "link",
       "bbox": [
         1125,
         25,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_54",
-      "category": "link",
       "name": "Meet Ramble",
+      "role": "link",
       "bbox": [
         703,
         101,
@@ -95,9 +112,54 @@
       ]
     },
     {
+      "id": "node_57",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        1142,
+        104,
+        1158,
+        120
+      ],
+      "point": [
+        1150.0,
+        112.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "name": "Start for free",
+      "role": "link",
+      "bbox": [
+        184,
+        523,
+        300,
+        563
+      ],
+      "point": [
+        242.0,
+        543.0
+      ]
+    },
+    {
+      "id": "node_842",
+      "name": "Close",
+      "role": "button",
+      "bbox": [
+        1212,
+        361,
+        1228,
+        377
+      ],
+      "point": [
+        1220.0,
+        369.0
+      ]
+    },
+    {
       "id": "node_854",
-      "category": "button",
       "name": "Accept",
+      "role": "button",
       "bbox": [
         1034,
         512,
@@ -111,8 +173,8 @@
     },
     {
       "id": "node_857",
-      "category": "button",
       "name": "Decline",
+      "role": "button",
       "bbox": [
         1124,
         512,

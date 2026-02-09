@@ -1,7 +1,130 @@
 {
   "image_filename": "dataset_cropped/hashnode/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "name": "Hashnode Logo",
+      "role": "link",
+      "bbox": [
+        139,
+        37,
+        283,
+        61
+      ],
+      "point": [
+        211.0,
+        49.0
+      ]
+    },
+    {
+      "id": "node_13",
+      "name": "Products",
+      "role": "button",
+      "bbox": [
+        508,
+        40,
+        587,
+        60
+      ],
+      "point": [
+        547.5,
+        50.0
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "Editor",
+      "role": "link",
+      "bbox": [
+        612,
+        40,
+        651,
+        60
+      ],
+      "point": [
+        631.5,
+        50.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Pricing",
+      "role": "link",
+      "bbox": [
+        675,
+        40,
+        721,
+        60
+      ],
+      "point": [
+        698.0,
+        50.0
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Changelog",
+      "role": "link",
+      "bbox": [
+        746,
+        40,
+        818,
+        60
+      ],
+      "point": [
+        782.0,
+        50.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        1043,
+        31,
+        1131,
+        69
+      ],
+      "point": [
+        1087.0,
+        50.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "Sign up for free",
+      "role": "link",
+      "bbox": [
+        474,
+        463,
+        592,
+        487
+      ],
+      "point": [
+        533.0,
+        475.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "name": "Talk to founders",
+      "role": "link",
+      "bbox": [
+        666,
+        463,
+        821,
+        487
+      ],
+      "point": [
+        743.5,
+        475.0
+      ]
+    }
+  ]
 }

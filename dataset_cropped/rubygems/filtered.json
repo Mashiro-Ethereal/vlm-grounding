@@ -1,13 +1,120 @@
 {
   "image_filename": "dataset_cropped/rubygems/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 4,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 12,
   "test_samples": [
     {
+      "id": "node_15",
+      "name": "RELEASES",
+      "role": "link",
+      "bbox": [
+        674,
+        0,
+        750,
+        70
+      ],
+      "point": [
+        712.0,
+        35.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "BLOG",
+      "role": "link",
+      "bbox": [
+        787,
+        0,
+        828,
+        70
+      ],
+      "point": [
+        807.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "name": "GEMS",
+      "role": "link",
+      "bbox": [
+        866,
+        0,
+        909,
+        70
+      ],
+      "point": [
+        887.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_24",
+      "name": "GUIDES",
+      "role": "link",
+      "bbox": [
+        946,
+        0,
+        1003,
+        70
+      ],
+      "point": [
+        974.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_27",
+      "name": "SIGN IN",
+      "role": "link",
+      "bbox": [
+        1040,
+        0,
+        1097,
+        70
+      ],
+      "point": [
+        1068.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "SIGN UP",
+      "role": "link",
+      "bbox": [
+        1134,
+        0,
+        1195,
+        70
+      ],
+      "point": [
+        1164.5,
+        35.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Search Gems…",
+      "role": "textfield",
+      "bbox": [
+        250,
+        312,
+        972,
+        333
+      ],
+      "point": [
+        611.0,
+        322.5
+      ]
+    },
+    {
       "id": "node_48",
-      "category": "button",
-      "name": "Search Gems\u2026",
+      "name": "Search Gems…",
+      "role": "button",
       "bbox": [
         986,
         313,
@@ -21,8 +128,8 @@
     },
     {
       "id": "node_52",
-      "category": "link",
-      "name": "Advanced Search\u2192",
+      "name": "Advanced Search→",
+      "role": "link",
       "bbox": [
         557,
         348,
@@ -35,33 +142,48 @@
       ]
     },
     {
+      "id": "node_64",
+      "name": "> Install RubyGems",
+      "role": "link",
+      "bbox": [
+        613,
+        422,
+        879,
+        443
+      ],
+      "point": [
+        746.0,
+        432.5
+      ]
+    },
+    {
       "id": "node_71",
-      "category": "link",
-      "name": "\u2301STATUS",
+      "name": "⌁STATUS",
+      "role": "link",
       "bbox": [
         403,
         543,
         627,
-        580
+        583
       ],
       "point": [
         515.0,
-        561.5
+        563.0
       ]
     },
     {
       "id": "node_76",
-      "category": "link",
-      "name": "\u29d6UPTIME",
+      "name": "⧖UPTIME",
+      "role": "link",
       "bbox": [
         634,
         543,
         858,
-        580
+        583
       ],
       "point": [
         746.0,
-        561.5
+        563.0
       ]
     }
   ]

@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/reuters/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 22,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 23,
   "test_samples": [
     {
       "id": "node_13",
-      "category": "link",
       "name": "Exclusive news, data and analytics for financial market professionals from LSEG.",
+      "role": "link",
       "bbox": [
         747,
         256,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_22",
-      "category": "link",
       "name": "Reuters home",
+      "role": "link",
       "bbox": [
         28,
         296,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_28",
-      "category": "link",
       "name": "World",
+      "role": "link",
       "bbox": [
         254,
         302,
@@ -51,23 +53,23 @@
     },
     {
       "id": "node_31",
-      "category": "button",
       "name": "World",
+      "role": "button",
       "bbox": [
         290,
         280,
-        303,
+        304,
         344
       ],
       "point": [
-        296.5,
+        297.0,
         312.0
       ]
     },
     {
       "id": "node_34",
-      "category": "link",
       "name": "Business",
+      "role": "link",
       "bbox": [
         320,
         302,
@@ -81,23 +83,23 @@
     },
     {
       "id": "node_37",
-      "category": "button",
       "name": "Business",
+      "role": "button",
       "bbox": [
         373,
         280,
-        386,
+        387,
         344
       ],
       "point": [
-        379.5,
+        380.0,
         312.0
       ]
     },
     {
       "id": "node_40",
-      "category": "link",
       "name": "Markets",
+      "role": "link",
       "bbox": [
         403,
         302,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_43",
-      "category": "button",
       "name": "Markets",
+      "role": "button",
       "bbox": [
         451,
         280,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_46",
-      "category": "link",
       "name": "Sustainability",
+      "role": "link",
       "bbox": [
         481,
         302,
@@ -141,23 +143,23 @@
     },
     {
       "id": "node_49",
-      "category": "button",
       "name": "Sustainability",
+      "role": "button",
       "bbox": [
         564,
         280,
-        577,
+        578,
         344
       ],
       "point": [
-        570.5,
+        571.0,
         312.0
       ]
     },
     {
       "id": "node_52",
-      "category": "link",
       "name": "Legal",
+      "role": "link",
       "bbox": [
         594,
         302,
@@ -171,8 +173,8 @@
     },
     {
       "id": "node_55",
-      "category": "button",
       "name": "Legal",
+      "role": "button",
       "bbox": [
         627,
         280,
@@ -186,8 +188,8 @@
     },
     {
       "id": "node_58",
-      "category": "button",
       "name": "More",
+      "role": "button",
       "bbox": [
         657,
         280,
@@ -201,8 +203,8 @@
     },
     {
       "id": "node_66",
-      "category": "button",
       "name": "Open search bar",
+      "role": "button",
       "bbox": [
         883,
         292,
@@ -216,8 +218,8 @@
     },
     {
       "id": "node_67",
-      "category": "link",
       "name": "Sign In",
+      "role": "link",
       "bbox": [
         931,
         291,
@@ -231,8 +233,8 @@
     },
     {
       "id": "node_82",
-      "category": "link",
       "name": "Negative SPX",
+      "role": "link",
       "bbox": [
         46,
         357,
@@ -246,8 +248,8 @@
     },
     {
       "id": "node_98",
-      "category": "link",
       "name": "Negative IXIC",
+      "role": "link",
       "bbox": [
         224,
         357,
@@ -261,8 +263,8 @@
     },
     {
       "id": "node_114",
-      "category": "link",
       "name": "Negative DJI",
+      "role": "link",
       "bbox": [
         408,
         357,
@@ -276,8 +278,8 @@
     },
     {
       "id": "node_130",
-      "category": "link",
       "name": "Negative STOXX",
+      "role": "link",
       "bbox": [
         588,
         357,
@@ -291,8 +293,8 @@
     },
     {
       "id": "node_146",
-      "category": "link",
       "name": "Negative FTSE",
+      "role": "link",
       "bbox": [
         774,
         357,
@@ -305,9 +307,24 @@
       ]
     },
     {
+      "id": "node_162",
+      "name": "Negative N225",
+      "role": "link",
+      "bbox": [
+        46,
+        397,
+        78,
+        411
+      ],
+      "point": [
+        62.0,
+        404.0
+      ]
+    },
+    {
       "id": "node_174",
-      "category": "link",
       "name": "Get real-time market data from LSEG",
+      "role": "link",
       "bbox": [
         993,
         357,
@@ -321,8 +338,8 @@
     },
     {
       "id": "node_186",
-      "category": "link",
       "name": "Israel reopens Gaza's Rafah border crossing to Egypt, with limits, includes gallery",
+      "role": "link",
       "bbox": [
         28,
         409,

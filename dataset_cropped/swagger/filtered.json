@@ -1,13 +1,75 @@
 {
   "image_filename": "dataset_cropped/swagger/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 8,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 15,
   "test_samples": [
     {
+      "id": "node_14",
+      "name": "Learn more",
+      "role": "link",
+      "bbox": [
+        399,
+        539,
+        473,
+        554
+      ],
+      "point": [
+        436.0,
+        546.5
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "Cookie settings",
+      "role": "button",
+      "bbox": [
+        878,
+        516,
+        998,
+        529
+      ],
+      "point": [
+        938.0,
+        522.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "ALLOW ALL COOKIES",
+      "role": "button",
+      "bbox": [
+        1049,
+        516,
+        1210,
+        529
+      ],
+      "point": [
+        1129.5,
+        522.5
+      ]
+    },
+    {
+      "id": "node_28",
+      "name": "Swagger Logo",
+      "role": "link",
+      "bbox": [
+        60,
+        7,
+        234,
+        57
+      ],
+      "point": [
+        147.0,
+        32.0
+      ]
+    },
+    {
       "id": "node_32",
-      "category": "button",
-      "name": "Products \uf078",
+      "name": "Products ",
+      "role": "button",
       "bbox": [
         282,
         18,
@@ -21,8 +83,8 @@
     },
     {
       "id": "node_39",
-      "category": "button",
-      "name": "Community \uf078",
+      "name": "Community ",
+      "role": "button",
       "bbox": [
         398,
         18,
@@ -36,8 +98,8 @@
     },
     {
       "id": "node_46",
-      "category": "button",
-      "name": "Learn \uf078",
+      "name": "Learn ",
+      "role": "button",
       "bbox": [
         535,
         18,
@@ -51,8 +113,8 @@
     },
     {
       "id": "node_53",
-      "category": "button",
-      "name": "Resources \uf078",
+      "name": "Resources ",
+      "role": "button",
       "bbox": [
         628,
         18,
@@ -65,9 +127,24 @@
       ]
     },
     {
+      "id": "node_60",
+      "name": "",
+      "role": "link",
+      "bbox": [
+        921,
+        20,
+        942,
+        44
+      ],
+      "point": [
+        931.5,
+        32.0
+      ]
+    },
+    {
       "id": "node_67",
-      "category": "link",
       "name": "Sign In",
+      "role": "link",
       "bbox": [
         984,
         27,
@@ -81,8 +158,8 @@
     },
     {
       "id": "node_71",
-      "category": "link",
       "name": "Get started",
+      "role": "link",
       "bbox": [
         1095,
         27,
@@ -96,8 +173,8 @@
     },
     {
       "id": "node_93",
-      "category": "link",
       "name": "Find your tool",
+      "role": "link",
       "bbox": [
         81,
         490,
@@ -111,8 +188,8 @@
     },
     {
       "id": "node_96",
-      "category": "link",
-      "name": "Read the docs \uf178",
+      "name": "Read the docs ",
+      "role": "link",
       "bbox": [
         241,
         482,
@@ -122,6 +199,36 @@
       "point": [
         306.0,
         496.0
+      ]
+    },
+    {
+      "id": "node_520",
+      "name": "Dismiss chatbot poke message",
+      "role": "button",
+      "bbox": [
+        861,
+        422,
+        866,
+        437
+      ],
+      "point": [
+        863.5,
+        429.5
+      ]
+    },
+    {
+      "id": "node_527",
+      "name": "Open chatbot",
+      "role": "button",
+      "bbox": [
+        1159,
+        431,
+        1211,
+        483
+      ],
+      "point": [
+        1185.0,
+        457.0
       ]
     }
   ]

@@ -1,0 +1,11 @@
+{
+  "trajectory_id": "w3schools",
+  "success": true,
+  "total_steps": 1,
+  "completion_time_ms": 14846,
+  "error_message": null,
+  "model_info": {
+    "name": "human",
+    "version": "1.0"
+  }
+}

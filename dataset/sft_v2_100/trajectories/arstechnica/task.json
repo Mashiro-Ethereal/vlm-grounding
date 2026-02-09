@@ -1,0 +1,7 @@
+{
+  "task_id": "arstechnica",
+  "instruction": "Open Ars Technica",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

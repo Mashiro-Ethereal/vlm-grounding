@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/jsonplaceholder/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 568,
+  "image_size": [
+    1261,
+    568
+  ],
   "sample_count": 8,
   "test_samples": [
     {
       "id": "node_4",
-      "category": "link",
-      "name": "Check my new project \ud83d\udca7 MistCSS write React components with 50% less code",
+      "name": "Check my new project 💧 MistCSS write React components with 50% less code",
+      "role": "link",
       "bbox": [
         315,
         10,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_14",
-      "category": "link",
       "name": "JSONPlaceholder",
+      "role": "link",
       "bbox": [
         182,
         66,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "Guide",
+      "role": "link",
       "bbox": [
         662,
         66,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_24",
-      "category": "link",
       "name": "Sponsor this project",
+      "role": "link",
       "bbox": [
         725,
         66,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_28",
-      "category": "link",
       "name": "Blog",
+      "role": "link",
       "bbox": [
         901,
         66,
@@ -81,23 +83,23 @@
     },
     {
       "id": "node_32",
-      "category": "link",
       "name": "My JSON Server",
+      "role": "link",
       "bbox": [
         953,
         66,
-        1077,
+        1078,
         85
       ],
       "point": [
-        1015.0,
+        1015.5,
         75.5
       ]
     },
     {
       "id": "node_44",
-      "category": "link",
       "name": "JSON Server",
+      "role": "link",
       "bbox": [
         335,
         357,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_49",
-      "category": "link",
       "name": "LowDB",
+      "role": "link",
       "bbox": [
         523,
         357,

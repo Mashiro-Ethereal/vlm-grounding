@@ -1,0 +1,7 @@
+{
+  "task_id": "ap_news",
+  "instruction": "Visit Associated Press news",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

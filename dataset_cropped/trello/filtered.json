@@ -1,13 +1,135 @@
 {
   "image_filename": "dataset_cropped/trello/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 1,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 9,
   "test_samples": [
     {
+      "id": "node_10",
+      "name": "Atlassian Trello",
+      "role": "link",
+      "bbox": [
+        16,
+        16,
+        127,
+        44
+      ],
+      "point": [
+        71.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_13",
+      "name": "Features",
+      "role": "button",
+      "bbox": [
+        159,
+        20,
+        237,
+        44
+      ],
+      "point": [
+        198.0,
+        32.0
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "Solutions",
+      "role": "button",
+      "bbox": [
+        269,
+        20,
+        352,
+        44
+      ],
+      "point": [
+        310.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_21",
+      "name": "Plans",
+      "role": "button",
+      "bbox": [
+        385,
+        20,
+        438,
+        44
+      ],
+      "point": [
+        411.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "name": "Pricing",
+      "role": "link",
+      "bbox": [
+        470,
+        20,
+        521,
+        44
+      ],
+      "point": [
+        495.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_28",
+      "name": "Resources",
+      "role": "button",
+      "bbox": [
+        553,
+        20,
+        642,
+        44
+      ],
+      "point": [
+        597.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "name": "Log in",
+      "role": "link",
+      "bbox": [
+        993,
+        8,
+        1046,
+        52
+      ],
+      "point": [
+        1019.5,
+        30.0
+      ]
+    },
+    {
+      "id": "node_37",
+      "name": "Get Trello for free",
+      "role": "link",
+      "bbox": [
+        1095,
+        8,
+        1251,
+        52
+      ],
+      "point": [
+        1173.0,
+        30.0
+      ]
+    },
+    {
       "id": "node_49",
-      "category": "link",
       "name": "Learn more.",
+      "role": "link",
       "bbox": [
         938,
         81,

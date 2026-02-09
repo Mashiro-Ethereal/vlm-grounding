@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/crates_io/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 6,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
       "id": "node_7",
-      "category": "link",
       "name": "crates.io",
+      "role": "link",
       "bbox": [
         177,
         14,
@@ -20,9 +22,24 @@
       ]
     },
     {
+      "id": "node_16",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        351,
+        164,
+        871,
+        184
+      ],
+      "point": [
+        611.0,
+        174.0
+      ]
+    },
+    {
       "id": "node_18",
-      "category": "button",
       "name": "Submit",
+      "role": "button",
       "bbox": [
         892,
         156,
@@ -35,9 +52,24 @@
       ]
     },
     {
+      "id": "node_24",
+      "name": "Change color scheme",
+      "role": "button",
+      "bbox": [
+        739,
+        20,
+        761,
+        42
+      ],
+      "point": [
+        750.0,
+        31.0
+      ]
+    },
+    {
       "id": "node_28",
-      "category": "link",
       "name": "Browse All Crates",
+      "role": "link",
       "bbox": [
         775,
         23,
@@ -51,8 +83,8 @@
     },
     {
       "id": "node_33",
-      "category": "button",
       "name": "Log in with GitHub",
+      "role": "button",
       "bbox": [
         925,
         23,
@@ -66,8 +98,8 @@
     },
     {
       "id": "node_39",
-      "category": "link",
       "name": "Install Cargo",
+      "role": "link",
       "bbox": [
         460,
         311,
@@ -81,8 +113,8 @@
     },
     {
       "id": "node_43",
-      "category": "link",
       "name": "Getting Started",
+      "role": "link",
       "bbox": [
         665,
         311,

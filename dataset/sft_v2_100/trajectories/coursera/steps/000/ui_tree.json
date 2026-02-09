@@ -1,0 +1,744 @@
+{
+  "timestamp": "2026-02-07T05:43:15.623534Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Coursera | Courses, Professional Certificates, and Degrees Online",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 5840
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 105
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 104
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "Banner",
+                            "bounds": {
+                              "x": 48,
+                              "y": 0,
+                              "width": 538,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 48,
+                                  "y": 0,
+                                  "width": 546,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 0,
+                                      "width": 133,
+                                      "height": 40
+                                    }
+                                  },
+                                  {
+                                    "id": "node_9",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 181,
+                                      "y": 0,
+                                      "width": 130,
+                                      "height": 40
+                                    }
+                                  },
+                                  {
+                                    "id": "node_10",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 311,
+                                      "y": 0,
+                                      "width": 135,
+                                      "height": 40
+                                    }
+                                  },
+                                  {
+                                    "id": "node_11",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 447,
+                                      "y": 0,
+                                      "width": 147,
+                                      "height": 40
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_12",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 40,
+                          "width": 1261,
+                          "height": 64
+                        },
+                        "children": [
+                          {
+                            "id": "node_13",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 278,
+                              "y": 54,
+                              "width": 62,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_14",
+                                "role": "button",
+                                "name": "Degrees",
+                                "bounds": {
+                                  "x": 286,
+                                  "y": 62,
+                                  "width": 46,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "button",
+                            "name": "Log In",
+                            "bounds": {
+                              "x": 1061,
+                              "y": 62,
+                              "width": 36,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "label",
+                                "name": "Log In",
+                                "bounds": {
+                                  "x": 1061,
+                                  "y": 62,
+                                  "width": 36,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_17",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 120,
+                  "width": 1261,
+                  "height": 3959
+                },
+                "children": [
+                  {
+                    "id": "node_18",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 48,
+                      "y": 105,
+                      "width": 1165,
+                      "height": 330
+                    },
+                    "children": [
+                      {
+                        "id": "node_19",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 48,
+                          "y": 121,
+                          "width": 1165,
+                          "height": 314
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 113,
+                              "width": 1261,
+                              "height": 314
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 121,
+                                  "width": 1261,
+                                  "height": 298
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "listbox",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 121,
+                                      "width": 1970,
+                                      "height": 298
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_23",
+                                        "role": "label",
+                                        "name": "Join for Free",
+                                        "bounds": {
+                                          "x": 1095,
+                                          "y": 7,
+                                          "width": 46,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_24",
+                                        "role": "label",
+                                        "name": "Drive your business forward and empower your talent",
+                                        "bounds": {
+                                          "x": 1179,
+                                          "y": 7,
+                                          "width": 51,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_25",
+                                        "role": "label",
+                                        "name": "Try Coursera for Business",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 171,
+                                          "height": 171
+                                        }
+                                      },
+                                      {
+                                        "id": "node_26",
+                                        "role": "label",
+                                        "name": "Learn how AI is a busy teacher\u2019s best friend",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 171,
+                                          "height": 171
+                                        }
+                                      },
+                                      {
+                                        "id": "node_27",
+                                        "role": "label",
+                                        "name": "Save time with ChatGPT Foundations for Teachers.",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 1261,
+                                          "height": 583
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_28",
+                                "role": "button",
+                                "name": "Next",
+                                "bounds": {
+                                  "x": 1241,
+                                  "y": 113,
+                                  "width": 20,
+                                  "height": 314
+                                }
+                              },
+                              {
+                                "id": "node_29",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 48,
+                                  "y": 435,
+                                  "width": 52,
+                                  "height": 8
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_30",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 435,
+                                      "width": 20,
+                                      "height": 8
+                                    }
+                                  },
+                                  {
+                                    "id": "node_31",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 92,
+                                      "y": 435,
+                                      "width": 8,
+                                      "height": 8
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_32",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 443,
+                      "width": 1261,
+                      "height": 142
+                    },
+                    "children": [
+                      {
+                        "id": "node_33",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 32,
+                          "y": 451,
+                          "width": 1197,
+                          "height": 126
+                        },
+                        "children": [
+                          {
+                            "id": "node_34",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 32,
+                              "y": 459,
+                              "width": 1197,
+                              "height": 110
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 48,
+                                  "y": 459,
+                                  "width": 1165,
+                                  "height": 110
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_36",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 459,
+                                      "width": 377,
+                                      "height": 110
+                                    }
+                                  },
+                                  {
+                                    "id": "node_37",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 441,
+                                      "y": 459,
+                                      "width": 377,
+                                      "height": 110
+                                    }
+                                  },
+                                  {
+                                    "id": "node_38",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 835,
+                                      "y": 459,
+                                      "width": 377,
+                                      "height": 110
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_39",
+                    "role": "label",
+                    "name": "Information Technology",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    }
+                  },
+                  {
+                    "id": "node_40",
+                    "role": "label",
+                    "name": "Language Learning",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    }
+                  },
+                  {
+                    "id": "node_41",
+                    "role": "label",
+                    "name": "Social Sciences",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    }
+                  },
+                  {
+                    "id": "node_42",
+                    "role": "label",
+                    "name": "Arts and Humanities",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    }
+                  },
+                  {
+                    "id": "node_43",
+                    "role": "label",
+                    "name": "Physical Science and Engineering",
+                    "bounds": {
+                      "x": 0,
+                      "y": 38,
+                      "width": 1261,
+                      "height": 7213
+                    }
+                  },
+                  {
+                    "id": "node_44",
+                    "role": "label",
+                    "name": "Math and Logic",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 38
+                    }
+                  },
+                  {
+                    "id": "node_45",
+                    "role": "label",
+                    "name": "Start my career",
+                    "bounds": {
+                      "x": 525,
+                      "y": 7,
+                      "width": 210,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "id": "node_46",
+                    "role": "label",
+                    "name": "Grow in my current role",
+                    "bounds": {
+                      "x": 554,
+                      "y": 12,
+                      "width": 11,
+                      "height": 13
+                    }
+                  },
+                  {
+                    "id": "node_47",
+                    "role": "label",
+                    "name": "Explore topics outside of work",
+                    "bounds": {
+                      "x": 625,
+                      "y": 12,
+                      "width": 11,
+                      "height": 13
+                    }
+                  },
+                  {
+                    "id": "node_48",
+                    "role": "label",
+                    "name": "Unlock access to 10,000+ courses with a subscription",
+                    "bounds": {
+                      "x": 537,
+                      "y": 10,
+                      "width": 15,
+                      "height": 17
+                    }
+                  },
+                  {
+                    "id": "node_49",
+                    "role": "label",
+                    "name": "Start 7-day free trial",
+                    "bounds": {
+                      "x": 611,
+                      "y": 6,
+                      "width": 11,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "id": "node_50",
+                    "role": "label",
+                    "name": "Drive your business forward and empower your teams",
+                    "bounds": {
+                      "x": 611,
+                      "y": 6,
+                      "width": 11,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "id": "node_51",
+                    "role": "label",
+                    "name": "Try Coursera for Business",
+                    "bounds": {
+                      "x": 609,
+                      "y": 4,
+                      "width": 15,
+                      "height": 22
+                    }
+                  },
+                  {
+                    "id": "node_52",
+                    "role": "label",
+                    "name": "Sarah W.",
+                    "bounds": {
+                      "x": 711,
+                      "y": 8,
+                      "width": 13,
+                      "height": 20
+                    }
+                  },
+                  {
+                    "id": "node_53",
+                    "role": "label",
+                    "name": "\"Coursera's reputation for high-quality content, paired with its flexible structure, made it possible for me to dive into data analytics while managing family, health, and everyday life. \"",
+                    "bounds": {
+                      "x": 711,
+                      "y": 8,
+                      "width": 13,
+                      "height": 20
+                    }
+                  },
+                  {
+                    "id": "node_54",
+                    "role": "label",
+                    "name": "Noeris B.",
+                    "bounds": {
+                      "x": 709,
+                      "y": 6,
+                      "width": 17,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "id": "node_55",
+                    "role": "label",
+                    "name": "\"Coursera rebuilt my confidence and showed me I could dream bigger. It wasn't just about gaining knowledge\u2014it was about believing in my potential again.\"",
+                    "bounds": {
+                      "x": 709,
+                      "y": 6,
+                      "width": 17,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "id": "node_56",
+                    "role": "label",
+                    "name": "Abdullahi M.",
+                    "bounds": {
+                      "x": 654,
+                      "y": 12,
+                      "width": 12,
+                      "height": 13
+                    }
+                  },
+                  {
+                    "id": "node_57",
+                    "role": "label",
+                    "name": "\"I now feel more prepared to take on leadership roles and have already started mentoring some of my colleagues.\"",
+                    "bounds": {
+                      "x": 654,
+                      "y": 12,
+                      "width": 12,
+                      "height": 13
+                    }
+                  },
+                  {
+                    "id": "node_58",
+                    "role": "label",
+                    "name": "Anas A.",
+                    "bounds": {
+                      "x": 652,
+                      "y": 10,
+                      "width": 16,
+                      "height": 17
+                    }
+                  },
+                  {
+                    "id": "node_59",
+                    "role": "label",
+                    "name": "\"Learning with Coursera has expanded my professional expertise by giving me access to cutting-edge research, practical tools, and global perspectives.\"",
+                    "bounds": {
+                      "x": 652,
+                      "y": 10,
+                      "width": 16,
+                      "height": 17
+                    }
+                  },
+                  {
+                    "id": "node_60",
+                    "role": "label",
+                    "name": "Is Coursera accredited, and are Coursera certificates recognized by employers?",
+                    "bounds": {
+                      "x": 523,
+                      "y": 5,
+                      "width": 15,
+                      "height": 22
+                    }
+                  },
+                  {
+                    "id": "node_61",
+                    "role": "label",
+                    "name": "Is a Coursera certificate worth it?",
+                    "bounds": {
+                      "x": 668,
+                      "y": 12,
+                      "width": 12,
+                      "height": 13
+                    }
+                  },
+                  {
+                    "id": "node_62",
+                    "role": "label",
+                    "name": "What is Coursera Plus, and is it worth it?",
+                    "bounds": {
+                      "x": 683,
+                      "y": 12,
+                      "width": 11,
+                      "height": 18
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

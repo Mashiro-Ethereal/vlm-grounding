@@ -1,0 +1,7 @@
+{
+  "task_id": "slack",
+  "instruction": "Visit Slack homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,11 @@
+{
+  "trajectory_id": "amazon",
+  "success": true,
+  "total_steps": 1,
+  "completion_time_ms": 15583,
+  "error_message": null,
+  "model_info": {
+    "name": "human",
+    "version": "1.0"
+  }
+}

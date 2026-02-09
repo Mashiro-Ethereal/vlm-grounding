@@ -1,0 +1,1891 @@
+{
+  "timestamp": "2026-02-07T05:40:37.628022Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Breaking News, World News and Video from Al Jazeera",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 4100
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 4100
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 18,
+                      "y": 18,
+                      "width": 1225,
+                      "height": 102
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 20,
+                          "width": 1261,
+                          "height": 97
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "Advertisement",
+                            "bounds": {
+                              "x": 585,
+                              "y": 3,
+                              "width": 92,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 138,
+                      "width": 1261,
+                      "height": 60
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 138,
+                          "width": 1261,
+                          "height": 60
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 45,
+                              "y": 138,
+                              "width": 1170,
+                              "height": 60
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 61,
+                                  "y": 159,
+                                  "width": 199,
+                                  "height": 108
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_11",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 61,
+                                      "y": 159,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_12",
+                                        "role": "label",
+                                        "name": "Skip links",
+                                        "bounds": {
+                                          "x": 61,
+                                          "y": 161,
+                                          "width": 67,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_13",
+                                    "role": "link",
+                                    "name": "Skip to Featured Content",
+                                    "bounds": {
+                                      "x": 61,
+                                      "y": 159,
+                                      "width": 199,
+                                      "height": 36
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_14",
+                                        "role": "label",
+                                        "name": "Skip to Featured Content",
+                                        "bounds": {
+                                          "x": 61,
+                                          "y": 166,
+                                          "width": 200,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_15",
+                                    "role": "link",
+                                    "name": "Skip to Content Feed",
+                                    "bounds": {
+                                      "x": 61,
+                                      "y": 195,
+                                      "width": 199,
+                                      "height": 36
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_16",
+                                        "role": "label",
+                                        "name": "Skip to Content Feed",
+                                        "bounds": {
+                                          "x": 61,
+                                          "y": 202,
+                                          "width": 167,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_17",
+                                    "role": "link",
+                                    "name": "Skip to Most Read",
+                                    "bounds": {
+                                      "x": 61,
+                                      "y": 231,
+                                      "width": 199,
+                                      "height": 36
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_18",
+                                        "role": "label",
+                                        "name": "Skip to Most Read",
+                                        "bounds": {
+                                          "x": 61,
+                                          "y": 238,
+                                          "width": 146,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_19",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 45,
+                                  "y": 138,
+                                  "width": 165,
+                                  "height": 60
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "link",
+                                    "name": "Al Jazeera , link to home page",
+                                    "bounds": {
+                                      "x": 45,
+                                      "y": 138,
+                                      "width": 165,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_21",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 45,
+                                          "y": 198,
+                                          "width": 1,
+                                          "height": 1
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_22",
+                                            "role": "label",
+                                            "name": "Al Jazeera",
+                                            "bounds": {
+                                              "x": 45,
+                                              "y": 219,
+                                              "width": 1,
+                                              "height": 48
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_23",
+                                                "role": "label",
+                                                "name": "Al Jazeera",
+                                                "bounds": {
+                                                  "x": 45,
+                                                  "y": 224,
+                                                  "width": 152,
+                                                  "height": 38
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_24",
+                                            "role": "label",
+                                            "name": ", link to home page",
+                                            "bounds": {
+                                              "x": 45,
+                                              "y": 290,
+                                              "width": 133,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_25",
+                                "role": "panel",
+                                "name": "Primary navigation menu",
+                                "bounds": {
+                                  "x": 270,
+                                  "y": 154,
+                                  "width": 698,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "label",
+                                    "name": "Navigation menu",
+                                    "bounds": {
+                                      "x": 270,
+                                      "y": 156,
+                                      "width": 120,
+                                      "height": 19
+                                    }
+                                  },
+                                  {
+                                    "id": "node_27",
+                                    "role": "listbox",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 270,
+                                      "y": 154,
+                                      "width": 698,
+                                      "height": 27
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_28",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 270,
+                                          "y": 154,
+                                          "width": 57,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_29",
+                                            "role": "link",
+                                            "name": "News",
+                                            "bounds": {
+                                              "x": 270,
+                                              "y": 154,
+                                              "width": 45,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_30",
+                                                "role": "label",
+                                                "name": "News",
+                                                "bounds": {
+                                                  "x": 270,
+                                                  "y": 157,
+                                                  "width": 45,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_31",
+                                            "role": "button",
+                                            "name": "Show more news sections",
+                                            "bounds": {
+                                              "x": 315,
+                                              "y": 154,
+                                              "width": 12,
+                                              "height": 27
+                                            },
+                                            "states": [
+                                              "collapsed"
+                                            ],
+                                            "children": [
+                                              {
+                                                "id": "node_32",
+                                                "role": "label",
+                                                "name": "Show more news sections",
+                                                "bounds": {
+                                                  "x": 327,
+                                                  "y": 157,
+                                                  "width": 210,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_33",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 357,
+                                          "y": 154,
+                                          "width": 94,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_34",
+                                            "role": "link",
+                                            "name": "Middle East",
+                                            "bounds": {
+                                              "x": 357,
+                                              "y": 154,
+                                              "width": 94,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_35",
+                                                "role": "label",
+                                                "name": "Middle East",
+                                                "bounds": {
+                                                  "x": 357,
+                                                  "y": 157,
+                                                  "width": 95,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_36",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 482,
+                                          "y": 154,
+                                          "width": 78,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_37",
+                                            "role": "link",
+                                            "name": "Explained",
+                                            "bounds": {
+                                              "x": 482,
+                                              "y": 154,
+                                              "width": 78,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_38",
+                                                "role": "label",
+                                                "name": "Explained",
+                                                "bounds": {
+                                                  "x": 482,
+                                                  "y": 157,
+                                                  "width": 78,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_39",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 590,
+                                          "y": 154,
+                                          "width": 62,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_40",
+                                            "role": "link",
+                                            "name": "Opinion",
+                                            "bounds": {
+                                              "x": 590,
+                                              "y": 154,
+                                              "width": 62,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_41",
+                                                "role": "label",
+                                                "name": "Opinion",
+                                                "bounds": {
+                                                  "x": 590,
+                                                  "y": 157,
+                                                  "width": 62,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_42",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 682,
+                                          "y": 154,
+                                          "width": 44,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_43",
+                                            "role": "link",
+                                            "name": "Sport",
+                                            "bounds": {
+                                              "x": 682,
+                                              "y": 154,
+                                              "width": 44,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_44",
+                                                "role": "label",
+                                                "name": "Sport",
+                                                "bounds": {
+                                                  "x": 682,
+                                                  "y": 157,
+                                                  "width": 45,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_45",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 154,
+                                          "width": 46,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_46",
+                                            "role": "link",
+                                            "name": "Video",
+                                            "bounds": {
+                                              "x": 756,
+                                              "y": 154,
+                                              "width": 46,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_47",
+                                                "role": "label",
+                                                "name": "Video",
+                                                "bounds": {
+                                                  "x": 756,
+                                                  "y": 157,
+                                                  "width": 46,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_48",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 832,
+                                          "y": 154,
+                                          "width": 53,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_49",
+                                            "role": "button",
+                                            "name": "More",
+                                            "bounds": {
+                                              "x": 832,
+                                              "y": 154,
+                                              "width": 41,
+                                              "height": 27
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_50",
+                                                "role": "label",
+                                                "name": "More",
+                                                "bounds": {
+                                                  "x": 832,
+                                                  "y": 157,
+                                                  "width": 43,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_51",
+                                            "role": "button",
+                                            "name": "Show more sections",
+                                            "bounds": {
+                                              "x": 874,
+                                              "y": 154,
+                                              "width": 12,
+                                              "height": 27
+                                            },
+                                            "states": [
+                                              "collapsed"
+                                            ],
+                                            "children": [
+                                              {
+                                                "id": "node_52",
+                                                "role": "label",
+                                                "name": "Show more sections",
+                                                "bounds": {
+                                                  "x": 886,
+                                                  "y": 157,
+                                                  "width": 163,
+                                                  "height": 21
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_53",
+                                "role": "link",
+                                "name": "link to live stream video player",
+                                "bounds": {
+                                  "x": 998,
+                                  "y": 154,
+                                  "width": 65,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_54",
+                                    "role": "label",
+                                    "name": "LIVE",
+                                    "bounds": {
+                                      "x": 1027,
+                                      "y": 157,
+                                      "width": 36,
+                                      "height": 21
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_55",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1084,
+                                  "y": 156,
+                                  "width": 24,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_56",
+                                    "role": "button",
+                                    "name": "Click here to search",
+                                    "bounds": {
+                                      "x": 1084,
+                                      "y": 156,
+                                      "width": 24,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_57",
+                                        "role": "label",
+                                        "name": "Click here to search",
+                                        "bounds": {
+                                          "x": 1084,
+                                          "y": 156,
+                                          "width": 139,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_58",
+                                "role": "button",
+                                "name": "Sign up",
+                                "bounds": {
+                                  "x": 1145,
+                                  "y": 156,
+                                  "width": 52,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_59",
+                                    "role": "label",
+                                    "name": "Sign up",
+                                    "bounds": {
+                                      "x": 1145,
+                                      "y": 158,
+                                      "width": 53,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_60",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 198,
+                      "width": 1261,
+                      "height": 50
+                    },
+                    "children": [
+                      {
+                        "id": "node_61",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 45,
+                          "y": 198,
+                          "width": 1170,
+                          "height": 50
+                        },
+                        "children": [
+                          {
+                            "id": "node_62",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 238,
+                              "y": 198,
+                              "width": 784,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_63",
+                                "role": "panel",
+                                "name": "Secondary navigation menu",
+                                "bounds": {
+                                  "x": 238,
+                                  "y": 198,
+                                  "width": 784,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_64",
+                                    "role": "label",
+                                    "name": "Navigation menu",
+                                    "bounds": {
+                                      "x": 238,
+                                      "y": 200,
+                                      "width": 120,
+                                      "height": 19
+                                    }
+                                  },
+                                  {
+                                    "id": "node_65",
+                                    "role": "listbox",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 253,
+                                      "y": 198,
+                                      "width": 754,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_66",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 278,
+                                          "y": 198,
+                                          "width": 56,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_67",
+                                            "role": "link",
+                                            "name": "Trending",
+                                            "bounds": {
+                                              "x": 278,
+                                              "y": 198,
+                                              "width": 56,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_68",
+                                                "role": "label",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 278,
+                                                  "y": 213,
+                                                  "width": 56,
+                                                  "height": 18
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_69",
+                                                    "role": "label",
+                                                    "name": "Trending",
+                                                    "bounds": {
+                                                      "x": 278,
+                                                      "y": 214,
+                                                      "width": 56,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_70",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 356,
+                                          "y": 198,
+                                          "width": 78,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_71",
+                                            "role": "link",
+                                            "name": "US-Iran talks",
+                                            "bounds": {
+                                              "x": 356,
+                                              "y": 198,
+                                              "width": 78,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_72",
+                                                "role": "label",
+                                                "name": "US-Iran talks",
+                                                "bounds": {
+                                                  "x": 356,
+                                                  "y": 214,
+                                                  "width": 78,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_73",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 449,
+                                          "y": 198,
+                                          "width": 223,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_74",
+                                            "role": "link",
+                                            "name": "Tracking Israel's ceasefire violations",
+                                            "bounds": {
+                                              "x": 449,
+                                              "y": 198,
+                                              "width": 223,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_75",
+                                                "role": "label",
+                                                "name": "Tracking Israel's ceasefire violations",
+                                                "bounds": {
+                                                  "x": 449,
+                                                  "y": 214,
+                                                  "width": 223,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_76",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 688,
+                                          "y": 198,
+                                          "width": 118,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_77",
+                                            "role": "link",
+                                            "name": "Russia-Ukraine war",
+                                            "bounds": {
+                                              "x": 688,
+                                              "y": 198,
+                                              "width": 118,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_78",
+                                                "role": "label",
+                                                "name": "Russia-Ukraine war",
+                                                "bounds": {
+                                                  "x": 688,
+                                                  "y": 214,
+                                                  "width": 120,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_79",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 822,
+                                          "y": 198,
+                                          "width": 87,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_80",
+                                            "role": "link",
+                                            "name": "Donald Trump",
+                                            "bounds": {
+                                              "x": 822,
+                                              "y": 198,
+                                              "width": 87,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_81",
+                                                "role": "label",
+                                                "name": "Donald Trump",
+                                                "bounds": {
+                                                  "x": 822,
+                                                  "y": 214,
+                                                  "width": 88,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_82",
+                                        "role": "listitem",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 924,
+                                          "y": 198,
+                                          "width": 75,
+                                          "height": 50
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_83",
+                                            "role": "link",
+                                            "name": "Epstein files",
+                                            "bounds": {
+                                              "x": 924,
+                                              "y": 198,
+                                              "width": 75,
+                                              "height": 50
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_84",
+                                                "role": "label",
+                                                "name": "Epstein files",
+                                                "bounds": {
+                                                  "x": 924,
+                                                  "y": 214,
+                                                  "width": 75,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_85",
+                    "role": "panel",
+                    "name": "Featured Content",
+                    "bounds": {
+                      "x": 45,
+                      "y": 249,
+                      "width": 1170,
+                      "height": 904
+                    },
+                    "children": [
+                      {
+                        "id": "node_86",
+                        "role": "label",
+                        "name": "Featured Content",
+                        "bounds": {
+                          "x": 45,
+                          "y": 251,
+                          "width": 122,
+                          "height": 19
+                        }
+                      },
+                      {
+                        "id": "node_87",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 45,
+                          "y": 279,
+                          "width": 1170,
+                          "height": 853
+                        },
+                        "children": [
+                          {
+                            "id": "node_88",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 45,
+                              "y": 279,
+                              "width": 570,
+                              "height": 619
+                            },
+                            "children": [
+                              {
+                                "id": "node_89",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 45,
+                                  "y": 279,
+                                  "width": 570,
+                                  "height": 380
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_90",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 45,
+                                      "y": 279,
+                                      "width": 570,
+                                      "height": 380
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_91",
+                                        "role": "image",
+                                        "name": "In this photo released by the Oman's Foreign Ministry, Iranian Foreign Minister Abbas Araghchi, left, shakes hands with his Omani counterpart Sayyid Badr Albusaidi during their meeting prior to Iran and the U.S. negotiations, in Muscat, Oman, Friday, Feb. 6, 2026. (Oman Foreign Ministry via AP)",
+                                        "bounds": {
+                                          "x": 45,
+                                          "y": 279,
+                                          "width": 570,
+                                          "height": 380
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_92",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 645,
+                              "y": 279,
+                              "width": 270,
+                              "height": 853
+                            },
+                            "children": [
+                              {
+                                "id": "node_93",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 645,
+                                  "y": 279,
+                                  "width": 270,
+                                  "height": 830
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_94",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 645,
+                                      "y": 279,
+                                      "width": 270,
+                                      "height": 335
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_95",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 645,
+                                          "y": 279,
+                                          "width": 270,
+                                          "height": 324
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_96",
+                                            "role": "link",
+                                            "name": "Republicans condemn racist Trump video post depicting Obamas as apes",
+                                            "bounds": {
+                                              "x": 645,
+                                              "y": 469,
+                                              "width": 270,
+                                              "height": 124
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_97",
+                                                "role": "label",
+                                                "name": "Republicans condemn racist Trump video post depicting Obamas as apes",
+                                                "bounds": {
+                                                  "x": 645,
+                                                  "y": 469,
+                                                  "width": 270,
+                                                  "height": 124
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_98",
+                                                    "role": "label",
+                                                    "name": "Republicans condemn racist Trump video post depicting Obamas as apes",
+                                                    "bounds": {
+                                                      "x": 645,
+                                                      "y": 470,
+                                                      "width": 251,
+                                                      "height": 121
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_99",
+                            "role": "label",
+                            "name": "MUST READ",
+                            "bounds": {
+                              "x": 959,
+                              "y": 279,
+                              "width": 256,
+                              "height": 23
+                            },
+                            "children": [
+                              {
+                                "id": "node_100",
+                                "role": "label",
+                                "name": "MUST READ",
+                                "bounds": {
+                                  "x": 959,
+                                  "y": 280,
+                                  "width": 97,
+                                  "height": 21
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_101",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 945,
+                              "y": 312,
+                              "width": 270,
+                              "height": 229
+                            },
+                            "children": [
+                              {
+                                "id": "node_102",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 945,
+                                  "y": 312,
+                                  "width": 270,
+                                  "height": 94
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_103",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 945,
+                                      "y": 312,
+                                      "width": 270,
+                                      "height": 83
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_104",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 945,
+                                          "y": 312,
+                                          "width": 135,
+                                          "height": 83
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_105",
+                                            "role": "link",
+                                            "name": "As Thailand votes, can the reformist People\u2019s Party break the cycle?",
+                                            "bounds": {
+                                              "x": 945,
+                                              "y": 312,
+                                              "width": 135,
+                                              "height": 83
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_106",
+                                                "role": "label",
+                                                "name": "As Thailand votes, can the reformist People\u2019s Party break the cycle?",
+                                                "bounds": {
+                                                  "x": 945,
+                                                  "y": 312,
+                                                  "width": 135,
+                                                  "height": 83
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_107",
+                                                    "role": "label",
+                                                    "name": "As Thailand votes, can the reformist People\u2019s Party break the cycle?",
+                                                    "bounds": {
+                                                      "x": 945,
+                                                      "y": 312,
+                                                      "width": 129,
+                                                      "height": 81
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_108",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 945,
+                                  "y": 416,
+                                  "width": 270,
+                                  "height": 52
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_109",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 945,
+                                      "y": 416,
+                                      "width": 270,
+                                      "height": 41
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_110",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 945,
+                                          "y": 416,
+                                          "width": 270,
+                                          "height": 41
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_111",
+                                            "role": "link",
+                                            "name": "What Barak-Epstein audio says about Israeli controlling demographics",
+                                            "bounds": {
+                                              "x": 945,
+                                              "y": 416,
+                                              "width": 270,
+                                              "height": 41
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_112",
+                                                "role": "label",
+                                                "name": "What Barak-Epstein audio says about Israeli controlling demographics",
+                                                "bounds": {
+                                                  "x": 945,
+                                                  "y": 416,
+                                                  "width": 270,
+                                                  "height": 41
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_113",
+                                                    "role": "label",
+                                                    "name": "What Barak-Epstein audio says about Israeli controlling demographics",
+                                                    "bounds": {
+                                                      "x": 945,
+                                                      "y": 416,
+                                                      "width": 263,
+                                                      "height": 39
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_114",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 945,
+                                  "y": 479,
+                                  "width": 270,
+                                  "height": 62
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_115",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 945,
+                                      "y": 479,
+                                      "width": 270,
+                                      "height": 62
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_116",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 945,
+                                          "y": 479,
+                                          "width": 270,
+                                          "height": 62
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_117",
+                                            "role": "link",
+                                            "name": "As T20 World Cup begins, ousted Bangladesh rues politicisation of cricket",
+                                            "bounds": {
+                                              "x": 945,
+                                              "y": 479,
+                                              "width": 270,
+                                              "height": 62
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_118",
+                                                "role": "label",
+                                                "name": "As T20 World Cup begins, ousted Bangladesh rues politicisation of cricket",
+                                                "bounds": {
+                                                  "x": 945,
+                                                  "y": 479,
+                                                  "width": 270,
+                                                  "height": 62
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_119",
+                                                    "role": "label",
+                                                    "name": "As T20 World Cup begins, ousted Bangladesh rues politicisation of cricket",
+                                                    "bounds": {
+                                                      "x": 945,
+                                                      "y": 479,
+                                                      "width": 234,
+                                                      "height": 60
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_120",
+                            "role": "label",
+                            "name": "MORE HEADLINES",
+                            "bounds": {
+                              "x": 959,
+                              "y": 561,
+                              "width": 256,
+                              "height": 23
+                            },
+                            "children": [
+                              {
+                                "id": "node_121",
+                                "role": "label",
+                                "name": "MORE HEADLINES",
+                                "bounds": {
+                                  "x": 959,
+                                  "y": 562,
+                                  "width": 147,
+                                  "height": 21
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_122",
+                    "role": "label",
+                    "name": "next",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_123",
+                    "role": "label",
+                    "name": "1",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_124",
+                    "role": "label",
+                    "name": "2",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_125",
+                    "role": "label",
+                    "name": "3",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_126",
+                    "role": "label",
+                    "name": "4",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_127",
+                    "role": "label",
+                    "name": "5",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_128",
+                    "role": "label",
+                    "name": "6",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_129",
+                    "role": "label",
+                    "name": "7",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_130",
+                    "role": "label",
+                    "name": "8",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_131",
+                    "role": "label",
+                    "name": "9",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_132",
+                    "role": "label",
+                    "name": "10",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_133",
+                "role": "panel",
+                "name": "Cookie banner",
+                "bounds": {
+                  "x": 0,
+                  "y": 447,
+                  "width": 1261,
+                  "height": 136
+                },
+                "states": [
+                  "focused"
+                ],
+                "children": [
+                  {
+                    "id": "node_134",
+                    "role": "dialog",
+                    "name": "You rely on Al Jazeera for truth and transparency",
+                    "bounds": {
+                      "x": 0,
+                      "y": 447,
+                      "width": 1261,
+                      "height": 136
+                    },
+                    "children": [
+                      {
+                        "id": "node_135",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 447,
+                          "width": 1261,
+                          "height": 136
+                        },
+                        "children": [
+                          {
+                            "id": "node_136",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 40,
+                              "y": 447,
+                              "width": 960,
+                              "height": 136
+                            },
+                            "children": [
+                              {
+                                "id": "node_137",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 40,
+                                  "y": 457,
+                                  "width": 960,
+                                  "height": 62
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_138",
+                                    "role": "label",
+                                    "name": "You rely on Al Jazeera for truth and transparency",
+                                    "bounds": {
+                                      "x": 40,
+                                      "y": 457,
+                                      "width": 395,
+                                      "height": 23
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_139",
+                                        "role": "label",
+                                        "name": "You rely on Al Jazeera for truth and transparency",
+                                        "bounds": {
+                                          "x": 40,
+                                          "y": 458,
+                                          "width": 397,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_140",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 40,
+                                      "y": 485,
+                                      "width": 960,
+                                      "height": 33
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_141",
+                                        "role": "label",
+                                        "name": "We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalised content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice",
+                                        "bounds": {
+                                          "x": 40,
+                                          "y": 485,
+                                          "width": 925,
+                                          "height": 31
+                                        }
+                                      },
+                                      {
+                                        "id": "node_142",
+                                        "role": "link",
+                                        "name": "Learn more about our Cookie Policy, opens in a new tab",
+                                        "bounds": {
+                                          "x": 777,
+                                          "y": 502,
+                                          "width": 211,
+                                          "height": 15
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_143",
+                                            "role": "label",
+                                            "name": "Learn more about our Cookie Policy.",
+                                            "bounds": {
+                                              "x": 777,
+                                              "y": 502,
+                                              "width": 211,
+                                              "height": 15
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_144",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1020,
+                              "y": 457,
+                              "width": 200,
+                              "height": 116
+                            },
+                            "children": [
+                              {
+                                "id": "node_145",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1020,
+                                  "y": 457,
+                                  "width": 200,
+                                  "height": 116
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_146",
+                                    "role": "button",
+                                    "name": "Your Privacy Rights, Opens the preference center dialog",
+                                    "bounds": {
+                                      "x": 1030,
+                                      "y": 541,
+                                      "width": 180,
+                                      "height": 32
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_147",
+                                        "role": "label",
+                                        "name": "Your Privacy Rights",
+                                        "bounds": {
+                                          "x": 1060,
+                                          "y": 549,
+                                          "width": 119,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_148",
+                                    "role": "button",
+                                    "name": "Reject all",
+                                    "bounds": {
+                                      "x": 1050,
+                                      "y": 499,
+                                      "width": 140,
+                                      "height": 32
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_149",
+                                        "role": "label",
+                                        "name": "Reject all",
+                                        "bounds": {
+                                          "x": 1092,
+                                          "y": 507,
+                                          "width": 56,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_150",
+                                    "role": "button",
+                                    "name": "Allow all",
+                                    "bounds": {
+                                      "x": 1050,
+                                      "y": 457,
+                                      "width": 140,
+                                      "height": 32
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_151",
+                                        "role": "label",
+                                        "name": "Allow all",
+                                        "bounds": {
+                                          "x": 1094,
+                                          "y": 465,
+                                          "width": 52,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

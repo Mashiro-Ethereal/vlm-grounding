@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/coursera/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 17,
   "test_samples": [
     {
       "id": "node_13",
-      "category": "link",
       "name": "For Individuals",
+      "role": "link",
       "bbox": [
         64,
         0,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_19",
-      "category": "link",
       "name": "For Businesses",
+      "role": "link",
       "bbox": [
         197,
         0,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_25",
-      "category": "link",
       "name": "For Universities",
+      "role": "link",
       "bbox": [
         327,
         0,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_31",
-      "category": "link",
       "name": "For Governments",
+      "role": "link",
       "bbox": [
         463,
         0,
@@ -65,9 +67,159 @@
       ]
     },
     {
+      "id": "node_40",
+      "name": "Coursera",
+      "role": "link",
+      "bbox": [
+        48,
+        56,
+        175,
+        88
+      ],
+      "point": [
+        111.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "Explore our catalog",
+      "role": "button",
+      "bbox": [
+        199,
+        62,
+        266,
+        82
+      ],
+      "point": [
+        232.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_51",
+      "name": "Degrees",
+      "role": "button",
+      "bbox": [
+        286,
+        62,
+        332,
+        82
+      ],
+      "point": [
+        309.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_62",
+      "name": "Search catalog",
+      "role": "combobox",
+      "bbox": [
+        374,
+        60,
+        796,
+        84
+      ],
+      "point": [
+        585.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_68",
+      "name": "Log In",
+      "role": "button",
+      "bbox": [
+        1061,
+        62,
+        1097,
+        82
+      ],
+      "point": [
+        1079.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_73",
+      "name": "Join for Free",
+      "role": "button",
+      "bbox": [
+        1121,
+        62,
+        1200,
+        82
+      ],
+      "point": [
+        1160.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_147",
+      "name": "Next",
+      "role": "button",
+      "bbox": [
+        1241,
+        113,
+        1261,
+        427
+      ],
+      "point": [
+        1251.0,
+        270.0
+      ]
+    },
+    {
+      "id": "node_153",
+      "name": "Go to item 1",
+      "role": "button",
+      "bbox": [
+        48,
+        435,
+        68,
+        443
+      ],
+      "point": [
+        58.0,
+        439.0
+      ]
+    },
+    {
+      "id": "node_159",
+      "name": "Go to item 2",
+      "role": "button",
+      "bbox": [
+        76,
+        435,
+        84,
+        443
+      ],
+      "point": [
+        80.0,
+        439.0
+      ]
+    },
+    {
+      "id": "node_165",
+      "name": "Go to item 3",
+      "role": "button",
+      "bbox": [
+        92,
+        435,
+        100,
+        443
+      ],
+      "point": [
+        96.0,
+        439.0
+      ]
+    },
+    {
       "id": "node_180",
-      "category": "link",
       "name": "Launch a new career",
+      "role": "link",
       "bbox": [
         64,
         475,
@@ -81,8 +233,8 @@
     },
     {
       "id": "node_185",
-      "category": "link",
       "name": "Gain in-demand skills",
+      "role": "link",
       "bbox": [
         457,
         475,
@@ -96,8 +248,8 @@
     },
     {
       "id": "node_190",
-      "category": "link",
       "name": "Earn a degree",
+      "role": "link",
       "bbox": [
         851,
         475,

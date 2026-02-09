@@ -1,0 +1,7 @@
+{
+  "task_id": "skillshare",
+  "instruction": "Visit Skillshare",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

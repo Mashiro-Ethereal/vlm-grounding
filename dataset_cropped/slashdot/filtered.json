@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/slashdot/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 20,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 34,
   "test_samples": [
     {
       "id": "node_8",
-      "category": "link",
       "name": "Slashdot",
+      "role": "link",
       "bbox": [
         13,
         12,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_14",
-      "category": "link",
       "name": "Stories",
+      "role": "link",
       "bbox": [
         205,
         12,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_29",
-      "category": "link",
       "name": "All",
+      "role": "link",
       "bbox": [
         376,
         12,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_33",
-      "category": "link",
       "name": "Popular",
+      "role": "link",
       "bbox": [
         423,
         12,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_39",
-      "category": "link",
       "name": "Polls",
+      "role": "link",
       "bbox": [
         506,
         12,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_45",
-      "category": "link",
       "name": "Software",
+      "role": "link",
       "bbox": [
         568,
         12,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_52",
-      "category": "link",
       "name": "Thought Leadership",
+      "role": "link",
       "bbox": [
         681,
         12,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_56",
-      "category": "link",
       "name": "Submit",
+      "role": "link",
       "bbox": [
         863,
         25,
@@ -125,9 +127,69 @@
       ]
     },
     {
+      "id": "node_68",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        945,
+        22,
+        1057,
+        43
+      ],
+      "point": [
+        1001.0,
+        32.5
+      ]
+    },
+    {
+      "id": "node_70",
+      "name": "",
+      "role": "button",
+      "bbox": [
+        1062,
+        23,
+        1081,
+        43
+      ],
+      "point": [
+        1071.5,
+        33.0
+      ]
+    },
+    {
+      "id": "node_76",
+      "name": "Login",
+      "role": "link",
+      "bbox": [
+        1108,
+        12,
+        1145,
+        52
+      ],
+      "point": [
+        1126.5,
+        32.0
+      ]
+    },
+    {
+      "id": "node_83",
+      "name": "Sign up",
+      "role": "link",
+      "bbox": [
+        1179,
+        12,
+        1231,
+        52
+      ],
+      "point": [
+        1205.0,
+        32.0
+      ]
+    },
+    {
       "id": "node_93",
-      "category": "link",
       "name": "Devices",
+      "role": "link",
       "bbox": [
         242,
         57,
@@ -141,8 +203,8 @@
     },
     {
       "id": "node_97",
-      "category": "link",
       "name": "Build",
+      "role": "link",
       "bbox": [
         304,
         57,
@@ -156,8 +218,8 @@
     },
     {
       "id": "node_101",
-      "category": "link",
       "name": "Entertainment",
+      "role": "link",
       "bbox": [
         349,
         57,
@@ -171,8 +233,8 @@
     },
     {
       "id": "node_105",
-      "category": "link",
       "name": "Technology",
+      "role": "link",
       "bbox": [
         450,
         57,
@@ -186,8 +248,8 @@
     },
     {
       "id": "node_109",
-      "category": "link",
       "name": "Open Source",
+      "role": "link",
       "bbox": [
         531,
         57,
@@ -201,8 +263,8 @@
     },
     {
       "id": "node_113",
-      "category": "link",
       "name": "Science",
+      "role": "link",
       "bbox": [
         623,
         57,
@@ -216,8 +278,8 @@
     },
     {
       "id": "node_117",
-      "category": "link",
       "name": "YRO",
+      "role": "link",
       "bbox": [
         684,
         57,
@@ -230,9 +292,114 @@
       ]
     },
     {
+      "id": "node_126",
+      "name": " RSS",
+      "role": "link",
+      "bbox": [
+        1065,
+        56,
+        1085,
+        76
+      ],
+      "point": [
+        1075.0,
+        66.0
+      ]
+    },
+    {
+      "id": "node_135",
+      "name": " Facebook",
+      "role": "link",
+      "bbox": [
+        1088,
+        56,
+        1108,
+        76
+      ],
+      "point": [
+        1098.0,
+        66.0
+      ]
+    },
+    {
+      "id": "node_144",
+      "name": " LinkedIn",
+      "role": "link",
+      "bbox": [
+        1112,
+        56,
+        1132,
+        76
+      ],
+      "point": [
+        1122.0,
+        66.0
+      ]
+    },
+    {
+      "id": "node_153",
+      "name": "Twitter",
+      "role": "link",
+      "bbox": [
+        1136,
+        53,
+        1156,
+        79
+      ],
+      "point": [
+        1146.0,
+        66.0
+      ]
+    },
+    {
+      "id": "node_159",
+      "name": "Youtube",
+      "role": "link",
+      "bbox": [
+        1160,
+        56,
+        1180,
+        76
+      ],
+      "point": [
+        1170.0,
+        66.0
+      ]
+    },
+    {
+      "id": "node_166",
+      "name": "Mastodon",
+      "role": "link",
+      "bbox": [
+        1184,
+        53,
+        1204,
+        78
+      ],
+      "point": [
+        1194.0,
+        65.5
+      ]
+    },
+    {
+      "id": "node_173",
+      "name": "Bluesky Bluesky",
+      "role": "link",
+      "bbox": [
+        1208,
+        53,
+        1228,
+        79
+      ],
+      "point": [
+        1218.0,
+        66.0
+      ]
+    },
+    {
       "id": "node_185",
-      "category": "link",
       "name": "Facebook",
+      "role": "link",
       "bbox": [
         241,
         89,
@@ -246,8 +413,8 @@
     },
     {
       "id": "node_204",
-      "category": "link",
       "name": "MongoDB Atlas: Multi-cloud, modern database on AWS, Azure, and Google Cloud. Get access to our most high performance version ever, with faster and easier scaling at lower cost.",
+      "role": "link",
       "bbox": [
         58,
         421,
@@ -261,23 +428,38 @@
     },
     {
       "id": "node_208",
-      "category": "link",
-      "name": "\u00d7",
+      "name": "×",
+      "role": "link",
       "bbox": [
         876,
-        419,
-        895,
+        417,
+        896,
         433
       ],
       "point": [
-        885.5,
-        426.0
+        886.0,
+        425.0
+      ]
+    },
+    {
+      "id": "node_214",
+      "name": "Television",
+      "role": "link",
+      "bbox": [
+        797,
+        525,
+        837,
+        540
+      ],
+      "point": [
+        817.0,
+        532.5
       ]
     },
     {
       "id": "node_218",
-      "category": "link",
       "name": "Is the TV Industry Finally Conceding That the Future May Not Be 8K?",
+      "role": "link",
       "bbox": [
         58,
         491,
@@ -290,18 +472,48 @@
       ]
     },
     {
-      "id": "node_249",
-      "category": "link",
-      "name": "writes Ars Technica",
+      "id": "node_222",
+      "name": "(arstechnica.com)",
+      "role": "link",
       "bbox": [
-        53,
-        571,
-        870,
-        583
+        707,
+        495,
+        816,
+        509
       ],
       "point": [
-        461.5,
-        577.0
+        761.5,
+        502.0
+      ]
+    },
+    {
+      "id": "node_225",
+      "name": "26",
+      "role": "link",
+      "bbox": [
+        861,
+        503,
+        883,
+        522
+      ],
+      "point": [
+        872.0,
+        512.5
+      ]
+    },
+    {
+      "id": "node_2150",
+      "name": "Close",
+      "role": "link",
+      "bbox": [
+        1204,
+        249,
+        1225,
+        275
+      ],
+      "point": [
+        1214.5,
+        262.0
       ]
     }
   ]

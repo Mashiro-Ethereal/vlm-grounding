@@ -1,0 +1,401 @@
+{
+  "timestamp": "2026-02-07T05:44:22.388319Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Dropbox.com",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 9660
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 9660
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 9660
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 24,
+                          "y": 16,
+                          "width": 1213,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "link",
+                            "name": "Meet Dropbox Dash, your new AI teammate.",
+                            "bounds": {
+                              "x": 467,
+                              "y": 16,
+                              "width": 325,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "label",
+                                "name": "Meet Dropbox Dash, your new AI teammate.",
+                                "bounds": {
+                                  "x": 467,
+                                  "y": 18,
+                                  "width": 302,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_8",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 24,
+                          "y": 72,
+                          "width": 1213,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "link",
+                            "name": "Dropbox",
+                            "bounds": {
+                              "x": 24,
+                              "y": 72,
+                              "width": 157,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 29,
+                                  "y": 79,
+                                  "width": 30,
+                                  "height": 25
+                                }
+                              },
+                              {
+                                "id": "node_11",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 76,
+                                  "y": 81,
+                                  "width": 93,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_12",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 181,
+                              "y": 72,
+                              "width": 733,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 866,
+                                  "y": 72,
+                                  "width": 48,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "button",
+                                    "name": "Select a language",
+                                    "bounds": {
+                                      "x": 878,
+                                      "y": 88,
+                                      "width": 24,
+                                      "height": 8
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "link",
+                            "name": "Sign up",
+                            "bounds": {
+                              "x": 926,
+                              "y": 72,
+                              "width": 51,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "label",
+                                "name": "Sign up",
+                                "bounds": {
+                                  "x": 926,
+                                  "y": 83,
+                                  "width": 51,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_17",
+                            "role": "link",
+                            "name": "Log in",
+                            "bounds": {
+                              "x": 1002,
+                              "y": 72,
+                              "width": 41,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_18",
+                                "role": "label",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 1002,
+                                  "y": 83,
+                                  "width": 41,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_19",
+                            "role": "link",
+                            "name": "Get started",
+                            "bounds": {
+                              "x": 1081,
+                              "y": 74,
+                              "width": 89,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_20",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1081,
+                                  "y": 74,
+                                  "width": 89,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_21",
+                                    "role": "label",
+                                    "name": "Get started",
+                                    "bounds": {
+                                      "x": 1081,
+                                      "y": 81,
+                                      "width": 89,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_22",
+                            "role": "menu",
+                            "name": "",
+                            "bounds": {
+                              "x": 1203,
+                              "y": 73,
+                              "width": 28,
+                              "height": 38
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 128,
+                          "width": 1261,
+                          "height": 8439
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 128,
+                              "width": 1261,
+                              "height": 630
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "label",
+                                "name": "Find, organize, and share your work, all in one place",
+                                "bounds": {
+                                  "x": 48,
+                                  "y": 261,
+                                  "width": 534,
+                                  "height": 144
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "label",
+                                    "name": "Find, organize, and share your work, all in one place",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 259,
+                                      "width": 389,
+                                      "height": 147
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_27",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 48,
+                                  "y": 421,
+                                  "width": 534,
+                                  "height": 90
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "label",
+                                    "name": "AI is coming to Dropbox, with smarter search, faster drafting and summarization, and intelligent organization.",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 423,
+                                      "width": 432,
+                                      "height": 85
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_29",
+                                "role": "link",
+                                "name": "Try Dropbox free",
+                                "bounds": {
+                                  "x": 74,
+                                  "y": 561,
+                                  "width": 178,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_30",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 74,
+                                      "y": 561,
+                                      "width": 178,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_31",
+                                        "role": "label",
+                                        "name": "Try Dropbox free",
+                                        "bounds": {
+                                          "x": 74,
+                                          "y": 560,
+                                          "width": 130,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

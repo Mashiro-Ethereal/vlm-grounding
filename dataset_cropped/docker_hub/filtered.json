@@ -1,28 +1,30 @@
 {
   "image_filename": "dataset_cropped/docker_hub/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 13,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 9,
   "test_samples": [
     {
       "id": "node_7",
-      "category": "link",
       "name": "Docker Hardened Images are now FREE for every developer. Watch on-demand webinar.",
+      "role": "link",
       "bbox": [
         335,
-        10,
+        9,
         1006,
         28
       ],
       "point": [
         670.5,
-        19.0
+        18.5
       ]
     },
     {
       "id": "node_25",
-      "category": "button",
       "name": "Search Docker Hub CtrlK",
+      "role": "button",
       "bbox": [
         481,
         54,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_36",
-      "category": "button",
       "name": "Help",
+      "role": "button",
       "bbox": [
         960,
         58,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_39",
-      "category": "button",
       "name": "System theme",
+      "role": "button",
       "bbox": [
         1004,
         58,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_42",
-      "category": "button",
       "name": "open app switcher",
+      "role": "button",
       "bbox": [
         1048,
         58,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_44",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1092,
         55,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_47",
-      "category": "link",
       "name": "Sign up",
+      "role": "link",
       "bbox": [
         1172,
         55,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_63",
-      "category": "link",
       "name": "Start enterprise trial",
+      "role": "link",
       "bbox": [
         506,
         370,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "Use for free",
+      "role": "link",
       "bbox": [
         677,
         370,
@@ -137,66 +139,6 @@
       "point": [
         715.0,
         382.0
-      ]
-    },
-    {
-      "id": "node_74",
-      "category": "button",
-      "name": "Generative AI",
-      "bbox": [
-        24,
-        544,
-        199,
-        583
-      ],
-      "point": [
-        111.5,
-        563.5
-      ]
-    },
-    {
-      "id": "node_175",
-      "category": "link",
-      "name": "AI MEETS COMPOSE Build AI Agents Faster with Docker Compose Use the workflow you know to develop and deploy across local, cloud, and multi-cloud environments with Docker Compose. Docker Compose for agents",
-      "bbox": [
-        231,
-        576,
-        560,
-        583
-      ],
-      "point": [
-        395.5,
-        579.5
-      ]
-    },
-    {
-      "id": "node_190",
-      "category": "link",
-      "name": "MCP E2B + Docker: Trusted AI Every E2B sandbox includes direct access to Docker's MCP Catalog, a collection of 200+ tools such as GitHub, Perplexity, Browserbase, and ElevenLabs, all enabled by the Docker MCP Gateway. Docker E2B",
-      "bbox": [
-        569,
-        576,
-        898,
-        583
-      ],
-      "point": [
-        733.5,
-        579.5
-      ]
-    },
-    {
-      "id": "node_206",
-      "category": "link",
-      "name": "SOFTWARE SUPPLY CHAIN Secure Your Supply Chain with Docker Hardened Images Use Docker's enterprise-grade base images: secure, stable, and backed by SLAs for Ubuntu, Debian, Java, and more. Regularly scanned and maintained with CVE remediation and long-term support. Docker Hardened Images",
-      "bbox": [
-        907,
-        576,
-        1236,
-        583
-      ],
-      "point": [
-        1071.5,
-        579.5
       ]
     }
   ]

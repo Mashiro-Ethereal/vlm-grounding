@@ -1,0 +1,7 @@
+{
+  "task_id": "angular",
+  "instruction": "Visit Angular framework site",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

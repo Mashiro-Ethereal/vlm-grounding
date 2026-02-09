@@ -1,0 +1,7 @@
+{
+  "task_id": "wiktionary",
+  "instruction": "Open Wiktionary dictionary",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

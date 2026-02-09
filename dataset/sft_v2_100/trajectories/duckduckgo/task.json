@@ -1,0 +1,7 @@
+{
+  "task_id": "duckduckgo",
+  "instruction": "Visit DuckDuckGo search",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

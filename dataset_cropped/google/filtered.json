@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/google/screenshot_cropped.png",
-  "image_width": 1276,
-  "image_height": 583,
-  "sample_count": 17,
+  "image_size": [
+    1276,
+    583
+  ],
+  "sample_count": 20,
   "test_samples": [
     {
       "id": "node_7",
-      "category": "link",
       "name": "About",
+      "role": "link",
       "bbox": [
         26,
         22,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_10",
-      "category": "link",
       "name": "Store",
+      "role": "link",
       "bbox": [
         83,
         22,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_16",
-      "category": "link",
       "name": "Gmail",
+      "role": "link",
       "bbox": [
         1017,
         16,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_20",
-      "category": "link",
       "name": "Search for Images",
+      "role": "link",
       "bbox": [
         1070,
         16,
@@ -65,9 +67,24 @@
       ]
     },
     {
+      "id": "node_25",
+      "name": "Google apps",
+      "role": "button",
+      "bbox": [
+        1141,
+        16,
+        1165,
+        40
+      ],
+      "point": [
+        1153.0,
+        28.0
+      ]
+    },
+    {
       "id": "node_28",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1193,
         18,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_38",
-      "category": "button",
       "name": "Upload files or images",
+      "role": "button",
       "bbox": [
         302,
         186,
@@ -95,9 +112,24 @@
       ]
     },
     {
+      "id": "node_42",
+      "name": "Search",
+      "role": "combobox",
+      "bbox": [
+        345,
+        193,
+        784,
+        221
+      ],
+      "point": [
+        564.5,
+        207.0
+      ]
+    },
+    {
       "id": "node_45",
-      "category": "button",
       "name": "Search by voice",
+      "role": "button",
       "bbox": [
         792,
         192,
@@ -111,8 +143,8 @@
     },
     {
       "id": "node_46",
-      "category": "button",
       "name": "Search by image",
+      "role": "button",
       "bbox": [
         832,
         192,
@@ -125,9 +157,24 @@
       ]
     },
     {
+      "id": "node_47",
+      "name": "AI Mode",
+      "role": "link",
+      "bbox": [
+        882,
+        186,
+        960,
+        222
+      ],
+      "point": [
+        921.0,
+        204.0
+      ]
+    },
+    {
       "id": "node_58",
-      "category": "button",
       "name": "Google Search",
+      "role": "button",
       "bbox": [
         511,
         260,
@@ -141,8 +188,8 @@
     },
     {
       "id": "node_61",
-      "category": "button",
       "name": "I'm Feeling Lucky",
+      "role": "button",
       "bbox": [
         653,
         260,
@@ -156,8 +203,8 @@
     },
     {
       "id": "node_72",
-      "category": "link",
       "name": "Advertising",
+      "role": "link",
       "bbox": [
         35,
         551,
@@ -171,8 +218,8 @@
     },
     {
       "id": "node_75",
-      "category": "link",
       "name": "Business",
+      "role": "link",
       "bbox": [
         135,
         551,
@@ -186,8 +233,8 @@
     },
     {
       "id": "node_78",
-      "category": "link",
       "name": "How Search works",
+      "role": "link",
       "bbox": [
         222,
         551,
@@ -201,8 +248,8 @@
     },
     {
       "id": "node_82",
-      "category": "link",
       "name": "Applying AI towards science and the environment",
+      "role": "link",
       "bbox": [
         475,
         551,
@@ -216,8 +263,8 @@
     },
     {
       "id": "node_86",
-      "category": "link",
       "name": "Privacy",
+      "role": "link",
       "bbox": [
         1045,
         551,
@@ -231,8 +278,8 @@
     },
     {
       "id": "node_89",
-      "category": "link",
       "name": "Terms",
+      "role": "link",
       "bbox": [
         1120,
         551,
@@ -246,8 +293,8 @@
     },
     {
       "id": "node_92",
-      "category": "button",
       "name": "Settings",
+      "role": "button",
       "bbox": [
         1174,
         536,

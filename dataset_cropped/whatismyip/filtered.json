@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/whatismyip/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 16,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 21,
   "test_samples": [
     {
       "id": "node_10",
-      "category": "link",
       "name": "Logo WhatIsMyIP.com",
+      "role": "link",
       "bbox": [
         48,
         26,
@@ -20,9 +22,24 @@
       ]
     },
     {
+      "id": "node_16",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        323,
+        32,
+        698,
+        48
+      ],
+      "point": [
+        510.5,
+        40.0
+      ]
+    },
+    {
       "id": "node_19",
-      "category": "link",
       "name": "News",
+      "role": "link",
       "bbox": [
         742,
         29,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Pricing",
+      "role": "link",
       "bbox": [
         825,
         29,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_27",
-      "category": "link",
       "name": "API",
+      "role": "link",
       "bbox": [
         921,
         29,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_31",
-      "category": "link",
       "name": "Sign Up",
+      "role": "link",
       "bbox": [
         984,
         29,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_35",
-      "category": "link",
       "name": "Login",
+      "role": "link",
       "bbox": [
         1088,
         29,
@@ -96,8 +113,8 @@
     },
     {
       "id": "node_39",
-      "category": "link",
       "name": "Help",
+      "role": "link",
       "bbox": [
         1172,
         29,
@@ -111,8 +128,8 @@
     },
     {
       "id": "node_46",
-      "category": "link",
       "name": "What Is My IP?",
+      "role": "link",
       "bbox": [
         36,
         99,
@@ -126,8 +143,8 @@
     },
     {
       "id": "node_50",
-      "category": "link",
       "name": "IP Address Lookup",
+      "role": "link",
       "bbox": [
         234,
         99,
@@ -141,8 +158,8 @@
     },
     {
       "id": "node_54",
-      "category": "link",
       "name": "IP WHOIS Lookup",
+      "role": "link",
       "bbox": [
         471,
         99,
@@ -156,8 +173,8 @@
     },
     {
       "id": "node_58",
-      "category": "link",
       "name": "Speed Test",
+      "role": "link",
       "bbox": [
         695,
         99,
@@ -171,8 +188,8 @@
     },
     {
       "id": "node_62",
-      "category": "button",
-      "name": "IP Tools \u25bc",
+      "name": "IP Tools ▼",
+      "role": "button",
       "bbox": [
         855,
         98,
@@ -186,8 +203,8 @@
     },
     {
       "id": "node_68",
-      "category": "button",
-      "name": "Privacy & Security \u25bc",
+      "name": "Privacy & Security ▼",
+      "role": "button",
       "bbox": [
         999,
         98,
@@ -201,8 +218,8 @@
     },
     {
       "id": "node_74",
-      "category": "button",
-      "name": "Guides \u25bc",
+      "name": "Guides ▼",
+      "role": "button",
       "bbox": [
         36,
         168,
@@ -216,8 +233,8 @@
     },
     {
       "id": "node_137",
-      "category": "link",
       "name": "66.154.104.105",
+      "role": "link",
       "bbox": [
         580,
         369,
@@ -230,9 +247,69 @@
       ]
     },
     {
+      "id": "node_140",
+      "name": "Copy IPv4",
+      "role": "button",
+      "bbox": [
+        779,
+        380,
+        794,
+        398
+      ],
+      "point": [
+        786.5,
+        389.0
+      ]
+    },
+    {
+      "id": "node_151",
+      "name": "More info about IPv6",
+      "role": "button",
+      "bbox": [
+        761,
+        423,
+        781,
+        443
+      ],
+      "point": [
+        771.0,
+        433.0
+      ]
+    },
+    {
+      "id": "node_166",
+      "name": "Copy Geo Location",
+      "role": "button",
+      "bbox": [
+        216,
+        530,
+        231,
+        548
+      ],
+      "point": [
+        223.5,
+        539.0
+      ]
+    },
+    {
+      "id": "node_174",
+      "name": "Copy State/Region",
+      "role": "button",
+      "bbox": [
+        265,
+        564,
+        280,
+        582
+      ],
+      "point": [
+        272.5,
+        573.0
+      ]
+    },
+    {
       "id": "node_229",
-      "category": "link",
       "name": "Update IP Location",
+      "role": "link",
       "bbox": [
         521,
         536,

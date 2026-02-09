@@ -1,0 +1,423 @@
+{
+  "timestamp": "2026-02-07T05:45:08.771371Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Figma: The Collaborative Interface Design Tool",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 9012
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 9012
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 81
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 81
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "link",
+                            "name": "Homepage",
+                            "bounds": {
+                              "x": 45,
+                              "y": 20,
+                              "width": 26,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "image",
+                                "name": "Homepage",
+                                "bounds": {
+                                  "x": 45,
+                                  "y": 20,
+                                  "width": 26,
+                                  "height": 40
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_8",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 737,
+                              "y": 16,
+                              "width": 436,
+                              "height": 49
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 737,
+                                  "y": 20,
+                                  "width": 67,
+                                  "height": 41
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "link",
+                                    "name": "Log in",
+                                    "bounds": {
+                                      "x": 745,
+                                      "y": 28,
+                                      "width": 47,
+                                      "height": 25
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_11",
+                                        "role": "label",
+                                        "name": "Log in",
+                                        "bounds": {
+                                          "x": 745,
+                                          "y": 30,
+                                          "width": 47,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_12",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 812,
+                                  "y": 16,
+                                  "width": 153,
+                                  "height": 49
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "link",
+                                    "name": "Contact sales",
+                                    "bounds": {
+                                      "x": 833,
+                                      "y": 28,
+                                      "width": 111,
+                                      "height": 25
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_14",
+                                        "role": "label",
+                                        "name": "Contact sales",
+                                        "bounds": {
+                                          "x": 833,
+                                          "y": 30,
+                                          "width": 112,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 16,
+                                  "width": 198,
+                                  "height": 49
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "link",
+                                    "name": "Get started for free",
+                                    "bounds": {
+                                      "x": 995,
+                                      "y": 28,
+                                      "width": 156,
+                                      "height": 25
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "label",
+                                        "name": "Get started for free",
+                                        "bounds": {
+                                          "x": 995,
+                                          "y": 30,
+                                          "width": 156,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "panel",
+                            "name": "Main",
+                            "bounds": {
+                              "x": 1173,
+                              "y": 20,
+                              "width": 42,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "button",
+                                "name": "Open navigation menu",
+                                "bounds": {
+                                  "x": 1193,
+                                  "y": 28,
+                                  "width": 24,
+                                  "height": 24
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1193,
+                                      "y": 28,
+                                      "width": 24,
+                                      "height": 24
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_21",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 121,
+                      "width": 1261,
+                      "height": 7664
+                    },
+                    "children": [
+                      {
+                        "id": "node_22",
+                        "role": "panel",
+                        "name": "Make anything possible, all in Figma",
+                        "bounds": {
+                          "x": 0,
+                          "y": 121,
+                          "width": 1261,
+                          "height": 582
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "label",
+                            "name": "Make anything possible, all in Figma",
+                            "bounds": {
+                              "x": 45,
+                              "y": 121,
+                              "width": 1,
+                              "height": 1
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "Make anything possible, all in Figma",
+                                "bounds": {
+                                  "x": 45,
+                                  "y": 120,
+                                  "width": 947,
+                                  "height": 71
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_25",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 121,
+                              "width": 1261,
+                              "height": 532
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 356,
+                                  "width": 1261,
+                                  "height": 190
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 315,
+                                      "y": 360,
+                                      "width": 630,
+                                      "height": 182
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_28",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 331,
+                                          "y": 372,
+                                          "width": 598,
+                                          "height": 158
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_29",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 331,
+                                              "y": 372,
+                                              "width": 598,
+                                              "height": 97
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_30",
+                                                "role": "label",
+                                                "name": "Make anything possible, all in Figma",
+                                                "bounds": {
+                                                  "x": 331,
+                                                  "y": 422,
+                                                  "width": 226,
+                                                  "height": 18
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_31",
+                                            "role": "link",
+                                            "name": "Get started",
+                                            "bounds": {
+                                              "x": 816,
+                                              "y": 493,
+                                              "width": 93,
+                                              "height": 25
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_32",
+                                                "role": "label",
+                                                "name": "Get started",
+                                                "bounds": {
+                                                  "x": 816,
+                                                  "y": 495,
+                                                  "width": 93,
+                                                  "height": 20
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

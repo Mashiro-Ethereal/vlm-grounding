@@ -1,0 +1,277 @@
+{
+  "timestamp": "2026-02-07T05:45:20.374430Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Canva: Visual Suite for Everyone",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "label",
+            "name": "Loading finished",
+            "bounds": {
+              "x": -1,
+              "y": -1,
+              "width": 82,
+              "height": 11
+            }
+          },
+          {
+            "id": "node_3",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 7281
+            },
+            "children": [
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 7281
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 7,
+                      "y": 7,
+                      "width": 1,
+                      "height": 1
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 7,
+                          "y": 7,
+                          "width": 1,
+                          "height": 54
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "link",
+                            "name": "Skip to main content",
+                            "bounds": {
+                              "x": 7,
+                              "y": 7,
+                              "width": 1,
+                              "height": 54
+                            },
+                            "children": [
+                              {
+                                "id": "node_8",
+                                "role": "label",
+                                "name": "Skip to main content",
+                                "bounds": {
+                                  "x": 23,
+                                  "y": 24,
+                                  "width": 140,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_9",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 32,
+                      "y": 80,
+                      "width": 1197,
+                      "height": 5773
+                    },
+                    "children": [
+                      {
+                        "id": "node_10",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 80,
+                          "width": 1261,
+                          "height": 664
+                        },
+                        "children": [
+                          {
+                            "id": "node_11",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 8,
+                              "y": 119,
+                              "width": 1245,
+                              "height": 201
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "label",
+                                "name": "What will you design today?",
+                                "bounds": {
+                                  "x": 108,
+                                  "y": 119,
+                                  "width": 1044,
+                                  "height": 88
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "label",
+                                    "name": "What will you design today?",
+                                    "bounds": {
+                                      "x": 108,
+                                      "y": 108,
+                                      "width": 1044,
+                                      "height": 109
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_14",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 197,
+                                  "y": 223,
+                                  "width": 866,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_15",
+                                    "role": "label",
+                                    "name": "Make AI-powered social posts, videos, presentations, and more with Canva.",
+                                    "bounds": {
+                                      "x": 197,
+                                      "y": 223,
+                                      "width": 866,
+                                      "height": 33
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_16",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 534,
+                                  "y": 280,
+                                  "width": 192,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_17",
+                                    "role": "button",
+                                    "name": "Start designing for free",
+                                    "bounds": {
+                                      "x": 550,
+                                      "y": 280,
+                                      "width": 160,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_18",
+                                        "role": "label",
+                                        "name": "Start designing for free",
+                                        "bounds": {
+                                          "x": 552,
+                                          "y": 290,
+                                          "width": 156,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_19",
+                        "role": "label",
+                        "name": "(opens in a new tab or window)",
+                        "bounds": {
+                          "x": -1,
+                          "y": 0,
+                          "width": 209,
+                          "height": 19
+                        }
+                      },
+                      {
+                        "id": "node_20",
+                        "role": "label",
+                        "name": "Start of template list",
+                        "bounds": {
+                          "x": -1,
+                          "y": -1,
+                          "width": 104,
+                          "height": 11
+                        }
+                      },
+                      {
+                        "id": "node_21",
+                        "role": "label",
+                        "name": "End of template list",
+                        "bounds": {
+                          "x": -1,
+                          "y": -1,
+                          "width": 99,
+                          "height": 11
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

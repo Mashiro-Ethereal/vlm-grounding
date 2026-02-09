@@ -1,0 +1,506 @@
+{
+  "timestamp": "2026-02-07T05:44:27.778060Z",
+  "screen": {
+    "width": 1261,
+    "height": 568
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 568
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "JSONPlaceholder - Free Fake REST API",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 568
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 118,
+              "y": 8,
+              "width": 1024,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "link",
+                "name": "Check my new project \ud83d\udca7 MistCSS write React components with 50% less code",
+                "bounds": {
+                  "x": 315,
+                  "y": 10,
+                  "width": 630,
+                  "height": 19
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Check my new project ",
+                    "bounds": {
+                      "x": 315,
+                      "y": 10,
+                      "width": 183,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 498,
+                      "y": 10,
+                      "width": 88,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "label",
+                        "name": "\ud83d\udca7 MistCSS",
+                        "bounds": {
+                          "x": 498,
+                          "y": 10,
+                          "width": 88,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "label",
+                    "name": " write React components with 50% less code",
+                    "bounds": {
+                      "x": 586,
+                      "y": 10,
+                      "width": 358,
+                      "height": 19
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_8",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 182,
+              "y": 64,
+              "width": 896,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_9",
+                "role": "label",
+                "name": "JSONPlaceholder",
+                "bounds": {
+                  "x": 182,
+                  "y": 64,
+                  "width": 150,
+                  "height": 24
+                },
+                "children": [
+                  {
+                    "id": "node_10",
+                    "role": "link",
+                    "name": "JSONPlaceholder",
+                    "bounds": {
+                      "x": 182,
+                      "y": 66,
+                      "width": 150,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_11",
+                        "role": "label",
+                        "name": "JSONPlaceholder",
+                        "bounds": {
+                          "x": 181,
+                          "y": 66,
+                          "width": 152,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_12",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 662,
+                  "y": 64,
+                  "width": 415,
+                  "height": 24
+                },
+                "children": [
+                  {
+                    "id": "node_13",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 662,
+                      "y": 64,
+                      "width": 415,
+                      "height": 24
+                    },
+                    "children": [
+                      {
+                        "id": "node_14",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 662,
+                          "y": 64,
+                          "width": 62,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "link",
+                            "name": "Guide",
+                            "bounds": {
+                              "x": 662,
+                              "y": 66,
+                              "width": 46,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "label",
+                                "name": "Guide",
+                                "bounds": {
+                                  "x": 662,
+                                  "y": 66,
+                                  "width": 46,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 725,
+                          "y": 64,
+                          "width": 175,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "link",
+                            "name": "Sponsor this project",
+                            "bounds": {
+                              "x": 725,
+                              "y": 66,
+                              "width": 159,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "label",
+                                "name": "Sponsor this project",
+                                "bounds": {
+                                  "x": 725,
+                                  "y": 66,
+                                  "width": 159,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_20",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 901,
+                          "y": 64,
+                          "width": 51,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_21",
+                            "role": "link",
+                            "name": "Blog",
+                            "bounds": {
+                              "x": 901,
+                              "y": 66,
+                              "width": 35,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_22",
+                                "role": "label",
+                                "name": "Blog",
+                                "bounds": {
+                                  "x": 901,
+                                  "y": 66,
+                                  "width": 35,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 953,
+                          "y": 64,
+                          "width": 125,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "link",
+                            "name": "My JSON Server",
+                            "bounds": {
+                              "x": 953,
+                              "y": 66,
+                              "width": 125,
+                              "height": 19
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "label",
+                                "name": "My JSON Server",
+                                "bounds": {
+                                  "x": 953,
+                                  "y": 66,
+                                  "width": 126,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_26",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": -8,
+              "y": 192,
+              "width": 1277,
+              "height": 276
+            },
+            "children": [
+              {
+                "id": "node_27",
+                "role": "label",
+                "name": "{JSON} Placeholder",
+                "bounds": {
+                  "x": 182,
+                  "y": 187,
+                  "width": 595,
+                  "height": 70
+                }
+              },
+              {
+                "id": "node_28",
+                "role": "label",
+                "name": "Free fake and reliable API for testing and prototyping.",
+                "bounds": {
+                  "x": 182,
+                  "y": 300,
+                  "width": 896,
+                  "height": 48
+                },
+                "children": [
+                  {
+                    "id": "node_29",
+                    "role": "label",
+                    "name": "Free fake and reliable API for testing and prototyping.",
+                    "bounds": {
+                      "x": 182,
+                      "y": 309,
+                      "width": 669,
+                      "height": 29
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_30",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 182,
+                  "y": 348,
+                  "width": 896,
+                  "height": 48
+                },
+                "children": [
+                  {
+                    "id": "node_31",
+                    "role": "label",
+                    "name": "Powered by ",
+                    "bounds": {
+                      "x": 182,
+                      "y": 357,
+                      "width": 152,
+                      "height": 29
+                    }
+                  },
+                  {
+                    "id": "node_32",
+                    "role": "link",
+                    "name": "JSON Server",
+                    "bounds": {
+                      "x": 335,
+                      "y": 357,
+                      "width": 151,
+                      "height": 29
+                    },
+                    "children": [
+                      {
+                        "id": "node_33",
+                        "role": "label",
+                        "name": "JSON Server",
+                        "bounds": {
+                          "x": 333,
+                          "y": 357,
+                          "width": 157,
+                          "height": 29
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_34",
+                    "role": "label",
+                    "name": " + ",
+                    "bounds": {
+                      "x": 486,
+                      "y": 357,
+                      "width": 36,
+                      "height": 29
+                    }
+                  },
+                  {
+                    "id": "node_35",
+                    "role": "link",
+                    "name": "LowDB",
+                    "bounds": {
+                      "x": 523,
+                      "y": 357,
+                      "width": 85,
+                      "height": 29
+                    },
+                    "children": [
+                      {
+                        "id": "node_36",
+                        "role": "label",
+                        "name": "LowDB",
+                        "bounds": {
+                          "x": 523,
+                          "y": 357,
+                          "width": 85,
+                          "height": 29
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_37",
+                    "role": "label",
+                    "name": ".",
+                    "bounds": {
+                      "x": 609,
+                      "y": 357,
+                      "width": 7,
+                      "height": 29
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_38",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 182,
+                  "y": 420,
+                  "width": 896,
+                  "height": 24
+                },
+                "children": [
+                  {
+                    "id": "node_39",
+                    "role": "label",
+                    "name": "Serving ~3 billion requests each month",
+                    "bounds": {
+                      "x": 182,
+                      "y": 422,
+                      "width": 356,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_40",
+                    "role": "label",
+                    "name": ".",
+                    "bounds": {
+                      "x": 539,
+                      "y": 422,
+                      "width": 5,
+                      "height": 19
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

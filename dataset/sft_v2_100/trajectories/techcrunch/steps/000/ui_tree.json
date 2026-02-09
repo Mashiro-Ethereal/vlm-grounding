@@ -1,0 +1,1973 @@
+{
+  "timestamp": "2026-02-07T05:42:32.822539Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "TechCrunch | Startup and Technology News",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 14010
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "Skip to content",
+                "bounds": {
+                  "x": -2,
+                  "y": 2,
+                  "width": 68,
+                  "height": 72
+                }
+              },
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 68
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 68
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 41,
+                          "y": 13,
+                          "width": 1179,
+                          "height": 42
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 41,
+                              "y": 22,
+                              "width": 704,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_8",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 41,
+                                  "y": 22,
+                                  "width": 704,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_9",
+                                    "role": "panel",
+                                    "name": "Redesign: Primary Navigation",
+                                    "bounds": {
+                                      "x": 41,
+                                      "y": 22,
+                                      "width": 428,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_10",
+                                        "role": "listbox",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 41,
+                                          "y": 22,
+                                          "width": 428,
+                                          "height": 22
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_11",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 41,
+                                              "y": 22,
+                                              "width": 51,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_12",
+                                                "role": "link",
+                                                "name": "Latest",
+                                                "bounds": {
+                                                  "x": 41,
+                                                  "y": 22,
+                                                  "width": 51,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_13",
+                                                    "role": "label",
+                                                    "name": "Latest",
+                                                    "bounds": {
+                                                      "x": 41,
+                                                      "y": 25,
+                                                      "width": 51,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_14",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 104,
+                                              "y": 22,
+                                              "width": 70,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_15",
+                                                "role": "link",
+                                                "name": "Startups",
+                                                "bounds": {
+                                                  "x": 104,
+                                                  "y": 22,
+                                                  "width": 70,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_16",
+                                                    "role": "label",
+                                                    "name": "Startups",
+                                                    "bounds": {
+                                                      "x": 104,
+                                                      "y": 25,
+                                                      "width": 70,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_17",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 186,
+                                              "y": 22,
+                                              "width": 63,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_18",
+                                                "role": "link",
+                                                "name": "Venture",
+                                                "bounds": {
+                                                  "x": 186,
+                                                  "y": 22,
+                                                  "width": 63,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_19",
+                                                    "role": "label",
+                                                    "name": "Venture",
+                                                    "bounds": {
+                                                      "x": 186,
+                                                      "y": 25,
+                                                      "width": 63,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_20",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 261,
+                                              "y": 22,
+                                              "width": 46,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_21",
+                                                "role": "link",
+                                                "name": "Apple",
+                                                "bounds": {
+                                                  "x": 261,
+                                                  "y": 22,
+                                                  "width": 46,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_22",
+                                                    "role": "label",
+                                                    "name": "Apple",
+                                                    "bounds": {
+                                                      "x": 261,
+                                                      "y": 25,
+                                                      "width": 46,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_23",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 320,
+                                              "y": 22,
+                                              "width": 67,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_24",
+                                                "role": "link",
+                                                "name": "Security",
+                                                "bounds": {
+                                                  "x": 320,
+                                                  "y": 22,
+                                                  "width": 67,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_25",
+                                                    "role": "label",
+                                                    "name": "Security",
+                                                    "bounds": {
+                                                      "x": 320,
+                                                      "y": 25,
+                                                      "width": 67,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_26",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 400,
+                                              "y": 22,
+                                              "width": 16,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_27",
+                                                "role": "link",
+                                                "name": "AI",
+                                                "bounds": {
+                                                  "x": 400,
+                                                  "y": 22,
+                                                  "width": 16,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_28",
+                                                    "role": "label",
+                                                    "name": "AI",
+                                                    "bounds": {
+                                                      "x": 400,
+                                                      "y": 25,
+                                                      "width": 16,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_29",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 428,
+                                              "y": 22,
+                                              "width": 41,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_30",
+                                                "role": "link",
+                                                "name": "Apps",
+                                                "bounds": {
+                                                  "x": 428,
+                                                  "y": 22,
+                                                  "width": 41,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_31",
+                                                    "role": "label",
+                                                    "name": "Apps",
+                                                    "bounds": {
+                                                      "x": 428,
+                                                      "y": 25,
+                                                      "width": 41,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_32",
+                                    "role": "panel",
+                                    "name": "Redesign: Secondary Navigation",
+                                    "bounds": {
+                                      "x": 494,
+                                      "y": 22,
+                                      "width": 251,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_33",
+                                        "role": "listbox",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 494,
+                                          "y": 22,
+                                          "width": 251,
+                                          "height": 22
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_34",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 494,
+                                              "y": 22,
+                                              "width": 54,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_35",
+                                                "role": "link",
+                                                "name": "Events",
+                                                "bounds": {
+                                                  "x": 494,
+                                                  "y": 22,
+                                                  "width": 54,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_36",
+                                                    "role": "label",
+                                                    "name": "Events",
+                                                    "bounds": {
+                                                      "x": 494,
+                                                      "y": 25,
+                                                      "width": 54,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_37",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 560,
+                                              "y": 22,
+                                              "width": 74,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_38",
+                                                "role": "link",
+                                                "name": "Podcasts",
+                                                "bounds": {
+                                                  "x": 560,
+                                                  "y": 22,
+                                                  "width": 74,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_39",
+                                                    "role": "label",
+                                                    "name": "Podcasts",
+                                                    "bounds": {
+                                                      "x": 560,
+                                                      "y": 25,
+                                                      "width": 74,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_40",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 647,
+                                              "y": 22,
+                                              "width": 98,
+                                              "height": 22
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_41",
+                                                "role": "link",
+                                                "name": "Newsletters",
+                                                "bounds": {
+                                                  "x": 647,
+                                                  "y": 22,
+                                                  "width": 98,
+                                                  "height": 22
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_42",
+                                                    "role": "label",
+                                                    "name": "Newsletters",
+                                                    "bounds": {
+                                                      "x": 647,
+                                                      "y": 25,
+                                                      "width": 98,
+                                                      "height": 16
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_43",
+                            "role": "button",
+                            "name": "Site Search Toggle",
+                            "bounds": {
+                              "x": 1145,
+                              "y": 26,
+                              "width": 16,
+                              "height": 16
+                            },
+                            "states": [
+                              "collapsed"
+                            ],
+                            "children": [
+                              {
+                                "id": "node_44",
+                                "role": "label",
+                                "name": "Site Search Toggle",
+                                "bounds": {
+                                  "x": 1151,
+                                  "y": 36,
+                                  "width": 62,
+                                  "height": 72
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_45",
+                            "role": "button",
+                            "name": "Mega Menu Toggle",
+                            "bounds": {
+                              "x": 1191,
+                              "y": 26,
+                              "width": 16,
+                              "height": 16
+                            },
+                            "states": [
+                              "collapsed"
+                            ],
+                            "children": [
+                              {
+                                "id": "node_46",
+                                "role": "label",
+                                "name": "Mega Menu Toggle",
+                                "bounds": {
+                                  "x": 1197,
+                                  "y": 36,
+                                  "width": 58,
+                                  "height": 72
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_47",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 68,
+                  "width": 1261,
+                  "height": 250
+                },
+                "children": [
+                  {
+                    "id": "node_48",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 68,
+                      "width": 1261,
+                      "height": 250
+                    },
+                    "children": [
+                      {
+                        "id": "node_49",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": [
+                          {
+                            "id": "node_50",
+                            "role": "label",
+                            "name": "Advertisement",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_51",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 318,
+                  "width": 1261,
+                  "height": 13135
+                },
+                "children": [
+                  {
+                    "id": "node_52",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 4,
+                      "y": 348,
+                      "width": 1253,
+                      "height": 865
+                    },
+                    "children": [
+                      {
+                        "id": "node_53",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 379,
+                          "y": 348,
+                          "width": 502,
+                          "height": 61
+                        },
+                        "children": [
+                          {
+                            "id": "node_54",
+                            "role": "link",
+                            "name": "logo",
+                            "bounds": {
+                              "x": 379,
+                              "y": 348,
+                              "width": 502,
+                              "height": 53
+                            },
+                            "children": [
+                              {
+                                "id": "node_55",
+                                "role": "image",
+                                "name": "logo",
+                                "bounds": {
+                                  "x": 379,
+                                  "y": 348,
+                                  "width": 502,
+                                  "height": 53
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_56",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 4,
+                          "y": 434,
+                          "width": 592,
+                          "height": 754
+                        },
+                        "children": [
+                          {
+                            "id": "node_57",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 4,
+                              "y": 434,
+                              "width": 592,
+                              "height": 592
+                            },
+                            "children": [
+                              {
+                                "id": "node_58",
+                                "role": "image",
+                                "name": "TechCrunch Disrupt Grand Hyatt San Francisco",
+                                "bounds": {
+                                  "x": 4,
+                                  "y": 434,
+                                  "width": 592,
+                                  "height": 592
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_59",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 28,
+                              "y": 458,
+                              "width": 544,
+                              "height": 706
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "- ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_61",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 620,
+                          "y": 434,
+                          "width": 296,
+                          "height": 364
+                        },
+                        "children": [
+                          {
+                            "id": "node_62",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 644,
+                              "y": 458,
+                              "width": 248,
+                              "height": 316
+                            },
+                            "children": [
+                              {
+                                "id": "node_63",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 644,
+                                  "y": 564,
+                                  "width": 248,
+                                  "height": 26
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_64",
+                                    "role": "label",
+                                    "name": "FEATURED",
+                                    "bounds": {
+                                      "x": 644,
+                                      "y": 572,
+                                      "width": 65,
+                                      "height": 13
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_65",
+                                "role": "label",
+                                "name": "- ",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 0,
+                                  "width": 0,
+                                  "height": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_66",
+                        "role": "label",
+                        "name": "- ",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 941,
+                          "y": 434,
+                          "width": 316,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_68",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 941,
+                              "y": 438,
+                              "width": 143,
+                              "height": 23
+                            },
+                            "children": [
+                              {
+                                "id": "node_69",
+                                "role": "label",
+                                "name": "Top Headlines",
+                                "bounds": {
+                                  "x": 940,
+                                  "y": 438,
+                                  "width": 145,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_70",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 965,
+                          "y": 490,
+                          "width": 292,
+                          "height": 57
+                        },
+                        "children": [
+                          {
+                            "id": "node_71",
+                            "role": "label",
+                            "name": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+                            "bounds": {
+                              "x": 965,
+                              "y": 490,
+                              "width": 292,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_72",
+                                "role": "link",
+                                "name": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+                                "bounds": {
+                                  "x": 965,
+                                  "y": 490,
+                                  "width": 292,
+                                  "height": 57
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_73",
+                                    "role": "label",
+                                    "name": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+                                    "bounds": {
+                                      "x": 964,
+                                      "y": 491,
+                                      "width": 283,
+                                      "height": 54
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_74",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 965,
+                          "y": 581,
+                          "width": 292,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_75",
+                            "role": "label",
+                            "name": "Maybe AI agents can be lawyers after all",
+                            "bounds": {
+                              "x": 965,
+                              "y": 581,
+                              "width": 292,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_76",
+                                "role": "link",
+                                "name": "Maybe AI agents can be lawyers after all",
+                                "bounds": {
+                                  "x": 965,
+                                  "y": 581,
+                                  "width": 292,
+                                  "height": 38
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_77",
+                                    "role": "label",
+                                    "name": "Maybe AI agents can be lawyers after all",
+                                    "bounds": {
+                                      "x": 965,
+                                      "y": 582,
+                                      "width": 285,
+                                      "height": 35
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_78",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": [
+                          {
+                            "id": "node_79",
+                            "role": "label",
+                            "name": "Advertisement",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_80",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_81",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_82",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_83",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_84",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_85",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_86",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_87",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_88",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_89",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_90",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_91",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_92",
+                    "role": "label",
+                    "name": "|",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_93",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_94",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_95",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_96",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_97",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_98",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_99",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_100",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_101",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_102",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_103",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_104",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_105",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_106",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_107",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_108",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_109",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_110",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_111",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_112",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_113",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_114",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_115",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_116",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_117",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_118",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_119",
+                    "role": "label",
+                    "name": "-",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_120",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_121",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_122",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_123",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_124",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_125",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_126",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_127",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_128",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_129",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_130",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_131",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_132",
+                    "role": "label",
+                    "name": ",",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_133",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_134",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_135",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_136",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_137",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_138",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_139",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_140",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_141",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_142",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_143",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_144",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_145",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_146",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_147",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_148",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_149",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_150",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_151",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_152",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_153",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_154",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_155",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_156",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_157",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_158",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_159",
+                    "role": "label",
+                    "name": "- ",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_160",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_161",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_162",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": [
+                      {
+                        "id": "node_163",
+                        "role": "label",
+                        "name": "Advertisement",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_164",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "children": [
+                  {
+                    "id": "node_165",
+                    "role": "label",
+                    "name": "Advertisement",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

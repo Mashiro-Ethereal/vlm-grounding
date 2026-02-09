@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/xe_currency/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 6,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 9,
   "test_samples": [
     {
       "id": "node_11",
-      "category": "link",
       "name": "Home",
+      "role": "link",
       "bbox": [
         32,
         15,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_13",
-      "category": "link",
       "name": "Get the App",
+      "role": "link",
       "bbox": [
         1093,
         24,
@@ -36,23 +38,23 @@
     },
     {
       "id": "node_16",
-      "category": "button",
       "name": "Toggle menu",
+      "role": "button",
       "bbox": [
         1197,
         20,
-        1228,
+        1229,
         52
       ],
       "point": [
-        1212.5,
+        1213.0,
         36.0
       ]
     },
     {
       "id": "node_23",
-      "category": "link",
       "name": "Personal",
+      "role": "link",
       "bbox": [
         542,
         114,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_26",
-      "category": "link",
       "name": "Business",
+      "role": "link",
       "bbox": [
         657,
         114,
@@ -80,9 +82,24 @@
       ]
     },
     {
+      "id": "node_33",
+      "name": "Email address",
+      "role": "textfield",
+      "bbox": [
+        391,
+        460,
+        679,
+        476
+      ],
+      "point": [
+        535.0,
+        468.0
+      ]
+    },
+    {
       "id": "node_35",
-      "category": "button",
       "name": "Sign up and send",
+      "role": "button",
       "bbox": [
         735,
         458,
@@ -92,6 +109,36 @@
       "point": [
         798.0,
         469.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "name": "4.8 on App Store 103k reviews",
+      "role": "link",
+      "bbox": [
+        353,
+        192,
+        610,
+        216
+      ],
+      "point": [
+        481.5,
+        204.0
+      ]
+    },
+    {
+      "id": "node_58",
+      "name": "4.9 on Google Play 330k reviews",
+      "role": "link",
+      "bbox": [
+        634,
+        192,
+        907,
+        216
+      ],
+      "point": [
+        770.5,
+        204.0
       ]
     }
   ]

@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-02-07T05:44:12.290897Z",
+  "screen": {
+    "width": 1920,
+    "height": 1080
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "children": []
+  }
+}

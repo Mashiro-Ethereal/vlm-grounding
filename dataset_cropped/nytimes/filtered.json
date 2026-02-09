@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/nytimes/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 4,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 8,
   "test_samples": [
     {
       "id": "node_9",
-      "category": "link",
       "name": "Duck.ai",
+      "role": "link",
       "bbox": [
         1070,
         42,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_16",
-      "category": "button",
       "name": "Menu",
+      "role": "button",
       "bbox": [
         1165,
         42,
@@ -35,14 +37,59 @@
       ]
     },
     {
-      "id": "node_51",
-      "category": "button",
+      "id": "node_33",
       "name": "Search",
+      "role": "button",
+      "bbox": [
+        544,
+        329,
+        560,
+        345
+      ],
+      "point": [
+        552.0,
+        337.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "name": "Duck.ai",
+      "role": "button",
+      "bbox": [
+        649,
+        329,
+        665,
+        345
+      ],
+      "point": [
+        657.0,
+        337.0
+      ]
+    },
+    {
+      "id": "node_49",
+      "name": "Search with DuckDuckGo",
+      "role": "combobox",
+      "bbox": [
+        342,
+        379,
+        898,
+        411
+      ],
+      "point": [
+        620.0,
+        395.0
+      ]
+    },
+    {
+      "id": "node_51",
+      "name": "Search",
+      "role": "button",
       "bbox": [
         898,
-        385,
+        379,
         930,
-        405
+        411
       ],
       "point": [
         914.0,
@@ -50,9 +97,24 @@
       ]
     },
     {
+      "id": "node_53",
+      "name": "Customize",
+      "role": "button",
+      "bbox": [
+        1128,
+        528,
+        1219,
+        558
+      ],
+      "point": [
+        1173.5,
+        543.0
+      ]
+    },
+    {
       "id": "node_58",
-      "category": "link",
       "name": "Protection. Privacy. Peace of mind.",
+      "role": "link",
       "bbox": [
         505,
         488,

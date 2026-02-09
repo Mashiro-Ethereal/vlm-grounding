@@ -1,13 +1,495 @@
 {
   "image_filename": "dataset_cropped/w3schools/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 2,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 34,
   "test_samples": [
     {
+      "id": "node_5",
+      "name": "Home link",
+      "role": "link",
+      "bbox": [
+        16,
+        8,
+        59,
+        45
+      ],
+      "point": [
+        37.5,
+        26.5
+      ]
+    },
+    {
+      "id": "node_8",
+      "name": "Tutorials",
+      "role": "button",
+      "bbox": [
+        91,
+        16,
+        161,
+        40
+      ],
+      "point": [
+        126.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_12",
+      "name": "References",
+      "role": "button",
+      "bbox": [
+        193,
+        16,
+        277,
+        40
+      ],
+      "point": [
+        235.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_16",
+      "name": "Exercises",
+      "role": "button",
+      "bbox": [
+        310,
+        16,
+        382,
+        40
+      ],
+      "point": [
+        346.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "Certificates",
+      "role": "button",
+      "bbox": [
+        414,
+        16,
+        501,
+        40
+      ],
+      "point": [
+        457.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "Search field",
+      "role": "textfield",
+      "bbox": [
+        541,
+        16,
+        659,
+        40
+      ],
+      "point": [
+        600.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_31",
+      "name": "Button to search",
+      "role": "button",
+      "bbox": [
+        673,
+        19,
+        691,
+        37
+      ],
+      "point": [
+        682.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_34",
+      "name": "All our services",
+      "role": "button",
+      "bbox": [
+        708,
+        14,
+        744,
+        42
+      ],
+      "point": [
+        726.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "name": "Sign in to your account",
+      "role": "button",
+      "bbox": [
+        1172,
+        16,
+        1235,
+        40
+      ],
+      "point": [
+        1203.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_42",
+      "name": "W3Schools Certificates",
+      "role": "link",
+      "bbox": [
+        1042,
+        16,
+        1125,
+        40
+      ],
+      "point": [
+        1083.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "Become a PLUS user and unlock powerful features",
+      "role": "link",
+      "bbox": [
+        953,
+        16,
+        1010,
+        40
+      ],
+      "point": [
+        981.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_48",
+      "name": "Contact us about W3Schools Academy for educational institutions",
+      "role": "link",
+      "bbox": [
+        861,
+        16,
+        920,
+        40
+      ],
+      "point": [
+        890.5,
+        28.0
+      ]
+    },
+    {
+      "id": "node_51",
+      "name": "Get Your Own Website With W3Schools Spaces",
+      "role": "link",
+      "bbox": [
+        782,
+        16,
+        828,
+        40
+      ],
+      "point": [
+        805.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_54",
+      "name": "W3Schools Bootcamps",
+      "role": "link",
+      "bbox": [
+        1159,
+        92,
+        1234,
+        116
+      ],
+      "point": [
+        1196.5,
+        104.0
+      ]
+    },
+    {
+      "id": "node_80",
+      "name": "HTML",
+      "role": "link",
+      "bbox": [
+        15,
+        61,
+        55,
+        83
+      ],
+      "point": [
+        35.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_83",
+      "name": "CSS",
+      "role": "link",
+      "bbox": [
+        86,
+        61,
+        113,
+        83
+      ],
+      "point": [
+        99.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_86",
+      "name": "JAVASCRIPT",
+      "role": "link",
+      "bbox": [
+        144,
+        61,
+        230,
+        83
+      ],
+      "point": [
+        187.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_89",
+      "name": "SQL",
+      "role": "link",
+      "bbox": [
+        261,
+        61,
+        289,
+        83
+      ],
+      "point": [
+        275.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_92",
+      "name": "PYTHON",
+      "role": "link",
+      "bbox": [
+        320,
+        61,
+        378,
+        83
+      ],
+      "point": [
+        349.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_95",
+      "name": "JAVA",
+      "role": "link",
+      "bbox": [
+        410,
+        61,
+        444,
+        83
+      ],
+      "point": [
+        427.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_98",
+      "name": "PHP",
+      "role": "link",
+      "bbox": [
+        475,
+        61,
+        504,
+        83
+      ],
+      "point": [
+        489.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_101",
+      "name": "HOW TO",
+      "role": "link",
+      "bbox": [
+        536,
+        61,
+        594,
+        83
+      ],
+      "point": [
+        565.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_104",
+      "name": "W3.CSS",
+      "role": "link",
+      "bbox": [
+        625,
+        61,
+        678,
+        83
+      ],
+      "point": [
+        651.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_107",
+      "name": "C",
+      "role": "link",
+      "bbox": [
+        709,
+        61,
+        718,
+        83
+      ],
+      "point": [
+        713.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_110",
+      "name": "C++",
+      "role": "link",
+      "bbox": [
+        750,
+        61,
+        776,
+        83
+      ],
+      "point": [
+        763.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_113",
+      "name": "C#",
+      "role": "link",
+      "bbox": [
+        807,
+        61,
+        825,
+        83
+      ],
+      "point": [
+        816.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_116",
+      "name": "BOOTSTRAP",
+      "role": "link",
+      "bbox": [
+        856,
+        61,
+        941,
+        83
+      ],
+      "point": [
+        898.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_119",
+      "name": "REACT",
+      "role": "link",
+      "bbox": [
+        973,
+        61,
+        1018,
+        83
+      ],
+      "point": [
+        995.5,
+        72.0
+      ]
+    },
+    {
+      "id": "node_122",
+      "name": "MYSQL",
+      "role": "link",
+      "bbox": [
+        1050,
+        61,
+        1098,
+        83
+      ],
+      "point": [
+        1074.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_125",
+      "name": "JQUERY",
+      "role": "link",
+      "bbox": [
+        1129,
+        61,
+        1185,
+        83
+      ],
+      "point": [
+        1157.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_128",
+      "name": "EXCEL",
+      "role": "link",
+      "bbox": [
+        1216,
+        61,
+        1260,
+        83
+      ],
+      "point": [
+        1238.0,
+        72.0
+      ]
+    },
+    {
+      "id": "node_231",
+      "name": "Search our tutorials",
+      "role": "textfield",
+      "bbox": [
+        406,
+        364,
+        769,
+        389
+      ],
+      "point": [
+        587.5,
+        376.5
+      ]
+    },
+    {
       "id": "node_233",
-      "category": "button",
-      "name": "\ue802",
+      "name": "",
+      "role": "button",
       "bbox": [
         790,
         364,
@@ -21,8 +503,8 @@
     },
     {
       "id": "node_238",
-      "category": "link",
       "name": "Not Sure Where To Begin?",
+      "role": "link",
       "bbox": [
         501,
         433,

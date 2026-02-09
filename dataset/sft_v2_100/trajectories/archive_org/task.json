@@ -1,0 +1,7 @@
+{
+  "task_id": "archive_org",
+  "instruction": "Visit Internet Archive",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

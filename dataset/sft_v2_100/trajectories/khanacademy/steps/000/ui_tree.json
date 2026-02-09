@@ -1,0 +1,738 @@
+{
+  "timestamp": "2026-02-07T05:43:02.850401Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Khan Academy | Free Online Courses, Lessons & Practice",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "Skip to main content",
+                    "bounds": {
+                      "x": 73,
+                      "y": 63,
+                      "width": 1,
+                      "height": 1
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Skip to main content",
+                        "bounds": {
+                          "x": 73,
+                          "y": 78,
+                          "width": 47,
+                          "height": 149
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_6",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 583
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 1261,
+                              "height": 583
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 8,
+                                  "y": 8,
+                                  "width": 1245,
+                                  "height": 56
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "statusbar",
+                                    "name": "Notification Banner",
+                                    "bounds": {
+                                      "x": 22,
+                                      "y": 24,
+                                      "width": 1215,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_11",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 22,
+                                          "y": 24,
+                                          "width": 1215,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_12",
+                                            "role": "image",
+                                            "name": "info",
+                                            "bounds": {
+                                              "x": 22,
+                                              "y": 24,
+                                              "width": 24,
+                                              "height": 24
+                                            }
+                                          },
+                                          {
+                                            "id": "node_13",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 62,
+                                              "y": 24,
+                                              "width": 1135,
+                                              "height": 24
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_14",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 62,
+                                                  "y": 27,
+                                                  "width": 493,
+                                                  "height": 18
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_15",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 62,
+                                                      "y": 27,
+                                                      "width": 493,
+                                                      "height": 18
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_16",
+                                                        "role": "label",
+                                                        "name": "We've updated our ",
+                                                        "bounds": {
+                                                          "x": 62,
+                                                          "y": 29,
+                                                          "width": 119,
+                                                          "height": 14
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_17",
+                                                        "role": "link",
+                                                        "name": "Terms of Service",
+                                                        "bounds": {
+                                                          "x": 181,
+                                                          "y": 29,
+                                                          "width": 100,
+                                                          "height": 14
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "id": "node_18",
+                                                            "role": "label",
+                                                            "name": "Terms of Service",
+                                                            "bounds": {
+                                                              "x": 181,
+                                                              "y": 29,
+                                                              "width": 100,
+                                                              "height": 14
+                                                            }
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "node_19",
+                                                        "role": "label",
+                                                        "name": " and ",
+                                                        "bounds": {
+                                                          "x": 282,
+                                                          "y": 29,
+                                                          "width": 29,
+                                                          "height": 14
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_20",
+                                                        "role": "link",
+                                                        "name": "Privacy Policy",
+                                                        "bounds": {
+                                                          "x": 312,
+                                                          "y": 29,
+                                                          "width": 83,
+                                                          "height": 14
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "id": "node_21",
+                                                            "role": "label",
+                                                            "name": "Privacy Policy",
+                                                            "bounds": {
+                                                              "x": 312,
+                                                              "y": 29,
+                                                              "width": 86,
+                                                              "height": 14
+                                                            }
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "node_22",
+                                                        "role": "label",
+                                                        "name": ". Please review them now.",
+                                                        "bounds": {
+                                                          "x": 396,
+                                                          "y": 29,
+                                                          "width": 159,
+                                                          "height": 14
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_23",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 1213,
+                                              "y": 24,
+                                              "width": 24,
+                                              "height": 24
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_24",
+                                                "role": "button",
+                                                "name": "Dismiss banner.",
+                                                "bounds": {
+                                                  "x": 1213,
+                                                  "y": 24,
+                                                  "width": 24,
+                                                  "height": 24
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_25",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 73,
+                                  "width": 1261,
+                                  "height": 60
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "panel",
+                                    "name": "page header",
+                                    "bounds": {
+                                      "x": 30,
+                                      "y": 73,
+                                      "width": 1200,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_27",
+                                        "role": "button",
+                                        "name": "Explore",
+                                        "bounds": {
+                                          "x": 50,
+                                          "y": 73,
+                                          "width": 76,
+                                          "height": 60
+                                        },
+                                        "states": [
+                                          "collapsed"
+                                        ],
+                                        "children": [
+                                          {
+                                            "id": "node_28",
+                                            "role": "label",
+                                            "name": "Explore",
+                                            "bounds": {
+                                              "x": 50,
+                                              "y": 95,
+                                              "width": 55,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_29",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 190,
+                                          "y": 83,
+                                          "width": 200,
+                                          "height": 40
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_30",
+                                            "role": "button",
+                                            "name": "Search for courses, skills, and videos",
+                                            "bounds": {
+                                              "x": 207,
+                                              "y": 84,
+                                              "width": 166,
+                                              "height": 38
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_31",
+                                                "role": "label",
+                                                "name": "Search",
+                                                "bounds": {
+                                                  "x": 239,
+                                                  "y": 95,
+                                                  "width": 47,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_32",
+                                        "role": "link",
+                                        "name": "Khan Academy",
+                                        "bounds": {
+                                          "x": 543,
+                                          "y": 73,
+                                          "width": 175,
+                                          "height": 60
+                                        }
+                                      },
+                                      {
+                                        "id": "node_33",
+                                        "role": "button",
+                                        "name": "Donate (opens in new window)",
+                                        "bounds": {
+                                          "x": 946,
+                                          "y": 73,
+                                          "width": 52,
+                                          "height": 60
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_34",
+                                            "role": "label",
+                                            "name": "Donate",
+                                            "bounds": {
+                                              "x": 946,
+                                              "y": 95,
+                                              "width": 54,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_35",
+                                        "role": "link",
+                                        "name": "Log in",
+                                        "bounds": {
+                                          "x": 1051,
+                                          "y": 73,
+                                          "width": 42,
+                                          "height": 60
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_36",
+                                            "role": "label",
+                                            "name": "Log in",
+                                            "bounds": {
+                                              "x": 1051,
+                                              "y": 94,
+                                              "width": 42,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_37",
+                                        "role": "link",
+                                        "name": "Sign up",
+                                        "bounds": {
+                                          "x": 1142,
+                                          "y": 83,
+                                          "width": 52,
+                                          "height": 40
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_38",
+                                            "role": "label",
+                                            "name": "Sign up",
+                                            "bounds": {
+                                              "x": 1142,
+                                              "y": 95,
+                                              "width": 52,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_39",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 0,
+                                  "y": 134,
+                                  "width": 1261,
+                                  "height": 616
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_40",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 134,
+                                      "width": 1261,
+                                      "height": 615
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_41",
+                                        "role": "button",
+                                        "name": "close",
+                                        "bounds": {
+                                          "x": 1205,
+                                          "y": 154,
+                                          "width": 24,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_42",
+                "role": "panel",
+                "name": "Cookie banner",
+                "bounds": {
+                  "x": 16,
+                  "y": 356,
+                  "width": 375,
+                  "height": 408
+                },
+                "states": [
+                  "focused"
+                ],
+                "children": [
+                  {
+                    "id": "node_43",
+                    "role": "dialog",
+                    "name": "Use of cookies",
+                    "bounds": {
+                      "x": 16,
+                      "y": 335,
+                      "width": 375,
+                      "height": 408
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 16,
+                          "y": 335,
+                          "width": 375,
+                          "height": 227
+                        },
+                        "children": [
+                          {
+                            "id": "node_45",
+                            "role": "label",
+                            "name": "Use of cookies",
+                            "bounds": {
+                              "x": 41,
+                              "y": 342,
+                              "width": 300,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_46",
+                                "role": "label",
+                                "name": "Use of cookies",
+                                "bounds": {
+                                  "x": 41,
+                                  "y": 330,
+                                  "width": 103,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_47",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 41,
+                              "y": 382,
+                              "width": 325,
+                              "height": 157
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "label",
+                                "name": "Cookies are small files placed on your device that collect information when you use Khan Academy. Strictly necessary cookies are used to make our site work and are required. Other types of cookies are used to improve your experience, to analyze how Khan Academy is used, and to market our service. You can allow or disallow these other cookies by checking or unchecking the boxes below. You can learn more in our ",
+                                "bounds": {
+                                  "x": 41,
+                                  "y": 370,
+                                  "width": 324,
+                                  "height": 151
+                                }
+                              },
+                              {
+                                "id": "node_49",
+                                "role": "link",
+                                "name": "More information about your privacy, opens in a new tab",
+                                "bounds": {
+                                  "x": 267,
+                                  "y": 508,
+                                  "width": 75,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_50",
+                                    "role": "label",
+                                    "name": "cookie policy",
+                                    "bounds": {
+                                      "x": 267,
+                                      "y": 486,
+                                      "width": 76,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_51",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 41,
+                          "y": 559,
+                          "width": 325,
+                          "height": 151
+                        },
+                        "children": [
+                          {
+                            "id": "node_52",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 41,
+                              "y": 556,
+                              "width": 325,
+                              "height": 151
+                            },
+                            "children": [
+                              {
+                                "id": "node_53",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 41,
+                                  "y": 549,
+                                  "width": 325,
+                                  "height": 100
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_54",
+                                    "role": "button",
+                                    "name": "Accept All Cookies",
+                                    "bounds": {
+                                      "x": 52,
+                                      "y": 549,
+                                      "width": 303,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_55",
+                                        "role": "label",
+                                        "name": "Accept All Cookies",
+                                        "bounds": {
+                                          "x": 142,
+                                          "y": 528,
+                                          "width": 122,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_56",
+                                    "role": "label",
+                                    "name": "Strictly Necessary Only",
+                                    "bounds": {
+                                      "x": 128,
+                                      "y": 579,
+                                      "width": 150,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_57",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 344,
+                          "y": 340,
+                          "width": 44,
+                          "height": 50
+                        },
+                        "children": [
+                          {
+                            "id": "node_58",
+                            "role": "button",
+                            "name": "Close",
+                            "bounds": {
+                              "x": 344,
+                              "y": 337,
+                              "width": 44,
+                              "height": 44
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

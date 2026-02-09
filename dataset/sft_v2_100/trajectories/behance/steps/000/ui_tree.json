@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-02-07T05:44:51.243214Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": 13,
+              "width": 1260,
+              "height": 15
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "Sorry, our service is currently not available in your region",
+                "bounds": {
+                  "x": 8,
+                  "y": 13,
+                  "width": 469,
+                  "height": 15
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

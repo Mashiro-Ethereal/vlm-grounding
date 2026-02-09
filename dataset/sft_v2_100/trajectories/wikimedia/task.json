@@ -1,0 +1,7 @@
+{
+  "task_id": "wikimedia",
+  "instruction": "Visit Wikimedia Foundation",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

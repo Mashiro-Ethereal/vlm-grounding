@@ -1,7 +1,115 @@
 {
   "image_filename": "dataset_cropped/skillshare/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 0,
-  "test_samples": []
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "name": "Home",
+      "role": "link",
+      "bbox": [
+        20,
+        27,
+        148,
+        51
+      ],
+      "point": [
+        84.0,
+        39.0
+      ]
+    },
+    {
+      "id": "node_27",
+      "name": "Search box",
+      "role": "combobox",
+      "bbox": [
+        330,
+        21,
+        752,
+        59
+      ],
+      "point": [
+        541.0,
+        40.0
+      ]
+    },
+    {
+      "id": "node_33",
+      "name": "Plans",
+      "role": "button",
+      "bbox": [
+        963,
+        31,
+        1016,
+        49
+      ],
+      "point": [
+        989.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_39",
+      "name": "Sign In",
+      "role": "link",
+      "bbox": [
+        1045,
+        33,
+        1093,
+        48
+      ],
+      "point": [
+        1069.0,
+        40.5
+      ]
+    },
+    {
+      "id": "node_44",
+      "name": "Sign Up",
+      "role": "button",
+      "bbox": [
+        1145,
+        21,
+        1210,
+        59
+      ],
+      "point": [
+        1177.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_1099",
+      "name": "Surface pattern design classes",
+      "role": "link",
+      "bbox": [
+        0,
+        0,
+        20,
+        20
+      ],
+      "point": [
+        10.0,
+        10.0
+      ]
+    },
+    {
+      "id": "node_1178",
+      "name": "Adobe Illustrator classes",
+      "role": "link",
+      "bbox": [
+        633,
+        45,
+        645,
+        57
+      ],
+      "point": [
+        639.0,
+        51.0
+      ]
+    }
+  ]
 }

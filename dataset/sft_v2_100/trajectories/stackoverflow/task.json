@@ -1,0 +1,7 @@
+{
+  "task_id": "stackoverflow",
+  "instruction": "Open Stack Overflow",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/khanacademy/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 12,
   "test_samples": [
     {
       "id": "node_25",
-      "category": "link",
       "name": "Terms of Service",
+      "role": "link",
       "bbox": [
         181,
         29,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_30",
-      "category": "link",
       "name": "Privacy Policy",
+      "role": "link",
       "bbox": [
         312,
         29,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_36",
-      "category": "button",
       "name": "Dismiss banner.",
+      "role": "button",
       "bbox": [
         1213,
         24,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_40",
-      "category": "button",
       "name": "Explore",
+      "role": "button",
       "bbox": [
         50,
         73,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_44",
-      "category": "button",
       "name": "Search for courses, skills, and videos",
+      "role": "button",
       "bbox": [
         207,
         84,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_49",
-      "category": "link",
       "name": "Khan Academy",
+      "role": "link",
       "bbox": [
         543,
         73,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_51",
-      "category": "link",
       "name": "Donate",
+      "role": "link",
       "bbox": [
         946,
         73,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_54",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         1051,
         73,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_57",
-      "category": "link",
       "name": "Sign up",
+      "role": "link",
       "bbox": [
         1142,
         83,
@@ -141,8 +143,8 @@
     },
     {
       "id": "node_84",
-      "category": "link",
       "name": "I'm a learner",
+      "role": "link",
       "bbox": [
         807,
         327,
@@ -156,8 +158,8 @@
     },
     {
       "id": "node_88",
-      "category": "link",
       "name": "I'm a teacher",
+      "role": "link",
       "bbox": [
         807,
         415,
@@ -171,8 +173,8 @@
     },
     {
       "id": "node_92",
-      "category": "link",
       "name": "I'm a parent",
+      "role": "link",
       "bbox": [
         807,
         503,

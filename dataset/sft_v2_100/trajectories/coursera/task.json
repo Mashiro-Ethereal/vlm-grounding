@@ -1,0 +1,7 @@
+{
+  "task_id": "coursera",
+  "instruction": "Visit Coursera platform",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

@@ -1,0 +1,492 @@
+{
+  "timestamp": "2026-02-07T05:43:35.704192Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Capture, organize, and tackle your to-dos from anywhere | Trello",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 4864
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "Skip to main content",
+                "bounds": {
+                  "x": 29,
+                  "y": 18,
+                  "width": 156,
+                  "height": 21
+                }
+              },
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1276,
+                  "height": 60
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "link",
+                    "name": "Atlassian Trello",
+                    "bounds": {
+                      "x": 16,
+                      "y": 16,
+                      "width": 111,
+                      "height": 28
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "image",
+                        "name": "Atlassian Trello",
+                        "bounds": {
+                          "x": 16,
+                          "y": 11,
+                          "width": 111,
+                          "height": 37
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 143,
+                      "y": 0,
+                      "width": 515,
+                      "height": 60
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "button",
+                        "name": "Features",
+                        "bounds": {
+                          "x": 159,
+                          "y": 20,
+                          "width": 78,
+                          "height": 24
+                        },
+                        "states": [
+                          "collapsed"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "Features",
+                            "bounds": {
+                              "x": 159,
+                              "y": 21,
+                              "width": 66,
+                              "height": 21
+                            }
+                          },
+                          {
+                            "id": "node_10",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 229,
+                              "y": 29,
+                              "width": 8,
+                              "height": 4
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "button",
+                        "name": "Solutions",
+                        "bounds": {
+                          "x": 269,
+                          "y": 20,
+                          "width": 83,
+                          "height": 24
+                        },
+                        "states": [
+                          "collapsed"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "Solutions",
+                            "bounds": {
+                              "x": 269,
+                              "y": 21,
+                              "width": 71,
+                              "height": 21
+                            }
+                          },
+                          {
+                            "id": "node_13",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 345,
+                              "y": 29,
+                              "width": 8,
+                              "height": 4
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_14",
+                        "role": "button",
+                        "name": "Plans",
+                        "bounds": {
+                          "x": 385,
+                          "y": 20,
+                          "width": 53,
+                          "height": 24
+                        },
+                        "states": [
+                          "collapsed"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": "Plans",
+                            "bounds": {
+                              "x": 385,
+                              "y": 21,
+                              "width": 41,
+                              "height": 21
+                            }
+                          },
+                          {
+                            "id": "node_16",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 430,
+                              "y": 29,
+                              "width": 8,
+                              "height": 4
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "link",
+                        "name": "Pricing",
+                        "bounds": {
+                          "x": 470,
+                          "y": 20,
+                          "width": 51,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "Pricing",
+                            "bounds": {
+                              "x": 470,
+                              "y": 21,
+                              "width": 51,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_19",
+                        "role": "button",
+                        "name": "Resources",
+                        "bounds": {
+                          "x": 553,
+                          "y": 20,
+                          "width": 89,
+                          "height": 24
+                        },
+                        "states": [
+                          "collapsed"
+                        ],
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "label",
+                            "name": "Resources",
+                            "bounds": {
+                              "x": 553,
+                              "y": 21,
+                              "width": 77,
+                              "height": 21
+                            }
+                          },
+                          {
+                            "id": "node_21",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 634,
+                              "y": 29,
+                              "width": 8,
+                              "height": 4
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_22",
+                    "role": "link",
+                    "name": "Log in",
+                    "bounds": {
+                      "x": 993,
+                      "y": 8,
+                      "width": 53,
+                      "height": 44
+                    },
+                    "children": [
+                      {
+                        "id": "node_23",
+                        "role": "label",
+                        "name": "Log in",
+                        "bounds": {
+                          "x": 993,
+                          "y": 16,
+                          "width": 53,
+                          "height": 25
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_24",
+                    "role": "link",
+                    "name": "Get Trello for free",
+                    "bounds": {
+                      "x": 1095,
+                      "y": 8,
+                      "width": 156,
+                      "height": 44
+                    },
+                    "children": [
+                      {
+                        "id": "node_25",
+                        "role": "label",
+                        "name": "Get Trello for free",
+                        "bounds": {
+                          "x": 1095,
+                          "y": 16,
+                          "width": 156,
+                          "height": 25
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_26",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 4672
+                },
+                "children": [
+                  {
+                    "id": "node_27",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 120
+                    },
+                    "children": [
+                      {
+                        "id": "node_28",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 76,
+                          "y": 80,
+                          "width": 1108,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 76,
+                              "y": 80,
+                              "width": 1108,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_30",
+                                "role": "label",
+                                "name": "Accelerate your teams' work with AI features \ud83e\udd16 now available for all Premium and Enterprise! ",
+                                "bounds": {
+                                  "x": 233,
+                                  "y": 81,
+                                  "width": 706,
+                                  "height": 21
+                                }
+                              },
+                              {
+                                "id": "node_31",
+                                "role": "link",
+                                "name": "Learn more.",
+                                "bounds": {
+                                  "x": 938,
+                                  "y": 81,
+                                  "width": 88,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_32",
+                                    "role": "label",
+                                    "name": "Learn more.",
+                                    "bounds": {
+                                      "x": 938,
+                                      "y": 81,
+                                      "width": 88,
+                                      "height": 21
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_33",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 120,
+                      "width": 1261,
+                      "height": 809
+                    },
+                    "children": [
+                      {
+                        "id": "node_34",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 76,
+                          "y": 296,
+                          "width": 538,
+                          "height": 455
+                        },
+                        "children": [
+                          {
+                            "id": "node_35",
+                            "role": "label",
+                            "name": "Capture, organize, and tackle your to-dos from anywhere.",
+                            "bounds": {
+                              "x": 76,
+                              "y": 296,
+                              "width": 538,
+                              "height": 180
+                            },
+                            "children": [
+                              {
+                                "id": "node_36",
+                                "role": "label",
+                                "name": "Capture, organize, and tackle your to-dos from anywhere.",
+                                "bounds": {
+                                  "x": 76,
+                                  "y": 294,
+                                  "width": 481,
+                                  "height": 183
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 76,
+                              "y": 484,
+                              "width": 538,
+                              "height": 60
+                            },
+                            "children": [
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "Escape the clutter and chaos\u2014unleash your productivity with Trello.",
+                                "bounds": {
+                                  "x": 76,
+                                  "y": 485,
+                                  "width": 526,
+                                  "height": 57
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

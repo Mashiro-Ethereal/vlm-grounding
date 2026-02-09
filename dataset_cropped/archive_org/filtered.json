@@ -1,13 +1,30 @@
 {
   "image_filename": "dataset_cropped/archive_org/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 24,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 39,
   "test_samples": [
     {
+      "id": "node_14",
+      "name": "Internet Archive logo A line drawing of the Internet Archive headquarters building façade.",
+      "role": "link",
+      "bbox": [
+        10,
+        10,
+        152,
+        40
+      ],
+      "point": [
+        81.0,
+        25.0
+      ]
+    },
+    {
       "id": "node_22",
-      "category": "link",
       "name": "Web icon An illustration of a computer application window WEB",
+      "role": "link",
       "bbox": [
         157,
         0,
@@ -21,8 +38,8 @@
     },
     {
       "id": "node_29",
-      "category": "link",
       "name": "Texts icon An illustration of an open book. TEXTS",
+      "role": "link",
       "bbox": [
         237,
         0,
@@ -36,8 +53,8 @@
     },
     {
       "id": "node_35",
-      "category": "link",
       "name": "Video icon An illustration of two cells of a film strip. VIDEO",
+      "role": "link",
       "bbox": [
         328,
         0,
@@ -51,8 +68,8 @@
     },
     {
       "id": "node_41",
-      "category": "link",
       "name": "Audio icon An illustration of an audio speaker. AUDIO",
+      "role": "link",
       "bbox": [
         419,
         0,
@@ -66,8 +83,8 @@
     },
     {
       "id": "node_47",
-      "category": "link",
       "name": "Software icon An illustration of a 3.5\" floppy disk. SOFTWARE",
+      "role": "link",
       "bbox": [
         511,
         0,
@@ -81,8 +98,8 @@
     },
     {
       "id": "node_53",
-      "category": "link",
       "name": "Images icon An illustration of two photographs. IMAGES",
+      "role": "link",
       "bbox": [
         633,
         0,
@@ -95,9 +112,24 @@
       ]
     },
     {
+      "id": "node_67",
+      "name": "Toggle login menu",
+      "role": "button",
+      "bbox": [
+        980,
+        11,
+        1010,
+        41
+      ],
+      "point": [
+        995.0,
+        26.0
+      ]
+    },
+    {
       "id": "node_71",
-      "category": "link",
       "name": "SIGN UP",
+      "role": "link",
       "bbox": [
         1020,
         18,
@@ -111,23 +143,23 @@
     },
     {
       "id": "node_76",
-      "category": "link",
       "name": "LOG IN",
+      "role": "link",
       "bbox": [
         1091,
         18,
-        1138,
+        1139,
         34
       ],
       "point": [
-        1114.5,
+        1115.0,
         26.0
       ]
     },
     {
       "id": "node_79",
-      "category": "link",
       "name": "Upload icon An illustration of a horizontal line over an up pointing arrow. UPLOAD",
+      "role": "link",
       "bbox": [
         1149,
         10,
@@ -141,8 +173,8 @@
     },
     {
       "id": "node_125",
-      "category": "link",
       "name": "ABOUT",
+      "role": "link",
       "bbox": [
         275,
         60,
@@ -156,8 +188,8 @@
     },
     {
       "id": "node_129",
-      "category": "link",
       "name": "BLOG",
+      "role": "link",
       "bbox": [
         350,
         60,
@@ -171,8 +203,8 @@
     },
     {
       "id": "node_133",
-      "category": "link",
       "name": "EVENTS",
+      "role": "link",
       "bbox": [
         418,
         60,
@@ -186,8 +218,8 @@
     },
     {
       "id": "node_137",
-      "category": "link",
       "name": "PROJECTS",
+      "role": "link",
       "bbox": [
         499,
         60,
@@ -201,8 +233,8 @@
     },
     {
       "id": "node_141",
-      "category": "link",
       "name": "HELP",
+      "role": "link",
       "bbox": [
         592,
         60,
@@ -216,8 +248,8 @@
     },
     {
       "id": "node_145",
-      "category": "link",
       "name": "DONATE Donate icon An illustration of a heart shape",
+      "role": "link",
       "bbox": [
         656,
         60,
@@ -231,8 +263,8 @@
     },
     {
       "id": "node_152",
-      "category": "link",
       "name": "CONTACT",
+      "role": "link",
       "bbox": [
         760,
         60,
@@ -246,8 +278,8 @@
     },
     {
       "id": "node_156",
-      "category": "link",
       "name": "JOBS",
+      "role": "link",
       "bbox": [
         851,
         60,
@@ -261,8 +293,8 @@
     },
     {
       "id": "node_160",
-      "category": "link",
       "name": "VOLUNTEER",
+      "role": "link",
       "bbox": [
         913,
         60,
@@ -276,8 +308,8 @@
     },
     {
       "id": "node_175",
-      "category": "link",
       "name": "web pages",
+      "role": "link",
       "bbox": [
         687,
         101,
@@ -290,9 +322,204 @@
       ]
     },
     {
+      "id": "node_181",
+      "name": "Visit the Wayback Machine",
+      "role": "link",
+      "bbox": [
+        354,
+        160,
+        628,
+        215
+      ],
+      "point": [
+        491.0,
+        187.5
+      ]
+    },
+    {
+      "id": "node_187",
+      "name": "Search the Wayback Machine",
+      "role": "textfield",
+      "bbox": [
+        662,
+        177,
+        896,
+        197
+      ],
+      "point": [
+        779.0,
+        187.0
+      ]
+    },
+    {
+      "id": "node_217",
+      "name": "Web Image 1T",
+      "role": "link",
+      "bbox": [
+        426,
+        456,
+        464,
+        513
+      ],
+      "point": [
+        445.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_223",
+      "name": "Texts Image 48M",
+      "role": "link",
+      "bbox": [
+        473,
+        456,
+        511,
+        513
+      ],
+      "point": [
+        492.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_229",
+      "name": "Videos Image 15M",
+      "role": "link",
+      "bbox": [
+        520,
+        456,
+        558,
+        513
+      ],
+      "point": [
+        539.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_235",
+      "name": "Audio Image 13M",
+      "role": "link",
+      "bbox": [
+        567,
+        456,
+        605,
+        513
+      ],
+      "point": [
+        586.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_241",
+      "name": "TV Image 3.3M",
+      "role": "link",
+      "bbox": [
+        614,
+        456,
+        652,
+        513
+      ],
+      "point": [
+        633.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_247",
+      "name": "Software Image 1.3M",
+      "role": "link",
+      "bbox": [
+        661,
+        456,
+        699,
+        513
+      ],
+      "point": [
+        680.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_253",
+      "name": "Images Image 5.3M",
+      "role": "link",
+      "bbox": [
+        708,
+        456,
+        746,
+        513
+      ],
+      "point": [
+        727.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_259",
+      "name": "Concerts Image 285K",
+      "role": "link",
+      "bbox": [
+        755,
+        456,
+        793,
+        513
+      ],
+      "point": [
+        774.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_265",
+      "name": "Collections Image 3.2M",
+      "role": "link",
+      "bbox": [
+        801,
+        456,
+        839,
+        513
+      ],
+      "point": [
+        820.0,
+        484.5
+      ]
+    },
+    {
+      "id": "node_278",
+      "name": "Search the Archive. Filters and Advanced Search available below.",
+      "role": "textfield",
+      "bbox": [
+        434,
+        533,
+        742,
+        563
+      ],
+      "point": [
+        588.0,
+        548.0
+      ]
+    },
+    {
+      "id": "node_297",
+      "name": "GO",
+      "role": "button",
+      "bbox": [
+        798,
+        533,
+        833,
+        563
+      ],
+      "point": [
+        815.5,
+        548.0
+      ]
+    },
+    {
       "id": "node_306",
-      "category": "link",
       "name": "Timeless Songs, Fresh Lyrics: Musician Stephanie Woodford Reinterprets the Public Domain",
+      "role": "link",
       "bbox": [
         924,
         358,
@@ -306,8 +533,8 @@
     },
     {
       "id": "node_312",
-      "category": "link",
       "name": "Recordings From Our Public Domain Day Celebrations are Now Available",
+      "role": "link",
       "bbox": [
         924,
         420,
@@ -321,8 +548,8 @@
     },
     {
       "id": "node_317",
-      "category": "link",
       "name": "SPARC and Curationist Join Widening Effort to Protect Our Future Memory",
+      "role": "link",
       "bbox": [
         924,
         464,
@@ -336,8 +563,8 @@
     },
     {
       "id": "node_321",
-      "category": "link",
       "name": "More posts",
+      "role": "link",
       "bbox": [
         924,
         507,
@@ -351,8 +578,8 @@
     },
     {
       "id": "node_623",
-      "category": "link",
       "name": "Terms of Service (last updated 12/31/2014)",
+      "role": "link",
       "bbox": [
         511,
         563,

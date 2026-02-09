@@ -1,0 +1,7 @@
+{
+  "task_id": "coolors",
+  "instruction": "Open Coolors palette generator",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

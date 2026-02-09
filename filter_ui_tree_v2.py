@@ -3,181 +3,126 @@ import os
 
 def filter_ui_tree(input_path, output_path, image_filename):
     """
-    Fixed VLM grounding dataset generator.
-    Fix: Do NOT prune branches based on 'hidden' state of container nodes.
-    Trust Geometry (Bounds) over Semantics (States).
+    Strictly filters UI elements based on 4 user-defined criteria:
+    1. Strictly inside screen bounds.
+    2. Interactive role.
+    3. Visible (geometry > 0).
+    4. Has a name (description).
     """
     
-    with open(input_path, 'r') as f:
+    with open(input_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # 0. 获取屏幕尺寸
     screen_width = data['screen']['width']
     screen_height = data['screen']['height']
-    root = data['root']
     
-    # 1. Configuration
+    # 交互元素白名单 (只保留可点击的)
     INTERACTIVE_ROLES = {
         "button", "link", "checkbox", "menuitem", "tab", 
         "textfield", "entry", "radiobutton", "slider", "combobox", "input",
-        "switch", "toggle", "searchbox", "listbox", "listitem" # Added list items as they often contain buttons
-    }
-    
-    # Roles that are almost always containers or text, not occluding layers
-    # We won't let these be "occluders" to avoid false positives in occlusion check
-    NON_OCCLUDING_ROLES = {
-        'label', 'StaticText', 'staticText', 'text', 'heading', 
-        'list', 'listitem', 'group', 'generic', 'paragraph'
+        "switch", "toggle", "searchbox", "listbox", "option", "treeitem"
     }
 
-    # 2. Helper Functions
-    def get_intersection(r1, r2):
-        x1 = max(r1[0], r2[0])
-        y1 = max(r1[1], r2[1])
-        x2 = min(r1[2], r2[2])
-        y2 = min(r1[3], r2[3])
-        if x1 < x2 and y1 < y2:
-            return [x1, y1, x2, y2]
-        return None
+    valid_samples = []
 
-    def get_area(rect):
-        if not rect: return 0
-        return max(0, rect[2] - rect[0]) * max(0, rect[3] - rect[1])
+    def is_strictly_in_screen(bounds):
+        """条件1: 严格完全在屏幕内部"""
+        x, y = bounds['x'], bounds['y']
+        w, h = bounds['width'], bounds['height']
+        
+        # 左上角检查
+        if x < 0 or y < 0:
+            return False
+        # 右下角检查 (必须小于等于屏幕宽高)
+        if (x + w) > screen_width or (y + h) > screen_height:
+            return False
+            
+        return True
 
-    # 3. Global Traversal (Geometry Only)
-    all_visible_nodes = [] 
+    def process_node(node):
+        # 1. 递归遍历子节点 (先深度遍历，不因父节点被过滤而停止)
+        if "children" in node:
+            for child in node["children"]:
+                process_node(child)
 
-    def traverse(node, parent_clip_rect):
-        """
-        DFS traversal. 
-        CRITICAL FIX: We do NOT check 'states' here. 
-        If a parent panel is marked 'hidden' but has valid bounds, we still traverse it.
-        We rely on geometric intersection to determine if something is truly off-screen.
-        """
-        # 1. Get raw bounds
+        # --- 开始针对当前节点的 4 重筛选 ---
+        
+        # 预处理数据
+        role = node.get('role', 'generic')
+        name = node.get('name', '')
         bounds = node.get('bounds', {})
-        bx, by = bounds.get('x', 0), bounds.get('y', 0)
-        bw, bh = bounds.get('width', 0), bounds.get('height', 0)
+        states = node.get('states', [])
         
-        # 2. Skip physically non-existent dimensions
-        if bw <= 0 or bh <= 0:
+        # 基础几何检查 (防 crash)
+        if 'width' not in bounds or 'height' not in bounds:
             return
 
-        # 3. Calculate Strict Visible Rect (Clipping)
-        # Intersect current raw bounds with parent's visible area
-        raw_rect = [bx, by, bx + bw, by + bh]
-        visible_rect = get_intersection(raw_rect, parent_clip_rect)
-
-        # 4. If completely clipped, prune this branch
-        if not visible_rect or get_area(visible_rect) < 25: 
+        # [条件 2] 可交互性筛选
+        if role not in INTERACTIVE_ROLES:
             return
 
-        # 5. Store node info
-        node_info = {
-            "id": node.get('id', str(len(all_visible_nodes))),
-            "role": node.get('role', 'generic'),
-            "name": node.get('name', ''),
-            "states": node.get('states', []),  # Store state, check later
-            "raw_rect": raw_rect,
-            "visible_rect": visible_rect,
-            "area": get_area(visible_rect)
-        }
+        # [条件 4] 描述筛选 (Name 不为空)
+        if not name or len(str(name).strip()) == 0:
+            return
+
+        # [条件 3] 可见性筛选
+        # A. 几何尺寸必须存在且合理 (设定最小阈值 5px 防止噪点)
+        if bounds['width'] < 5 or bounds['height'] < 5:
+            return
+        # B. 状态检查 (只剔除明确 invisible 的，忽略 hidden)
+        if 'invisible' in states:
+            return
+
+        # [条件 1] 严格屏幕范围筛选
+        if not is_strictly_in_screen(bounds):
+            return
+
+        # --- 通过所有筛选，加入结果集 ---
         
-        all_visible_nodes.append(node_info)
-        
-        # 6. Traverse children
-        # Note: We pass the 'visible_rect' down as the new clip boundary
-        children = node.get('children', [])
-        for child in children:
-            traverse(child, visible_rect)
-            
-    # Start Traversal
-    screen_rect = [0, 0, screen_width, screen_height]
-    traverse(root, screen_rect)
+        # 计算中心点 (方便后续做点击测试验证)
+        cx = bounds['x'] + bounds['width'] / 2
+        cy = bounds['y'] + bounds['height'] / 2
 
-    # 4. Selection & Filtering
-    final_samples = []
-    
-    for i, candidate in enumerate(all_visible_nodes):
-        
-        # --- Filter A: Role Check ---
-        if candidate['role'] not in INTERACTIVE_ROLES:
-            continue
-            
-        # --- Filter B: Name Check ---
-        name_str = str(candidate['name']).strip()
-        if not name_str:
-            continue
+        valid_samples.append({
+            "id": node.get('id'),
+            "name": name.strip(),  # 这里对应你要求的 "query"
+            "role": role,           # 保留 role 方便后续分析 (如 "button", "link")
+            "bbox": [               # [x, y, w, h] 或者 [x1, y1, x2, y2]
+                bounds['x'], 
+                bounds['y'], 
+                bounds['x'] + bounds['width'], 
+                bounds['y'] + bounds['height']
+            ],
+            "point": [cx, cy]
+        })
 
-        # --- Filter C: Leaf-Level State Check (Relaxed) ---
-        # Only check 'hidden' on the element itself, and trust bounds if valid.
-        # Even if a button says 'hidden', if it passed the geometry check (area > 25),
-        # we tend to trust it exists. But to be safe, we can filter strict 'invisible'.
-        # However, for your case, trust Geometry > State.
-        # Let's only filter if it says 'invisible' (often strictly CSS hidden) but ignored 'hidden' (ARIA).
-        if 'invisible' in candidate['states']:
-            continue
-        # Note: We explicitly DO NOT check 'hidden' here because of your reported bug.
+    # 开始遍历
+    if 'root' in data:
+        process_node(data['root'])
 
-        # --- Filter D: OCCLUSION CHECK ---
-        is_occluded = False
-        cand_rect = candidate['visible_rect']
-        cand_center = [
-            (cand_rect[0] + cand_rect[2]) / 2, 
-            (cand_rect[1] + cand_rect[3]) / 2
-        ]
-        
-        # Check against subsequent nodes (drawn on top)
-        for j in range(i + 1, len(all_visible_nodes)):
-            occluder = all_visible_nodes[j]
-            occ_rect = occluder['visible_rect']
-            
-            # 1. Skip if disjoint
-            if (occ_rect[0] > cand_rect[2] or occ_rect[2] < cand_rect[0] or 
-                occ_rect[1] > cand_rect[3] or occ_rect[3] < cand_rect[1]):
-                continue
-
-            # 2. Skip if occluder is non-blocking (text, label, invisible containers)
-            if occluder['role'] in NON_OCCLUDING_ROLES:
-                continue
-
-            # 3. Center Hit Test
-            if (occ_rect[0] <= cand_center[0] <= occ_rect[2] and 
-                occ_rect[1] <= cand_center[1] <= occ_rect[3]):
-                
-                # Double check area overlap to avoid tiny pixel errors
-                inter = get_intersection(cand_rect, occ_rect)
-                if inter and get_area(inter) / candidate['area'] > 0.5:
-                    is_occluded = True
-                    break
-        
-        if not is_occluded:
-            final_samples.append({
-                "id": candidate['id'],
-                "category": candidate['role'],
-                "name": name_str,
-                "bbox": candidate['visible_rect'],
-                "point": cand_center
-            })
-
-    # 5. Output
+    # 生成最终数据集格式
     output_data = {
         "image_filename": image_filename,
-        "image_width": screen_width,
-        "image_height": screen_height,
-        "sample_count": len(final_samples),
-        "test_samples": final_samples
+        "image_size": [screen_width, screen_height],
+        "sample_count": len(valid_samples),
+        "test_samples": valid_samples # [image, query, bbox] 的集合
     }
-    
-    with open(output_path, 'w') as f:
-        json.dump(output_data, f, indent=2)
-    
-    print(f"✅ Generated {len(final_samples)} samples (Fixed Hidden Logic).")
 
+    # 写入文件
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+    print(f"筛选完成: {len(valid_samples)} 个符合条件的元素。")
+
+# --- 使用示例 ---
 if __name__ == "__main__":
-    # 替换为你实际的路径测试
-    base_dir = "/Users/zhangxiuhui/Desktop/project/osworld-desktopd"
-    input_file = os.path.join(base_dir, "dataset_cropped/github/ui_tree.json")
-    output_file = os.path.join(base_dir, "dataset_cropped/github/filtered_fixed.json")
-    image_rel_path = "dataset_cropped/github/screenshot_cropped.png"
+    # 替换你的实际路径
+    input_file = "ui_tree.json"
+    output_file = "grounding_dataset.json"
+    img_path = "screenshot.png"
     
-    filter_ui_tree(input_file, output_file, image_rel_path)
+    if os.path.exists(input_file):
+        filter_ui_tree(input_file, output_file, img_path)
+    else:
+        print("请提供正确的 json 文件路径")

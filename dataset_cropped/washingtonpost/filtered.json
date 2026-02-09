@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/washingtonpost/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 15,
   "test_samples": [
     {
       "id": "node_16",
-      "category": "button",
       "name": "Search and browse sections",
+      "role": "button",
       "bbox": [
         24,
         318,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_17",
-      "category": "button",
       "name": "News alerts",
+      "role": "button",
       "bbox": [
         60,
         318,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_21",
-      "category": "link",
       "name": "Save and subscribe",
+      "role": "link",
       "bbox": [
         996,
         320,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_24",
-      "category": "link",
       "name": "Sign in",
+      "role": "link",
       "bbox": [
         1179,
         320,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_31",
-      "category": "link",
       "name": "Logo of The Washington Post",
+      "role": "link",
       "bbox": [
         302,
         382,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_43",
-      "category": "link",
       "name": "Politics",
+      "role": "link",
       "bbox": [
         138,
         537,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_48",
-      "category": "link",
       "name": "Opinions",
+      "role": "link",
       "bbox": [
         224,
         537,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_53",
-      "category": "link",
       "name": "Style",
+      "role": "link",
       "bbox": [
         319,
         537,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_58",
-      "category": "link",
       "name": "Investigations",
+      "role": "link",
       "bbox": [
         390,
         537,
@@ -141,8 +143,8 @@
     },
     {
       "id": "node_63",
-      "category": "link",
       "name": "Climate",
+      "role": "link",
       "bbox": [
         519,
         537,
@@ -156,8 +158,8 @@
     },
     {
       "id": "node_68",
-      "category": "link",
       "name": "Well+Being",
+      "role": "link",
       "bbox": [
         607,
         537,
@@ -171,8 +173,8 @@
     },
     {
       "id": "node_73",
-      "category": "link",
       "name": "Business",
+      "role": "link",
       "bbox": [
         718,
         537,
@@ -186,8 +188,8 @@
     },
     {
       "id": "node_78",
-      "category": "link",
       "name": "Tech",
+      "role": "link",
       "bbox": [
         815,
         537,
@@ -201,8 +203,8 @@
     },
     {
       "id": "node_100",
-      "category": "link",
       "name": "WP Intelligence",
+      "role": "link",
       "bbox": [
         897,
         537,
@@ -216,8 +218,8 @@
     },
     {
       "id": "node_105",
-      "category": "link",
       "name": "Ask The Post AI",
+      "role": "link",
       "bbox": [
         1029,
         537,

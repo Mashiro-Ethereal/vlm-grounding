@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/wolfram/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 23,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 26,
   "test_samples": [
     {
       "id": "node_9",
-      "category": "button",
       "name": "UPGRADE TO PRO",
+      "role": "button",
       "bbox": [
         815,
         5,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_14",
-      "category": "button",
       "name": "APPS",
+      "role": "button",
       "bbox": [
         969,
         5,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_19",
-      "category": "link",
       "name": "TOUR",
+      "role": "link",
       "bbox": [
         1045,
         5,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_23",
-      "category": "button",
       "name": "Sign in",
+      "role": "button",
       "bbox": [
         1119,
         14,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_29",
-      "category": "button",
       "name": "Language and theme selector",
+      "role": "button",
       "bbox": [
         1201,
         12,
@@ -80,9 +82,54 @@
       ]
     },
     {
+      "id": "node_37",
+      "name": "WolframAlpha logo",
+      "role": "link",
+      "bbox": [
+        483,
+        149,
+        778,
+        194
+      ],
+      "point": [
+        630.5,
+        171.5
+      ]
+    },
+    {
+      "id": "node_45",
+      "name": "WolframAlpha input field",
+      "role": "textfield",
+      "bbox": [
+        253,
+        227,
+        981,
+        249
+      ],
+      "point": [
+        617.0,
+        238.0
+      ]
+    },
+    {
+      "id": "node_48",
+      "name": "Compute input button",
+      "role": "button",
+      "bbox": [
+        992,
+        228,
+        1012,
+        248
+      ],
+      "point": [
+        1002.0,
+        238.0
+      ]
+    },
+    {
       "id": "node_52",
-      "category": "button",
       "name": "NATURAL LANGUAGE",
+      "role": "button",
       "bbox": [
         247,
         267,
@@ -96,8 +143,8 @@
     },
     {
       "id": "node_57",
-      "category": "button",
       "name": "MATH INPUT",
+      "role": "button",
       "bbox": [
         401,
         267,
@@ -111,8 +158,8 @@
     },
     {
       "id": "node_62",
-      "category": "button",
       "name": "EXTENDED KEYBOARD",
+      "role": "button",
       "bbox": [
         632,
         270,
@@ -126,8 +173,8 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "EXAMPLES",
+      "role": "link",
       "bbox": [
         781,
         269,
@@ -141,8 +188,8 @@
     },
     {
       "id": "node_70",
-      "category": "button",
       "name": "UPLOAD",
+      "role": "button",
       "bbox": [
         869,
         270,
@@ -156,8 +203,8 @@
     },
     {
       "id": "node_74",
-      "category": "button",
       "name": "RANDOM",
+      "role": "button",
       "bbox": [
         943,
         269,
@@ -171,8 +218,8 @@
     },
     {
       "id": "node_86",
-      "category": "link",
       "name": "Mathematics",
+      "role": "link",
       "bbox": [
         158,
         397,
@@ -186,8 +233,8 @@
     },
     {
       "id": "node_91",
-      "category": "link",
       "name": "Step-by-Step Solutions",
+      "role": "link",
       "bbox": [
         159,
         446,
@@ -201,8 +248,8 @@
     },
     {
       "id": "node_96",
-      "category": "link",
       "name": "Elementary Math",
+      "role": "link",
       "bbox": [
         159,
         516,
@@ -216,8 +263,8 @@
     },
     {
       "id": "node_137",
-      "category": "link",
       "name": "Science & Technology",
+      "role": "link",
       "bbox": [
         399,
         397,
@@ -231,8 +278,8 @@
     },
     {
       "id": "node_142",
-      "category": "link",
       "name": "Units & Measures",
+      "role": "link",
       "bbox": [
         400,
         446,
@@ -246,8 +293,8 @@
     },
     {
       "id": "node_147",
-      "category": "link",
       "name": "Physics",
+      "role": "link",
       "bbox": [
         400,
         516,
@@ -261,8 +308,8 @@
     },
     {
       "id": "node_188",
-      "category": "link",
       "name": "Society & Culture",
+      "role": "link",
       "bbox": [
         640,
         397,
@@ -276,8 +323,8 @@
     },
     {
       "id": "node_193",
-      "category": "link",
       "name": "People",
+      "role": "link",
       "bbox": [
         641,
         446,
@@ -291,8 +338,8 @@
     },
     {
       "id": "node_198",
-      "category": "link",
       "name": "Arts & Media",
+      "role": "link",
       "bbox": [
         641,
         516,
@@ -306,8 +353,8 @@
     },
     {
       "id": "node_239",
-      "category": "link",
       "name": "Everyday Life",
+      "role": "link",
       "bbox": [
         881,
         397,
@@ -321,8 +368,8 @@
     },
     {
       "id": "node_244",
-      "category": "link",
       "name": "Personal Health",
+      "role": "link",
       "bbox": [
         882,
         446,
@@ -336,8 +383,8 @@
     },
     {
       "id": "node_249",
-      "category": "link",
       "name": "Personal Finance",
+      "role": "link",
       "bbox": [
         882,
         516,

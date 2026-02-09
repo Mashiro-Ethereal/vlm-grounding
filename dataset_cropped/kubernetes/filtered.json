@@ -1,18 +1,140 @@
 {
   "image_filename": "dataset_cropped/kubernetes/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 3,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 11,
   "test_samples": [
     {
+      "id": "node_10",
+      "name": "Documentation",
+      "role": "link",
+      "bbox": [
+        287,
+        21,
+        396,
+        42
+      ],
+      "point": [
+        341.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_14",
+      "name": "Kubernetes Blog",
+      "role": "link",
+      "bbox": [
+        436,
+        21,
+        550,
+        42
+      ],
+      "point": [
+        493.0,
+        31.5
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Training",
+      "role": "link",
+      "bbox": [
+        591,
+        21,
+        648,
+        42
+      ],
+      "point": [
+        619.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_22",
+      "name": "Careers",
+      "role": "link",
+      "bbox": [
+        689,
+        21,
+        742,
+        42
+      ],
+      "point": [
+        715.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Partners",
+      "role": "link",
+      "bbox": [
+        782,
+        21,
+        842,
+        42
+      ],
+      "point": [
+        812.0,
+        31.5
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "Community",
+      "role": "link",
+      "bbox": [
+        883,
+        21,
+        964,
+        42
+      ],
+      "point": [
+        923.5,
+        31.5
+      ]
+    },
+    {
+      "id": "node_34",
+      "name": "Versions",
+      "role": "button",
+      "bbox": [
+        1005,
+        21,
+        1089,
+        42
+      ],
+      "point": [
+        1047.0,
+        31.5
+      ]
+    },
+    {
+      "id": "node_39",
+      "name": "English",
+      "role": "button",
+      "bbox": [
+        1129,
+        21,
+        1213,
+        42
+      ],
+      "point": [
+        1171.0,
+        31.5
+      ]
+    },
+    {
       "id": "node_47",
-      "category": "link",
       "name": "KubeCon + CloudNativeCon Europe 2026",
+      "role": "link",
       "bbox": [
         120,
-        128,
+        126,
         530,
-        153
+        155
       ],
       "point": [
         325.0,
@@ -21,8 +143,8 @@
     },
     {
       "id": "node_55",
-      "category": "link",
       "name": "Buy your ticket now! 23 - 26 March | Amsterdam, The Netherlands",
+      "role": "link",
       "bbox": [
         120,
         183,
@@ -35,18 +157,18 @@
       ]
     },
     {
-      "id": "node_72",
-      "category": "link",
-      "name": "Kubernetes",
+      "id": "node_65",
+      "name": "Search this site",
+      "role": "textfield",
       "bbox": [
-        32,
-        580,
-        152,
-        583
+        343,
+        274,
+        917,
+        298
       ],
       "point": [
-        92.0,
-        581.5
+        630.0,
+        286.0
       ]
     }
   ]

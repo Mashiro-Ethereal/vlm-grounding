@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/typescript/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
+  "image_size": [
+    1261,
+    583
+  ],
   "sample_count": 15,
   "test_samples": [
     {
       "id": "node_11",
-      "category": "link",
       "name": "TypeScript Home Page",
+      "role": "link",
       "bbox": [
         0,
         11,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_17",
-      "category": "tab",
       "name": "Download",
+      "role": "tab",
       "bbox": [
         208,
         15,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_20",
-      "category": "tab",
       "name": "Docs",
+      "role": "tab",
       "bbox": [
         298,
         15,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_23",
-      "category": "tab",
       "name": "Handbook",
+      "role": "tab",
       "bbox": [
         349,
         15,
@@ -66,8 +68,8 @@
     },
     {
       "id": "node_26",
-      "category": "tab",
       "name": "Community",
+      "role": "tab",
       "bbox": [
         441,
         15,
@@ -81,8 +83,8 @@
     },
     {
       "id": "node_29",
-      "category": "tab",
       "name": "Playground",
+      "role": "tab",
       "bbox": [
         542,
         15,
@@ -96,8 +98,8 @@
     },
     {
       "id": "node_32",
-      "category": "tab",
       "name": "Tools",
+      "role": "tab",
       "bbox": [
         641,
         15,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_39",
-      "category": "combobox",
       "name": "Search the TypeScript site",
+      "role": "combobox",
       "bbox": [
         1113,
         1,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_59",
-      "category": "link",
       "name": "Try TypeScript Now Online or via npm",
+      "role": "link",
       "bbox": [
         122,
         352,
@@ -141,8 +143,8 @@
     },
     {
       "id": "node_70",
-      "category": "tab",
       "name": "Editor Checks",
+      "role": "tab",
       "bbox": [
         658,
         140,
@@ -156,8 +158,8 @@
     },
     {
       "id": "node_73",
-      "category": "tab",
       "name": "Auto-complete",
+      "role": "tab",
       "bbox": [
         762,
         140,
@@ -171,8 +173,8 @@
     },
     {
       "id": "node_76",
-      "category": "tab",
       "name": "Interfaces",
+      "role": "tab",
       "bbox": [
         875,
         140,
@@ -186,8 +188,8 @@
     },
     {
       "id": "node_79",
-      "category": "tab",
       "name": "JSX",
+      "role": "tab",
       "bbox": [
         955,
         140,
@@ -201,23 +203,23 @@
     },
     {
       "id": "node_168",
-      "category": "link",
       "name": "Show code sample",
+      "role": "link",
       "bbox": [
         1122,
         407,
         1152,
-        432
+        437
       ],
       "point": [
         1137.0,
-        419.5
+        422.0
       ]
     },
     {
       "id": "node_171",
-      "category": "link",
       "name": "TypeScript 5.9",
+      "role": "link",
       "bbox": [
         502,
         491,

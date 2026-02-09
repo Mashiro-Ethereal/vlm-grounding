@@ -1,0 +1,836 @@
+{
+  "timestamp": "2026-02-07T05:44:18.533377Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Todoist | A To-Do List to Organize Your Work & Life",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 136
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 24,
+                  "y": 0,
+                  "width": 1213,
+                  "height": 72
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "Home",
+                    "bounds": {
+                      "x": 24,
+                      "y": 18,
+                      "width": 128,
+                      "height": 35
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "image",
+                        "name": "Todoist Logo",
+                        "bounds": {
+                          "x": 24,
+                          "y": 18,
+                          "width": 128,
+                          "height": 35
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_6",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 677,
+                      "y": 16,
+                      "width": 334,
+                      "height": 38
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 677,
+                          "y": 16,
+                          "width": 120,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "button",
+                            "name": "Made For",
+                            "bounds": {
+                              "x": 691,
+                              "y": 25,
+                              "width": 92,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "label",
+                                "name": "Made For",
+                                "bounds": {
+                                  "x": 691,
+                                  "y": 25,
+                                  "width": 70,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_10",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 766,
+                                  "y": 26,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 800,
+                          "y": 16,
+                          "width": 129,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "button",
+                            "name": "Resources",
+                            "bounds": {
+                              "x": 814,
+                              "y": 25,
+                              "width": 101,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "label",
+                                "name": "Resources",
+                                "bounds": {
+                                  "x": 814,
+                                  "y": 25,
+                                  "width": 79,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_14",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 897,
+                                  "y": 26,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_15",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 931,
+                          "y": 16,
+                          "width": 80,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "link",
+                            "name": "Pricing",
+                            "bounds": {
+                              "x": 945,
+                              "y": 25,
+                              "width": 52,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_17",
+                                "role": "label",
+                                "name": "Pricing",
+                                "bounds": {
+                                  "x": 945,
+                                  "y": 25,
+                                  "width": 52,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_18",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 1029,
+                      "y": 16,
+                      "width": 207,
+                      "height": 38
+                    },
+                    "children": [
+                      {
+                        "id": "node_19",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 1029,
+                          "y": 16,
+                          "width": 73,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "link",
+                            "name": "Log in",
+                            "bounds": {
+                              "x": 1043,
+                              "y": 25,
+                              "width": 45,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "label",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 1043,
+                                  "y": 25,
+                                  "width": 45,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_22",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 1111,
+                          "y": 16,
+                          "width": 125,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "link",
+                            "name": "Start for free",
+                            "bounds": {
+                              "x": 1125,
+                              "y": 25,
+                              "width": 97,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "Start for free",
+                                "bounds": {
+                                  "x": 1125,
+                                  "y": 25,
+                                  "width": 97,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_25",
+                "role": "dialog",
+                "name": "",
+                "bounds": {
+                  "x": 86,
+                  "y": 88,
+                  "width": 1088,
+                  "height": 48
+                },
+                "children": [
+                  {
+                    "id": "node_26",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 98,
+                      "y": 96,
+                      "width": 1068,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_27",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 98,
+                          "y": 99,
+                          "width": 1024,
+                          "height": 25
+                        },
+                        "children": [
+                          {
+                            "id": "node_28",
+                            "role": "label",
+                            "name": "Get ready to turn thinking into doing. ",
+                            "bounds": {
+                              "x": 416,
+                              "y": 101,
+                              "width": 287,
+                              "height": 20
+                            }
+                          },
+                          {
+                            "id": "node_29",
+                            "role": "link",
+                            "name": "Meet Ramble",
+                            "bounds": {
+                              "x": 703,
+                              "y": 101,
+                              "width": 100,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_30",
+                                "role": "label",
+                                "name": "Meet Ramble",
+                                "bounds": {
+                                  "x": 703,
+                                  "y": 101,
+                                  "width": 100,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_31",
+                        "role": "button",
+                        "name": "Close",
+                        "bounds": {
+                          "x": 1142,
+                          "y": 104,
+                          "width": 16,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_32",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 1142,
+                              "y": 104,
+                              "width": 16,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_33",
+            "role": "label",
+            "name": "Clarity, finally.",
+            "bounds": {
+              "x": 53,
+              "y": 200,
+              "width": 377,
+              "height": 63
+            },
+            "children": [
+              {
+                "id": "node_34",
+                "role": "label",
+                "name": "Clarity, finally.",
+                "bounds": {
+                  "x": 53,
+                  "y": 204,
+                  "width": 377,
+                  "height": 55
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_35",
+            "role": "label",
+            "name": "",
+            "bounds": {
+              "x": 24,
+              "y": 287,
+              "width": 437,
+              "height": 98
+            },
+            "children": [
+              {
+                "id": "node_36",
+                "role": "label",
+                "name": "Join 50+ million professionals who simplify work and life with the world\u2019s #1 to-do list app.",
+                "bounds": {
+                  "x": 32,
+                  "y": 290,
+                  "width": 422,
+                  "height": 90
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_37",
+            "role": "image",
+            "name": "",
+            "bounds": {
+              "x": 118,
+              "y": 406,
+              "width": 16,
+              "height": 16
+            }
+          },
+          {
+            "id": "node_38",
+            "role": "image",
+            "name": "",
+            "bounds": {
+              "x": 151,
+              "y": 406,
+              "width": 16,
+              "height": 16
+            }
+          },
+          {
+            "id": "node_39",
+            "role": "label",
+            "name": "",
+            "bounds": {
+              "x": 188,
+              "y": 403,
+              "width": 174,
+              "height": 21
+            },
+            "children": [
+              {
+                "id": "node_40",
+                "role": "label",
+                "name": "374K+ \u2605\u2605\u2605\u2605\u2605 reviews",
+                "bounds": {
+                  "x": 188,
+                  "y": 405,
+                  "width": 174,
+                  "height": 17
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_41",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 168,
+              "y": 463,
+              "width": 148,
+              "height": 70
+            },
+            "children": [
+              {
+                "id": "node_42",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 168,
+                  "y": 463,
+                  "width": 148,
+                  "height": 64
+                },
+                "children": [
+                  {
+                    "id": "node_43",
+                    "role": "link",
+                    "name": "Start for free",
+                    "bounds": {
+                      "x": 184,
+                      "y": 475,
+                      "width": 116,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "Start for free",
+                        "bounds": {
+                          "x": 184,
+                          "y": 483,
+                          "width": 116,
+                          "height": 22
+                        }
+                      },
+                      {
+                        "id": "node_45",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 43,
+                          "y": 450,
+                          "width": 166,
+                          "height": 65
+                        }
+                      },
+                      {
+                        "id": "node_46",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 214,
+                          "y": 462,
+                          "width": 166,
+                          "height": 65
+                        }
+                      },
+                      {
+                        "id": "node_47",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 168,
+                          "y": 453,
+                          "width": 218,
+                          "height": 84
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_48",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 510,
+              "y": 201,
+              "width": 726,
+              "height": 408
+            },
+            "children": [
+              {
+                "id": "node_49",
+                "role": "image",
+                "name": "Todoist app interface showing daily tasks, projects, and team sections with a mobile view of task entry screen.",
+                "bounds": {
+                  "x": 510,
+                  "y": 201,
+                  "width": 726,
+                  "height": 408
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_50",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "children": [
+              {
+                "id": "node_51",
+                "role": "label",
+                "name": "|",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_52",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "children": [
+              {
+                "id": "node_53",
+                "role": "label",
+                "name": "|",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_54",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "children": [
+              {
+                "id": "node_55",
+                "role": "label",
+                "name": "|",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_56",
+            "role": "dialog",
+            "name": "",
+            "bounds": {
+              "x": 1020,
+              "y": 369,
+              "width": 198,
+              "height": 172
+            },
+            "children": [
+              {
+                "id": "node_57",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 1020,
+                  "y": 369,
+                  "width": 198,
+                  "height": 172
+                },
+                "children": [
+                  {
+                    "id": "node_58",
+                    "role": "button",
+                    "name": "Close",
+                    "bounds": {
+                      "x": 1212,
+                      "y": 361,
+                      "width": 16,
+                      "height": 16
+                    },
+                    "states": [
+                      "focused"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_59",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 1212,
+                          "y": 361,
+                          "width": 16,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_60",
+                    "role": "label",
+                    "name": "We respect your privacy",
+                    "bounds": {
+                      "x": 1020,
+                      "y": 369,
+                      "width": 198,
+                      "height": 18
+                    },
+                    "children": [
+                      {
+                        "id": "node_61",
+                        "role": "label",
+                        "name": "We respect your privacy",
+                        "bounds": {
+                          "x": 1020,
+                          "y": 370,
+                          "width": 163,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_62",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 1020,
+                      "y": 395,
+                      "width": 198,
+                      "height": 91
+                    },
+                    "children": [
+                      {
+                        "id": "node_63",
+                        "role": "label",
+                        "name": "We use cookies to improve our site and how we market Todoist. Select your preference, and we\u2019ll remember your choice.",
+                        "bounds": {
+                          "x": 1020,
+                          "y": 396,
+                          "width": 198,
+                          "height": 88
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_64",
+                    "role": "button",
+                    "name": "Accept",
+                    "bounds": {
+                      "x": 1034,
+                      "y": 512,
+                      "width": 54,
+                      "height": 20
+                    },
+                    "children": [
+                      {
+                        "id": "node_65",
+                        "role": "label",
+                        "name": "Accept",
+                        "bounds": {
+                          "x": 1034,
+                          "y": 512,
+                          "width": 55,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_66",
+                    "role": "button",
+                    "name": "Decline",
+                    "bounds": {
+                      "x": 1124,
+                      "y": 512,
+                      "width": 57,
+                      "height": 20
+                    },
+                    "children": [
+                      {
+                        "id": "node_67",
+                        "role": "label",
+                        "name": "Decline",
+                        "bounds": {
+                          "x": 1124,
+                          "y": 512,
+                          "width": 57,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

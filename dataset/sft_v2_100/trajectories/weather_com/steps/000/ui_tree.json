@@ -1,0 +1,131 @@
+{
+  "timestamp": "2026-02-07T05:46:17.878583Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3475
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 73,
+                  "y": 121,
+                  "width": 1188,
+                  "height": 268
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 303,
+                      "y": 219,
+                      "width": 728,
+                      "height": 90
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 632,
+                          "y": 205,
+                          "width": 68,
+                          "height": 10
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "Advertisement",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_7",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 73,
+                  "y": 413,
+                  "width": 1188,
+                  "height": 2481
+                },
+                "children": [
+                  {
+                    "id": "node_8",
+                    "role": "panel",
+                    "name": "Main Content",
+                    "bounds": {
+                      "x": 98,
+                      "y": 413,
+                      "width": 788,
+                      "height": 3823
+                    }
+                  },
+                  {
+                    "id": "node_9",
+                    "role": "panel",
+                    "name": "Sidebar",
+                    "bounds": {
+                      "x": 898,
+                      "y": 413,
+                      "width": 338,
+                      "height": 3823
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

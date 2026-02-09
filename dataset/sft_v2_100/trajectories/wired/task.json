@@ -1,0 +1,7 @@
+{
+  "task_id": "wired",
+  "instruction": "Visit Wired magazine",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

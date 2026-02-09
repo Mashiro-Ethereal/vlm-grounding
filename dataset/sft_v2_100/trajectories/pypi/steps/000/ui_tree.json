@@ -1,0 +1,782 @@
+{
+  "timestamp": "2026-02-07T05:41:51.729623Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "PyPI \u00b7 The Python Package Index",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 87
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 85,
+                  "y": 0,
+                  "width": 65,
+                  "height": 87
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "PyPI",
+                    "bounds": {
+                      "x": 85,
+                      "y": 15,
+                      "width": 65,
+                      "height": 57
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "image",
+                        "name": "PyPI",
+                        "bounds": {
+                          "x": 85,
+                          "y": 15,
+                          "width": 64,
+                          "height": 57
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_6",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 792,
+                  "y": 0,
+                  "width": 383,
+                  "height": 86
+                },
+                "children": [
+                  {
+                    "id": "node_7",
+                    "role": "panel",
+                    "name": "Main navigation",
+                    "bounds": {
+                      "x": 792,
+                      "y": 0,
+                      "width": 383,
+                      "height": 86
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 792,
+                          "y": 0,
+                          "width": 383,
+                          "height": 86
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 792,
+                              "y": 32,
+                              "width": 64,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "link",
+                                "name": "Help",
+                                "bounds": {
+                                  "x": 807,
+                                  "y": 32,
+                                  "width": 31,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_11",
+                                    "role": "label",
+                                    "name": "Help",
+                                    "bounds": {
+                                      "x": 807,
+                                      "y": 32,
+                                      "width": 32,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_12",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 856,
+                              "y": 32,
+                              "width": 65,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "link",
+                                "name": "Docs",
+                                "bounds": {
+                                  "x": 871,
+                                  "y": 32,
+                                  "width": 32,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "label",
+                                    "name": "Docs",
+                                    "bounds": {
+                                      "x": 871,
+                                      "y": 32,
+                                      "width": 33,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 922,
+                              "y": 32,
+                              "width": 95,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "link",
+                                "name": "Sponsors",
+                                "bounds": {
+                                  "x": 937,
+                                  "y": 32,
+                                  "width": 62,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_17",
+                                    "role": "label",
+                                    "name": "Sponsors",
+                                    "bounds": {
+                                      "x": 937,
+                                      "y": 32,
+                                      "width": 63,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 1018,
+                              "y": 32,
+                              "width": 73,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "link",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 1033,
+                                  "y": 32,
+                                  "width": 40,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "label",
+                                    "name": "Log in",
+                                    "bounds": {
+                                      "x": 1033,
+                                      "y": 32,
+                                      "width": 40,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_21",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 1091,
+                              "y": 32,
+                              "width": 83,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_22",
+                                "role": "link",
+                                "name": "Register",
+                                "bounds": {
+                                  "x": 1106,
+                                  "y": 32,
+                                  "width": 53,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_23",
+                                    "role": "label",
+                                    "name": "Register",
+                                    "bounds": {
+                                      "x": 1106,
+                                      "y": 32,
+                                      "width": 55,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_24",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 88,
+              "width": 1261,
+              "height": 743
+            },
+            "children": [
+              {
+                "id": "node_25",
+                "role": "label",
+                "name": "Find, install and publish Python packages with the Python Package Index",
+                "bounds": {
+                  "x": 245,
+                  "y": 138,
+                  "width": 770,
+                  "height": 104
+                },
+                "children": [
+                  {
+                    "id": "node_26",
+                    "role": "label",
+                    "name": "Find, install and publish Python packages with the Python Package Index",
+                    "bounds": {
+                      "x": 275,
+                      "y": 135,
+                      "width": 710,
+                      "height": 109
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_27",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 325,
+                  "y": 282,
+                  "width": 610,
+                  "height": 50
+                },
+                "children": [
+                  {
+                    "id": "node_28",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 324,
+                      "y": 281,
+                      "width": 1,
+                      "height": 1
+                    },
+                    "children": [
+                      {
+                        "id": "node_29",
+                        "role": "label",
+                        "name": "Search PyPI",
+                        "bounds": {
+                          "x": 324,
+                          "y": 281,
+                          "width": 45,
+                          "height": 44
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_30",
+                    "role": "textfield",
+                    "name": "Search PyPI",
+                    "bounds": {
+                      "x": 333,
+                      "y": 290,
+                      "width": 551,
+                      "height": 34
+                    }
+                  },
+                  {
+                    "id": "node_31",
+                    "role": "button",
+                    "name": "Search",
+                    "bounds": {
+                      "x": 891,
+                      "y": 283,
+                      "width": 38,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_32",
+                        "role": "label",
+                        "name": "Search",
+                        "bounds": {
+                          "x": 922,
+                          "y": 292,
+                          "width": 57,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_33",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 362,
+                  "width": 1261,
+                  "height": 26
+                },
+                "children": [
+                  {
+                    "id": "node_34",
+                    "role": "label",
+                    "name": "Or ",
+                    "bounds": {
+                      "x": 555,
+                      "y": 361,
+                      "width": 23,
+                      "height": 28
+                    }
+                  },
+                  {
+                    "id": "node_35",
+                    "role": "link",
+                    "name": "browse projects",
+                    "bounds": {
+                      "x": 578,
+                      "y": 361,
+                      "width": 127,
+                      "height": 28
+                    },
+                    "children": [
+                      {
+                        "id": "node_36",
+                        "role": "label",
+                        "name": "browse projects",
+                        "bounds": {
+                          "x": 578,
+                          "y": 361,
+                          "width": 127,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_37",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 460,
+                  "width": 1261,
+                  "height": 46
+                },
+                "children": [
+                  {
+                    "id": "node_38",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 305,
+                      "y": 470,
+                      "width": 130,
+                      "height": 26
+                    },
+                    "children": [
+                      {
+                        "id": "node_39",
+                        "role": "label",
+                        "name": "737,997 projects",
+                        "bounds": {
+                          "x": 305,
+                          "y": 469,
+                          "width": 130,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_40",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 478,
+                      "y": 470,
+                      "width": 145,
+                      "height": 26
+                    },
+                    "children": [
+                      {
+                        "id": "node_41",
+                        "role": "label",
+                        "name": "8,024,836 releases",
+                        "bounds": {
+                          "x": 478,
+                          "y": 469,
+                          "width": 145,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_42",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 667,
+                      "y": 470,
+                      "width": 122,
+                      "height": 26
+                    },
+                    "children": [
+                      {
+                        "id": "node_43",
+                        "role": "label",
+                        "name": "17,137,517 files",
+                        "bounds": {
+                          "x": 667,
+                          "y": 469,
+                          "width": 122,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_44",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 833,
+                      "y": 470,
+                      "width": 122,
+                      "height": 26
+                    },
+                    "children": [
+                      {
+                        "id": "node_45",
+                        "role": "label",
+                        "name": "1,006,925 users",
+                        "bounds": {
+                          "x": 833,
+                          "y": 469,
+                          "width": 122,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_46",
+                "role": "label",
+                "name": "\uf35d",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              {
+                "id": "node_47",
+                "role": "label",
+                "name": "\uf35d",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_48",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_49",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_50",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_51",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_52",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_53",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_54",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_55",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_56",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_57",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_58",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_59",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_60",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_61",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_62",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_63",
+            "role": "label",
+            "name": "\uf35d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_64",
+            "role": "label",
+            "name": "\uf105",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

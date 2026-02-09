@@ -1,0 +1,7 @@
+{
+  "task_id": "zoom",
+  "instruction": "Visit Zoom homepage",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

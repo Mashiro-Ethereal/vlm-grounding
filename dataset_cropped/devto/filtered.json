@@ -1,13 +1,315 @@
 {
   "image_filename": "dataset_cropped/devto/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 16,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 38,
   "test_samples": [
     {
+      "id": "node_8",
+      "name": "Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        7,
+        35,
+        38
+      ],
+      "point": [
+        19.5,
+        22.5
+      ]
+    },
+    {
+      "id": "node_11",
+      "name": "DEV Community Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        53,
+        35,
+        84
+      ],
+      "point": [
+        19.5,
+        68.5
+      ]
+    },
+    {
+      "id": "node_14",
+      "name": "Open Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        99,
+        35,
+        130
+      ],
+      "point": [
+        19.5,
+        114.5
+      ]
+    },
+    {
+      "id": "node_17",
+      "name": "Future Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        145,
+        35,
+        176
+      ],
+      "point": [
+        19.5,
+        160.5
+      ]
+    },
+    {
+      "id": "node_20",
+      "name": "Gamers Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        191,
+        35,
+        222
+      ],
+      "point": [
+        19.5,
+        206.5
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "Music Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        237,
+        35,
+        268
+      ],
+      "point": [
+        19.5,
+        252.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "Vibe Coding Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        283,
+        35,
+        314
+      ],
+      "point": [
+        19.5,
+        298.5
+      ]
+    },
+    {
+      "id": "node_29",
+      "name": "DUMB DEV Community Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        329,
+        35,
+        360
+      ],
+      "point": [
+        19.5,
+        344.5
+      ]
+    },
+    {
+      "id": "node_32",
+      "name": "Security Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        375,
+        35,
+        406
+      ],
+      "point": [
+        19.5,
+        390.5
+      ]
+    },
+    {
+      "id": "node_35",
+      "name": "Design Community Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        421,
+        35,
+        452
+      ],
+      "point": [
+        19.5,
+        436.5
+      ]
+    },
+    {
+      "id": "node_38",
+      "name": "Popcorn Movies and TV Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        467,
+        35,
+        498
+      ],
+      "point": [
+        19.5,
+        482.5
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Golf Forem Logo",
+      "role": "link",
+      "bbox": [
+        4,
+        513,
+        35,
+        544
+      ],
+      "point": [
+        19.5,
+        528.5
+      ]
+    },
+    {
+      "id": "node_58",
+      "name": "Dropdown menu New subforem",
+      "role": "link",
+      "bbox": [
+        0,
+        510,
+        49,
+        534
+      ],
+      "point": [
+        24.5,
+        522.0
+      ]
+    },
+    {
+      "id": "node_64",
+      "name": "Dropdown menu View all Subforems",
+      "role": "link",
+      "bbox": [
+        0,
+        551,
+        49,
+        575
+      ],
+      "point": [
+        24.5,
+        563.0
+      ]
+    },
+    {
+      "id": "node_78",
+      "name": "DEV Community Home",
+      "role": "link",
+      "bbox": [
+        66,
+        8,
+        116,
+        48
+      ],
+      "point": [
+        91.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_83",
+      "name": "Search...",
+      "role": "textfield",
+      "bbox": [
+        173,
+        16,
+        669,
+        40
+      ],
+      "point": [
+        421.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_85",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        141,
+        9,
+        165,
+        46
+      ],
+      "point": [
+        153.0,
+        27.5
+      ]
+    },
+    {
+      "id": "node_87",
+      "name": "Powered by Algolia Search",
+      "role": "link",
+      "bbox": [
+        662,
+        19,
+        803,
+        38
+      ],
+      "point": [
+        732.5,
+        28.5
+      ]
+    },
+    {
+      "id": "node_92",
+      "name": "Log in",
+      "role": "link",
+      "bbox": [
+        1010,
+        16,
+        1058,
+        40
+      ],
+      "point": [
+        1034.0,
+        28.0
+      ]
+    },
+    {
+      "id": "node_95",
+      "name": "Create account",
+      "role": "link",
+      "bbox": [
+        1099,
+        16,
+        1221,
+        40
+      ],
+      "point": [
+        1160.0,
+        28.0
+      ]
+    },
+    {
       "id": "node_119",
-      "category": "link",
       "name": "Create new account",
+      "role": "link",
       "bbox": [
         98,
         349,
@@ -21,8 +323,8 @@
     },
     {
       "id": "node_122",
-      "category": "link",
       "name": "Log in",
+      "role": "link",
       "bbox": [
         98,
         393,
@@ -36,8 +338,8 @@
     },
     {
       "id": "node_128",
-      "category": "link",
       "name": "Home",
+      "role": "link",
       "bbox": [
         82,
         465,
@@ -51,8 +353,8 @@
     },
     {
       "id": "node_133",
-      "category": "link",
       "name": "DEV++",
+      "role": "link",
       "bbox": [
         82,
         505,
@@ -66,8 +368,8 @@
     },
     {
       "id": "node_138",
-      "category": "link",
       "name": "Podcasts",
+      "role": "link",
       "bbox": [
         82,
         545,
@@ -81,8 +383,8 @@
     },
     {
       "id": "node_463",
-      "category": "link",
       "name": "Relevant",
+      "role": "link",
       "bbox": [
         334,
         76,
@@ -96,8 +398,8 @@
     },
     {
       "id": "node_467",
-      "category": "link",
       "name": "Latest",
+      "role": "link",
       "bbox": [
         447,
         76,
@@ -111,8 +413,8 @@
     },
     {
       "id": "node_471",
-      "category": "link",
       "name": "Top",
+      "role": "link",
       "bbox": [
         527,
         76,
@@ -125,9 +427,54 @@
       ]
     },
     {
+      "id": "node_480",
+      "name": "Toggle dropdown menu",
+      "role": "button",
+      "bbox": [
+        846,
+        139,
+        870,
+        163
+      ],
+      "point": [
+        858.0,
+        151.0
+      ]
+    },
+    {
+      "id": "node_483",
+      "name": "x",
+      "role": "button",
+      "bbox": [
+        878,
+        139,
+        902,
+        163
+      ],
+      "point": [
+        890.0,
+        151.0
+      ]
+    },
+    {
+      "id": "node_488",
+      "name": "github copilot cli challenge",
+      "role": "link",
+      "bbox": [
+        382,
+        175,
+        866,
+        378
+      ],
+      "point": [
+        624.0,
+        276.5
+      ]
+    },
+    {
       "id": "node_495",
-      "category": "link",
       "name": "The DEV Team",
+      "role": "link",
       "bbox": [
         383,
         470,
@@ -141,8 +488,8 @@
     },
     {
       "id": "node_500",
-      "category": "link",
-      "name": "Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash \ud83d\udcb8 Jess Lee for The DEV Team \u30fb Jan 22 #githubchallenge #devchallenge #cli #githubcopilot",
+      "name": "Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸 Jess Lee for The DEV Team ・ Jan 22 #githubchallenge #devchallenge #cli #githubcopilot",
+      "role": "link",
       "bbox": [
         383,
         501,
@@ -156,8 +503,8 @@
     },
     {
       "id": "node_1738",
-      "category": "link",
       "name": "#discuss",
+      "role": "link",
       "bbox": [
         958,
         87,
@@ -171,8 +518,8 @@
     },
     {
       "id": "node_1745",
-      "category": "link",
-      "name": "The Secret Life of a Developer\u2019s Coffee Mug \u2615\ud83d\udcbb 6 comments",
+      "name": "The Secret Life of a Developer’s Coffee Mug ☕💻 6 comments",
+      "role": "link",
       "bbox": [
         958,
         179,
@@ -186,8 +533,8 @@
     },
     {
       "id": "node_1752",
-      "category": "link",
-      "name": "\ud83e\udd80 Inside Moltbook: When AI Agents Built Their Own Internet 5 comments",
+      "name": "🦀 Inside Moltbook: When AI Agents Built Their Own Internet 5 comments",
+      "role": "link",
       "bbox": [
         958,
         285,
@@ -201,8 +548,8 @@
     },
     {
       "id": "node_1759",
-      "category": "link",
       "name": "Do We Even Need Backend Developers Anymore? 2 comments",
+      "role": "link",
       "bbox": [
         958,
         391,
@@ -216,8 +563,8 @@
     },
     {
       "id": "node_1766",
-      "category": "link",
       "name": "What was your win this week? 56 comments",
+      "role": "link",
       "bbox": [
         958,
         497,
@@ -227,21 +574,6 @@
       "point": [
         1093.0,
         521.5
-      ]
-    },
-    {
-      "id": "node_1772",
-      "category": "link",
-      "name": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity New",
-      "bbox": [
-        958,
-        579,
-        1228,
-        583
-      ],
-      "point": [
-        1093.0,
-        581.0
       ]
     }
   ]

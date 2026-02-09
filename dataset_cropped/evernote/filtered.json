@@ -1,13 +1,165 @@
 {
   "image_filename": "dataset_cropped/evernote/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 4,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 14,
   "test_samples": [
     {
+      "id": "node_6",
+      "name": "Evernote logo",
+      "role": "link",
+      "bbox": [
+        150,
+        22,
+        294,
+        57
+      ],
+      "point": [
+        222.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_10",
+      "name": "AI Features",
+      "role": "link",
+      "bbox": [
+        320,
+        30,
+        401,
+        49
+      ],
+      "point": [
+        360.5,
+        39.5
+      ]
+    },
+    {
+      "id": "node_13",
+      "name": "Explore",
+      "role": "button",
+      "bbox": [
+        426,
+        28,
+        500,
+        52
+      ],
+      "point": [
+        463.0,
+        40.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Plans",
+      "role": "link",
+      "bbox": [
+        524,
+        30,
+        561,
+        49
+      ],
+      "point": [
+        542.5,
+        39.5
+      ]
+    },
+    {
+      "id": "node_22",
+      "name": "Enterprise",
+      "role": "link",
+      "bbox": [
+        590,
+        30,
+        664,
+        49
+      ],
+      "point": [
+        627.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_27",
+      "name": "Log in",
+      "role": "link",
+      "bbox": [
+        752,
+        30,
+        796,
+        49
+      ],
+      "point": [
+        774.0,
+        39.5
+      ]
+    },
+    {
+      "id": "node_30",
+      "name": "Download",
+      "role": "link",
+      "bbox": [
+        853,
+        28,
+        926,
+        52
+      ],
+      "point": [
+        889.5,
+        40.0
+      ]
+    },
+    {
+      "id": "node_33",
+      "name": "Start for free",
+      "role": "button",
+      "bbox": [
+        987,
+        27,
+        1081,
+        53
+      ],
+      "point": [
+        1034.0,
+        40.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "Get Evernote free",
+      "role": "button",
+      "bbox": [
+        545,
+        373,
+        715,
+        400
+      ],
+      "point": [
+        630.0,
+        386.5
+      ]
+    },
+    {
+      "id": "node_52",
+      "name": "Log in",
+      "role": "link",
+      "bbox": [
+        713,
+        451,
+        763,
+        473
+      ],
+      "point": [
+        738.0,
+        462.0
+      ]
+    },
+    {
       "id": "node_657",
-      "category": "button",
       "name": "Continue without accepting",
+      "role": "button",
       "bbox": [
         803,
         148,
@@ -21,8 +173,8 @@
     },
     {
       "id": "node_678",
-      "category": "link",
       "name": "Cookie Notice",
+      "role": "link",
       "bbox": [
         699,
         337,
@@ -36,8 +188,8 @@
     },
     {
       "id": "node_684",
-      "category": "button",
       "name": "Customize preferences",
+      "role": "button",
       "bbox": [
         340,
         401,
@@ -51,8 +203,8 @@
     },
     {
       "id": "node_687",
-      "category": "button",
       "name": "Accept all cookies",
+      "role": "button",
       "bbox": [
         659,
         400,

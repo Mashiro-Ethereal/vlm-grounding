@@ -1,0 +1,854 @@
+{
+  "timestamp": "2026-02-07T05:40:48.327624Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Ecosia - the search engine that plants trees",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3588
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 3588
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 20,
+                      "y": 425,
+                      "width": 1221,
+                      "height": 137
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "Cookies help us improve your search experience",
+                        "bounds": {
+                          "x": 86,
+                          "y": 425,
+                          "width": 588,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "Cookies help us improve your search experience",
+                            "bounds": {
+                              "x": 86,
+                              "y": 427,
+                              "width": 378,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 86,
+                          "y": 465,
+                          "width": 588,
+                          "height": 97
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "label",
+                            "name": "Essential cookies help make sure Ecosia works and is easy to use. Non-essential cookies, including third-party cookies from our search partners, allow us to show you personalized results and improve our features.",
+                            "bounds": {
+                              "x": 86,
+                              "y": 466,
+                              "width": 563,
+                              "height": 56
+                            }
+                          },
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "Learn more about ",
+                            "bounds": {
+                              "x": 86,
+                              "y": 544,
+                              "width": 120,
+                              "height": 17
+                            }
+                          },
+                          {
+                            "id": "node_10",
+                            "role": "link",
+                            "name": "Ecosia's use of cookies",
+                            "bounds": {
+                              "x": 206,
+                              "y": 544,
+                              "width": 153,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "label",
+                                "name": "Ecosia's use of cookies",
+                                "bounds": {
+                                  "x": 206,
+                                  "y": 544,
+                                  "width": 153,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": " and our ",
+                            "bounds": {
+                              "x": 360,
+                              "y": 544,
+                              "width": 58,
+                              "height": 17
+                            }
+                          },
+                          {
+                            "id": "node_13",
+                            "role": "link",
+                            "name": "terms of service",
+                            "bounds": {
+                              "x": 418,
+                              "y": 544,
+                              "width": 107,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_14",
+                                "role": "label",
+                                "name": "terms of service",
+                                "bounds": {
+                                  "x": 418,
+                                  "y": 544,
+                                  "width": 107,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": ".",
+                            "bounds": {
+                              "x": 525,
+                              "y": 544,
+                              "width": 3,
+                              "height": 17
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_16",
+                        "role": "button",
+                        "name": "Manage cookies",
+                        "bounds": {
+                          "x": 1066,
+                          "y": 427,
+                          "width": 158,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_17",
+                            "role": "label",
+                            "name": "Manage cookies",
+                            "bounds": {
+                              "x": 1082,
+                              "y": 435,
+                              "width": 126,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_18",
+                        "role": "button",
+                        "name": "Reject non-essential",
+                        "bounds": {
+                          "x": 1066,
+                          "y": 475,
+                          "width": 158,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_19",
+                            "role": "label",
+                            "name": "Reject non-essential",
+                            "bounds": {
+                              "x": 1066,
+                              "y": 483,
+                              "width": 158,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_20",
+                        "role": "button",
+                        "name": "Accept all",
+                        "bounds": {
+                          "x": 1066,
+                          "y": 523,
+                          "width": 158,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_21",
+                            "role": "label",
+                            "name": "Accept all",
+                            "bounds": {
+                              "x": 1107,
+                              "y": 531,
+                              "width": 76,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_22",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 72
+                    },
+                    "children": [
+                      {
+                        "id": "node_23",
+                        "role": "panel",
+                        "name": "Main header",
+                        "bounds": {
+                          "x": 24,
+                          "y": 0,
+                          "width": 1213,
+                          "height": 72
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 24,
+                              "y": 16,
+                              "width": 1213,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 24,
+                                  "y": 26,
+                                  "width": 70,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 24,
+                                      "y": 26,
+                                      "width": 70,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_27",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 603,
+                                  "y": 16,
+                                  "width": 252,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "link",
+                                    "name": "Download Ecosia Browser",
+                                    "bounds": {
+                                      "x": 619,
+                                      "y": 17,
+                                      "width": 220,
+                                      "height": 38
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_29",
+                                        "role": "label",
+                                        "name": "Download Ecosia Browser",
+                                        "bounds": {
+                                          "x": 639,
+                                          "y": 25,
+                                          "width": 200,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_30",
+                                "role": "link",
+                                "name": "Sign up",
+                                "bounds": {
+                                  "x": 879,
+                                  "y": 17,
+                                  "width": 58,
+                                  "height": 38
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_31",
+                                    "role": "label",
+                                    "name": "Sign up",
+                                    "bounds": {
+                                      "x": 879,
+                                      "y": 25,
+                                      "width": 59,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_32",
+                                "role": "link",
+                                "name": "ai-search-button",
+                                "bounds": {
+                                  "x": 977,
+                                  "y": 17,
+                                  "width": 94,
+                                  "height": 38
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_33",
+                                    "role": "label",
+                                    "name": "AI Search",
+                                    "bounds": {
+                                      "x": 997,
+                                      "y": 25,
+                                      "width": 74,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_34",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1095,
+                                  "y": 16,
+                                  "width": 40,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_35",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1095,
+                                      "y": 16,
+                                      "width": 40,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_36",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1095,
+                                          "y": 16,
+                                          "width": 40,
+                                          "height": 40
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_37",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 1095,
+                                              "y": 16,
+                                              "width": 40,
+                                              "height": 40
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_38",
+                                                "role": "button",
+                                                "name": "News",
+                                                "bounds": {
+                                                  "x": 1111,
+                                                  "y": 17,
+                                                  "width": 8,
+                                                  "height": 38
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_39",
+                                "role": "panel",
+                                "name": "Navigation menu",
+                                "bounds": {
+                                  "x": 1143,
+                                  "y": 16,
+                                  "width": 93,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_40",
+                                    "role": "label",
+                                    "name": "Navigation menu",
+                                    "bounds": {
+                                      "x": 1143,
+                                      "y": 35,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_41",
+                                        "role": "label",
+                                        "name": "Navigation menu",
+                                        "bounds": {
+                                          "x": 1143,
+                                          "y": 37,
+                                          "width": 197,
+                                          "height": 29
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_42",
+                                    "role": "button",
+                                    "name": "Show navigation menu",
+                                    "bounds": {
+                                      "x": 1148,
+                                      "y": 21,
+                                      "width": 83,
+                                      "height": 30
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_43",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1152,
+                                          "y": 24,
+                                          "width": 24,
+                                          "height": 24
+                                        }
+                                      },
+                                      {
+                                        "id": "node_44",
+                                        "role": "label",
+                                        "name": "+1",
+                                        "bounds": {
+                                          "x": 1168,
+                                          "y": 14,
+                                          "width": 11,
+                                          "height": 12
+                                        }
+                                      },
+                                      {
+                                        "id": "node_45",
+                                        "role": "panel",
+                                        "name": "1 seed",
+                                        "bounds": {
+                                          "x": 1180,
+                                          "y": 16,
+                                          "width": 11,
+                                          "height": 40
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_46",
+                                            "role": "label",
+                                            "name": "1",
+                                            "bounds": {
+                                              "x": 1182,
+                                              "y": 25,
+                                              "width": 7,
+                                              "height": 20
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_47",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 8,
+                      "y": 8,
+                      "width": 1245,
+                      "height": 551
+                    },
+                    "children": [
+                      {
+                        "id": "node_48",
+                        "role": "label",
+                        "name": "Search. Find. Change the World.",
+                        "bounds": {
+                          "x": 328,
+                          "y": 52,
+                          "width": 603,
+                          "height": 59
+                        },
+                        "children": [
+                          {
+                            "id": "node_49",
+                            "role": "label",
+                            "name": "Search. Find. Change the World.",
+                            "bounds": {
+                              "x": 328,
+                              "y": 50,
+                              "width": 603,
+                              "height": 63
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_50",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 246,
+                          "y": 180,
+                          "width": 768,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_51",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 246,
+                              "y": 180,
+                              "width": 768,
+                              "height": 56
+                            },
+                            "children": [
+                              {
+                                "id": "node_52",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 247,
+                                  "y": 181,
+                                  "width": 766,
+                                  "height": 54
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_53",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 247,
+                                      "y": 181,
+                                      "width": 40,
+                                      "height": 54
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_54",
+                                        "role": "button",
+                                        "name": "Search",
+                                        "bounds": {
+                                          "x": 266,
+                                          "y": 193,
+                                          "width": 10,
+                                          "height": 32
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_55",
+                                    "role": "combobox",
+                                    "name": "Search the web...",
+                                    "bounds": {
+                                      "x": 295,
+                                      "y": 197,
+                                      "width": 541,
+                                      "height": 22
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_56",
+                                    "role": "button",
+                                    "name": "AI Search",
+                                    "bounds": {
+                                      "x": 904,
+                                      "y": 194,
+                                      "width": 84,
+                                      "height": 30
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_57",
+                                        "role": "label",
+                                        "name": "AI Search",
+                                        "bounds": {
+                                          "x": 924,
+                                          "y": 200,
+                                          "width": 64,
+                                          "height": 17
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_58",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 357,
+                          "y": 369,
+                          "width": 546,
+                          "height": 80
+                        },
+                        "children": [
+                          {
+                            "id": "node_59",
+                            "role": "link",
+                            "name": "247,071,201 trees planted by Ecosia",
+                            "bounds": {
+                              "x": 357,
+                              "y": 369,
+                              "width": 272,
+                              "height": 80
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "247,071,201",
+                                "bounds": {
+                                  "x": 421,
+                                  "y": 387,
+                                  "width": 117,
+                                  "height": 24
+                                }
+                              },
+                              {
+                                "id": "node_61",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 421,
+                                  "y": 413,
+                                  "width": 192,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_62",
+                                    "role": "label",
+                                    "name": "trees planted by Ecosia",
+                                    "bounds": {
+                                      "x": 421,
+                                      "y": 414,
+                                      "width": 154,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_63",
+                            "role": "link",
+                            "name": "\u20ac99,191,071 dedicated to climate action",
+                            "bounds": {
+                              "x": 631,
+                              "y": 369,
+                              "width": 272,
+                              "height": 80
+                            },
+                            "children": [
+                              {
+                                "id": "node_64",
+                                "role": "label",
+                                "name": "\u20ac99,191,071",
+                                "bounds": {
+                                  "x": 695,
+                                  "y": 387,
+                                  "width": 116,
+                                  "height": 24
+                                }
+                              },
+                              {
+                                "id": "node_65",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 695,
+                                  "y": 413,
+                                  "width": 192,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_66",
+                                    "role": "label",
+                                    "name": "dedicated to climate action",
+                                    "bounds": {
+                                      "x": 695,
+                                      "y": 414,
+                                      "width": 179,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 606,
+                          "y": 535,
+                          "width": 48,
+                          "height": 48
+                        },
+                        "children": [
+                          {
+                            "id": "node_68",
+                            "role": "button",
+                            "name": "scroll down",
+                            "bounds": {
+                              "x": 626,
+                              "y": 536,
+                              "width": 8,
+                              "height": 46
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

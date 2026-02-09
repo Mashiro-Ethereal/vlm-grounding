@@ -1,0 +1,7 @@
+{
+  "task_id": "docker_hub",
+  "instruction": "Visit Docker Hub",
+  "application": "chromium",
+  "difficulty": "easy",
+  "expected_steps": 1
+}

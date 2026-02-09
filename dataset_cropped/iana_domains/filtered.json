@@ -1,13 +1,90 @@
 {
   "image_filename": "dataset_cropped/iana_domains/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 12,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 17,
   "test_samples": [
     {
+      "id": "node_6",
+      "name": "Homepage",
+      "role": "link",
+      "bbox": [
+        80,
+        80,
+        314,
+        102
+      ],
+      "point": [
+        197.0,
+        91.0
+      ]
+    },
+    {
+      "id": "node_10",
+      "name": "Domains",
+      "role": "link",
+      "bbox": [
+        873,
+        41,
+        939,
+        63
+      ],
+      "point": [
+        906.0,
+        52.0
+      ]
+    },
+    {
+      "id": "node_14",
+      "name": "Protocols",
+      "role": "link",
+      "bbox": [
+        956,
+        41,
+        1026,
+        63
+      ],
+      "point": [
+        991.0,
+        52.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Numbers",
+      "role": "link",
+      "bbox": [
+        1042,
+        41,
+        1112,
+        63
+      ],
+      "point": [
+        1077.0,
+        52.0
+      ]
+    },
+    {
+      "id": "node_22",
+      "name": "About",
+      "role": "link",
+      "bbox": [
+        1129,
+        41,
+        1174,
+        63
+      ],
+      "point": [
+        1151.5,
+        52.0
+      ]
+    },
+    {
       "id": "node_40",
-      "category": "link",
       "name": "RFC 2606",
+      "role": "link",
       "bbox": [
         448,
         334,
@@ -21,8 +98,8 @@
     },
     {
       "id": "node_45",
-      "category": "link",
       "name": "RFC 6761",
+      "role": "link",
       "bbox": [
         554,
         334,
@@ -36,8 +113,8 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "IDN Evaluation",
+      "role": "link",
       "bbox": [
         779,
         476,
@@ -51,8 +128,8 @@
     },
     {
       "id": "node_71",
-      "category": "link",
       "name": "ICANN",
+      "role": "link",
       "bbox": [
         1047,
         476,
@@ -66,23 +143,23 @@
     },
     {
       "id": "node_96",
-      "category": "link",
       "name": "XN--KGBECHTV",
+      "role": "link",
       "bbox": [
         461,
-        552,
+        549,
         576,
         569
       ],
       "point": [
         518.5,
-        560.5
+        559.0
       ]
     },
     {
       "id": "node_291",
-      "category": "link",
       "name": "Overview",
+      "role": "link",
       "bbox": [
         91,
         270,
@@ -96,8 +173,8 @@
     },
     {
       "id": "node_295",
-      "category": "link",
       "name": "Root Zone Management",
+      "role": "link",
       "bbox": [
         91,
         292,
@@ -111,8 +188,8 @@
     },
     {
       "id": "node_299",
-      "category": "link",
       "name": ".INT Registry",
+      "role": "link",
       "bbox": [
         91,
         314,
@@ -126,8 +203,8 @@
     },
     {
       "id": "node_303",
-      "category": "link",
       "name": ".ARPA Registry",
+      "role": "link",
       "bbox": [
         91,
         336,
@@ -141,8 +218,8 @@
     },
     {
       "id": "node_307",
-      "category": "link",
       "name": "IDN Practices Repository",
+      "role": "link",
       "bbox": [
         91,
         358,
@@ -156,8 +233,8 @@
     },
     {
       "id": "node_311",
-      "category": "link",
       "name": "Root Key Signing Key (DNSSEC)",
+      "role": "link",
       "bbox": [
         91,
         380,
@@ -171,8 +248,8 @@
     },
     {
       "id": "node_315",
-      "category": "link",
       "name": "Reserved Domains",
+      "role": "link",
       "bbox": [
         91,
         402,

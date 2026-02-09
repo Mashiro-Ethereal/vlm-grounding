@@ -1,13 +1,15 @@
 {
   "image_filename": "dataset_cropped/wiktionary/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 11,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 14,
   "test_samples": [
     {
       "id": "node_13",
-      "category": "link",
       "name": "English 8,694,000+ entries",
+      "role": "link",
       "bbox": [
         419,
         135,
@@ -21,8 +23,8 @@
     },
     {
       "id": "node_23",
-      "category": "link",
-      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 1\u00a0462\u00a0000+ \u0441\u0442\u0430\u0442\u0435\u0439",
+      "name": "Русский 1 462 000+ статей",
+      "role": "link",
       "bbox": [
         685,
         135,
@@ -36,8 +38,8 @@
     },
     {
       "id": "node_33",
-      "category": "link",
-      "name": "Fran\u00e7ais 6\u202f846\u202f000+ entr\u00e9es",
+      "name": "Français 6 846 000+ entrées",
+      "role": "link",
       "bbox": [
         365,
         200,
@@ -51,8 +53,8 @@
     },
     {
       "id": "node_43",
-      "category": "link",
-      "name": "\u4e2d\u6587 2,271,000+ \u8bcd\u6761 / \u8a5e\u689d",
+      "name": "中文 2,271,000+ 词条 / 詞條",
+      "role": "link",
       "bbox": [
         739,
         200,
@@ -66,38 +68,38 @@
     },
     {
       "id": "node_53",
-      "category": "link",
-      "name": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac 1.572.000+ \u03bb\u03ae\u03bc\u03bc\u03b1\u03c4\u03b1",
+      "name": "Ελληνικά 1.572.000+ λήμματα",
+      "role": "link",
       "bbox": [
-        357,
+        354,
         265,
         510,
         310
       ],
       "point": [
-        433.5,
+        432.0,
         287.5
       ]
     },
     {
       "id": "node_63",
-      "category": "link",
-      "name": "Deutsch 1.227.000+ Eintr\u00e4ge",
+      "name": "Deutsch 1.227.000+ Einträge",
+      "role": "link",
       "bbox": [
         750,
         265,
-        903,
+        906,
         310
       ],
       "point": [
-        826.5,
+        828.0,
         287.5
       ]
     },
     {
       "id": "node_73",
-      "category": "link",
-      "name": "Polski 828\u00a0000+ hase\u0142",
+      "name": "Polski 828 000+ haseł",
+      "role": "link",
       "bbox": [
         365,
         330,
@@ -111,8 +113,8 @@
     },
     {
       "id": "node_83",
-      "category": "link",
-      "name": "Espa\u00f1ol 944.000+ entradas",
+      "name": "Español 944.000+ entradas",
+      "role": "link",
       "bbox": [
         739,
         330,
@@ -126,8 +128,8 @@
     },
     {
       "id": "node_93",
-      "category": "link",
       "name": "Nederlands 1.007.000+ pagina's",
+      "role": "link",
       "bbox": [
         419,
         395,
@@ -141,8 +143,8 @@
     },
     {
       "id": "node_103",
-      "category": "link",
-      "name": "\u65e5\u672c\u8a9e 467,000+ \u9805\u76ee",
+      "name": "日本語 467,000+ 項目",
+      "role": "link",
       "bbox": [
         685,
         395,
@@ -155,18 +157,63 @@
       ]
     },
     {
+      "id": "node_120",
+      "name": "Search Wiktionary",
+      "role": "textfield",
+      "bbox": [
+        418,
+        478,
+        735,
+        504
+      ],
+      "point": [
+        576.5,
+        491.0
+      ]
+    },
+    {
+      "id": "node_127",
+      "name": "EN",
+      "role": "combobox",
+      "bbox": [
+        761,
+        479,
+        823,
+        503
+      ],
+      "point": [
+        792.0,
+        491.0
+      ]
+    },
+    {
+      "id": "node_178",
+      "name": "Search",
+      "role": "button",
+      "bbox": [
+        816,
+        478,
+        838,
+        504
+      ],
+      "point": [
+        827.0,
+        491.0
+      ]
+    },
+    {
       "id": "node_184",
-      "category": "button",
       "name": "Read Wiktionary in your language",
+      "role": "button",
       "bbox": [
         466,
         552,
         793,
-        566
+        574
       ],
       "point": [
         629.5,
-        559.0
+        563.0
       ]
     }
   ]

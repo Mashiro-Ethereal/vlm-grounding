@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-02-07T05:40:59.557132Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Wikimedia",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "label",
+            "name": "Welcome! The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely.",
+            "bounds": {
+              "x": 132,
+              "y": 132,
+              "width": 572,
+              "height": 136
+            }
+          },
+          {
+            "id": "node_3",
+            "role": "label",
+            "name": "Join us in making all knowledge available to everyone, everywhere.",
+            "bounds": {
+              "x": 130,
+              "y": 300,
+              "width": 529,
+              "height": 64
+            }
+          },
+          {
+            "id": "node_4",
+            "role": "image",
+            "name": "",
+            "bounds": {
+              "x": 848,
+              "y": 128,
+              "width": 280,
+              "height": 250
+            }
+          },
+          {
+            "id": "node_5",
+            "role": "label",
+            "name": "\u2022",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_6",
+            "role": "label",
+            "name": "\u2022",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

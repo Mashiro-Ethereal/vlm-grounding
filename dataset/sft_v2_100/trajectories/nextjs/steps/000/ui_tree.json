@@ -1,0 +1,685 @@
+{
+  "timestamp": "2026-02-07T05:41:43.799238Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Next.js by Vercel - The React Framework",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3444
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 24,
+                  "y": 16,
+                  "width": 1213,
+                  "height": 32
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Skip to content",
+                    "bounds": {
+                      "x": 95,
+                      "y": 115,
+                      "width": 111,
+                      "height": 21
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 24,
+                      "y": 16,
+                      "width": 1213,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "link",
+                        "name": "Go to Vercel homepage",
+                        "bounds": {
+                          "x": 24,
+                          "y": 21,
+                          "width": 25,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "image",
+                            "name": "Vercel logomark",
+                            "bounds": {
+                              "x": 24,
+                              "y": 21,
+                              "width": 25,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_8",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": 53,
+                          "y": 16,
+                          "width": 32,
+                          "height": 32
+                        }
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "link",
+                        "name": "Go to the homepage",
+                        "bounds": {
+                          "x": 89,
+                          "y": 23,
+                          "width": 89,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "image",
+                            "name": "Next.js logotype",
+                            "bounds": {
+                              "x": 89,
+                              "y": 23,
+                              "width": 89,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "link",
+                        "name": "Showcase",
+                        "bounds": {
+                          "x": 223,
+                          "y": 20,
+                          "width": 65,
+                          "height": 23
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "Showcase",
+                            "bounds": {
+                              "x": 223,
+                              "y": 22,
+                              "width": 67,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_13",
+                        "role": "link",
+                        "name": "Docs",
+                        "bounds": {
+                          "x": 313,
+                          "y": 20,
+                          "width": 32,
+                          "height": 23
+                        },
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "label",
+                            "name": "Docs",
+                            "bounds": {
+                              "x": 313,
+                              "y": 22,
+                              "width": 32,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_15",
+                        "role": "link",
+                        "name": "Blog",
+                        "bounds": {
+                          "x": 369,
+                          "y": 20,
+                          "width": 29,
+                          "height": 23
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "label",
+                            "name": "Blog",
+                            "bounds": {
+                              "x": 369,
+                              "y": 22,
+                              "width": 29,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "link",
+                        "name": "Templates",
+                        "bounds": {
+                          "x": 423,
+                          "y": 20,
+                          "width": 65,
+                          "height": 23
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "Templates",
+                            "bounds": {
+                              "x": 423,
+                              "y": 22,
+                              "width": 65,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_19",
+                        "role": "link",
+                        "name": "Enterprise",
+                        "bounds": {
+                          "x": 512,
+                          "y": 20,
+                          "width": 65,
+                          "height": 23
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "label",
+                            "name": "Enterprise",
+                            "bounds": {
+                              "x": 512,
+                              "y": 22,
+                              "width": 66,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_21",
+                        "role": "button",
+                        "name": "Search documentation... CtrlK",
+                        "bounds": {
+                          "x": 811,
+                          "y": 16,
+                          "width": 237,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "label",
+                            "name": "Search documentation...",
+                            "bounds": {
+                              "x": 811,
+                              "y": 23,
+                              "width": 171,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_23",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1012,
+                              "y": 22,
+                              "width": 29,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "Ctrl",
+                                "bounds": {
+                                  "x": 1012,
+                                  "y": 25,
+                                  "width": 21,
+                                  "height": 14
+                                }
+                              },
+                              {
+                                "id": "node_25",
+                                "role": "label",
+                                "name": "K",
+                                "bounds": {
+                                  "x": 1034,
+                                  "y": 25,
+                                  "width": 9,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_26",
+                        "role": "link",
+                        "name": "Vercel logomark Deploy",
+                        "bounds": {
+                          "x": 1072,
+                          "y": 16,
+                          "width": 86,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_27",
+                            "role": "image",
+                            "name": "Vercel logomark",
+                            "bounds": {
+                              "x": 1077,
+                              "y": 24,
+                              "width": 16,
+                              "height": 14
+                            }
+                          },
+                          {
+                            "id": "node_28",
+                            "role": "label",
+                            "name": "Deploy",
+                            "bounds": {
+                              "x": 1103,
+                              "y": 22,
+                              "width": 47,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_29",
+                        "role": "link",
+                        "name": "Learn",
+                        "bounds": {
+                          "x": 1182,
+                          "y": 16,
+                          "width": 48,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_30",
+                            "role": "label",
+                            "name": "Learn",
+                            "bounds": {
+                              "x": 1188,
+                              "y": 22,
+                              "width": 36,
+                              "height": 18
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_31",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 144,
+                  "width": 1261,
+                  "height": 2768
+                },
+                "children": [
+                  {
+                    "id": "node_32",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 56,
+                      "y": 144,
+                      "width": 1149,
+                      "height": 640
+                    },
+                    "children": [
+                      {
+                        "id": "node_33",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 137,
+                          "y": 208,
+                          "width": 986,
+                          "height": 431
+                        },
+                        "children": [
+                          {
+                            "id": "node_34",
+                            "role": "label",
+                            "name": "The React Framework for the Web",
+                            "bounds": {
+                              "x": 161,
+                              "y": 232,
+                              "width": 938,
+                              "height": 63
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "label",
+                                "name": "The React Framework ",
+                                "bounds": {
+                                  "x": 161,
+                                  "y": 222,
+                                  "width": 615,
+                                  "height": 83
+                                }
+                              },
+                              {
+                                "id": "node_36",
+                                "role": "label",
+                                "name": "for the Web",
+                                "bounds": {
+                                  "x": 776,
+                                  "y": 222,
+                                  "width": 325,
+                                  "height": 83
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 170,
+                              "y": 359,
+                              "width": 920,
+                              "height": 72
+                            },
+                            "children": [
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 255,
+                                  "y": 359,
+                                  "width": 750,
+                                  "height": 72
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_39",
+                                    "role": "label",
+                                    "name": "Used by some of the world's largest companies, Next.js enables you to create",
+                                    "bounds": {
+                                      "x": 259,
+                                      "y": 364,
+                                      "width": 690,
+                                      "height": 26
+                                    }
+                                  },
+                                  {
+                                    "id": "node_40",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 349,
+                                      "y": 364,
+                                      "width": 652,
+                                      "height": 62
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_41",
+                                        "role": "label",
+                                        "name": "high-quality web applications",
+                                        "bounds": {
+                                          "x": 349,
+                                          "y": 364,
+                                          "width": 652,
+                                          "height": 62
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_42",
+                                    "role": "label",
+                                    "name": " with the power of React components.",
+                                    "bounds": {
+                                      "x": 572,
+                                      "y": 400,
+                                      "width": 340,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_43",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 137,
+                              "y": 471,
+                              "width": 986,
+                              "height": 168
+                            },
+                            "children": [
+                              {
+                                "id": "node_44",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 489,
+                                  "y": 511,
+                                  "width": 281,
+                                  "height": 88
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_45",
+                                    "role": "link",
+                                    "name": "Get Started",
+                                    "bounds": {
+                                      "x": 503,
+                                      "y": 511,
+                                      "width": 98,
+                                      "height": 48
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_46",
+                                        "role": "label",
+                                        "name": "Get Started",
+                                        "bounds": {
+                                          "x": 509,
+                                          "y": 524,
+                                          "width": 86,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_47",
+                                    "role": "link",
+                                    "name": "Learn Next.js",
+                                    "bounds": {
+                                      "x": 646,
+                                      "y": 511,
+                                      "width": 110,
+                                      "height": 48
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_48",
+                                        "role": "label",
+                                        "name": "Learn Next.js",
+                                        "bounds": {
+                                          "x": 652,
+                                          "y": 524,
+                                          "width": 98,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_49",
+                                    "role": "button",
+                                    "name": "Copy npx command for creating a new Next.js app",
+                                    "bounds": {
+                                      "x": 513,
+                                      "y": 575,
+                                      "width": 234,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_50",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 513,
+                                          "y": 575,
+                                          "width": 234,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_51",
+                                            "role": "label",
+                                            "name": "\u25b2 ~ ",
+                                            "bounds": {
+                                              "x": 513,
+                                              "y": 578,
+                                              "width": 31,
+                                              "height": 17
+                                            }
+                                          },
+                                          {
+                                            "id": "node_52",
+                                            "role": "label",
+                                            "name": "npx create-next-app@latest",
+                                            "bounds": {
+                                              "x": 544,
+                                              "y": 578,
+                                              "width": 202,
+                                              "height": 17
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_53",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_54",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": -7,
+                      "y": 0,
+                      "width": 14,
+                      "height": 7
+                    },
+                    "children": [
+                      {
+                        "id": "node_55",
+                        "role": "image",
+                        "name": "",
+                        "bounds": {
+                          "x": -7,
+                          "y": 0,
+                          "width": 14,
+                          "height": 7
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

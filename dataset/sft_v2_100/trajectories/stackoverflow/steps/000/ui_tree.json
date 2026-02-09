@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-02-07T05:41:19.873765Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Just a moment...",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 621
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "stackoverflow.com",
+                "bounds": {
+                  "x": 174,
+                  "y": 128,
+                  "width": 912,
+                  "height": 60
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "stackoverflow.com",
+                    "bounds": {
+                      "x": 174,
+                      "y": 135,
+                      "width": 370,
+                      "height": 46
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_5",
+                "role": "label",
+                "name": "",
+                "bounds": {
+                  "x": 174,
+                  "y": 188,
+                  "width": 912,
+                  "height": 36
+                }
+              },
+              {
+                "id": "node_6",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 174,
+                  "y": 256,
+                  "width": 912,
+                  "height": 69
+                },
+                "children": [
+                  {
+                    "id": "node_7",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 174,
+                      "y": 256,
+                      "width": 912,
+                      "height": 69
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "panel",
+                        "name": "Widget containing a Cloudflare security challenge",
+                        "bounds": {
+                          "x": 174,
+                          "y": 256,
+                          "width": 300,
+                          "height": 65
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_9",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 174,
+                  "y": 389,
+                  "width": 912,
+                  "height": 72
+                },
+                "children": [
+                  {
+                    "id": "node_10",
+                    "role": "label",
+                    "name": "stackoverflow.com needs to review the security of your connection before proceeding.",
+                    "bounds": {
+                      "x": 174,
+                      "y": 393,
+                      "width": 888,
+                      "height": 64
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

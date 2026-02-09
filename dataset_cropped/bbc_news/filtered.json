@@ -1,13 +1,60 @@
 {
   "image_filename": "dataset_cropped/bbc_news/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 16,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 21,
   "test_samples": [
     {
+      "id": "node_14",
+      "name": "Open menu",
+      "role": "button",
+      "bbox": [
+        16,
+        302,
+        66,
+        332
+      ],
+      "point": [
+        41.0,
+        317.0
+      ]
+    },
+    {
+      "id": "node_18",
+      "name": "Watch Live",
+      "role": "link",
+      "bbox": [
+        86,
+        311,
+        181,
+        327
+      ],
+      "point": [
+        133.5,
+        319.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "name": "British Broadcasting Corporation",
+      "role": "link",
+      "bbox": [
+        560,
+        297,
+        700,
+        337
+      ],
+      "point": [
+        630.0,
+        317.0
+      ]
+    },
+    {
       "id": "node_28",
-      "category": "button",
       "name": "Unlimited access",
+      "role": "button",
       "bbox": [
         1005,
         308,
@@ -20,9 +67,24 @@
       ]
     },
     {
-      "id": "node_32",
-      "category": "link",
+      "id": "node_33",
       "name": "Sign In",
+      "role": "button",
+      "bbox": [
+        1179,
+        308,
+        1230,
+        326
+      ],
+      "point": [
+        1204.5,
+        317.0
+      ]
+    },
+    {
+      "id": "node_32",
+      "name": "Sign In",
+      "role": "link",
       "bbox": [
         1165,
         300,
@@ -36,8 +98,8 @@
     },
     {
       "id": "node_42",
-      "category": "link",
       "name": "Home",
+      "role": "link",
       "bbox": [
         203,
         370,
@@ -51,8 +113,8 @@
     },
     {
       "id": "node_46",
-      "category": "link",
       "name": "News",
+      "role": "link",
       "bbox": [
         258,
         370,
@@ -66,8 +128,8 @@
     },
     {
       "id": "node_50",
-      "category": "link",
       "name": "Sport",
+      "role": "link",
       "bbox": [
         310,
         370,
@@ -81,8 +143,8 @@
     },
     {
       "id": "node_54",
-      "category": "link",
       "name": "Business",
+      "role": "link",
       "bbox": [
         363,
         370,
@@ -96,8 +158,8 @@
     },
     {
       "id": "node_58",
-      "category": "link",
       "name": "Technology",
+      "role": "link",
       "bbox": [
         436,
         370,
@@ -111,8 +173,8 @@
     },
     {
       "id": "node_62",
-      "category": "link",
       "name": "Health",
+      "role": "link",
       "bbox": [
         528,
         370,
@@ -126,8 +188,8 @@
     },
     {
       "id": "node_66",
-      "category": "link",
       "name": "Culture",
+      "role": "link",
       "bbox": [
         588,
         370,
@@ -141,8 +203,8 @@
     },
     {
       "id": "node_70",
-      "category": "link",
       "name": "Arts",
+      "role": "link",
       "bbox": [
         653,
         370,
@@ -156,8 +218,8 @@
     },
     {
       "id": "node_74",
-      "category": "link",
       "name": "Travel",
+      "role": "link",
       "bbox": [
         698,
         370,
@@ -171,8 +233,8 @@
     },
     {
       "id": "node_78",
-      "category": "link",
       "name": "Earth",
+      "role": "link",
       "bbox": [
         754,
         370,
@@ -186,8 +248,8 @@
     },
     {
       "id": "node_82",
-      "category": "link",
       "name": "Audio",
+      "role": "link",
       "bbox": [
         806,
         370,
@@ -201,8 +263,8 @@
     },
     {
       "id": "node_86",
-      "category": "link",
       "name": "Video",
+      "role": "link",
       "bbox": [
         861,
         370,
@@ -216,8 +278,8 @@
     },
     {
       "id": "node_90",
-      "category": "link",
       "name": "Live",
+      "role": "link",
       "bbox": [
         915,
         370,
@@ -231,8 +293,8 @@
     },
     {
       "id": "node_94",
-      "category": "link",
       "name": "Documentaries",
+      "role": "link",
       "bbox": [
         958,
         370,
@@ -242,6 +304,21 @@
       "point": [
         1007.5,
         379.0
+      ]
+    },
+    {
+      "id": "node_207",
+      "name": "Gaza's key Rafah border crossing with Egypt reopens Only dozens of Palestinians and no goods will be able to cross in both directions each day. 22 mins ago Middle East",
+      "role": "link",
+      "bbox": [
+        949,
+        424,
+        1244,
+        570
+      ],
+      "point": [
+        1096.5,
+        497.0
       ]
     }
   ]

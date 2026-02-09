@@ -1,13 +1,105 @@
 {
   "image_filename": "dataset_cropped/freecodecamp/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 1,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 7,
   "test_samples": [
     {
+      "id": "node_17",
+      "name": "Search",
+      "role": "textfield",
+      "bbox": [
+        50,
+        5,
+        466,
+        33
+      ],
+      "point": [
+        258.0,
+        19.0
+      ]
+    },
+    {
+      "id": "node_19",
+      "name": "Submit search terms",
+      "role": "button",
+      "bbox": [
+        15,
+        5,
+        41,
+        33
+      ],
+      "point": [
+        28.0,
+        19.0
+      ]
+    },
+    {
+      "id": "node_23",
+      "name": "freeCodeCamp Curriculum",
+      "role": "link",
+      "bbox": [
+        525,
+        7,
+        735,
+        31
+      ],
+      "point": [
+        630.0,
+        19.0
+      ]
+    },
+    {
+      "id": "node_25",
+      "name": "Change Language",
+      "role": "button",
+      "bbox": [
+        1043,
+        6,
+        1067,
+        32
+      ],
+      "point": [
+        1055.0,
+        19.0
+      ]
+    },
+    {
+      "id": "node_41",
+      "name": "Menu",
+      "role": "button",
+      "bbox": [
+        1095,
+        6,
+        1141,
+        32
+      ],
+      "point": [
+        1118.0,
+        19.0
+      ]
+    },
+    {
+      "id": "node_46",
+      "name": "Sign in",
+      "role": "link",
+      "bbox": [
+        1179,
+        8,
+        1230,
+        30
+      ],
+      "point": [
+        1204.5,
+        19.0
+      ]
+    },
+    {
       "id": "node_62",
-      "category": "link",
       "name": "Get started (it's free)",
+      "role": "link",
       "bbox": [
         205,
         526,

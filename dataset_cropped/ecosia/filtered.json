@@ -1,13 +1,120 @@
 {
   "image_filename": "dataset_cropped/ecosia/screenshot_cropped.png",
-  "image_width": 1261,
-  "image_height": 583,
-  "sample_count": 7,
+  "image_size": [
+    1261,
+    583
+  ],
+  "sample_count": 15,
   "test_samples": [
     {
+      "id": "node_21",
+      "name": "Ecosia's use of cookies",
+      "role": "link",
+      "bbox": [
+        206,
+        544,
+        359,
+        561
+      ],
+      "point": [
+        282.5,
+        552.5
+      ]
+    },
+    {
+      "id": "node_26",
+      "name": "terms of service",
+      "role": "link",
+      "bbox": [
+        418,
+        544,
+        525,
+        561
+      ],
+      "point": [
+        471.5,
+        552.5
+      ]
+    },
+    {
+      "id": "node_32",
+      "name": "Manage cookies",
+      "role": "button",
+      "bbox": [
+        1066,
+        427,
+        1224,
+        465
+      ],
+      "point": [
+        1145.0,
+        446.0
+      ]
+    },
+    {
+      "id": "node_36",
+      "name": "Reject non-essential",
+      "role": "button",
+      "bbox": [
+        1066,
+        475,
+        1224,
+        513
+      ],
+      "point": [
+        1145.0,
+        494.0
+      ]
+    },
+    {
+      "id": "node_40",
+      "name": "Accept all",
+      "role": "button",
+      "bbox": [
+        1066,
+        523,
+        1224,
+        561
+      ],
+      "point": [
+        1145.0,
+        542.0
+      ]
+    },
+    {
+      "id": "node_50",
+      "name": "Download Ecosia Browser",
+      "role": "link",
+      "bbox": [
+        619,
+        17,
+        839,
+        55
+      ],
+      "point": [
+        729.0,
+        36.0
+      ]
+    },
+    {
+      "id": "node_54",
+      "name": "Sign up",
+      "role": "link",
+      "bbox": [
+        879,
+        17,
+        937,
+        55
+      ],
+      "point": [
+        908.0,
+        36.0
+      ]
+    },
+    {
       "id": "node_58",
-      "category": "link",
       "name": "ai-search-button",
+      "role": "link",
       "bbox": [
         977,
         17,
@@ -21,8 +128,8 @@
     },
     {
       "id": "node_66",
-      "category": "button",
       "name": "News",
+      "role": "button",
       "bbox": [
         1111,
         17,
@@ -36,8 +143,8 @@
     },
     {
       "id": "node_72",
-      "category": "button",
       "name": "Show navigation menu",
+      "role": "button",
       "bbox": [
         1148,
         21,
@@ -51,8 +158,8 @@
     },
     {
       "id": "node_92",
-      "category": "button",
       "name": "Search",
+      "role": "button",
       "bbox": [
         266,
         193,
@@ -65,9 +172,24 @@
       ]
     },
     {
+      "id": "node_94",
+      "name": "Search the web...",
+      "role": "combobox",
+      "bbox": [
+        295,
+        197,
+        836,
+        219
+      ],
+      "point": [
+        565.5,
+        208.0
+      ]
+    },
+    {
       "id": "node_96",
-      "category": "button",
       "name": "Clear",
+      "role": "button",
       "bbox": [
         863,
         193,
@@ -81,8 +203,8 @@
     },
     {
       "id": "node_98",
-      "category": "button",
       "name": "AI Search",
+      "role": "button",
       "bbox": [
         904,
         194,
@@ -96,17 +218,17 @@
     },
     {
       "id": "node_116",
-      "category": "button",
       "name": "scroll down",
+      "role": "button",
       "bbox": [
         626,
         536,
         634,
-        559
+        582
       ],
       "point": [
         630.0,
-        547.5
+        559.0
       ]
     }
   ]
