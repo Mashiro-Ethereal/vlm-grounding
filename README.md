@@ -35,3 +35,16 @@ Run tests:
 ```bash
 python3 -m unittest discover -s tests
 ```
+## Post-processing
+
+Extract data and crop images:
+```bash
+conda activate sft-ui
+python batch_crop_images.py
+```
+
+Filter UI tree and draw bounding boxes:
+```bash
+conda activate sft-ui
+python process_all_datasets.py
+```

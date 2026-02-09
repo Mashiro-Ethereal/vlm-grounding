@@ -1,0 +1,203 @@
+{
+  "image_filename": "datasetv2_cropped/whatismyip/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 13,
+  "test_samples": [
+    {
+      "id": "node_14",
+      "category": "textfield",
+      "name": "Search",
+      "bbox": [
+        323,
+        32,
+        698,
+        48
+      ],
+      "point": [
+        510,
+        40
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "News",
+      "bbox": [
+        742,
+        29,
+        789,
+        49
+      ],
+      "point": [
+        765,
+        39
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        825,
+        29,
+        884,
+        49
+      ],
+      "point": [
+        854,
+        39
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "API",
+      "bbox": [
+        921,
+        29,
+        948,
+        49
+      ],
+      "point": [
+        934,
+        39
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "Sign Up",
+      "bbox": [
+        984,
+        29,
+        1052,
+        49
+      ],
+      "point": [
+        1018,
+        39
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Login",
+      "bbox": [
+        1088,
+        29,
+        1135,
+        49
+      ],
+      "point": [
+        1111,
+        39
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Help",
+      "bbox": [
+        1172,
+        29,
+        1212,
+        49
+      ],
+      "point": [
+        1192,
+        39
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "What Is My IP?",
+      "bbox": [
+        36,
+        99,
+        182,
+        119
+      ],
+      "point": [
+        109,
+        109
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "IP Address Lookup",
+      "bbox": [
+        234,
+        99,
+        418,
+        119
+      ],
+      "point": [
+        326,
+        109
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "IP WHOIS Lookup",
+      "bbox": [
+        471,
+        99,
+        643,
+        119
+      ],
+      "point": [
+        557,
+        109
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "link",
+      "name": "Speed Test",
+      "bbox": [
+        695,
+        99,
+        803,
+        119
+      ],
+      "point": [
+        749,
+        109
+      ]
+    },
+    {
+      "id": "node_76",
+      "category": "link",
+      "name": "66.154.104.105",
+      "bbox": [
+        580,
+        394,
+        770,
+        430
+      ],
+      "point": [
+        675,
+        412
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "Update IP Location",
+      "bbox": [
+        521,
+        561,
+        722,
+        580
+      ],
+      "point": [
+        621,
+        570
+      ]
+    }
+  ]
+}

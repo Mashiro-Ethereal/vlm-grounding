@@ -1,0 +1,608 @@
+{
+  "image_filename": "datasetv2_cropped/maven/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 40,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "textfield",
+      "name": "Type / to search",
+      "bbox": [
+        281,
+        18,
+        829,
+        42
+      ],
+      "point": [
+        555,
+        30
+      ]
+    },
+    {
+      "id": "node_9",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        862,
+        17,
+        910,
+        43
+      ],
+      "point": [
+        886,
+        30
+      ]
+    },
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "Categories",
+      "bbox": [
+        960,
+        22,
+        1045,
+        39
+      ],
+      "point": [
+        1002,
+        30
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Popular",
+      "bbox": [
+        1089,
+        22,
+        1150,
+        39
+      ],
+      "point": [
+        1119,
+        30
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "About",
+      "bbox": [
+        1194,
+        22,
+        1241,
+        39
+      ],
+      "point": [
+        1217,
+        30
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Indexed Artifacts (64.9M)",
+      "bbox": [
+        28,
+        69,
+        230,
+        85
+      ],
+      "point": [
+        129,
+        77
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Categories (277)",
+      "bbox": [
+        64,
+        266,
+        195,
+        282
+      ],
+      "point": [
+        129,
+        274
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Maven Plugins",
+      "bbox": [
+        33,
+        307,
+        134,
+        323
+      ],
+      "point": [
+        83,
+        315
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Testing",
+      "bbox": [
+        33,
+        337,
+        82,
+        353
+      ],
+      "point": [
+        57,
+        345
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Android Packages",
+      "bbox": [
+        33,
+        367,
+        156,
+        383
+      ],
+      "point": [
+        94,
+        375
+      ]
+    },
+    {
+      "id": "node_68",
+      "category": "link",
+      "name": "Language Runtime",
+      "bbox": [
+        33,
+        397,
+        165,
+        413
+      ],
+      "point": [
+        99,
+        405
+      ]
+    },
+    {
+      "id": "node_73",
+      "category": "link",
+      "name": "JVM Languages",
+      "bbox": [
+        33,
+        428,
+        139,
+        444
+      ],
+      "point": [
+        86,
+        436
+      ]
+    },
+    {
+      "id": "node_78",
+      "category": "link",
+      "name": "Logging Frameworks",
+      "bbox": [
+        33,
+        458,
+        177,
+        474
+      ],
+      "point": [
+        105,
+        466
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "JSON Libraries",
+      "bbox": [
+        33,
+        488,
+        132,
+        504
+      ],
+      "point": [
+        82,
+        496
+      ]
+    },
+    {
+      "id": "node_88",
+      "category": "link",
+      "name": "Java Specifications",
+      "bbox": [
+        33,
+        518,
+        164,
+        534
+      ],
+      "point": [
+        98,
+        526
+      ]
+    },
+    {
+      "id": "node_93",
+      "category": "link",
+      "name": "Core Utilities",
+      "bbox": [
+        33,
+        548,
+        122,
+        564
+      ],
+      "point": [
+        77,
+        556
+      ]
+    },
+    {
+      "id": "node_106",
+      "category": "link",
+      "name": "WSO2 Carbon Utilities",
+      "bbox": [
+        340,
+        116,
+        514,
+        132
+      ],
+      "point": [
+        427,
+        124
+      ]
+    },
+    {
+      "id": "node_108",
+      "category": "link",
+      "name": "1,160 usages",
+      "bbox": [
+        831,
+        120,
+        915,
+        133
+      ],
+      "point": [
+        873,
+        126
+      ]
+    },
+    {
+      "id": "node_112",
+      "category": "link",
+      "name": "org.wso2.carbon",
+      "bbox": [
+        340,
+        141,
+        456,
+        157
+      ],
+      "point": [
+        398,
+        149
+      ]
+    },
+    {
+      "id": "node_115",
+      "category": "link",
+      "name": "org.wso2.carbon.utils",
+      "bbox": [
+        473,
+        141,
+        623,
+        157
+      ],
+      "point": [
+        548,
+        149
+      ]
+    },
+    {
+      "id": "node_118",
+      "category": "link",
+      "name": "4.10.123",
+      "bbox": [
+        641,
+        141,
+        703,
+        157
+      ],
+      "point": [
+        672,
+        149
+      ]
+    },
+    {
+      "id": "node_125",
+      "category": "link",
+      "name": "WSO2 Carbon Utilities",
+      "bbox": [
+        340,
+        264,
+        514,
+        280
+      ],
+      "point": [
+        427,
+        272
+      ]
+    },
+    {
+      "id": "node_127",
+      "category": "link",
+      "name": "1,160 usages",
+      "bbox": [
+        831,
+        268,
+        915,
+        281
+      ],
+      "point": [
+        873,
+        274
+      ]
+    },
+    {
+      "id": "node_131",
+      "category": "link",
+      "name": "org.wso2.carbon",
+      "bbox": [
+        340,
+        289,
+        456,
+        305
+      ],
+      "point": [
+        398,
+        297
+      ]
+    },
+    {
+      "id": "node_134",
+      "category": "link",
+      "name": "org.wso2.carbon.utils",
+      "bbox": [
+        473,
+        289,
+        623,
+        305
+      ],
+      "point": [
+        548,
+        297
+      ]
+    },
+    {
+      "id": "node_137",
+      "category": "link",
+      "name": "4.10.124",
+      "bbox": [
+        641,
+        289,
+        703,
+        305
+      ],
+      "point": [
+        672,
+        297
+      ]
+    },
+    {
+      "id": "node_144",
+      "category": "link",
+      "name": "Spring Cloud Starter Alibaba Nacos Discovery",
+      "bbox": [
+        340,
+        412,
+        701,
+        428
+      ],
+      "point": [
+        520,
+        420
+      ]
+    },
+    {
+      "id": "node_146",
+      "category": "link",
+      "name": "463 usages",
+      "bbox": [
+        844,
+        416,
+        915,
+        429
+      ],
+      "point": [
+        879,
+        422
+      ]
+    },
+    {
+      "id": "node_150",
+      "category": "link",
+      "name": "com.alibaba.cloud",
+      "bbox": [
+        340,
+        437,
+        468,
+        453
+      ],
+      "point": [
+        404,
+        445
+      ]
+    },
+    {
+      "id": "node_153",
+      "category": "link",
+      "name": "spring-cloud-starter-alibaba-nacos-discovery",
+      "bbox": [
+        485,
+        437,
+        797,
+        453
+      ],
+      "point": [
+        641,
+        445
+      ]
+    },
+    {
+      "id": "node_156",
+      "category": "link",
+      "name": "2025.1.0.0",
+      "bbox": [
+        815,
+        437,
+        890,
+        453
+      ],
+      "point": [
+        852,
+        445
+      ]
+    },
+    {
+      "id": "node_165",
+      "category": "link",
+      "name": "Vaadin Server MPR Jakarta",
+      "bbox": [
+        340,
+        560,
+        551,
+        576
+      ],
+      "point": [
+        445,
+        568
+      ]
+    },
+    {
+      "id": "node_167",
+      "category": "link",
+      "name": "64 usages",
+      "bbox": [
+        853,
+        564,
+        915,
+        577
+      ],
+      "point": [
+        884,
+        570
+      ]
+    },
+    {
+      "id": "node_176",
+      "category": "link",
+      "name": "Indexed Repositories (3151)",
+      "bbox": [
+        989,
+        351,
+        1212,
+        367
+      ],
+      "point": [
+        1100,
+        359
+      ]
+    },
+    {
+      "id": "node_180",
+      "category": "link",
+      "name": "Central",
+      "bbox": [
+        956,
+        388,
+        1246,
+        413
+      ],
+      "point": [
+        1101,
+        400
+      ]
+    },
+    {
+      "id": "node_185",
+      "category": "link",
+      "name": "Atlassian External",
+      "bbox": [
+        956,
+        418,
+        1246,
+        443
+      ],
+      "point": [
+        1101,
+        430
+      ]
+    },
+    {
+      "id": "node_190",
+      "category": "link",
+      "name": "Atlassian",
+      "bbox": [
+        956,
+        448,
+        1246,
+        473
+      ],
+      "point": [
+        1101,
+        460
+      ]
+    },
+    {
+      "id": "node_195",
+      "category": "link",
+      "name": "WSO2 Releases",
+      "bbox": [
+        956,
+        478,
+        1246,
+        503
+      ],
+      "point": [
+        1101,
+        490
+      ]
+    },
+    {
+      "id": "node_200",
+      "category": "link",
+      "name": "WSO2 Public",
+      "bbox": [
+        956,
+        509,
+        1246,
+        534
+      ],
+      "point": [
+        1101,
+        521
+      ]
+    },
+    {
+      "id": "node_205",
+      "category": "link",
+      "name": "Hortonworks",
+      "bbox": [
+        956,
+        539,
+        1246,
+        564
+      ],
+      "point": [
+        1101,
+        551
+      ]
+    }
+  ]
+}

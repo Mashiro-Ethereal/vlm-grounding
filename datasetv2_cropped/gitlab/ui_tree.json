@@ -1,0 +1,1031 @@
+{
+  "timestamp": "2026-02-07T05:41:25.613833Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "The most-comprehensive AI-powered DevSecOps platform",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 8588
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "Navigation",
+                "bounds": {
+                  "x": 0,
+                  "y": 56,
+                  "width": 1261,
+                  "height": 84
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 56,
+                      "width": 1261,
+                      "height": 84
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "Home",
+                        "bounds": {
+                          "x": 32,
+                          "y": 84,
+                          "width": 32,
+                          "height": 32
+                        }
+                      },
+                      {
+                        "id": "node_6",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 80,
+                          "y": 80,
+                          "width": 580,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 80,
+                              "y": 80,
+                              "width": 79,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_8",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 80,
+                                  "y": 80,
+                                  "width": 79,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_9",
+                                    "role": "button",
+                                    "name": "Platform",
+                                    "bounds": {
+                                      "x": 88,
+                                      "y": 88,
+                                      "width": 63,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_10",
+                                        "role": "label",
+                                        "name": "Platform",
+                                        "bounds": {
+                                          "x": 88,
+                                          "y": 90,
+                                          "width": 63,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 175,
+                              "y": 80,
+                              "width": 74,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 175,
+                                  "y": 80,
+                                  "width": 74,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "button",
+                                    "name": "Product",
+                                    "bounds": {
+                                      "x": 183,
+                                      "y": 88,
+                                      "width": 58,
+                                      "height": 24
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_14",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 265,
+                              "y": 80,
+                              "width": 68,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 265,
+                                  "y": 80,
+                                  "width": 68,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "link",
+                                    "name": "Pricing",
+                                    "bounds": {
+                                      "x": 273,
+                                      "y": 88,
+                                      "width": 52,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "label",
+                                        "name": "Pricing",
+                                        "bounds": {
+                                          "x": 273,
+                                          "y": 90,
+                                          "width": 51,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 349,
+                              "y": 80,
+                              "width": 94,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 349,
+                                  "y": 80,
+                                  "width": 94,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "button",
+                                    "name": "Resources",
+                                    "bounds": {
+                                      "x": 357,
+                                      "y": 88,
+                                      "width": 78,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_21",
+                                        "role": "label",
+                                        "name": "Resources",
+                                        "bounds": {
+                                          "x": 357,
+                                          "y": 90,
+                                          "width": 78,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_22",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 460,
+                              "y": 80,
+                              "width": 87,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_23",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 460,
+                                  "y": 80,
+                                  "width": 87,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_24",
+                                    "role": "button",
+                                    "name": "Company",
+                                    "bounds": {
+                                      "x": 468,
+                                      "y": 88,
+                                      "width": 71,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_25",
+                                        "role": "label",
+                                        "name": "Company",
+                                        "bounds": {
+                                          "x": 468,
+                                          "y": 90,
+                                          "width": 72,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_26",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 563,
+                              "y": 80,
+                              "width": 96,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_27",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 563,
+                                  "y": 80,
+                                  "width": 96,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "button",
+                                    "name": "Contact us",
+                                    "bounds": {
+                                      "x": 571,
+                                      "y": 88,
+                                      "width": 80,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_29",
+                                        "role": "label",
+                                        "name": "Contact us",
+                                        "bounds": {
+                                          "x": 571,
+                                          "y": 90,
+                                          "width": 80,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_30",
+                        "role": "button",
+                        "name": "Search",
+                        "bounds": {
+                          "x": 793,
+                          "y": 92,
+                          "width": 16,
+                          "height": 16
+                        }
+                      },
+                      {
+                        "id": "node_31",
+                        "role": "link",
+                        "name": "Talk to sales",
+                        "bounds": {
+                          "x": 857,
+                          "y": 88,
+                          "width": 106,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_32",
+                            "role": "label",
+                            "name": "Talk to sales",
+                            "bounds": {
+                              "x": 857,
+                              "y": 88,
+                              "width": 107,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_33",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1169,
+                          "y": 80,
+                          "width": 68,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_34",
+                            "role": "link",
+                            "name": "Sign in",
+                            "bounds": {
+                              "x": 1177,
+                              "y": 88,
+                              "width": 52,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "label",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1177,
+                                  "y": 90,
+                                  "width": 50,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_36",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 56
+                },
+                "children": [
+                  {
+                    "id": "node_37",
+                    "role": "link",
+                    "name": "3 days 11 hrs 18 min 47 sec Join the GitLab Transcend virtual event on Feb 10",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 56
+                    },
+                    "children": [
+                      {
+                        "id": "node_38",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_39",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 296,
+                              "y": 16,
+                              "width": 652,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_40",
+                                "role": "label",
+                                "name": "3",
+                                "bounds": {
+                                  "x": 304,
+                                  "y": 18,
+                                  "width": 10,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_41",
+                                "role": "label",
+                                "name": "days",
+                                "bounds": {
+                                  "x": 318,
+                                  "y": 18,
+                                  "width": 35,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_42",
+                                "role": "label",
+                                "name": "11",
+                                "bounds": {
+                                  "x": 372,
+                                  "y": 18,
+                                  "width": 13,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_43",
+                                "role": "label",
+                                "name": "hrs",
+                                "bounds": {
+                                  "x": 390,
+                                  "y": 18,
+                                  "width": 23,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_44",
+                                "role": "label",
+                                "name": "18",
+                                "bounds": {
+                                  "x": 429,
+                                  "y": 18,
+                                  "width": 17,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_45",
+                                "role": "label",
+                                "name": "min",
+                                "bounds": {
+                                  "x": 451,
+                                  "y": 18,
+                                  "width": 26,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_46",
+                                "role": "label",
+                                "name": "sec",
+                                "bounds": {
+                                  "x": 513,
+                                  "y": 18,
+                                  "width": 27,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_47",
+                                "role": "label",
+                                "name": "Join the GitLab Transcend virtual event on Feb 10",
+                                "bounds": {
+                                  "x": 548,
+                                  "y": 18,
+                                  "width": 382,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_48",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 140,
+                  "width": 1261,
+                  "height": 7055
+                },
+                "children": [
+                  {
+                    "id": "node_49",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 140,
+                      "width": 1261,
+                      "height": 7055
+                    },
+                    "children": [
+                      {
+                        "id": "node_50",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 196,
+                          "width": 1261,
+                          "height": 1353
+                        },
+                        "children": [
+                          {
+                            "id": "node_51",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 260,
+                              "width": 1261,
+                              "height": 362
+                            },
+                            "children": [
+                              {
+                                "id": "node_52",
+                                "role": "label",
+                                "name": "Build software with native AI at every step.",
+                                "bounds": {
+                                  "x": 92,
+                                  "y": 261,
+                                  "width": 1077,
+                                  "height": 136
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_53",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 92,
+                                      "y": 261,
+                                      "width": 1077,
+                                      "height": 136
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_54",
+                                        "role": "label",
+                                        "name": "Build software with",
+                                        "bounds": {
+                                          "x": 364,
+                                          "y": 256,
+                                          "width": 531,
+                                          "height": 77
+                                        }
+                                      },
+                                      {
+                                        "id": "node_55",
+                                        "role": "label",
+                                        "name": "native AI at every step.",
+                                        "bounds": {
+                                          "x": 319,
+                                          "y": 324,
+                                          "width": 623,
+                                          "height": 77
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_56",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 439,
+                                  "y": 450,
+                                  "width": 393,
+                                  "height": 46
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_57",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 439,
+                                      "y": 472,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_58",
+                                        "role": "label",
+                                        "name": "Email address",
+                                        "bounds": {
+                                          "x": 439,
+                                          "y": 474,
+                                          "width": 104,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_59",
+                                    "role": "textfield",
+                                    "name": "Email address Email address",
+                                    "bounds": {
+                                      "x": 441,
+                                      "y": 451,
+                                      "width": 243,
+                                      "height": 44
+                                    }
+                                  },
+                                  {
+                                    "id": "node_60",
+                                    "role": "button",
+                                    "name": "Get started",
+                                    "bounds": {
+                                      "x": 719,
+                                      "y": 462,
+                                      "width": 96,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_61",
+                                        "role": "label",
+                                        "name": "Get started",
+                                        "bounds": {
+                                          "x": 719,
+                                          "y": 462,
+                                          "width": 96,
+                                          "height": 21
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_62",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_63",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_64",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_66",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_68",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_69",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_70",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_71",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_72",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_73",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_74",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_75",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_76",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_77",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_78",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_79",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_80",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_81",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_82",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_83",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_84",
+                        "role": "label",
+                        "name": "\u201c",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_85",
+                        "role": "label",
+                        "name": "\u201d",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

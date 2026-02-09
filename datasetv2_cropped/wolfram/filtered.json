@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/wolfram/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "TOUR",
+      "bbox": [
+        1045,
+        5,
+        1081,
+        40
+      ],
+      "point": [
+        1063,
+        22
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "button",
+      "name": "Sign in",
+      "bbox": [
+        1119,
+        14,
+        1155,
+        31
+      ],
+      "point": [
+        1137,
+        22
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "textfield",
+      "name": "WolframAlpha input field",
+      "bbox": [
+        253,
+        227,
+        981,
+        249
+      ],
+      "point": [
+        617,
+        238
+      ]
+    },
+    {
+      "id": "node_69",
+      "category": "link",
+      "name": "Mathematics ",
+      "bbox": [
+        158,
+        397,
+        379,
+        420
+      ],
+      "point": [
+        268,
+        408
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Science & Technology ",
+      "bbox": [
+        399,
+        397,
+        620,
+        420
+      ],
+      "point": [
+        509,
+        408
+      ]
+    },
+    {
+      "id": "node_97",
+      "category": "link",
+      "name": "Society & Culture ",
+      "bbox": [
+        640,
+        397,
+        861,
+        420
+      ],
+      "point": [
+        750,
+        408
+      ]
+    },
+    {
+      "id": "node_111",
+      "category": "link",
+      "name": "Everyday Life ",
+      "bbox": [
+        881,
+        397,
+        1102,
+        420
+      ],
+      "point": [
+        991,
+        408
+      ]
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "timestamp": "2026-02-07T05:45:19.355588Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures \u00b7 Pexels",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 80,
+              "width": 1261,
+              "height": 2153
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 80,
+                  "width": 1261,
+                  "height": 2153
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 80
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 30,
+                          "y": 0,
+                          "width": 1201,
+                          "height": 80
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 30,
+                              "y": 21,
+                              "width": 115,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 30,
+                                  "y": 21,
+                                  "width": 85,
+                                  "height": 38
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_8",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 879,
+                              "y": 28,
+                              "width": 80,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "link",
+                                "name": "Explore",
+                                "bounds": {
+                                  "x": 879,
+                                  "y": 26,
+                                  "width": 58,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 879,
+                                      "y": 26,
+                                      "width": 58,
+                                      "height": 27
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_11",
+                                        "role": "label",
+                                        "name": "Explore",
+                                        "bounds": {
+                                          "x": 879,
+                                          "y": 28,
+                                          "width": 60,
+                                          "height": 23
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_12",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 940,
+                                  "y": 28,
+                                  "width": 24,
+                                  "height": 24
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_13",
+                            "role": "link",
+                            "name": "License",
+                            "bounds": {
+                              "x": 1000,
+                              "y": 29,
+                              "width": 59,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_14",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1000,
+                                  "y": 27,
+                                  "width": 59,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_15",
+                                    "role": "label",
+                                    "name": "License",
+                                    "bounds": {
+                                      "x": 1000,
+                                      "y": 29,
+                                      "width": 60,
+                                      "height": 23
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_16",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1099,
+                              "y": 28,
+                              "width": 16,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_17",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1097,
+                                  "y": 30,
+                                  "width": 20,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "button",
+                            "name": "Join",
+                            "bounds": {
+                              "x": 1176,
+                              "y": 18,
+                              "width": 33,
+                              "height": 44
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "label",
+                                "name": "Join",
+                                "bounds": {
+                                  "x": 1176,
+                                  "y": 27,
+                                  "width": 33,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_20",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 30,
+                      "y": 110,
+                      "width": 1201,
+                      "height": 330
+                    },
+                    "children": [
+                      {
+                        "id": "node_21",
+                        "role": "label",
+                        "name": "The best free stock photos, royalty free images & videos shared by creators.",
+                        "bounds": {
+                          "x": 30,
+                          "y": 118,
+                          "width": 549,
+                          "height": 211
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "label",
+                            "name": "The best free stock photos, royalty free images & videos shared by creators.",
+                            "bounds": {
+                              "x": 30,
+                              "y": 111,
+                              "width": 501,
+                              "height": 223
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 30,
+                          "y": 359,
+                          "width": 549,
+                          "height": 72
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 42,
+                              "y": 371,
+                              "width": 525,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 42,
+                                  "y": 371,
+                                  "width": 138,
+                                  "height": 48
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_26",
+                                    "role": "button",
+                                    "name": "Photos",
+                                    "bounds": {
+                                      "x": 58,
+                                      "y": 383,
+                                      "width": 111,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_27",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 58,
+                                          "y": 385,
+                                          "width": 20,
+                                          "height": 20
+                                        }
+                                      },
+                                      {
+                                        "id": "node_28",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 86,
+                                          "y": 382,
+                                          "width": 55,
+                                          "height": 27
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_29",
+                                            "role": "label",
+                                            "name": "Photos",
+                                            "bounds": {
+                                              "x": 86,
+                                              "y": 384,
+                                              "width": 56,
+                                              "height": 23
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_30",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 149,
+                                          "y": 385,
+                                          "width": 20,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_31",
+                                "role": "textfield",
+                                "name": "Search for free photos",
+                                "bounds": {
+                                  "x": 200,
+                                  "y": 372,
+                                  "width": 296,
+                                  "height": 46
+                                },
+                                "states": [
+                                  "focused"
+                                ]
+                              },
+                              {
+                                "id": "node_32",
+                                "role": "button",
+                                "name": "",
+                                "bounds": {
+                                  "x": 532,
+                                  "y": 372,
+                                  "width": 20,
+                                  "height": 46
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_33",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 532,
+                                      "y": 385,
+                                      "width": 20,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_34",
+                        "role": "link",
+                        "name": "Textures in Focus 21 days left Textures in Focus Join",
+                        "bounds": {
+                          "x": 643,
+                          "y": 149,
+                          "width": 252,
+                          "height": 252
+                        },
+                        "children": [
+                          {
+                            "id": "node_35",
+                            "role": "image",
+                            "name": "Textures in Focus",
+                            "bounds": {
+                              "x": 619,
+                              "y": 125,
+                              "width": 300,
+                              "height": 300
+                            }
+                          },
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 643,
+                              "y": 309,
+                              "width": 252,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_37",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 643,
+                                  "y": 312,
+                                  "width": 15,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "21 days left",
+                                "bounds": {
+                                  "x": 662,
+                                  "y": 310,
+                                  "width": 84,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_39",
+                            "role": "label",
+                            "name": "Textures in Focus",
+                            "bounds": {
+                              "x": 643,
+                              "y": 337,
+                              "width": 252,
+                              "height": 31
+                            },
+                            "children": [
+                              {
+                                "id": "node_40",
+                                "role": "label",
+                                "name": "Textures in Focus",
+                                "bounds": {
+                                  "x": 643,
+                                  "y": 336,
+                                  "width": 178,
+                                  "height": 33
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_41",
+                            "role": "button",
+                            "name": "Join",
+                            "bounds": {
+                              "x": 643,
+                              "y": 377,
+                              "width": 252,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_42",
+                                "role": "label",
+                                "name": "Join",
+                                "bounds": {
+                                  "x": 643,
+                                  "y": 378,
+                                  "width": 31,
+                                  "height": 22
+                                }
+                              },
+                              {
+                                "id": "node_43",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 682,
+                                  "y": 380,
+                                  "width": 11,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_44",
+                        "role": "link",
+                        "name": "Purple Hue 8 days left Purple Hue Join",
+                        "bounds": {
+                          "x": 955,
+                          "y": 149,
+                          "width": 252,
+                          "height": 252
+                        },
+                        "children": [
+                          {
+                            "id": "node_45",
+                            "role": "image",
+                            "name": "Purple Hue",
+                            "bounds": {
+                              "x": 931,
+                              "y": 125,
+                              "width": 300,
+                              "height": 300
+                            }
+                          },
+                          {
+                            "id": "node_46",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 955,
+                              "y": 309,
+                              "width": 252,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_47",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 955,
+                                  "y": 312,
+                                  "width": 15,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_48",
+                                "role": "label",
+                                "name": "8 days left",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 310,
+                                  "width": 77,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_49",
+                            "role": "label",
+                            "name": "Purple Hue",
+                            "bounds": {
+                              "x": 955,
+                              "y": 337,
+                              "width": 252,
+                              "height": 31
+                            },
+                            "children": [
+                              {
+                                "id": "node_50",
+                                "role": "label",
+                                "name": "Purple Hue",
+                                "bounds": {
+                                  "x": 955,
+                                  "y": 336,
+                                  "width": 118,
+                                  "height": 33
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_51",
+                            "role": "button",
+                            "name": "Join",
+                            "bounds": {
+                              "x": 955,
+                              "y": 377,
+                              "width": 252,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_52",
+                                "role": "label",
+                                "name": "Join",
+                                "bounds": {
+                                  "x": 955,
+                                  "y": 378,
+                                  "width": 31,
+                                  "height": 22
+                                }
+                              },
+                              {
+                                "id": "node_53",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 994,
+                                  "y": 380,
+                                  "width": 11,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_54",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 30,
+                      "y": 470,
+                      "width": 1201,
+                      "height": 1763
+                    },
+                    "children": [
+                      {
+                        "id": "node_55",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 30,
+                          "y": 472,
+                          "width": 1201,
+                          "height": 48
+                        },
+                        "children": [
+                          {
+                            "id": "node_56",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 489,
+                              "width": 13,
+                              "height": 13
+                            }
+                          },
+                          {
+                            "id": "node_57",
+                            "role": "link",
+                            "name": "Home",
+                            "bounds": {
+                              "x": 422,
+                              "y": 472,
+                              "width": 47,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_58",
+                                "role": "label",
+                                "name": "Home",
+                                "bounds": {
+                                  "x": 422,
+                                  "y": 484,
+                                  "width": 48,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_59",
+                            "role": "link",
+                            "name": "Videos",
+                            "bounds": {
+                              "x": 519,
+                              "y": 472,
+                              "width": 52,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "Videos",
+                                "bounds": {
+                                  "x": 519,
+                                  "y": 484,
+                                  "width": 53,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_61",
+                            "role": "link",
+                            "name": "Leaderboard",
+                            "bounds": {
+                              "x": 612,
+                              "y": 472,
+                              "width": 100,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_62",
+                                "role": "label",
+                                "name": "Leaderboard",
+                                "bounds": {
+                                  "x": 612,
+                                  "y": 484,
+                                  "width": 100,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_63",
+                            "role": "link",
+                            "name": "Challenges",
+                            "bounds": {
+                              "x": 753,
+                              "y": 472,
+                              "width": 85,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_64",
+                                "role": "label",
+                                "name": "Challenges",
+                                "bounds": {
+                                  "x": 753,
+                                  "y": 484,
+                                  "width": 86,
+                                  "height": 23
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_65",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 1212,
+                              "y": 489,
+                              "width": 13,
+                              "height": 13
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_66",
+                        "role": "label",
+                        "name": "Free Stock Photos",
+                        "bounds": {
+                          "x": 30,
+                          "y": 558,
+                          "width": 184,
+                          "height": 31
+                        },
+                        "children": [
+                          {
+                            "id": "node_67",
+                            "role": "label",
+                            "name": "Free Stock Photos",
+                            "bounds": {
+                              "x": 30,
+                              "y": 557,
+                              "width": 186,
+                              "height": 33
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_68",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1097,
+                          "y": 550,
+                          "width": 133,
+                          "height": 48
+                        },
+                        "children": [
+                          {
+                            "id": "node_69",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1097,
+                              "y": 550,
+                              "width": 133,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_70",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1097,
+                                  "y": 550,
+                                  "width": 133,
+                                  "height": 48
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_71",
+                                    "role": "button",
+                                    "name": "Trending",
+                                    "bounds": {
+                                      "x": 1118,
+                                      "y": 552,
+                                      "width": 91,
+                                      "height": 44
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_72",
+                                        "role": "label",
+                                        "name": "Trending",
+                                        "bounds": {
+                                          "x": 1118,
+                                          "y": 561,
+                                          "width": 70,
+                                          "height": 23
+                                        }
+                                      },
+                                      {
+                                        "id": "node_73",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1195,
+                                          "y": 564,
+                                          "width": 20,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

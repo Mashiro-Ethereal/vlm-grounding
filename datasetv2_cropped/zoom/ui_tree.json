@@ -1,0 +1,229 @@
+{
+  "timestamp": "2026-02-07T05:43:55.017826Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "One platform to connect | Zoom",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 16,
+                  "width": 1261,
+                  "height": 43
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "Main Navigation",
+                    "bounds": {
+                      "x": 0,
+                      "y": 16,
+                      "width": 1261,
+                      "height": 43
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "zoom-logo-white.png",
+                        "bounds": {
+                          "x": 20,
+                          "y": 26,
+                          "width": 100,
+                          "height": 22
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "image",
+                            "name": "zoom-logo-white.png",
+                            "bounds": {
+                              "x": 20,
+                              "y": 26,
+                              "width": 100,
+                              "height": 22
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 140,
+                          "y": 19,
+                          "width": 333,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 150,
+                              "y": 29,
+                              "width": 76,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "button",
+                                "name": "Products",
+                                "bounds": {
+                                  "x": 150,
+                                  "y": 29,
+                                  "width": 58,
+                                  "height": 16
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "label",
+                                    "name": "Products",
+                                    "bounds": {
+                                      "x": 150,
+                                      "y": 28,
+                                      "width": 58,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 246,
+                              "y": 29,
+                              "width": 51,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "button",
+                                "name": "AI",
+                                "bounds": {
+                                  "x": 266,
+                                  "y": 29,
+                                  "width": 13,
+                                  "height": 16
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "label",
+                                    "name": "AI",
+                                    "bounds": {
+                                      "x": 266,
+                                      "y": 28,
+                                      "width": 13,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_14",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 318,
+                              "y": 29,
+                              "width": 79,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "button",
+                                "name": "Solutions",
+                                "bounds": {
+                                  "x": 318,
+                                  "y": 29,
+                                  "width": 61,
+                                  "height": 16
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "label",
+                                    "name": "Solutions",
+                                    "bounds": {
+                                      "x": 318,
+                                      "y": 28,
+                                      "width": 61,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

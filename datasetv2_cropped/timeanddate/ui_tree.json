@@ -1,0 +1,2377 @@
+{
+  "timestamp": "2026-02-07T05:45:45.563527Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "timeanddate.com",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 1820
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 150
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 150
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 110
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 30,
+                              "y": 0,
+                              "width": 1200,
+                              "height": 110
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 30,
+                                  "y": 10,
+                                  "width": 160,
+                                  "height": 90
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "link",
+                                    "name": "timeanddate.com",
+                                    "bounds": {
+                                      "x": 30,
+                                      "y": 10,
+                                      "width": 160,
+                                      "height": 90
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_9",
+                                        "role": "image",
+                                        "name": "timeanddate.com",
+                                        "bounds": {
+                                          "x": 30,
+                                          "y": 10,
+                                          "width": 160,
+                                          "height": 90
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_10",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 502,
+                          "y": 10,
+                          "width": 728,
+                          "height": 90
+                        },
+                        "children": [
+                          {
+                            "id": "node_11",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 502,
+                              "y": 10,
+                              "width": 728,
+                              "height": 90
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 502,
+                                  "y": 10,
+                                  "width": 728,
+                                  "height": 90
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "panel",
+                                    "name": "Advertisement",
+                                    "bounds": {
+                                      "x": 502,
+                                      "y": 10,
+                                      "width": 728,
+                                      "height": 90
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_14",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 110,
+                          "width": 1261,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 30,
+                              "y": 110,
+                              "width": 1200,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1190,
+                                  "y": 110,
+                                  "width": 40,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_17",
+                                    "role": "button",
+                                    "name": "Search",
+                                    "bounds": {
+                                      "x": 1196,
+                                      "y": 116,
+                                      "width": 28,
+                                      "height": 28
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_18",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1196,
+                                          "y": 118,
+                                          "width": 28,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_19",
+                                            "role": "label",
+                                            "name": "\ue900",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_20",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 30,
+                                  "y": 110,
+                                  "width": 1160,
+                                  "height": 40
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_21",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 30,
+                                      "y": 110,
+                                      "width": 62,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_22",
+                                        "role": "link",
+                                        "name": "News \ue208",
+                                        "bounds": {
+                                          "x": 30,
+                                          "y": 116,
+                                          "width": 56,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_23",
+                                            "role": "label",
+                                            "name": "News",
+                                            "bounds": {
+                                              "x": 30,
+                                              "y": 121,
+                                              "width": 37,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_24",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 64,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_25",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_26",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 108,
+                                      "y": 110,
+                                      "width": 113,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_27",
+                                        "role": "link",
+                                        "name": "World Clock \ue208",
+                                        "bounds": {
+                                          "x": 114,
+                                          "y": 116,
+                                          "width": 101,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_28",
+                                            "role": "label",
+                                            "name": "World Clock",
+                                            "bounds": {
+                                              "x": 114,
+                                              "y": 121,
+                                              "width": 84,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_29",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 193,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_30",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_31",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 236,
+                                      "y": 110,
+                                      "width": 112,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_32",
+                                        "role": "link",
+                                        "name": "Time Zones \ue208",
+                                        "bounds": {
+                                          "x": 242,
+                                          "y": 116,
+                                          "width": 100,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_33",
+                                            "role": "label",
+                                            "name": "Time Zones",
+                                            "bounds": {
+                                              "x": 241,
+                                              "y": 121,
+                                              "width": 83,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_34",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 321,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_35",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_36",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 364,
+                                      "y": 110,
+                                      "width": 93,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_37",
+                                        "role": "link",
+                                        "name": "Calendar \ue208",
+                                        "bounds": {
+                                          "x": 370,
+                                          "y": 116,
+                                          "width": 81,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_38",
+                                            "role": "label",
+                                            "name": "Calendar",
+                                            "bounds": {
+                                              "x": 370,
+                                              "y": 121,
+                                              "width": 64,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_39",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 430,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_40",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_41",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 473,
+                                      "y": 110,
+                                      "width": 89,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_42",
+                                        "role": "link",
+                                        "name": "Weather \ue208",
+                                        "bounds": {
+                                          "x": 479,
+                                          "y": 116,
+                                          "width": 77,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_43",
+                                            "role": "label",
+                                            "name": "Weather",
+                                            "bounds": {
+                                              "x": 479,
+                                              "y": 121,
+                                              "width": 60,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_44",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 535,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_45",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_46",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 578,
+                                      "y": 110,
+                                      "width": 167,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_47",
+                                        "role": "link",
+                                        "name": "Sun, Moon & Space \ue208",
+                                        "bounds": {
+                                          "x": 584,
+                                          "y": 116,
+                                          "width": 155,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_48",
+                                            "role": "label",
+                                            "name": "Sun, Moon & Space",
+                                            "bounds": {
+                                              "x": 584,
+                                              "y": 121,
+                                              "width": 136,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_49",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 717,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_50",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_51",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 760,
+                                      "y": 110,
+                                      "width": 78,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_52",
+                                        "role": "link",
+                                        "name": "Timers \ue208",
+                                        "bounds": {
+                                          "x": 766,
+                                          "y": 116,
+                                          "width": 66,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_53",
+                                            "role": "label",
+                                            "name": "Timers",
+                                            "bounds": {
+                                              "x": 765,
+                                              "y": 121,
+                                              "width": 49,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_54",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 810,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_55",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_56",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 853,
+                                      "y": 110,
+                                      "width": 109,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_57",
+                                        "role": "link",
+                                        "name": "Calculators \ue208",
+                                        "bounds": {
+                                          "x": 859,
+                                          "y": 116,
+                                          "width": 97,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_58",
+                                            "role": "label",
+                                            "name": "Calculators",
+                                            "bounds": {
+                                              "x": 859,
+                                              "y": 121,
+                                              "width": 78,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_59",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 934,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_60",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_61",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1049,
+                                      "y": 110,
+                                      "width": 141,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_62",
+                                        "role": "link",
+                                        "name": "\ue268 My Account \ue208",
+                                        "bounds": {
+                                          "x": 1055,
+                                          "y": 116,
+                                          "width": 129,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_63",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 1055,
+                                              "y": 118,
+                                              "width": 24,
+                                              "height": 24
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_64",
+                                                "role": "label",
+                                                "name": "\ue268",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_65",
+                                            "role": "label",
+                                            "name": "My Account",
+                                            "bounds": {
+                                              "x": 1084,
+                                              "y": 121,
+                                              "width": 82,
+                                              "height": 16
+                                            }
+                                          },
+                                          {
+                                            "id": "node_66",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 1162,
+                                              "y": 121,
+                                              "width": 27,
+                                              "height": 18
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_67",
+                                                "role": "label",
+                                                "name": "\ue208",
+                                                "bounds": {
+                                                  "x": 0,
+                                                  "y": 0,
+                                                  "width": 0,
+                                                  "height": 0
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_68",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 38,
+                  "y": 174,
+                  "width": 1022,
+                  "height": 1256
+                },
+                "children": [
+                  {
+                    "id": "node_69",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 38,
+                      "y": 174,
+                      "width": 1022,
+                      "height": 1256
+                    },
+                    "children": [
+                      {
+                        "id": "node_70",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 39,
+                          "y": 175,
+                          "width": 330,
+                          "height": 494
+                        },
+                        "children": [
+                          {
+                            "id": "node_71",
+                            "role": "unknown",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 199,
+                              "width": 282,
+                              "height": 27
+                            },
+                            "children": [
+                              {
+                                "id": "node_72",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 199,
+                                  "width": 282,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_73",
+                                    "role": "label",
+                                    "name": "Current Time",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 199,
+                                      "width": 170,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_74",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 238,
+                              "width": 124,
+                              "height": 84
+                            },
+                            "children": [
+                              {
+                                "id": "node_75",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 240,
+                                  "width": 42,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_76",
+                                    "role": "label",
+                                    "name": "Friday",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 240,
+                                      "width": 42,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_77",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 261,
+                                  "width": 82,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_78",
+                                    "role": "label",
+                                    "name": "Feb 6, 2026",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 261,
+                                      "width": 83,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_79",
+                                "role": "link",
+                                "name": "St. Louis, Missouri, USA",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 282,
+                                  "width": 95,
+                                  "height": 37
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_80",
+                                    "role": "label",
+                                    "name": "St. Louis, Missouri, USA",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 282,
+                                      "width": 96,
+                                      "height": 37
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_81",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 328,
+                              "width": 124,
+                              "height": 42
+                            },
+                            "children": [
+                              {
+                                "id": "node_82",
+                                "role": "link",
+                                "name": "Set home location \ue208",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 330,
+                                  "width": 55,
+                                  "height": 37
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_83",
+                                    "role": "label",
+                                    "name": "Set home location",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 330,
+                                      "width": 67,
+                                      "height": 37
+                                    }
+                                  },
+                                  {
+                                    "id": "node_84",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 119,
+                                      "y": 349,
+                                      "width": 22,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_85",
+                                        "role": "label",
+                                        "name": "\ue208",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_86",
+                            "role": "link",
+                            "name": "11:45:35pm",
+                            "bounds": {
+                              "x": 193,
+                              "y": 238,
+                              "width": 146,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_87",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 193,
+                                  "y": 242,
+                                  "width": 69,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_88",
+                                    "role": "label",
+                                    "name": "11:45",
+                                    "bounds": {
+                                      "x": 193,
+                                      "y": 242,
+                                      "width": 69,
+                                      "height": 28
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_89",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 263,
+                                  "y": 242,
+                                  "width": 38,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_90",
+                                    "role": "label",
+                                    "name": ":",
+                                    "bounds": {
+                                      "x": 263,
+                                      "y": 242,
+                                      "width": 8,
+                                      "height": 28
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_91",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 301,
+                                  "y": 242,
+                                  "width": 38,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_92",
+                                    "role": "label",
+                                    "name": "pm",
+                                    "bounds": {
+                                      "x": 301,
+                                      "y": 242,
+                                      "width": 38,
+                                      "height": 28
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_93",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 387,
+                              "width": 282,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_94",
+                                "role": "label",
+                                "name": "World Clock",
+                                "bounds": {
+                                  "x": 63,
+                                  "y": 387,
+                                  "width": 95,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_95",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 410,
+                              "width": 282,
+                              "height": 28
+                            },
+                            "children": [
+                              {
+                                "id": "node_96",
+                                "role": "textfield",
+                                "name": "Search for city or place\u2026",
+                                "bounds": {
+                                  "x": 71,
+                                  "y": 411,
+                                  "width": 236,
+                                  "height": 26
+                                }
+                              },
+                              {
+                                "id": "node_97",
+                                "role": "button",
+                                "name": "\ue900",
+                                "bounds": {
+                                  "x": 320,
+                                  "y": 411,
+                                  "width": 21,
+                                  "height": 26
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_98",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 320,
+                                      "y": 414,
+                                      "width": 21,
+                                      "height": 21
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_99",
+                                        "role": "label",
+                                        "name": "\ue900",
+                                        "bounds": {
+                                          "x": 0,
+                                          "y": 0,
+                                          "width": 0,
+                                          "height": 0
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_100",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 450,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_101",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 55,
+                                  "y": 442,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_102",
+                                    "role": "image",
+                                    "name": "Illustration of a world map with clocks showing time for Mumbai, New York & Berlin",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 450,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_103",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 135,
+                                      "y": 453,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_104",
+                                        "role": "label",
+                                        "name": "World Clock",
+                                        "bounds": {
+                                          "x": 135,
+                                          "y": 453,
+                                          "width": 96,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_105",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 135,
+                                      "y": 474,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_106",
+                                        "role": "label",
+                                        "name": "Current local time around the world.",
+                                        "bounds": {
+                                          "x": 135,
+                                          "y": 475,
+                                          "width": 206,
+                                          "height": 34
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_107",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 63,
+                              "y": 526,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_108",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 55,
+                                  "y": 518,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_109",
+                                    "role": "image",
+                                    "name": "Illustration of a hand with two wrist watches showing the time for two different places in the world.",
+                                    "bounds": {
+                                      "x": 63,
+                                      "y": 526,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_110",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 135,
+                                      "y": 529,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_111",
+                                        "role": "label",
+                                        "name": "Personal World Clock",
+                                        "bounds": {
+                                          "x": 135,
+                                          "y": 529,
+                                          "width": 169,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_112",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 135,
+                                      "y": 550,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_113",
+                                        "role": "label",
+                                        "name": "Set the current time of your favorite locations across time zones.",
+                                        "bounds": {
+                                          "x": 135,
+                                          "y": 551,
+                                          "width": 198,
+                                          "height": 53
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_114",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 384,
+                          "y": 175,
+                          "width": 330,
+                          "height": 494
+                        },
+                        "children": [
+                          {
+                            "id": "node_115",
+                            "role": "unknown",
+                            "name": "",
+                            "bounds": {
+                              "x": 408,
+                              "y": 199,
+                              "width": 282,
+                              "height": 27
+                            },
+                            "children": [
+                              {
+                                "id": "node_116",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 408,
+                                  "y": 199,
+                                  "width": 282,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_117",
+                                    "role": "label",
+                                    "name": "Time Zones",
+                                    "bounds": {
+                                      "x": 408,
+                                      "y": 199,
+                                      "width": 149,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_118",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 408,
+                              "y": 238,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_119",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 400,
+                                  "y": 230,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_120",
+                                    "role": "image",
+                                    "name": "Illustrated map of the world's time zones.",
+                                    "bounds": {
+                                      "x": 408,
+                                      "y": 238,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_121",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 241,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_122",
+                                        "role": "label",
+                                        "name": "Time Zone Map",
+                                        "bounds": {
+                                          "x": 479,
+                                          "y": 241,
+                                          "width": 125,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_123",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 262,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_124",
+                                        "role": "label",
+                                        "name": "World map of time zones, accounting for all DST changes in real time.",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 263,
+                                          "width": 179,
+                                          "height": 53
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_125",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 408,
+                              "y": 314,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_126",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 400,
+                                  "y": 306,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_127",
+                                    "role": "image",
+                                    "name": "Illustration of world map and a calculator",
+                                    "bounds": {
+                                      "x": 408,
+                                      "y": 314,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_128",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 317,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_129",
+                                        "role": "label",
+                                        "name": "Time Zone Converter",
+                                        "bounds": {
+                                          "x": 479,
+                                          "y": 317,
+                                          "width": 172,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_130",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 338,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_131",
+                                        "role": "label",
+                                        "name": "Calculate the time difference between places and time zones.",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 339,
+                                          "width": 203,
+                                          "height": 53
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_132",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 408,
+                              "y": 390,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_133",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 400,
+                                  "y": 382,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_134",
+                                    "role": "image",
+                                    "name": "Meeting Planner",
+                                    "bounds": {
+                                      "x": 408,
+                                      "y": 390,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_135",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 393,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_136",
+                                        "role": "label",
+                                        "name": "Meeting Planner",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 393,
+                                          "width": 131,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_137",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 414,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_138",
+                                        "role": "label",
+                                        "name": "Find the best time to have a meeting across time zones.",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 415,
+                                          "width": 197,
+                                          "height": 34
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_139",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 408,
+                              "y": 466,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_140",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 400,
+                                  "y": 458,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_141",
+                                    "role": "image",
+                                    "name": "Illustration of a person making a speech in front of a world map",
+                                    "bounds": {
+                                      "x": 408,
+                                      "y": 466,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_142",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 469,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_143",
+                                        "role": "label",
+                                        "name": "Event Time Announcer",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 469,
+                                          "width": 183,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_144",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 480,
+                                      "y": 490,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_145",
+                                        "role": "label",
+                                        "name": "Calculate and share global times for your event.",
+                                        "bounds": {
+                                          "x": 480,
+                                          "y": 491,
+                                          "width": 186,
+                                          "height": 34
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_146",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 729,
+                          "y": 175,
+                          "width": 330,
+                          "height": 494
+                        },
+                        "children": [
+                          {
+                            "id": "node_147",
+                            "role": "unknown",
+                            "name": "",
+                            "bounds": {
+                              "x": 753,
+                              "y": 199,
+                              "width": 282,
+                              "height": 27
+                            },
+                            "children": [
+                              {
+                                "id": "node_148",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 753,
+                                  "y": 199,
+                                  "width": 282,
+                                  "height": 27
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_149",
+                                    "role": "label",
+                                    "name": "Calendar",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 199,
+                                      "width": 117,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_150",
+                            "role": "link",
+                            "name": "Feb 2026 6",
+                            "bounds": {
+                              "x": 974,
+                              "y": 238,
+                              "width": 61,
+                              "height": 67
+                            },
+                            "children": [
+                              {
+                                "id": "node_151",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 256,
+                                  "width": 61,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_152",
+                                    "role": "label",
+                                    "name": "Feb",
+                                    "bounds": {
+                                      "x": 993,
+                                      "y": 258,
+                                      "width": 25,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_153",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 238,
+                                  "width": 61,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_154",
+                                    "role": "label",
+                                    "name": "2026",
+                                    "bounds": {
+                                      "x": 988,
+                                      "y": 240,
+                                      "width": 33,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_155",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 277,
+                                  "width": 61,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_156",
+                                    "role": "label",
+                                    "name": "6",
+                                    "bounds": {
+                                      "x": 998,
+                                      "y": 279,
+                                      "width": 13,
+                                      "height": 23
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_157",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 753,
+                              "y": 238,
+                              "width": 215,
+                              "height": 159
+                            },
+                            "children": [
+                              {
+                                "id": "node_158",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 753,
+                                  "y": 241,
+                                  "width": 102,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_159",
+                                    "role": "radiobutton",
+                                    "name": "Full year",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 243,
+                                      "width": 13,
+                                      "height": 13
+                                    },
+                                    "states": [
+                                      "checked"
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_160",
+                                    "role": "label",
+                                    "name": "Full year",
+                                    "bounds": {
+                                      "x": 769,
+                                      "y": 243,
+                                      "width": 59,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_161",
+                                "role": "textfield",
+                                "name": "Enter year as a 4-digit number.",
+                                "bounds": {
+                                  "x": 868,
+                                  "y": 239,
+                                  "width": 93,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_162",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 868,
+                                      "y": 238,
+                                      "width": 93,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_163",
+                                        "role": "label",
+                                        "name": "2026",
+                                        "bounds": {
+                                          "x": 868,
+                                          "y": 243,
+                                          "width": 30,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_164",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 753,
+                                  "y": 277,
+                                  "width": 102,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_165",
+                                    "role": "radiobutton",
+                                    "name": "Month",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 279,
+                                      "width": 13,
+                                      "height": 13
+                                    }
+                                  },
+                                  {
+                                    "id": "node_166",
+                                    "role": "label",
+                                    "name": "Month",
+                                    "bounds": {
+                                      "x": 769,
+                                      "y": 279,
+                                      "width": 43,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_167",
+                                "role": "combobox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 868,
+                                  "y": 275,
+                                  "width": 69,
+                                  "height": 22
+                                },
+                                "states": [
+                                  "collapsed"
+                                ]
+                              },
+                              {
+                                "id": "node_168",
+                                "role": "combobox",
+                                "name": "Select country",
+                                "bounds": {
+                                  "x": 760,
+                                  "y": 311,
+                                  "width": 177,
+                                  "height": 22
+                                },
+                                "states": [
+                                  "collapsed"
+                                ]
+                              },
+                              {
+                                "id": "node_169",
+                                "role": "button",
+                                "name": "View Calendar",
+                                "bounds": {
+                                  "x": 769,
+                                  "y": 356,
+                                  "width": 183,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_170",
+                                    "role": "label",
+                                    "name": "View Calendar",
+                                    "bounds": {
+                                      "x": 796,
+                                      "y": 356,
+                                      "width": 130,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_171",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 753,
+                              "y": 409,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_172",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 745,
+                                  "y": 401,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_173",
+                                    "role": "image",
+                                    "name": "Illustration of woman sitting by the desk printing a calendar.",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 409,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_174",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 825,
+                                      "y": 412,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_175",
+                                        "role": "label",
+                                        "name": "Printable PDF Calendar",
+                                        "bounds": {
+                                          "x": 825,
+                                          "y": 412,
+                                          "width": 185,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_176",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 825,
+                                      "y": 433,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_177",
+                                        "role": "label",
+                                        "name": "Print, share, or save calendars with our PDF templates.",
+                                        "bounds": {
+                                          "x": 825,
+                                          "y": 434,
+                                          "width": 175,
+                                          "height": 53
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_178",
+                            "role": "link",
+                            "name": "",
+                            "bounds": {
+                              "x": 753,
+                              "y": 485,
+                              "width": 282,
+                              "height": 64
+                            },
+                            "children": [
+                              {
+                                "id": "node_179",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 745,
+                                  "y": 477,
+                                  "width": 298,
+                                  "height": 80
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_180",
+                                    "role": "image",
+                                    "name": "Illustration of a calendar and a pencil marking events",
+                                    "bounds": {
+                                      "x": 753,
+                                      "y": 485,
+                                      "width": 64,
+                                      "height": 64
+                                    }
+                                  },
+                                  {
+                                    "id": "node_181",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 825,
+                                      "y": 488,
+                                      "width": 210,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_182",
+                                        "role": "label",
+                                        "name": "Add Your Own Events",
+                                        "bounds": {
+                                          "x": 825,
+                                          "y": 488,
+                                          "width": 170,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_183",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 825,
+                                      "y": 509,
+                                      "width": 210,
+                                      "height": 37
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_184",
+                                        "role": "label",
+                                        "name": "Create your own events and add them to our calendar.",
+                                        "bounds": {
+                                          "x": 825,
+                                          "y": 510,
+                                          "width": 198,
+                                          "height": 34
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_185",
+                        "role": "label",
+                        "name": "\ue900",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_186",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 1085,
+                  "y": 174,
+                  "width": 176,
+                  "height": 1256
+                },
+                "children": [
+                  {
+                    "id": "node_187",
+                    "role": "panel",
+                    "name": "Advertising",
+                    "bounds": {
+                      "x": 1085,
+                      "y": 174,
+                      "width": 160,
+                      "height": 611
+                    },
+                    "children": [
+                      {
+                        "id": "node_188",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 1090,
+                          "y": 174,
+                          "width": 62,
+                          "height": 11
+                        },
+                        "children": [
+                          {
+                            "id": "node_189",
+                            "role": "label",
+                            "name": "Advertising",
+                            "bounds": {
+                              "x": 1090,
+                              "y": 173,
+                              "width": 62,
+                              "height": 13
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_190",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1085,
+                          "y": 185,
+                          "width": 160,
+                          "height": 600
+                        },
+                        "children": [
+                          {
+                            "id": "node_191",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1085,
+                              "y": 185,
+                              "width": 160,
+                              "height": 600
+                            },
+                            "children": [
+                              {
+                                "id": "node_192",
+                                "role": "panel",
+                                "name": "Advertisement",
+                                "bounds": {
+                                  "x": 1085,
+                                  "y": 185,
+                                  "width": 160,
+                                  "height": 600
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

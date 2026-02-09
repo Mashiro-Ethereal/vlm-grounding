@@ -1,0 +1,158 @@
+{
+  "image_filename": "datasetv2_cropped/bing/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 10,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "category": "link",
+      "name": "its partners ",
+      "bbox": [
+        514,
+        198,
+        597,
+        217
+      ],
+      "point": [
+        555,
+        207
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Privacy policy",
+      "bbox": [
+        568,
+        270,
+        663,
+        289
+      ],
+      "point": [
+        615,
+        279
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "our partners ",
+      "bbox": [
+        460,
+        318,
+        549,
+        337
+      ],
+      "point": [
+        504,
+        327
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "button",
+      "name": "Learn More: Configure your consents",
+      "bbox": [
+        345,
+        379,
+        511,
+        401
+      ],
+      "point": [
+        428,
+        390
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "button",
+      "name": "Disagree and close: Disagree to our data processing and close",
+      "bbox": [
+        555,
+        379,
+        721,
+        401
+      ],
+      "point": [
+        638,
+        390
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "button",
+      "name": "Agree and close: Agree to our data processing and close",
+      "bbox": [
+        765,
+        379,
+        931,
+        401
+      ],
+      "point": [
+        848,
+        390
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "link",
+      "name": "Get 20GB of free storage! Keep your private files safe and secure with Shadow Drive, the cloud storage solution from Qwant\u2019s partner, designed and hosted in Europe.",
+      "bbox": [
+        20,
+        233,
+        236,
+        329
+      ],
+      "point": [
+        128,
+        281
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "Discover",
+      "bbox": [
+        20,
+        333,
+        70,
+        349
+      ],
+      "point": [
+        45,
+        341
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "textfield",
+      "name": "Enter your search term",
+      "bbox": [
+        377,
+        224,
+        861,
+        272
+      ],
+      "point": [
+        619,
+        248
+      ]
+    },
+    {
+      "id": "node_127",
+      "category": "link",
+      "name": "Add to Chrome",
+      "bbox": [
+        1116,
+        509,
+        1215,
+        529
+      ],
+      "point": [
+        1165,
+        519
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/nuget/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "tab",
+      "name": "Packages",
+      "bbox": [
+        189,
+        12,
+        263,
+        34
+      ],
+      "point": [
+        226,
+        23
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "tab",
+      "name": "Upload",
+      "bbox": [
+        294,
+        12,
+        350,
+        34
+      ],
+      "point": [
+        322,
+        23
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "tab",
+      "name": "Statistics",
+      "bbox": [
+        380,
+        12,
+        453,
+        34
+      ],
+      "point": [
+        416,
+        23
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "tab",
+      "name": "Documentation",
+      "bbox": [
+        483,
+        12,
+        606,
+        34
+      ],
+      "point": [
+        544,
+        23
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "tab",
+      "name": "Downloads",
+      "bbox": [
+        636,
+        12,
+        723,
+        34
+      ],
+      "point": [
+        679,
+        23
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "tab",
+      "name": "Blog",
+      "bbox": [
+        754,
+        12,
+        789,
+        34
+      ],
+      "point": [
+        771,
+        23
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "tab",
+      "name": "Sign in",
+      "bbox": [
+        1130,
+        12,
+        1184,
+        34
+      ],
+      "point": [
+        1157,
+        23
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "textfield",
+      "name": "Enter packages to search",
+      "bbox": [
+        268,
+        225,
+        951,
+        246
+      ],
+      "point": [
+        609,
+        235
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        977,
+        226,
+        991,
+        246
+      ],
+      "point": [
+        984,
+        236
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "image_filename": "datasetv2_cropped/swagger/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Learn more",
+      "bbox": [
+        399,
+        539,
+        473,
+        554
+      ],
+      "point": [
+        436,
+        546
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Cookie settings",
+      "bbox": [
+        878,
+        516,
+        998,
+        529
+      ],
+      "point": [
+        938,
+        522
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "button",
+      "name": "ALLOW ALL COOKIES",
+      "bbox": [
+        1049,
+        516,
+        1210,
+        529
+      ],
+      "point": [
+        1129,
+        522
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "button",
+      "name": "Products \uf078",
+      "bbox": [
+        282,
+        18,
+        366,
+        46
+      ],
+      "point": [
+        324,
+        32
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "button",
+      "name": "Community \uf078",
+      "bbox": [
+        398,
+        18,
+        502,
+        46
+      ],
+      "point": [
+        450,
+        32
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "\uf002\u00a0",
+      "bbox": [
+        921,
+        20,
+        942,
+        44
+      ],
+      "point": [
+        931,
+        32
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Sign In",
+      "bbox": [
+        984,
+        27,
+        1033,
+        43
+      ],
+      "point": [
+        1008,
+        35
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "Get started",
+      "bbox": [
+        1095,
+        27,
+        1178,
+        43
+      ],
+      "point": [
+        1136,
+        35
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "Find your tool",
+      "bbox": [
+        81,
+        490,
+        188,
+        506
+      ],
+      "point": [
+        134,
+        498
+      ]
+    },
+    {
+      "id": "node_64",
+      "category": "link",
+      "name": "Read the docs \uf178",
+      "bbox": [
+        241,
+        482,
+        371,
+        510
+      ],
+      "point": [
+        306,
+        496
+      ]
+    },
+    {
+      "id": "node_99",
+      "category": "button",
+      "name": "Open chatbot",
+      "bbox": [
+        1159,
+        431,
+        1211,
+        483
+      ],
+      "point": [
+        1185,
+        457
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image_filename": "datasetv2_cropped/canva/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 1,
+  "test_samples": [
+    {
+      "id": "node_17",
+      "category": "button",
+      "name": "Start designing for free",
+      "bbox": [
+        550,
+        280,
+        710,
+        320
+      ],
+      "point": [
+        630,
+        300
+      ]
+    }
+  ]
+}

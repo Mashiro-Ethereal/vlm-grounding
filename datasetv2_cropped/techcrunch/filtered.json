@@ -1,0 +1,173 @@
+{
+  "image_filename": "datasetv2_cropped/techcrunch/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "Latest",
+      "bbox": [
+        41,
+        22,
+        92,
+        44
+      ],
+      "point": [
+        66,
+        33
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Startups",
+      "bbox": [
+        104,
+        22,
+        174,
+        44
+      ],
+      "point": [
+        139,
+        33
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Venture",
+      "bbox": [
+        186,
+        22,
+        249,
+        44
+      ],
+      "point": [
+        217,
+        33
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Apple",
+      "bbox": [
+        261,
+        22,
+        307,
+        44
+      ],
+      "point": [
+        284,
+        33
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Security",
+      "bbox": [
+        320,
+        22,
+        387,
+        44
+      ],
+      "point": [
+        353,
+        33
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "AI",
+      "bbox": [
+        400,
+        22,
+        416,
+        44
+      ],
+      "point": [
+        408,
+        33
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Apps",
+      "bbox": [
+        428,
+        22,
+        469,
+        44
+      ],
+      "point": [
+        448,
+        33
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Events",
+      "bbox": [
+        494,
+        22,
+        548,
+        44
+      ],
+      "point": [
+        521,
+        33
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "link",
+      "name": "Podcasts",
+      "bbox": [
+        560,
+        22,
+        634,
+        44
+      ],
+      "point": [
+        597,
+        33
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Newsletters",
+      "bbox": [
+        647,
+        22,
+        745,
+        44
+      ],
+      "point": [
+        696,
+        33
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+      "bbox": [
+        965,
+        490,
+        1257,
+        547
+      ],
+      "point": [
+        1111,
+        518
+      ]
+    }
+  ]
+}

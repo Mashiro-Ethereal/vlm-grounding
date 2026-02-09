@@ -1,0 +1,53 @@
+{
+  "image_filename": "datasetv2_cropped/crates_io/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_3",
+      "category": "link",
+      "name": "crates.io",
+      "bbox": [
+        177,
+        14,
+        335,
+        51
+      ],
+      "point": [
+        256,
+        32
+      ]
+    },
+    {
+      "id": "node_9",
+      "category": "textfield",
+      "name": "Search",
+      "bbox": [
+        351,
+        164,
+        871,
+        184
+      ],
+      "point": [
+        611,
+        174
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Browse All Crates",
+      "bbox": [
+        775,
+        23,
+        900,
+        41
+      ],
+      "point": [
+        837,
+        32
+      ]
+    }
+  ]
+}

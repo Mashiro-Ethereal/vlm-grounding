@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/rust_lang/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Install",
+      "bbox": [
+        319,
+        33,
+        370,
+        55
+      ],
+      "point": [
+        344,
+        44
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        418,
+        33,
+        464,
+        55
+      ],
+      "point": [
+        441,
+        44
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "Playground",
+      "bbox": [
+        512,
+        33,
+        604,
+        55
+      ],
+      "point": [
+        558,
+        44
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Tools",
+      "bbox": [
+        653,
+        33,
+        695,
+        55
+      ],
+      "point": [
+        674,
+        44
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Governance",
+      "bbox": [
+        744,
+        33,
+        840,
+        55
+      ],
+      "point": [
+        792,
+        44
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Community",
+      "bbox": [
+        888,
+        33,
+        980,
+        55
+      ],
+      "point": [
+        934,
+        44
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        1029,
+        33,
+        1064,
+        55
+      ],
+      "point": [
+        1046,
+        44
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "GET STARTED",
+      "bbox": [
+        855,
+        153,
+        1151,
+        196
+      ],
+      "point": [
+        1003,
+        174
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "Version 1.93.0",
+      "bbox": [
+        921,
+        234,
+        1086,
+        266
+      ],
+      "point": [
+        1003,
+        250
+      ]
+    }
+  ]
+}

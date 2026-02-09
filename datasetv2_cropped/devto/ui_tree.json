@@ -1,0 +1,1306 @@
+{
+  "timestamp": "2026-02-07T05:42:47.956777Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "DEV Community",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 56,
+              "width": 1261,
+              "height": 5734
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 56
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 16,
+                      "y": 0,
+                      "width": 1229,
+                      "height": 56
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "DEV Community Home",
+                        "bounds": {
+                          "x": 16,
+                          "y": 8,
+                          "width": 50,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "image",
+                            "name": "DEV Community",
+                            "bounds": {
+                              "x": 16,
+                              "y": 8,
+                              "width": 50,
+                              "height": 40
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 82,
+                          "y": 8,
+                          "width": 680,
+                          "height": 39
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 82,
+                              "y": 8,
+                              "width": 680,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 82,
+                                  "y": 8,
+                                  "width": 680,
+                                  "height": 39
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "textfield",
+                                    "name": "Search...",
+                                    "bounds": {
+                                      "x": 123,
+                                      "y": 16,
+                                      "width": 496,
+                                      "height": 24
+                                    }
+                                  },
+                                  {
+                                    "id": "node_11",
+                                    "role": "button",
+                                    "name": "Search",
+                                    "bounds": {
+                                      "x": 91,
+                                      "y": 9,
+                                      "width": 24,
+                                      "height": 37
+                                    }
+                                  },
+                                  {
+                                    "id": "node_12",
+                                    "role": "link",
+                                    "name": "Powered by Algolia Search",
+                                    "bounds": {
+                                      "x": 612,
+                                      "y": 19,
+                                      "width": 141,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_13",
+                                        "role": "label",
+                                        "name": "Powered by Algolia ",
+                                        "bounds": {
+                                          "x": 612,
+                                          "y": 21,
+                                          "width": 127,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_14",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 994,
+                          "y": 8,
+                          "width": 250,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_15",
+                            "role": "link",
+                            "name": "Log in",
+                            "bounds": {
+                              "x": 1010,
+                              "y": 16,
+                              "width": 48,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "label",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 1010,
+                                  "y": 18,
+                                  "width": 48,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_17",
+                            "role": "link",
+                            "name": "Create account",
+                            "bounds": {
+                              "x": 1099,
+                              "y": 16,
+                              "width": 122,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_18",
+                                "role": "label",
+                                "name": "Create account",
+                                "bounds": {
+                                  "x": 1099,
+                                  "y": 18,
+                                  "width": 122,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_19",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 56,
+                  "width": 1261,
+                  "height": 5734
+                },
+                "children": [
+                  {
+                    "id": "node_20",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 56,
+                      "width": 1261,
+                      "height": 5734
+                    },
+                    "children": [
+                      {
+                        "id": "node_21",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 16,
+                          "y": 72,
+                          "width": 1229,
+                          "height": 5702
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 16,
+                              "y": 72,
+                              "width": 240,
+                              "height": 5702
+                            },
+                            "children": [
+                              {
+                                "id": "node_23",
+                                "role": "panel",
+                                "name": "Primary sidebar",
+                                "bounds": {
+                                  "x": 16,
+                                  "y": 72,
+                                  "width": 240,
+                                  "height": 1786
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_24",
+                                    "role": "label",
+                                    "name": "DEV Community is a community of 3,721,471 amazing developers",
+                                    "bounds": {
+                                      "x": 32,
+                                      "y": 88,
+                                      "width": 208,
+                                      "height": 125
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_25",
+                                        "role": "label",
+                                        "name": "DEV Community is a community of 3,721,471 amazing developers",
+                                        "bounds": {
+                                          "x": 32,
+                                          "y": 88,
+                                          "width": 206,
+                                          "height": 124
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_26",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 32,
+                                      "y": 229,
+                                      "width": 208,
+                                      "height": 96
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_27",
+                                        "role": "label",
+                                        "name": "We're a place where coders share, stay up-to-date and grow their careers.",
+                                        "bounds": {
+                                          "x": 32,
+                                          "y": 231,
+                                          "width": 200,
+                                          "height": 91
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_28",
+                                    "role": "link",
+                                    "name": "Create new account",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 349,
+                                      "width": 176,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_29",
+                                        "role": "label",
+                                        "name": "Create account",
+                                        "bounds": {
+                                          "x": 75,
+                                          "y": 351,
+                                          "width": 122,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_30",
+                                    "role": "link",
+                                    "name": "Log in",
+                                    "bounds": {
+                                      "x": 48,
+                                      "y": 393,
+                                      "width": 176,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_31",
+                                        "role": "label",
+                                        "name": "Log in",
+                                        "bounds": {
+                                          "x": 111,
+                                          "y": 395,
+                                          "width": 48,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_32",
+                                    "role": "panel",
+                                    "name": "DEV Community",
+                                    "bounds": {
+                                      "x": 16,
+                                      "y": 457,
+                                      "width": 240,
+                                      "height": 544
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_33",
+                                        "role": "listbox",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 16,
+                                          "y": 457,
+                                          "width": 240,
+                                          "height": 544
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_34",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 16,
+                                              "y": 457,
+                                              "width": 240,
+                                              "height": 40
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_35",
+                                                "role": "link",
+                                                "name": "Home",
+                                                "bounds": {
+                                                  "x": 32,
+                                                  "y": 465,
+                                                  "width": 208,
+                                                  "height": 24
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_36",
+                                                    "role": "image",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 24,
+                                                      "y": 465,
+                                                      "width": 24,
+                                                      "height": 24
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_37",
+                                                    "role": "label",
+                                                    "name": "Home",
+                                                    "bounds": {
+                                                      "x": 56,
+                                                      "y": 467,
+                                                      "width": 47,
+                                                      "height": 19
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_38",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 16,
+                                              "y": 497,
+                                              "width": 240,
+                                              "height": 40
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_39",
+                                                "role": "link",
+                                                "name": "DEV++",
+                                                "bounds": {
+                                                  "x": 32,
+                                                  "y": 505,
+                                                  "width": 208,
+                                                  "height": 24
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_40",
+                                                    "role": "image",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 24,
+                                                      "y": 505,
+                                                      "width": 24,
+                                                      "height": 24
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_41",
+                                                    "role": "label",
+                                                    "name": "DEV++",
+                                                    "bounds": {
+                                                      "x": 56,
+                                                      "y": 507,
+                                                      "width": 60,
+                                                      "height": 19
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_42",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 16,
+                                              "y": 537,
+                                              "width": 240,
+                                              "height": 40
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_43",
+                                                "role": "link",
+                                                "name": "Videos",
+                                                "bounds": {
+                                                  "x": 32,
+                                                  "y": 545,
+                                                  "width": 208,
+                                                  "height": 24
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_44",
+                                                    "role": "image",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 24,
+                                                      "y": 545,
+                                                      "width": 24,
+                                                      "height": 24
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_45",
+                                                    "role": "label",
+                                                    "name": "Videos",
+                                                    "bounds": {
+                                                      "x": 56,
+                                                      "y": 547,
+                                                      "width": 53,
+                                                      "height": 19
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_46",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 16,
+                                              "y": 577,
+                                              "width": 240,
+                                              "height": 40
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_47",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 272,
+                              "y": 72,
+                              "width": 638,
+                              "height": 5702
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "unknown",
+                                "name": "",
+                                "bounds": {
+                                  "x": 272,
+                                  "y": 72,
+                                  "width": 638,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_49",
+                                    "role": "panel",
+                                    "name": "View posts by",
+                                    "bounds": {
+                                      "x": 272,
+                                      "y": 72,
+                                      "width": 638,
+                                      "height": 35
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_50",
+                                        "role": "listbox",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 272,
+                                          "y": 72,
+                                          "width": 247,
+                                          "height": 35
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_51",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 272,
+                                              "y": 72,
+                                              "width": 113,
+                                              "height": 35
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_52",
+                                                "role": "link",
+                                                "name": "Relevant",
+                                                "bounds": {
+                                                  "x": 284,
+                                                  "y": 76,
+                                                  "width": 89,
+                                                  "height": 27
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_53",
+                                                    "role": "label",
+                                                    "name": "Relevant",
+                                                    "bounds": {
+                                                      "x": 284,
+                                                      "y": 79,
+                                                      "width": 91,
+                                                      "height": 21
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_54",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 385,
+                                              "y": 72,
+                                              "width": 79,
+                                              "height": 35
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_55",
+                                                "role": "link",
+                                                "name": "Latest",
+                                                "bounds": {
+                                                  "x": 397,
+                                                  "y": 76,
+                                                  "width": 55,
+                                                  "height": 27
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_56",
+                                                    "role": "label",
+                                                    "name": "Latest",
+                                                    "bounds": {
+                                                      "x": 397,
+                                                      "y": 79,
+                                                      "width": 55,
+                                                      "height": 21
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_57",
+                                            "role": "listitem",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 465,
+                                              "y": 72,
+                                              "width": 54,
+                                              "height": 35
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_58",
+                                                "role": "link",
+                                                "name": "Top",
+                                                "bounds": {
+                                                  "x": 477,
+                                                  "y": 76,
+                                                  "width": 30,
+                                                  "height": 27
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_59",
+                                                    "role": "label",
+                                                    "name": "Top",
+                                                    "bounds": {
+                                                      "x": 476,
+                                                      "y": 79,
+                                                      "width": 32,
+                                                      "height": 21
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_60",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 272,
+                                  "y": 115,
+                                  "width": 638,
+                                  "height": 604
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_61",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 292,
+                                      "y": 135,
+                                      "width": 566,
+                                      "height": 32
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_62",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 296,
+                                          "y": 140,
+                                          "width": 123,
+                                          "height": 21
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_63",
+                                            "role": "label",
+                                            "name": "\ud83c\udfc6 DEV Challenges",
+                                            "bounds": {
+                                              "x": 296,
+                                              "y": 142,
+                                              "width": 123,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_64",
+                                        "role": "button",
+                                        "name": "Toggle dropdown menu",
+                                        "bounds": {
+                                          "x": 830,
+                                          "y": 139,
+                                          "width": 24,
+                                          "height": 24
+                                        },
+                                        "states": [
+                                          "collapsed"
+                                        ],
+                                        "children": [
+                                          {
+                                            "id": "node_65",
+                                            "role": "image",
+                                            "name": "Dropdown menu",
+                                            "bounds": {
+                                              "x": 830,
+                                              "y": 139,
+                                              "width": 24,
+                                              "height": 24
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_66",
+                                    "role": "button",
+                                    "name": "x",
+                                    "bounds": {
+                                      "x": 862,
+                                      "y": 139,
+                                      "width": 24,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_67",
+                                        "role": "image",
+                                        "name": "x",
+                                        "bounds": {
+                                          "x": 862,
+                                          "y": 139,
+                                          "width": 24,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_68",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 332,
+                                      "y": 175,
+                                      "width": 518,
+                                      "height": 217
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_69",
+                                        "role": "link",
+                                        "name": "algolia agent studio challenge",
+                                        "bounds": {
+                                          "x": 332,
+                                          "y": 175,
+                                          "width": 518,
+                                          "height": 217
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_70",
+                                            "role": "image",
+                                            "name": "algolia agent studio challenge",
+                                            "bounds": {
+                                              "x": 332,
+                                              "y": 175,
+                                              "width": 518,
+                                              "height": 217
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_71",
+                                    "role": "label",
+                                    "name": "Build smart enhancements that proactively assist users within existing workflows. \ud83e\udde0",
+                                    "bounds": {
+                                      "x": 332,
+                                      "y": 412,
+                                      "width": 518,
+                                      "height": 40
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_72",
+                                        "role": "label",
+                                        "name": "Build smart enhancements that proactively assist users within existing workflows. \ud83e\udde0",
+                                        "bounds": {
+                                          "x": 332,
+                                          "y": 412,
+                                          "width": 504,
+                                          "height": 39
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_73",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 333,
+                                      "y": 468,
+                                      "width": 516,
+                                      "height": 187
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_74",
+                                        "role": "link",
+                                        "name": "The DEV Team",
+                                        "bounds": {
+                                          "x": 333,
+                                          "y": 499,
+                                          "width": 60,
+                                          "height": 19
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_75",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 351,
+                                              "y": 481,
+                                              "width": 31,
+                                              "height": 33
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_76",
+                                                "role": "image",
+                                                "name": "The DEV Team",
+                                                "bounds": {
+                                                  "x": 351,
+                                                  "y": 481,
+                                                  "width": 33,
+                                                  "height": 33
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_77",
+                                        "role": "link",
+                                        "name": "Join the Algolia Agent Studio Challenge: $3,000 in Prizes! Jess Lee for The DEV Team \u30fb Jan 7 #algoliachallenge #devchallenge #agents #webdev",
+                                        "bounds": {
+                                          "x": 333,
+                                          "y": 530,
+                                          "width": 451,
+                                          "height": 19
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_78",
+                                            "role": "label",
+                                            "name": "Join the Algolia Agent Studio Challenge: $3,000 in Prizes!",
+                                            "bounds": {
+                                              "x": 333,
+                                              "y": 543,
+                                              "width": 436,
+                                              "height": 51
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_79",
+                                                "role": "label",
+                                                "name": "Join the Algolia Agent Studio Challenge: $3,000 in Prizes!",
+                                                "bounds": {
+                                                  "x": 331,
+                                                  "y": 543,
+                                                  "width": 328,
+                                                  "height": 49
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_80",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 926,
+                              "y": 72,
+                              "width": 319,
+                              "height": 5702
+                            },
+                            "children": [
+                              {
+                                "id": "node_81",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 926,
+                                  "y": 72,
+                                  "width": 319,
+                                  "height": 3418
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_82",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 938,
+                                      "y": 84,
+                                      "width": 295,
+                                      "height": 778
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_83",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 938,
+                                          "y": 84,
+                                          "width": 295,
+                                          "height": 32
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_84",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 942,
+                                              "y": 89,
+                                              "width": 210,
+                                              "height": 21
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_85",
+                                                "role": "label",
+                                                "name": "\ud83d\udc4b What's happening this week",
+                                                "bounds": {
+                                                  "x": 942,
+                                                  "y": 91,
+                                                  "width": 212,
+                                                  "height": 16
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_86",
+                                            "role": "button",
+                                            "name": "Toggle dropdown menu",
+                                            "bounds": {
+                                              "x": 1205,
+                                              "y": 88,
+                                              "width": 24,
+                                              "height": 24
+                                            },
+                                            "states": [
+                                              "collapsed"
+                                            ],
+                                            "children": [
+                                              {
+                                                "id": "node_87",
+                                                "role": "image",
+                                                "name": "Dropdown menu",
+                                                "bounds": {
+                                                  "x": 1205,
+                                                  "y": 88,
+                                                  "width": 24,
+                                                  "height": 24
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_88",
+                                        "role": "label",
+                                        "name": "Challenges \ud83e\udd17",
+                                        "bounds": {
+                                          "x": 942,
+                                          "y": 128,
+                                          "width": 287,
+                                          "height": 25
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_89",
+                                            "role": "label",
+                                            "name": "Challenges \ud83e\udd17",
+                                            "bounds": {
+                                              "x": 942,
+                                              "y": 128,
+                                              "width": 142,
+                                              "height": 24
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_90",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 177,
+                                          "width": 259,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_91",
+                                            "role": "label",
+                                            "name": "Just Launched \ud83d\ude80",
+                                            "bounds": {
+                                              "x": 955,
+                                              "y": 179,
+                                              "width": 129,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_92",
+                                        "role": "link",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 211,
+                                          "width": 259,
+                                          "height": 108
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_93",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 956,
+                                              "y": 211,
+                                              "width": 259,
+                                              "height": 108
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_94",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 329,
+                                          "width": 259,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_95",
+                                            "role": "label",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 956,
+                                              "y": 331,
+                                              "width": 240,
+                                              "height": 43
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_96",
+                                                "role": "link",
+                                                "name": "Join the GitHub Copilot CLI Challenge!",
+                                                "bounds": {
+                                                  "x": 956,
+                                                  "y": 331,
+                                                  "width": 240,
+                                                  "height": 43
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_97",
+                                                    "role": "label",
+                                                    "name": "Join the GitHub Copilot CLI Challenge!",
+                                                    "bounds": {
+                                                      "x": 955,
+                                                      "y": 331,
+                                                      "width": 242,
+                                                      "height": 43
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_98",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 382,
+                                          "width": 259,
+                                          "height": 72
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_99",
+                                            "role": "label",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 956,
+                                              "y": 384,
+                                              "width": 247,
+                                              "height": 67
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_100",
+                                                "role": "label",
+                                                "name": "Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash \ud83d\udcb8",
+                                                "bounds": {
+                                                  "x": 956,
+                                                  "y": 384,
+                                                  "width": 250,
+                                                  "height": 67
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_101",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 502,
+                                          "width": 259,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_102",
+                                            "role": "label",
+                                            "name": "Happening Now \u2728",
+                                            "bounds": {
+                                              "x": 956,
+                                              "y": 504,
+                                              "width": 141,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_103",
+                                        "role": "link",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 956,
+                                          "y": 536,
+                                          "width": 259,
+                                          "height": 108
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_104",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 956,
+                                              "y": 536,
+                                              "width": 259,
+                                              "height": 108
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "image_filename": "datasetv2_cropped/timeanddate/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 20,
+  "test_samples": [
+    {
+      "id": "node_17",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        1196,
+        116,
+        1224,
+        144
+      ],
+      "point": [
+        1210,
+        130
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "News \ue208",
+      "bbox": [
+        30,
+        116,
+        86,
+        144
+      ],
+      "point": [
+        58,
+        130
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "World Clock \ue208",
+      "bbox": [
+        114,
+        116,
+        215,
+        144
+      ],
+      "point": [
+        164,
+        130
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "link",
+      "name": "Time Zones \ue208",
+      "bbox": [
+        242,
+        116,
+        342,
+        144
+      ],
+      "point": [
+        292,
+        130
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "Calendar \ue208",
+      "bbox": [
+        370,
+        116,
+        451,
+        144
+      ],
+      "point": [
+        410,
+        130
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "Weather \ue208",
+      "bbox": [
+        479,
+        116,
+        556,
+        144
+      ],
+      "point": [
+        517,
+        130
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Sun, Moon & Space \ue208",
+      "bbox": [
+        584,
+        116,
+        739,
+        144
+      ],
+      "point": [
+        661,
+        130
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Timers \ue208",
+      "bbox": [
+        766,
+        116,
+        832,
+        144
+      ],
+      "point": [
+        799,
+        130
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "link",
+      "name": "Calculators \ue208",
+      "bbox": [
+        859,
+        116,
+        956,
+        144
+      ],
+      "point": [
+        907,
+        130
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "\ue268 My Account \ue208",
+      "bbox": [
+        1055,
+        116,
+        1184,
+        144
+      ],
+      "point": [
+        1119,
+        130
+      ]
+    },
+    {
+      "id": "node_79",
+      "category": "link",
+      "name": "St. Louis, Missouri, USA",
+      "bbox": [
+        63,
+        282,
+        158,
+        319
+      ],
+      "point": [
+        110,
+        300
+      ]
+    },
+    {
+      "id": "node_82",
+      "category": "link",
+      "name": "Set home location \ue208",
+      "bbox": [
+        63,
+        330,
+        118,
+        367
+      ],
+      "point": [
+        90,
+        348
+      ]
+    },
+    {
+      "id": "node_86",
+      "category": "link",
+      "name": "11:45:35pm",
+      "bbox": [
+        193,
+        238,
+        339,
+        274
+      ],
+      "point": [
+        266,
+        256
+      ]
+    },
+    {
+      "id": "node_96",
+      "category": "textfield",
+      "name": "Search for city or place\u2026",
+      "bbox": [
+        71,
+        411,
+        307,
+        437
+      ],
+      "point": [
+        189,
+        424
+      ]
+    },
+    {
+      "id": "node_97",
+      "category": "button",
+      "name": "\ue900",
+      "bbox": [
+        320,
+        411,
+        341,
+        437
+      ],
+      "point": [
+        330,
+        424
+      ]
+    },
+    {
+      "id": "node_150",
+      "category": "link",
+      "name": "Feb 2026 6",
+      "bbox": [
+        974,
+        238,
+        1035,
+        305
+      ],
+      "point": [
+        1004,
+        271
+      ]
+    },
+    {
+      "id": "node_159",
+      "category": "radiobutton",
+      "name": "Full year",
+      "bbox": [
+        753,
+        243,
+        766,
+        256
+      ],
+      "point": [
+        759,
+        249
+      ]
+    },
+    {
+      "id": "node_161",
+      "category": "textfield",
+      "name": "Enter year as a 4-digit number.",
+      "bbox": [
+        868,
+        239,
+        961,
+        261
+      ],
+      "point": [
+        914,
+        250
+      ]
+    },
+    {
+      "id": "node_165",
+      "category": "radiobutton",
+      "name": "Month",
+      "bbox": [
+        753,
+        279,
+        766,
+        292
+      ],
+      "point": [
+        759,
+        285
+      ]
+    },
+    {
+      "id": "node_169",
+      "category": "button",
+      "name": "View Calendar",
+      "bbox": [
+        769,
+        356,
+        952,
+        375
+      ],
+      "point": [
+        860,
+        365
+      ]
+    }
+  ]
+}

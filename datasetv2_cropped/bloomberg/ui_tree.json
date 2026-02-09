@@ -1,0 +1,931 @@
+{
+  "timestamp": "2026-02-07T05:40:27.412993Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Bloomberg L.P. | About, Careers, Products, Contacts",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 30
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 30
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Skip to content",
+                    "bounds": {
+                      "x": 11,
+                      "y": 4,
+                      "width": 53,
+                      "height": 60
+                    }
+                  },
+                  {
+                    "id": "node_5",
+                    "role": "button",
+                    "name": "Bloomberg the Company & Its Products",
+                    "bounds": {
+                      "x": 148,
+                      "y": 9,
+                      "width": 219,
+                      "height": 12
+                    },
+                    "states": [
+                      "collapsed"
+                    ],
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "label",
+                        "name": "Bloomberg the Company & Its Products",
+                        "bounds": {
+                          "x": 148,
+                          "y": 7,
+                          "width": 219,
+                          "height": 16
+                        }
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 373,
+                          "y": 11,
+                          "width": 9,
+                          "height": 9
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_9",
+                    "role": "link",
+                    "name": "Bloomberg Terminal Demo Request",
+                    "bounds": {
+                      "x": 405,
+                      "y": 9,
+                      "width": 198,
+                      "height": 12
+                    },
+                    "children": [
+                      {
+                        "id": "node_10",
+                        "role": "label",
+                        "name": "Bloomberg Terminal Demo Request",
+                        "bounds": {
+                          "x": 405,
+                          "y": 7,
+                          "width": 198,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_11",
+                    "role": "link",
+                    "name": "Bloomberg Anywhere Remote Login",
+                    "bounds": {
+                      "x": 625,
+                      "y": 7,
+                      "width": 218,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_12",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 622,
+                          "y": 9,
+                          "width": 16,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_13",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 0,
+                              "y": 0,
+                              "width": 0,
+                              "height": 0
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_14",
+                        "role": "label",
+                        "name": "Bloomberg Anywhere Remote Login",
+                        "bounds": {
+                          "x": 641,
+                          "y": 7,
+                          "width": 203,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_15",
+                    "role": "link",
+                    "name": "Bloomberg Customer Support",
+                    "bounds": {
+                      "x": 864,
+                      "y": 9,
+                      "width": 167,
+                      "height": 12
+                    },
+                    "children": [
+                      {
+                        "id": "node_16",
+                        "role": "label",
+                        "name": "Bloomberg Customer Support",
+                        "bounds": {
+                          "x": 864,
+                          "y": 7,
+                          "width": 167,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_17",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 30,
+              "width": 1261,
+              "height": 5389
+            },
+            "children": [
+              {
+                "id": "node_18",
+                "role": "unknown",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 30,
+                  "width": 1261,
+                  "height": 72
+                },
+                "children": [
+                  {
+                    "id": "node_19",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 132,
+                      "y": 30,
+                      "width": 996,
+                      "height": 72
+                    },
+                    "children": [
+                      {
+                        "id": "node_20",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 148,
+                          "y": 50,
+                          "width": 300,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_21",
+                            "role": "image",
+                            "name": "Bloomberg",
+                            "bounds": {
+                              "x": 301,
+                              "y": 82,
+                              "width": 124,
+                              "height": 26
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_22",
+                        "role": "panel",
+                        "name": "Header",
+                        "bounds": {
+                          "x": 480,
+                          "y": 50,
+                          "width": 632,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "menubar",
+                            "name": "Header",
+                            "bounds": {
+                              "x": 480,
+                              "y": 50,
+                              "width": 632,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "menuitem",
+                                "name": "About us",
+                                "bounds": {
+                                  "x": 480,
+                                  "y": 55,
+                                  "width": 58,
+                                  "height": 21
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_25",
+                                    "role": "label",
+                                    "name": "About us",
+                                    "bounds": {
+                                      "x": 479,
+                                      "y": 56,
+                                      "width": 60,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_26",
+                                "role": "menuitem",
+                                "name": "Careers",
+                                "bounds": {
+                                  "x": 637,
+                                  "y": 55,
+                                  "width": 49,
+                                  "height": 21
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "label",
+                                    "name": "Careers",
+                                    "bounds": {
+                                      "x": 637,
+                                      "y": 56,
+                                      "width": 49,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_28",
+                                "role": "menuitem",
+                                "name": "Stories",
+                                "bounds": {
+                                  "x": 786,
+                                  "y": 55,
+                                  "width": 44,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": "Stories",
+                                    "bounds": {
+                                      "x": 786,
+                                      "y": 56,
+                                      "width": 44,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_30",
+                                "role": "menuitem",
+                                "name": "Find jobs",
+                                "bounds": {
+                                  "x": 929,
+                                  "y": 55,
+                                  "width": 59,
+                                  "height": 21
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_31",
+                                    "role": "label",
+                                    "name": "Find jobs",
+                                    "bounds": {
+                                      "x": 929,
+                                      "y": 56,
+                                      "width": 59,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_32",
+                                "role": "label",
+                                "name": "Search",
+                                "bounds": {
+                                  "x": 1112,
+                                  "y": 78,
+                                  "width": 45,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_33",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 30,
+                  "width": 1261,
+                  "height": 5389
+                },
+                "children": [
+                  {
+                    "id": "node_34",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 30,
+                      "width": 1261,
+                      "height": 507
+                    },
+                    "children": [
+                      {
+                        "id": "node_35",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 132,
+                          "y": 90,
+                          "width": 996,
+                          "height": 387
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "Where data, people and ideas intersect.",
+                            "bounds": {
+                              "x": 148,
+                              "y": 110,
+                              "width": 466,
+                              "height": 230
+                            },
+                            "children": [
+                              {
+                                "id": "node_37",
+                                "role": "label",
+                                "name": "Where data, people and ideas intersect.",
+                                "bounds": {
+                                  "x": 148,
+                                  "y": 106,
+                                  "width": 445,
+                                  "height": 237
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_38",
+                            "role": "link",
+                            "name": "SEARCH JOBS",
+                            "bounds": {
+                              "x": 188,
+                              "y": 412,
+                              "width": 107,
+                              "height": 21
+                            },
+                            "children": [
+                              {
+                                "id": "node_39",
+                                "role": "label",
+                                "name": "SEARCH JOBS",
+                                "bounds": {
+                                  "x": 188,
+                                  "y": 413,
+                                  "width": 107,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_40",
+            "role": "label",
+            "name": "Close",
+            "bounds": {
+              "x": 1203,
+              "y": 94,
+              "width": 36,
+              "height": 15
+            }
+          },
+          {
+            "id": "node_41",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": -81,
+              "width": 1245,
+              "height": 213
+            },
+            "children": [
+              {
+                "id": "node_42",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 132,
+                  "y": -21,
+                  "width": 996,
+                  "height": 93
+                },
+                "children": [
+                  {
+                    "id": "node_43",
+                    "role": "textfield",
+                    "name": "Search",
+                    "bounds": {
+                      "x": 231,
+                      "y": -1,
+                      "width": 762,
+                      "height": 36
+                    }
+                  },
+                  {
+                    "id": "node_44",
+                    "role": "label",
+                    "name": "Search",
+                    "bounds": {
+                      "x": 1029,
+                      "y": 34,
+                      "width": 45,
+                      "height": 15
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_45",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": 131,
+              "width": 1245,
+              "height": 115
+            },
+            "children": [
+              {
+                "id": "node_46",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 132,
+                  "y": 131,
+                  "width": 996,
+                  "height": 55
+                },
+                "children": [
+                  {
+                    "id": "node_47",
+                    "role": "label",
+                    "name": "Quick links",
+                    "bounds": {
+                      "x": 231,
+                      "y": 134,
+                      "width": 99,
+                      "height": 26
+                    }
+                  },
+                  {
+                    "id": "node_48",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 397,
+                      "y": 131,
+                      "width": 632,
+                      "height": 35
+                    },
+                    "children": [
+                      {
+                        "id": "node_49",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 397,
+                          "y": 131,
+                          "width": 112,
+                          "height": 35
+                        },
+                        "children": [
+                          {
+                            "id": "node_50",
+                            "role": "link",
+                            "name": "Engineering",
+                            "bounds": {
+                              "x": 397,
+                              "y": 131,
+                              "width": 112,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_51",
+                                "role": "label",
+                                "name": "Engineering",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 134,
+                                  "width": 112,
+                                  "height": 26
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_52",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 541,
+                          "y": 131,
+                          "width": 100,
+                          "height": 35
+                        },
+                        "children": [
+                          {
+                            "id": "node_53",
+                            "role": "link",
+                            "name": "Internships",
+                            "bounds": {
+                              "x": 541,
+                              "y": 131,
+                              "width": 100,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_54",
+                                "role": "label",
+                                "name": "Internships",
+                                "bounds": {
+                                  "x": 541,
+                                  "y": 134,
+                                  "width": 100,
+                                  "height": 26
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_55",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 674,
+                          "y": 131,
+                          "width": 170,
+                          "height": 35
+                        },
+                        "children": [
+                          {
+                            "id": "node_56",
+                            "role": "link",
+                            "name": "Employee benefits",
+                            "bounds": {
+                              "x": 674,
+                              "y": 131,
+                              "width": 170,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_57",
+                                "role": "label",
+                                "name": "Employee benefits",
+                                "bounds": {
+                                  "x": 674,
+                                  "y": 134,
+                                  "width": 170,
+                                  "height": 26
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_58",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 8,
+              "y": 246,
+              "width": 1245,
+              "height": 418
+            },
+            "children": [
+              {
+                "id": "node_59",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 132,
+                  "y": 306,
+                  "width": 996,
+                  "height": 298
+                },
+                "children": [
+                  {
+                    "id": "node_60",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 264,
+                      "y": 407,
+                      "width": 732,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_61",
+                        "role": "label",
+                        "name": "Make it happen here.",
+                        "bounds": {
+                          "x": 533,
+                          "y": 410,
+                          "width": 194,
+                          "height": 26
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_62",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 264,
+                      "y": 471,
+                      "width": 732,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_63",
+                        "role": "link",
+                        "name": "Search jobs",
+                        "bounds": {
+                          "x": 562,
+                          "y": 474,
+                          "width": 105,
+                          "height": 26
+                        },
+                        "children": [
+                          {
+                            "id": "node_64",
+                            "role": "label",
+                            "name": "Search jobs",
+                            "bounds": {
+                              "x": 562,
+                              "y": 474,
+                              "width": 105,
+                              "height": 26
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_65",
+            "role": "panel",
+            "name": "cookieconsent",
+            "bounds": {
+              "x": 0,
+              "y": 484,
+              "width": 1261,
+              "height": 78
+            },
+            "children": [
+              {
+                "id": "node_66",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 62,
+                  "y": 500,
+                  "width": 689,
+                  "height": 62
+                },
+                "children": [
+                  {
+                    "id": "node_67",
+                    "role": "label",
+                    "name": "We, and third parties, use cookies to improve your user experience. For more information, see our ",
+                    "bounds": {
+                      "x": 62,
+                      "y": 499,
+                      "width": 682,
+                      "height": 41
+                    }
+                  },
+                  {
+                    "id": "node_68",
+                    "role": "link",
+                    "name": "Privacy Policy",
+                    "bounds": {
+                      "x": 91,
+                      "y": 520,
+                      "width": 96,
+                      "height": 21
+                    },
+                    "children": [
+                      {
+                        "id": "node_69",
+                        "role": "label",
+                        "name": "Privacy Policy",
+                        "bounds": {
+                          "x": 91,
+                          "y": 520,
+                          "width": 97,
+                          "height": 21
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_70",
+                    "role": "label",
+                    "name": " By clicking \"Accept\", you agree to the use of cookies. Change your settings anytime using our ",
+                    "bounds": {
+                      "x": 62,
+                      "y": 520,
+                      "width": 676,
+                      "height": 41
+                    }
+                  },
+                  {
+                    "id": "node_71",
+                    "role": "button",
+                    "name": "change your preferences",
+                    "bounds": {
+                      "x": 197,
+                      "y": 541,
+                      "width": 152,
+                      "height": 21
+                    },
+                    "children": [
+                      {
+                        "id": "node_72",
+                        "role": "label",
+                        "name": "Cookies Preferences.",
+                        "bounds": {
+                          "x": 197,
+                          "y": 541,
+                          "width": 152,
+                          "height": 21
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_73",
+                "role": "label",
+                "name": "MANAGE PREFERENCES",
+                "bounds": {
+                  "x": 833,
+                  "y": 512,
+                  "width": 186,
+                  "height": 21
+                }
+              },
+              {
+                "id": "node_74",
+                "role": "label",
+                "name": "ACCEPT",
+                "bounds": {
+                  "x": 1102,
+                  "y": 512,
+                  "width": 64,
+                  "height": 21
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

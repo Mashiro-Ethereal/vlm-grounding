@@ -1,0 +1,1511 @@
+{
+  "timestamp": "2026-02-07T05:41:11.067500Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Wolfram|Alpha: Computational Intelligence",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 1443
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 1443
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 46
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 20,
+                          "y": 0,
+                          "width": 1230,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 804,
+                              "y": 0,
+                              "width": 445,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 807,
+                                  "y": 5,
+                                  "width": 148,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "button",
+                                    "name": "UPGRADE TO PRO",
+                                    "bounds": {
+                                      "x": 815,
+                                      "y": 5,
+                                      "width": 132,
+                                      "height": 35
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_9",
+                                        "role": "label",
+                                        "name": "UPGRADE TO PRO",
+                                        "bounds": {
+                                          "x": 815,
+                                          "y": 13,
+                                          "width": 113,
+                                          "height": 19
+                                        }
+                                      },
+                                      {
+                                        "id": "node_10",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 927,
+                                          "y": 12,
+                                          "width": 20,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_11",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 961,
+                                  "y": 5,
+                                  "width": 69,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_12",
+                                    "role": "button",
+                                    "name": "APPS",
+                                    "bounds": {
+                                      "x": 969,
+                                      "y": 5,
+                                      "width": 53,
+                                      "height": 35
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_13",
+                                        "role": "label",
+                                        "name": "APPS",
+                                        "bounds": {
+                                          "x": 969,
+                                          "y": 13,
+                                          "width": 33,
+                                          "height": 19
+                                        }
+                                      },
+                                      {
+                                        "id": "node_14",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1003,
+                                          "y": 12,
+                                          "width": 20,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1037,
+                                  "y": 5,
+                                  "width": 52,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "link",
+                                    "name": "TOUR",
+                                    "bounds": {
+                                      "x": 1045,
+                                      "y": 5,
+                                      "width": 36,
+                                      "height": 35
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "label",
+                                        "name": "TOUR",
+                                        "bounds": {
+                                          "x": 1045,
+                                          "y": 13,
+                                          "width": 37,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_18",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1095,
+                                  "y": 5,
+                                  "width": 84,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_19",
+                                    "role": "button",
+                                    "name": "Sign in",
+                                    "bounds": {
+                                      "x": 1119,
+                                      "y": 14,
+                                      "width": 36,
+                                      "height": 17
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_20",
+                                        "role": "label",
+                                        "name": "Sign in",
+                                        "bounds": {
+                                          "x": 1119,
+                                          "y": 14,
+                                          "width": 36,
+                                          "height": 17
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_21",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1186,
+                                  "y": 5,
+                                  "width": 61,
+                                  "height": 35
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1189,
+                                      "y": 10,
+                                      "width": 55,
+                                      "height": 25
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_23",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 1198,
+                                          "y": 6,
+                                          "width": 46,
+                                          "height": 32
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_24",
+                                            "role": "button",
+                                            "name": "Language and theme selector",
+                                            "bounds": {
+                                              "x": 1201,
+                                              "y": 12,
+                                              "width": 40,
+                                              "height": 20
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_25",
+                                                "role": "image",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 1201,
+                                                  "y": 12,
+                                                  "width": 20,
+                                                  "height": 20
+                                                }
+                                              },
+                                              {
+                                                "id": "node_26",
+                                                "role": "image",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 1221,
+                                                  "y": 12,
+                                                  "width": 20,
+                                                  "height": 20
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_27",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 66,
+                      "width": 1261,
+                      "height": 1181
+                    },
+                    "children": [
+                      {
+                        "id": "node_28",
+                        "role": "image",
+                        "name": "From the makers of Wolfram Language and Mathematica",
+                        "bounds": {
+                          "x": 457,
+                          "y": 130,
+                          "width": 345,
+                          "height": 9
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 579,
+                              "y": 130,
+                              "width": 117,
+                              "height": 9
+                            }
+                          },
+                          {
+                            "id": "node_30",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 725,
+                              "y": 130,
+                              "width": 77,
+                              "height": 9
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_31",
+                        "role": "link",
+                        "name": "WolframAlpha logo",
+                        "bounds": {
+                          "x": 483,
+                          "y": 149,
+                          "width": 295,
+                          "height": 45
+                        },
+                        "children": [
+                          {
+                            "id": "node_32",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 483,
+                              "y": 149,
+                              "width": 295,
+                              "height": 45
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_33",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 240,
+                          "y": 219,
+                          "width": 780,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_34",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 240,
+                              "y": 219,
+                              "width": 780,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 248,
+                                  "y": 220,
+                                  "width": 764,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_36",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 248,
+                                      "y": 219,
+                                      "width": 738,
+                                      "height": 38
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_37",
+                                        "role": "label",
+                                        "name": "Enter what you want to calculate or know about",
+                                        "bounds": {
+                                          "x": 253,
+                                          "y": 228,
+                                          "width": 331,
+                                          "height": 19
+                                        }
+                                      },
+                                      {
+                                        "id": "node_38",
+                                        "role": "textfield",
+                                        "name": "WolframAlpha input field",
+                                        "bounds": {
+                                          "x": 253,
+                                          "y": 227,
+                                          "width": 728,
+                                          "height": 22
+                                        },
+                                        "states": [
+                                          "focused"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_39",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 992,
+                                      "y": 227,
+                                      "width": 20,
+                                      "height": 20
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_40",
+                                        "role": "button",
+                                        "name": "Compute input button",
+                                        "bounds": {
+                                          "x": 992,
+                                          "y": 228,
+                                          "width": 20,
+                                          "height": 20
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_41",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 992,
+                                              "y": 228,
+                                              "width": 20,
+                                              "height": 20
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_42",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 244,
+                          "y": 256,
+                          "width": 264,
+                          "height": 39
+                        },
+                        "children": [
+                          {
+                            "id": "node_43",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 244,
+                              "y": 256,
+                              "width": 143,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_44",
+                                "role": "button",
+                                "name": "NATURAL LANGUAGE",
+                                "bounds": {
+                                  "x": 247,
+                                  "y": 267,
+                                  "width": 137,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_45",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 247,
+                                      "y": 267,
+                                      "width": 20,
+                                      "height": 20
+                                    }
+                                  },
+                                  {
+                                    "id": "node_46",
+                                    "role": "label",
+                                    "name": "NATURAL LANGUAGE",
+                                    "bounds": {
+                                      "x": 269,
+                                      "y": 272,
+                                      "width": 113,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_47",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 398,
+                              "y": 256,
+                              "width": 98,
+                              "height": 39
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "button",
+                                "name": "MATH INPUT",
+                                "bounds": {
+                                  "x": 401,
+                                  "y": 267,
+                                  "width": 92,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_49",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 401,
+                                      "y": 267,
+                                      "width": 20,
+                                      "height": 20
+                                    }
+                                  },
+                                  {
+                                    "id": "node_50",
+                                    "role": "label",
+                                    "name": "MATH INPUT",
+                                    "bounds": {
+                                      "x": 423,
+                                      "y": 272,
+                                      "width": 68,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_51",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 627,
+                          "y": 262,
+                          "width": 389,
+                          "height": 37
+                        },
+                        "children": [
+                          {
+                            "id": "node_52",
+                            "role": "button",
+                            "name": "EXTENDED KEYBOARD",
+                            "bounds": {
+                              "x": 632,
+                              "y": 270,
+                              "width": 139,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_53",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 632,
+                                  "y": 270,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              },
+                              {
+                                "id": "node_54",
+                                "role": "label",
+                                "name": "EXTENDED KEYBOARD",
+                                "bounds": {
+                                  "x": 652,
+                                  "y": 273,
+                                  "width": 119,
+                                  "height": 11
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_55",
+                            "role": "link",
+                            "name": "EXAMPLES",
+                            "bounds": {
+                              "x": 781,
+                              "y": 269,
+                              "width": 78,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_56",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 781,
+                                  "y": 269,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              },
+                              {
+                                "id": "node_57",
+                                "role": "label",
+                                "name": "EXAMPLES",
+                                "bounds": {
+                                  "x": 801,
+                                  "y": 273,
+                                  "width": 58,
+                                  "height": 11
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_58",
+                            "role": "button",
+                            "name": "UPLOAD",
+                            "bounds": {
+                              "x": 869,
+                              "y": 270,
+                              "width": 63,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_59",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 869,
+                                  "y": 270,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              },
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "UPLOAD",
+                                "bounds": {
+                                  "x": 889,
+                                  "y": 273,
+                                  "width": 43,
+                                  "height": 11
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_61",
+                            "role": "button",
+                            "name": "RANDOM",
+                            "bounds": {
+                              "x": 943,
+                              "y": 269,
+                              "width": 67,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_62",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 943,
+                                  "y": 269,
+                                  "width": 18,
+                                  "height": 18
+                                }
+                              },
+                              {
+                                "id": "node_63",
+                                "role": "label",
+                                "name": "RANDOM",
+                                "bounds": {
+                                  "x": 963,
+                                  "y": 273,
+                                  "width": 47,
+                                  "height": 11
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_64",
+                        "role": "label",
+                        "name": "Compute expert-level answers using Wolfram\u2019s breakthrough",
+                        "bounds": {
+                          "x": 395,
+                          "y": 326,
+                          "width": 470,
+                          "height": 22
+                        }
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "label",
+                        "name": "algorithms, knowledgebase and AI technology",
+                        "bounds": {
+                          "x": 452,
+                          "y": 350,
+                          "width": 359,
+                          "height": 22
+                        }
+                      },
+                      {
+                        "id": "node_66",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 148,
+                          "y": 397,
+                          "width": 964,
+                          "height": 673
+                        },
+                        "children": [
+                          {
+                            "id": "node_67",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 158,
+                              "y": 397,
+                              "width": 221,
+                              "height": 673
+                            },
+                            "children": [
+                              {
+                                "id": "node_68",
+                                "role": "label",
+                                "name": "Mathematics ",
+                                "bounds": {
+                                  "x": 158,
+                                  "y": 397,
+                                  "width": 221,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_69",
+                                    "role": "link",
+                                    "name": "Mathematics ",
+                                    "bounds": {
+                                      "x": 158,
+                                      "y": 397,
+                                      "width": 221,
+                                      "height": 23
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_70",
+                                        "role": "label",
+                                        "name": "Mathematics",
+                                        "bounds": {
+                                          "x": 158,
+                                          "y": 397,
+                                          "width": 108,
+                                          "height": 23
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_71",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 158,
+                                  "y": 440,
+                                  "width": 221,
+                                  "height": 630
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_72",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 158,
+                                      "y": 440,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_73",
+                                        "role": "link",
+                                        "name": "Step-by-Step Solutions",
+                                        "bounds": {
+                                          "x": 159,
+                                          "y": 446,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_74",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 159,
+                                              "y": 446,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_75",
+                                            "role": "label",
+                                            "name": "Step-by-Step Solutions",
+                                            "bounds": {
+                                              "x": 209,
+                                              "y": 461,
+                                              "width": 144,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_76",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 158,
+                                      "y": 510,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_77",
+                                        "role": "link",
+                                        "name": "Elementary Math",
+                                        "bounds": {
+                                          "x": 159,
+                                          "y": 516,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_78",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 159,
+                                              "y": 516,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_79",
+                                            "role": "label",
+                                            "name": "Elementary Math",
+                                            "bounds": {
+                                              "x": 209,
+                                              "y": 531,
+                                              "width": 107,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_80",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 158,
+                                      "y": 580,
+                                      "width": 221,
+                                      "height": 60
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_81",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 399,
+                              "y": 397,
+                              "width": 221,
+                              "height": 673
+                            },
+                            "children": [
+                              {
+                                "id": "node_82",
+                                "role": "label",
+                                "name": "Science & Technology ",
+                                "bounds": {
+                                  "x": 399,
+                                  "y": 397,
+                                  "width": 221,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_83",
+                                    "role": "link",
+                                    "name": "Science & Technology ",
+                                    "bounds": {
+                                      "x": 399,
+                                      "y": 397,
+                                      "width": 221,
+                                      "height": 23
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_84",
+                                        "role": "label",
+                                        "name": "Science & Technology",
+                                        "bounds": {
+                                          "x": 399,
+                                          "y": 397,
+                                          "width": 186,
+                                          "height": 23
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_85",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 399,
+                                  "y": 440,
+                                  "width": 221,
+                                  "height": 630
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_86",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 399,
+                                      "y": 440,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_87",
+                                        "role": "link",
+                                        "name": "Units & Measures",
+                                        "bounds": {
+                                          "x": 400,
+                                          "y": 446,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_88",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 400,
+                                              "y": 446,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_89",
+                                            "role": "label",
+                                            "name": "Units & Measures",
+                                            "bounds": {
+                                              "x": 450,
+                                              "y": 461,
+                                              "width": 107,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_90",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 399,
+                                      "y": 510,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_91",
+                                        "role": "link",
+                                        "name": "Physics",
+                                        "bounds": {
+                                          "x": 400,
+                                          "y": 516,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_92",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 400,
+                                              "y": 516,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_93",
+                                            "role": "label",
+                                            "name": "Physics",
+                                            "bounds": {
+                                              "x": 450,
+                                              "y": 531,
+                                              "width": 46,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_94",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 399,
+                                      "y": 580,
+                                      "width": 221,
+                                      "height": 60
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_95",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 640,
+                              "y": 397,
+                              "width": 221,
+                              "height": 673
+                            },
+                            "children": [
+                              {
+                                "id": "node_96",
+                                "role": "label",
+                                "name": "Society & Culture ",
+                                "bounds": {
+                                  "x": 640,
+                                  "y": 397,
+                                  "width": 221,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_97",
+                                    "role": "link",
+                                    "name": "Society & Culture ",
+                                    "bounds": {
+                                      "x": 640,
+                                      "y": 397,
+                                      "width": 221,
+                                      "height": 23
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_98",
+                                        "role": "label",
+                                        "name": "Society & Culture",
+                                        "bounds": {
+                                          "x": 640,
+                                          "y": 397,
+                                          "width": 146,
+                                          "height": 23
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_99",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 640,
+                                  "y": 440,
+                                  "width": 221,
+                                  "height": 630
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_100",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 640,
+                                      "y": 440,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_101",
+                                        "role": "link",
+                                        "name": "People",
+                                        "bounds": {
+                                          "x": 641,
+                                          "y": 446,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_102",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 641,
+                                              "y": 446,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_103",
+                                            "role": "label",
+                                            "name": "People",
+                                            "bounds": {
+                                              "x": 691,
+                                              "y": 461,
+                                              "width": 43,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_104",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 640,
+                                      "y": 510,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_105",
+                                        "role": "link",
+                                        "name": "Arts & Media",
+                                        "bounds": {
+                                          "x": 641,
+                                          "y": 516,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_106",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 641,
+                                              "y": 516,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_107",
+                                            "role": "label",
+                                            "name": "Arts & Media",
+                                            "bounds": {
+                                              "x": 691,
+                                              "y": 531,
+                                              "width": 77,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_108",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 640,
+                                      "y": 580,
+                                      "width": 221,
+                                      "height": 60
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_109",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 881,
+                              "y": 397,
+                              "width": 221,
+                              "height": 673
+                            },
+                            "children": [
+                              {
+                                "id": "node_110",
+                                "role": "label",
+                                "name": "Everyday Life ",
+                                "bounds": {
+                                  "x": 881,
+                                  "y": 397,
+                                  "width": 221,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_111",
+                                    "role": "link",
+                                    "name": "Everyday Life ",
+                                    "bounds": {
+                                      "x": 881,
+                                      "y": 397,
+                                      "width": 221,
+                                      "height": 23
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_112",
+                                        "role": "label",
+                                        "name": "Everyday Life",
+                                        "bounds": {
+                                          "x": 881,
+                                          "y": 397,
+                                          "width": 112,
+                                          "height": 23
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_113",
+                                "role": "listbox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 881,
+                                  "y": 440,
+                                  "width": 221,
+                                  "height": 630
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_114",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 881,
+                                      "y": 440,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_115",
+                                        "role": "link",
+                                        "name": "Personal Health",
+                                        "bounds": {
+                                          "x": 882,
+                                          "y": 446,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_116",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 882,
+                                              "y": 446,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_117",
+                                            "role": "label",
+                                            "name": "Personal Health",
+                                            "bounds": {
+                                              "x": 932,
+                                              "y": 461,
+                                              "width": 99,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_118",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 881,
+                                      "y": 510,
+                                      "width": 221,
+                                      "height": 60
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_119",
+                                        "role": "link",
+                                        "name": "Personal Finance",
+                                        "bounds": {
+                                          "x": 882,
+                                          "y": 516,
+                                          "width": 209,
+                                          "height": 48
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_120",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 882,
+                                              "y": 516,
+                                              "width": 50,
+                                              "height": 48
+                                            }
+                                          },
+                                          {
+                                            "id": "node_121",
+                                            "role": "label",
+                                            "name": "Personal Finance",
+                                            "bounds": {
+                                              "x": 932,
+                                              "y": 531,
+                                              "width": 107,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_122",
+                                    "role": "listitem",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 881,
+                                      "y": 580,
+                                      "width": 221,
+                                      "height": 60
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/github/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Homepage",
+      "bbox": [
+        32,
+        18,
+        64,
+        53
+      ],
+      "point": [
+        48,
+        35
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        655,
+        24,
+        707,
+        48
+      ],
+      "point": [
+        681,
+        36
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "button",
+      "name": "Search or jump to\u2026",
+      "bbox": [
+        1030,
+        21,
+        1053,
+        51
+      ],
+      "point": [
+        1041,
+        36
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1078,
+        24,
+        1125,
+        48
+      ],
+      "point": [
+        1101,
+        36
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        1163,
+        25,
+        1215,
+        47
+      ],
+      "point": [
+        1189,
+        36
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "textfield",
+      "name": "Enter your email",
+      "bbox": [
+        287,
+        366,
+        517,
+        394
+      ],
+      "point": [
+        402,
+        380
+      ]
+    },
+    {
+      "id": "node_60",
+      "category": "button",
+      "name": "Sign up for GitHub",
+      "bbox": [
+        563,
+        354,
+        707,
+        388
+      ],
+      "point": [
+        635,
+        371
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "Try GitHub Copilot free",
+      "bbox": [
+        786,
+        351,
+        965,
+        391
+      ],
+      "point": [
+        875,
+        371
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "Back to top",
+      "bbox": [
+        1202,
+        524,
+        1236,
+        558
+      ],
+      "point": [
+        1219,
+        541
+      ]
+    }
+  ]
+}

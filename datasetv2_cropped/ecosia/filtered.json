@@ -1,0 +1,218 @@
+{
+  "image_filename": "datasetv2_cropped/ecosia/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 14,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Ecosia's use of cookies",
+      "bbox": [
+        206,
+        544,
+        359,
+        561
+      ],
+      "point": [
+        282,
+        552
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "terms of service",
+      "bbox": [
+        418,
+        544,
+        525,
+        561
+      ],
+      "point": [
+        471,
+        552
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "button",
+      "name": "Manage cookies",
+      "bbox": [
+        1066,
+        427,
+        1224,
+        465
+      ],
+      "point": [
+        1145,
+        446
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "button",
+      "name": "Reject non-essential",
+      "bbox": [
+        1066,
+        475,
+        1224,
+        513
+      ],
+      "point": [
+        1145,
+        494
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "button",
+      "name": "Accept all",
+      "bbox": [
+        1066,
+        523,
+        1224,
+        561
+      ],
+      "point": [
+        1145,
+        542
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Download Ecosia Browser",
+      "bbox": [
+        619,
+        17,
+        839,
+        55
+      ],
+      "point": [
+        729,
+        36
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        879,
+        17,
+        937,
+        55
+      ],
+      "point": [
+        908,
+        36
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "link",
+      "name": "ai-search-button",
+      "bbox": [
+        977,
+        17,
+        1071,
+        55
+      ],
+      "point": [
+        1024,
+        36
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "button",
+      "name": "News",
+      "bbox": [
+        1111,
+        17,
+        1119,
+        55
+      ],
+      "point": [
+        1115,
+        36
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        266,
+        193,
+        276,
+        225
+      ],
+      "point": [
+        271,
+        209
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "button",
+      "name": "AI Search",
+      "bbox": [
+        904,
+        194,
+        988,
+        224
+      ],
+      "point": [
+        946,
+        209
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "247,071,201 trees planted by Ecosia",
+      "bbox": [
+        357,
+        369,
+        629,
+        449
+      ],
+      "point": [
+        493,
+        409
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "\u20ac99,191,071 dedicated to climate action",
+      "bbox": [
+        631,
+        369,
+        903,
+        449
+      ],
+      "point": [
+        767,
+        409
+      ]
+    },
+    {
+      "id": "node_68",
+      "category": "button",
+      "name": "scroll down",
+      "bbox": [
+        626,
+        536,
+        634,
+        559
+      ],
+      "point": [
+        630,
+        547
+      ]
+    }
+  ]
+}

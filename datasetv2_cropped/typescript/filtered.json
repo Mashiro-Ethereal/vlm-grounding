@@ -1,0 +1,173 @@
+{
+  "image_filename": "datasetv2_cropped/typescript/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_13",
+      "category": "tab",
+      "name": "Download",
+      "bbox": [
+        208,
+        15,
+        282,
+        37
+      ],
+      "point": [
+        245,
+        26
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "tab",
+      "name": "Docs",
+      "bbox": [
+        298,
+        15,
+        333,
+        37
+      ],
+      "point": [
+        315,
+        26
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "tab",
+      "name": "Handbook",
+      "bbox": [
+        349,
+        15,
+        425,
+        37
+      ],
+      "point": [
+        387,
+        26
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "tab",
+      "name": "Community",
+      "bbox": [
+        441,
+        15,
+        525,
+        37
+      ],
+      "point": [
+        483,
+        26
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "tab",
+      "name": "Playground",
+      "bbox": [
+        542,
+        15,
+        625,
+        37
+      ],
+      "point": [
+        583,
+        26
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "tab",
+      "name": "Tools",
+      "bbox": [
+        641,
+        15,
+        678,
+        37
+      ],
+      "point": [
+        659,
+        26
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "tab",
+      "name": "Editor Checks",
+      "bbox": [
+        658,
+        140,
+        741,
+        159
+      ],
+      "point": [
+        699,
+        149
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "tab",
+      "name": "Auto-complete",
+      "bbox": [
+        762,
+        140,
+        855,
+        159
+      ],
+      "point": [
+        808,
+        149
+      ]
+    },
+    {
+      "id": "node_51",
+      "category": "tab",
+      "name": "Interfaces",
+      "bbox": [
+        875,
+        140,
+        934,
+        159
+      ],
+      "point": [
+        904,
+        149
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "tab",
+      "name": "JSX",
+      "bbox": [
+        955,
+        140,
+        975,
+        159
+      ],
+      "point": [
+        965,
+        149
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "TypeScript 5.9",
+      "bbox": [
+        502,
+        491,
+        619,
+        517
+      ],
+      "point": [
+        560,
+        504
+      ]
+    }
+  ]
+}

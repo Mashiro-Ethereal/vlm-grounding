@@ -1,0 +1,98 @@
+{
+  "image_filename": "datasetv2_cropped/medium/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Our story",
+      "bbox": [
+        780,
+        28,
+        837,
+        46
+      ],
+      "point": [
+        808,
+        37
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Membership",
+      "bbox": [
+        863,
+        28,
+        942,
+        46
+      ],
+      "point": [
+        902,
+        37
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Write",
+      "bbox": [
+        967,
+        28,
+        1000,
+        46
+      ],
+      "point": [
+        983,
+        37
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1025,
+        28,
+        1067,
+        46
+      ],
+      "point": [
+        1046,
+        37
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "button",
+      "name": "Get started",
+      "bbox": [
+        1109,
+        28,
+        1179,
+        47
+      ],
+      "point": [
+        1144,
+        37
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "button",
+      "name": "Start reading",
+      "bbox": [
+        85,
+        503,
+        239,
+        531
+      ],
+      "point": [
+        162,
+        517
+      ]
+    }
+  ]
+}

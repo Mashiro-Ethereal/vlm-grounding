@@ -1,0 +1,466 @@
+{
+  "timestamp": "2026-02-07T05:42:45.461502Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Medium: Read and write stories.",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 560
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 75
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 64,
+                              "y": 25,
+                              "width": 112,
+                              "height": 25
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "link",
+                                "name": "Medium Logo",
+                                "bounds": {
+                                  "x": 64,
+                                  "y": 27,
+                                  "width": 112,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "image",
+                                    "name": "Medium Logo",
+                                    "bounds": {
+                                      "x": 64,
+                                      "y": 25,
+                                      "width": 112,
+                                      "height": 25
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 780,
+                              "y": 27,
+                              "width": 57,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "link",
+                                "name": "Our story",
+                                "bounds": {
+                                  "x": 780,
+                                  "y": 28,
+                                  "width": 57,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_11",
+                                    "role": "label",
+                                    "name": "Our story",
+                                    "bounds": {
+                                      "x": 780,
+                                      "y": 28,
+                                      "width": 57,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 863,
+                              "y": 27,
+                              "width": 79,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "link",
+                                "name": "Membership",
+                                "bounds": {
+                                  "x": 863,
+                                  "y": 28,
+                                  "width": 79,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "label",
+                                    "name": "Membership",
+                                    "bounds": {
+                                      "x": 863,
+                                      "y": 28,
+                                      "width": 79,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_15",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 967,
+                              "y": 27,
+                              "width": 33,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_16",
+                                "role": "link",
+                                "name": "Write",
+                                "bounds": {
+                                  "x": 967,
+                                  "y": 28,
+                                  "width": 33,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_17",
+                                    "role": "label",
+                                    "name": "Write",
+                                    "bounds": {
+                                      "x": 967,
+                                      "y": 28,
+                                      "width": 34,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_18",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 1025,
+                              "y": 27,
+                              "width": 42,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "link",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1025,
+                                  "y": 28,
+                                  "width": 42,
+                                  "height": 18
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_20",
+                                    "role": "label",
+                                    "name": "Sign in",
+                                    "bounds": {
+                                      "x": 1025,
+                                      "y": 28,
+                                      "width": 42,
+                                      "height": 18
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_21",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1092,
+                              "y": 18,
+                              "width": 104,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_22",
+                                "role": "link",
+                                "name": "Get started",
+                                "bounds": {
+                                  "x": 1092,
+                                  "y": 28,
+                                  "width": 104,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_23",
+                                    "role": "button",
+                                    "name": "Get started",
+                                    "bounds": {
+                                      "x": 1109,
+                                      "y": 27,
+                                      "width": 70,
+                                      "height": 20
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_24",
+                                        "role": "label",
+                                        "name": "Get started",
+                                        "bounds": {
+                                          "x": 1109,
+                                          "y": 28,
+                                          "width": 70,
+                                          "height": 18
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_25",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 75,
+                          "width": 1261,
+                          "height": 485
+                        },
+                        "children": [
+                          {
+                            "id": "node_26",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 801,
+                              "y": 36,
+                              "width": 460,
+                              "height": 600
+                            },
+                            "children": [
+                              {
+                                "id": "node_27",
+                                "role": "image",
+                                "name": "Brand image",
+                                "bounds": {
+                                  "x": 801,
+                                  "y": 36,
+                                  "width": 460,
+                                  "height": 600
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_28",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 64,
+                              "y": 170,
+                              "width": 720,
+                              "height": 200
+                            },
+                            "children": [
+                              {
+                                "id": "node_29",
+                                "role": "label",
+                                "name": "Human stories & ideas",
+                                "bounds": {
+                                  "x": 64,
+                                  "y": 170,
+                                  "width": 720,
+                                  "height": 200
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_30",
+                                    "role": "label",
+                                    "name": "Human",
+                                    "bounds": {
+                                      "x": 64,
+                                      "y": 151,
+                                      "width": 385,
+                                      "height": 138
+                                    }
+                                  },
+                                  {
+                                    "id": "node_31",
+                                    "role": "label",
+                                    "name": "stories & ideas",
+                                    "bounds": {
+                                      "x": 64,
+                                      "y": 251,
+                                      "width": 686,
+                                      "height": 138
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_32",
+                            "role": "label",
+                            "name": "A place to read, write, and deepen your understanding",
+                            "bounds": {
+                              "x": 64,
+                              "y": 418,
+                              "width": 1133,
+                              "height": 28
+                            },
+                            "children": [
+                              {
+                                "id": "node_33",
+                                "role": "label",
+                                "name": "A place to read, write, and deepen your understanding",
+                                "bounds": {
+                                  "x": 64,
+                                  "y": 418,
+                                  "width": 526,
+                                  "height": 28
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_34",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 64,
+                              "y": 494,
+                              "width": 1133,
+                              "height": 46
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "button",
+                                "name": "Start reading",
+                                "bounds": {
+                                  "x": 85,
+                                  "y": 503,
+                                  "width": 154,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_36",
+                                    "role": "label",
+                                    "name": "Start reading",
+                                    "bounds": {
+                                      "x": 104,
+                                      "y": 504,
+                                      "width": 115,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

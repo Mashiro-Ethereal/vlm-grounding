@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/nextjs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "link",
+      "name": "Showcase",
+      "bbox": [
+        223,
+        20,
+        288,
+        43
+      ],
+      "point": [
+        255,
+        31
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Docs",
+      "bbox": [
+        313,
+        20,
+        345,
+        43
+      ],
+      "point": [
+        329,
+        31
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        369,
+        20,
+        398,
+        43
+      ],
+      "point": [
+        383,
+        31
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Templates",
+      "bbox": [
+        423,
+        20,
+        488,
+        43
+      ],
+      "point": [
+        455,
+        31
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Enterprise",
+      "bbox": [
+        512,
+        20,
+        577,
+        43
+      ],
+      "point": [
+        544,
+        31
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "button",
+      "name": "Search documentation... CtrlK",
+      "bbox": [
+        811,
+        16,
+        1048,
+        48
+      ],
+      "point": [
+        929,
+        32
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        1182,
+        16,
+        1230,
+        48
+      ],
+      "point": [
+        1206,
+        32
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Get Started",
+      "bbox": [
+        503,
+        511,
+        601,
+        559
+      ],
+      "point": [
+        552,
+        535
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Learn Next.js",
+      "bbox": [
+        646,
+        511,
+        756,
+        559
+      ],
+      "point": [
+        701,
+        535
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "image_filename": "datasetv2_cropped/golang/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 15,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "category": "link",
+      "name": "Skip to main content",
+      "bbox": [
+        105,
+        17,
+        272,
+        39
+      ],
+      "point": [
+        188,
+        28
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Why Go",
+      "bbox": [
+        590,
+        3,
+        676,
+        53
+      ],
+      "point": [
+        633,
+        28
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Learn",
+      "bbox": [
+        734,
+        3,
+        778,
+        53
+      ],
+      "point": [
+        756,
+        28
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Docs",
+      "bbox": [
+        837,
+        3,
+        900,
+        53
+      ],
+      "point": [
+        868,
+        28
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Packages",
+      "bbox": [
+        958,
+        3,
+        1032,
+        53
+      ],
+      "point": [
+        995,
+        28
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Community",
+      "bbox": [
+        1091,
+        3,
+        1207,
+        53
+      ],
+      "point": [
+        1149,
+        28
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "button",
+      "name": "Get Started",
+      "bbox": [
+        49,
+        374,
+        327,
+        404
+      ],
+      "point": [
+        188,
+        389
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "button",
+      "name": "Download",
+      "bbox": [
+        350,
+        374,
+        628,
+        404
+      ],
+      "point": [
+        489,
+        389
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Windows 64-bit",
+      "bbox": [
+        205,
+        438,
+        305,
+        453
+      ],
+      "point": [
+        255,
+        445
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "macOS",
+      "bbox": [
+        313,
+        438,
+        359,
+        453
+      ],
+      "point": [
+        336,
+        445
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Linux",
+      "bbox": [
+        368,
+        438,
+        403,
+        453
+      ],
+      "point": [
+        385,
+        445
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "link",
+      "name": "more",
+      "bbox": [
+        440,
+        438,
+        473,
+        453
+      ],
+      "point": [
+        456,
+        445
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Learn more.",
+      "bbox": [
+        122,
+        487,
+        200,
+        502
+      ],
+      "point": [
+        161,
+        494
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "Learn more.",
+      "bbox": [
+        968,
+        536,
+        1064,
+        555
+      ],
+      "point": [
+        1016,
+        545
+      ]
+    },
+    {
+      "id": "node_75",
+      "category": "button",
+      "name": "Okay",
+      "bbox": [
+        1089,
+        535,
+        1129,
+        557
+      ],
+      "point": [
+        1109,
+        546
+      ]
+    }
+  ]
+}

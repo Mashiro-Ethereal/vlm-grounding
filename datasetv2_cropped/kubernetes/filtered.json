@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/kubernetes/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Documentation",
+      "bbox": [
+        287,
+        21,
+        396,
+        42
+      ],
+      "point": [
+        341,
+        31
+      ]
+    },
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "Kubernetes Blog",
+      "bbox": [
+        436,
+        21,
+        550,
+        42
+      ],
+      "point": [
+        493,
+        31
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Training",
+      "bbox": [
+        591,
+        21,
+        648,
+        42
+      ],
+      "point": [
+        619,
+        31
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Careers",
+      "bbox": [
+        689,
+        21,
+        742,
+        42
+      ],
+      "point": [
+        715,
+        31
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Partners",
+      "bbox": [
+        782,
+        21,
+        842,
+        42
+      ],
+      "point": [
+        812,
+        31
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Community",
+      "bbox": [
+        883,
+        21,
+        964,
+        42
+      ],
+      "point": [
+        923,
+        31
+      ]
+    },
+    {
+      "id": "node_36",
+      "category": "link",
+      "name": "KubeCon + CloudNativeCon Europe 2026",
+      "bbox": [
+        120,
+        128,
+        530,
+        153
+      ],
+      "point": [
+        325,
+        140
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "Buy your ticket now! 23 - 26 March | Amsterdam, The Netherlands",
+      "bbox": [
+        120,
+        183,
+        551,
+        202
+      ],
+      "point": [
+        335,
+        192
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "textfield",
+      "name": "Search this site",
+      "bbox": [
+        343,
+        274,
+        917,
+        298
+      ],
+      "point": [
+        630,
+        286
+      ]
+    }
+  ]
+}

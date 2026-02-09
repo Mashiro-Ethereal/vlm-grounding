@@ -1,0 +1,98 @@
+{
+  "image_filename": "datasetv2_cropped/dropbox/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "category": "link",
+      "name": "Meet Dropbox Dash, your new AI teammate.",
+      "bbox": [
+        467,
+        16,
+        792,
+        40
+      ],
+      "point": [
+        629,
+        28
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "button",
+      "name": "Select a language",
+      "bbox": [
+        878,
+        88,
+        902,
+        96
+      ],
+      "point": [
+        890,
+        92
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        926,
+        72,
+        977,
+        112
+      ],
+      "point": [
+        951,
+        92
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1002,
+        72,
+        1043,
+        112
+      ],
+      "point": [
+        1022,
+        92
+      ]
+    },
+    {
+      "id": "node_19",
+      "category": "link",
+      "name": "Get started",
+      "bbox": [
+        1081,
+        74,
+        1170,
+        110
+      ],
+      "point": [
+        1125,
+        92
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Try Dropbox free",
+      "bbox": [
+        74,
+        561,
+        252,
+        580
+      ],
+      "point": [
+        163,
+        570
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/reqres/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_4",
+      "category": "link",
+      "name": "R ReqRes",
+      "bbox": [
+        86,
+        13,
+        179,
+        43
+      ],
+      "point": [
+        132,
+        28
+      ]
+    },
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        529,
+        18,
+        576,
+        39
+      ],
+      "point": [
+        552,
+        28
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Blog",
+      "bbox": [
+        604,
+        18,
+        634,
+        39
+      ],
+      "point": [
+        619,
+        28
+      ]
+    },
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "Docs",
+      "bbox": [
+        663,
+        18,
+        697,
+        39
+      ],
+      "point": [
+        680,
+        28
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Create your backend",
+      "bbox": [
+        288,
+        506,
+        475,
+        530
+      ],
+      "point": [
+        381,
+        518
+      ]
+    }
+  ]
+}

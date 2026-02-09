@@ -1,0 +1,128 @@
+{
+  "image_filename": "datasetv2_cropped/angular/screenshot_cropped.png",
+  "image_width": 1268,
+  "image_height": 583,
+  "sample_count": 8,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "category": "button",
+      "name": "Open search dialog with Control K",
+      "bbox": [
+        6,
+        129,
+        104,
+        179
+      ],
+      "point": [
+        55,
+        154
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Docs",
+      "bbox": [
+        0,
+        219,
+        110,
+        271
+      ],
+      "point": [
+        55,
+        245
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Tutorials",
+      "bbox": [
+        0,
+        311,
+        110,
+        355
+      ],
+      "point": [
+        55,
+        333
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Reference",
+      "bbox": [
+        0,
+        494,
+        110,
+        546
+      ],
+      "point": [
+        55,
+        520
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Learn more about how Google uses cookies",
+      "bbox": [
+        1002,
+        529,
+        1078,
+        546
+      ],
+      "point": [
+        1040,
+        537
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "button",
+      "name": "Ok, Got it",
+      "bbox": [
+        1134,
+        529,
+        1193,
+        545
+      ],
+      "point": [
+        1163,
+        537
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "Angular v21 is here! \ud83d\udd79\ufe0f Start your adventure",
+      "bbox": [
+        170,
+        60,
+        443,
+        82
+      ],
+      "point": [
+        306,
+        71
+      ]
+    },
+    {
+      "id": "node_60",
+      "category": "button",
+      "name": "Get Started",
+      "bbox": [
+        637,
+        415,
+        742,
+        435
+      ],
+      "point": [
+        689,
+        425
+      ]
+    }
+  ]
+}

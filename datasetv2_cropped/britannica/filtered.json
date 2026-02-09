@@ -1,0 +1,53 @@
+{
+  "image_filename": "datasetv2_cropped/britannica/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_5",
+      "category": "button",
+      "name": "Explore",
+      "bbox": [
+        16,
+        16,
+        97,
+        40
+      ],
+      "point": [
+        56,
+        28
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "SUBSCRIBE",
+      "bbox": [
+        1031,
+        18,
+        1119,
+        37
+      ],
+      "point": [
+        1075,
+        27
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Login keyboard_arrow_down",
+      "bbox": [
+        1164,
+        18,
+        1224,
+        37
+      ],
+      "point": [
+        1194,
+        27
+      ]
+    }
+  ]
+}

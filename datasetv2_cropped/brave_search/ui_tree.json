@@ -1,0 +1,729 @@
+{
+  "timestamp": "2026-02-07T05:40:52.405378Z",
+  "screen": {
+    "width": 1276,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1276,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Private Search Engine - Brave Search",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1276,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1276,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1276,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1276,
+                      "height": 583
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 16,
+                          "y": 0,
+                          "width": 1244,
+                          "height": 533
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1209,
+                              "y": 31,
+                              "width": 38,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "button",
+                                "name": "Quick settings",
+                                "bounds": {
+                                  "x": 1210,
+                                  "y": 32,
+                                  "width": 36,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1218,
+                                      "y": 40,
+                                      "width": 20,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_9",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 16,
+                              "y": 24,
+                              "width": 1244,
+                              "height": 485
+                            },
+                            "children": [
+                              {
+                                "id": "node_10",
+                                "role": "link",
+                                "name": "Brave logo",
+                                "bounds": {
+                                  "x": 534,
+                                  "y": 118,
+                                  "width": 206,
+                                  "height": 64
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_11",
+                                    "role": "image",
+                                    "name": "Brave logo",
+                                    "bounds": {
+                                      "x": 534,
+                                      "y": 118,
+                                      "width": 206,
+                                      "height": 64
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_12",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 308,
+                                  "y": 214,
+                                  "width": 676,
+                                  "height": 58
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 308,
+                                      "y": 214,
+                                      "width": 676,
+                                      "height": 58
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_14",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 308,
+                                          "y": 214,
+                                          "width": 50,
+                                          "height": 58
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_15",
+                                            "role": "button",
+                                            "name": "AI Features",
+                                            "bounds": {
+                                              "x": 321,
+                                              "y": 225,
+                                              "width": 36,
+                                              "height": 36
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_16",
+                                                "role": "image",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 329,
+                                                  "y": 233,
+                                                  "width": 20,
+                                                  "height": 20
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_17",
+                                        "role": "textfield",
+                                        "name": "Search",
+                                        "bounds": {
+                                          "x": 368,
+                                          "y": 230,
+                                          "width": 470,
+                                          "height": 26
+                                        },
+                                        "states": [
+                                          "focused"
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_18",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 856,
+                                          "y": 214,
+                                          "width": 38,
+                                          "height": 58
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_19",
+                                            "role": "button",
+                                            "name": "Start voice input",
+                                            "bounds": {
+                                              "x": 857,
+                                              "y": 225,
+                                              "width": 36,
+                                              "height": 36
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_20",
+                                                "role": "image",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 865,
+                                                  "y": 233,
+                                                  "width": 20,
+                                                  "height": 20
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_21",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 906,
+                                          "y": 214,
+                                          "width": 65,
+                                          "height": 58
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_22",
+                                            "role": "button",
+                                            "name": "Ask",
+                                            "bounds": {
+                                              "x": 914,
+                                              "y": 225,
+                                              "width": 45,
+                                              "height": 36
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_23",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 914,
+                                                  "y": 225,
+                                                  "width": 45,
+                                                  "height": 36
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_24",
+                                                    "role": "image",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 914,
+                                                      "y": 235,
+                                                      "width": 16,
+                                                      "height": 16
+                                                    }
+                                                  },
+                                                  {
+                                                    "id": "node_25",
+                                                    "role": "label",
+                                                    "name": "Ask",
+                                                    "bounds": {
+                                                      "x": 934,
+                                                      "y": 234,
+                                                      "width": 26,
+                                                      "height": 17
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_26",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 389,
+                                  "y": 360,
+                                  "width": 497,
+                                  "height": 36
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "image",
+                                    "name": "Brave logo",
+                                    "bounds": {
+                                      "x": 389,
+                                      "y": 366,
+                                      "width": 21,
+                                      "height": 24
+                                    }
+                                  },
+                                  {
+                                    "id": "node_28",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 422,
+                                      "y": 360,
+                                      "width": 337,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_29",
+                                        "role": "label",
+                                        "name": "Brave Browser",
+                                        "bounds": {
+                                          "x": 422,
+                                          "y": 361,
+                                          "width": 85,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_30",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 422,
+                                      "y": 378,
+                                      "width": 337,
+                                      "height": 18
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_31",
+                                        "role": "label",
+                                        "name": "Enjoying private search? Try the browser that puts you first.",
+                                        "bounds": {
+                                          "x": 422,
+                                          "y": 379,
+                                          "width": 337,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_32",
+                                    "role": "link",
+                                    "name": "Download",
+                                    "bounds": {
+                                      "x": 797,
+                                      "y": 366,
+                                      "width": 84,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_33",
+                                        "role": "label",
+                                        "name": "Download",
+                                        "bounds": {
+                                          "x": 797,
+                                          "y": 370,
+                                          "width": 56,
+                                          "height": 15
+                                        }
+                                      },
+                                      {
+                                        "id": "node_34",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 861,
+                                          "y": 370,
+                                          "width": 16,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_35",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 542,
+                          "width": 1276,
+                          "height": 33
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "\u00a9 Brave Software",
+                            "bounds": {
+                              "x": 372,
+                              "y": 550,
+                              "width": 101,
+                              "height": 15
+                            }
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "link",
+                            "name": "Advertise",
+                            "bounds": {
+                              "x": 485,
+                              "y": 549,
+                              "width": 54,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "Advertise",
+                                "bounds": {
+                                  "x": 485,
+                                  "y": 550,
+                                  "width": 54,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_39",
+                            "role": "link",
+                            "name": "API",
+                            "bounds": {
+                              "x": 555,
+                              "y": 549,
+                              "width": 19,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_40",
+                                "role": "label",
+                                "name": "API",
+                                "bounds": {
+                                  "x": 555,
+                                  "y": 550,
+                                  "width": 19,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_41",
+                            "role": "link",
+                            "name": "News",
+                            "bounds": {
+                              "x": 590,
+                              "y": 549,
+                              "width": 31,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_42",
+                                "role": "label",
+                                "name": "News",
+                                "bounds": {
+                                  "x": 590,
+                                  "y": 550,
+                                  "width": 31,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_43",
+                            "role": "link",
+                            "name": "FAQ",
+                            "bounds": {
+                              "x": 638,
+                              "y": 549,
+                              "width": 23,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_44",
+                                "role": "label",
+                                "name": "FAQ",
+                                "bounds": {
+                                  "x": 638,
+                                  "y": 550,
+                                  "width": 23,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_45",
+                            "role": "link",
+                            "name": "Privacy Policy",
+                            "bounds": {
+                              "x": 678,
+                              "y": 549,
+                              "width": 79,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_46",
+                                "role": "label",
+                                "name": "Privacy Policy",
+                                "bounds": {
+                                  "x": 678,
+                                  "y": 550,
+                                  "width": 80,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_47",
+                            "role": "link",
+                            "name": "Report a security issue",
+                            "bounds": {
+                              "x": 773,
+                              "y": 549,
+                              "width": 129,
+                              "height": 18
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "label",
+                                "name": "Report a security issue",
+                                "bounds": {
+                                  "x": 773,
+                                  "y": 550,
+                                  "width": 129,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_49",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 179,
+                      "y": 531,
+                      "width": 918,
+                      "height": 28
+                    },
+                    "children": [
+                      {
+                        "id": "node_50",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 179,
+                          "y": 533,
+                          "width": 847,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_51",
+                            "role": "label",
+                            "name": "Brave Search uses private usage metrics to estimate overall activity and performance. You can turn off this option in ",
+                            "bounds": {
+                              "x": 179,
+                              "y": 537,
+                              "width": 716,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_52",
+                            "role": "link",
+                            "name": "Settings",
+                            "bounds": {
+                              "x": 895,
+                              "y": 537,
+                              "width": 50,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_53",
+                                "role": "label",
+                                "name": "Settings",
+                                "bounds": {
+                                  "x": 895,
+                                  "y": 537,
+                                  "width": 51,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_54",
+                            "role": "label",
+                            "name": ".",
+                            "bounds": {
+                              "x": 945,
+                              "y": 537,
+                              "width": 3,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_55",
+                            "role": "link",
+                            "name": "Learn more.",
+                            "bounds": {
+                              "x": 952,
+                              "y": 537,
+                              "width": 73,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_56",
+                                "role": "label",
+                                "name": "Learn more.",
+                                "bounds": {
+                                  "x": 952,
+                                  "y": 537,
+                                  "width": 73,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_57",
+                        "role": "button",
+                        "name": "Close",
+                        "bounds": {
+                          "x": 1076,
+                          "y": 536,
+                          "width": 14,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_58",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 1075,
+                              "y": 537,
+                              "width": 16,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

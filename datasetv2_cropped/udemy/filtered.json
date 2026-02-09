@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/udemy/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 568,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_13",
+      "category": "button",
+      "name": "Click to redeem",
+      "bbox": [
+        868,
+        15,
+        991,
+        49
+      ],
+      "point": [
+        929,
+        32
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Plans & Pricing",
+      "bbox": [
+        618,
+        80,
+        709,
+        120
+      ],
+      "point": [
+        663,
+        100
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Udemy Business",
+      "bbox": [
+        733,
+        80,
+        834,
+        120
+      ],
+      "point": [
+        783,
+        100
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "Teach on Udemy",
+      "bbox": [
+        859,
+        80,
+        960,
+        120
+      ],
+      "point": [
+        909,
+        100
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1034,
+        81,
+        1088,
+        119
+      ],
+      "point": [
+        1061,
+        100
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "link",
+      "name": "Sign up",
+      "bbox": [
+        1121,
+        80,
+        1177,
+        120
+      ],
+      "point": [
+        1149,
+        100
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Sign up now",
+      "bbox": [
+        100,
+        392,
+        190,
+        440
+      ],
+      "point": [
+        145,
+        416
+      ]
+    }
+  ]
+}

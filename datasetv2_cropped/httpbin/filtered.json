@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/httpbin/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "the developer - Website",
+      "bbox": [
+        20,
+        207,
+        174,
+        226
+      ],
+      "point": [
+        97,
+        216
+      ]
+    },
+    {
+      "id": "node_26",
+      "category": "link",
+      "name": "Send email to the developer",
+      "bbox": [
+        20,
+        229,
+        203,
+        248
+      ],
+      "point": [
+        111,
+        238
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "HTTP Methods",
+      "bbox": [
+        30,
+        418,
+        182,
+        454
+      ],
+      "point": [
+        106,
+        436
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Auth",
+      "bbox": [
+        30,
+        480,
+        79,
+        516
+      ],
+      "point": [
+        54,
+        498
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "link",
+      "name": "Status codes",
+      "bbox": [
+        30,
+        542,
+        162,
+        578
+      ],
+      "point": [
+        96,
+        560
+      ]
+    }
+  ]
+}

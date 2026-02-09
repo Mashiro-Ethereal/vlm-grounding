@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/hashnode/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "Editor",
+      "bbox": [
+        612,
+        40,
+        651,
+        60
+      ],
+      "point": [
+        631,
+        50
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        675,
+        40,
+        721,
+        60
+      ],
+      "point": [
+        698,
+        50
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Changelog",
+      "bbox": [
+        746,
+        40,
+        818,
+        60
+      ],
+      "point": [
+        782,
+        50
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1043,
+        31,
+        1131,
+        69
+      ],
+      "point": [
+        1087,
+        50
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Sign up for free",
+      "bbox": [
+        474,
+        463,
+        592,
+        487
+      ],
+      "point": [
+        533,
+        475
+      ]
+    }
+  ]
+}

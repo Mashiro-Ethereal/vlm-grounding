@@ -1,0 +1,713 @@
+{
+  "timestamp": "2026-02-07T05:44:28.330419Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Best Note Taking App - Organize Your Notes with Evernote",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 7253
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 81
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 150,
+                      "y": 0,
+                      "width": 960,
+                      "height": 80
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 150,
+                          "y": -4,
+                          "width": 523,
+                          "height": 88
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "link",
+                            "name": "Evernote logo",
+                            "bounds": {
+                              "x": 150,
+                              "y": 22,
+                              "width": 144,
+                              "height": 35
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "image",
+                                "name": "Evernote logo",
+                                "bounds": {
+                                  "x": 150,
+                                  "y": 22,
+                                  "width": 144,
+                                  "height": 35
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_8",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 310,
+                              "y": -4,
+                              "width": 363,
+                              "height": 88
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 310,
+                                  "y": 28,
+                                  "width": 101,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_10",
+                                    "role": "link",
+                                    "name": "AI Features",
+                                    "bounds": {
+                                      "x": 320,
+                                      "y": 30,
+                                      "width": 81,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_11",
+                                "role": "button",
+                                "name": "Explore",
+                                "bounds": {
+                                  "x": 426,
+                                  "y": 28,
+                                  "width": 74,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_12",
+                                    "role": "label",
+                                    "name": "Explore",
+                                    "bounds": {
+                                      "x": 426,
+                                      "y": 30,
+                                      "width": 55,
+                                      "height": 19
+                                    }
+                                  },
+                                  {
+                                    "id": "node_13",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 484,
+                                      "y": 32,
+                                      "width": 16,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_14",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 514,
+                                  "y": 28,
+                                  "width": 57,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_15",
+                                    "role": "link",
+                                    "name": "Plans",
+                                    "bounds": {
+                                      "x": 524,
+                                      "y": 30,
+                                      "width": 37,
+                                      "height": 19
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_16",
+                                        "role": "label",
+                                        "name": "Plans",
+                                        "bounds": {
+                                          "x": 524,
+                                          "y": 30,
+                                          "width": 37,
+                                          "height": 19
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_17",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 580,
+                                  "y": 28,
+                                  "width": 94,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_18",
+                                    "role": "link",
+                                    "name": "Enterprise",
+                                    "bounds": {
+                                      "x": 590,
+                                      "y": 30,
+                                      "width": 74,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_19",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 728,
+                          "y": 17,
+                          "width": 96,
+                          "height": 46
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 728,
+                              "y": 28,
+                              "width": 96,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "link",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 752,
+                                  "y": 30,
+                                  "width": 44,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "label",
+                                    "name": "Log in",
+                                    "bounds": {
+                                      "x": 752,
+                                      "y": 30,
+                                      "width": 44,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_23",
+                        "role": "link",
+                        "name": "Download",
+                        "bounds": {
+                          "x": 853,
+                          "y": 28,
+                          "width": 73,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_24",
+                            "role": "label",
+                            "name": "Download",
+                            "bounds": {
+                              "x": 853,
+                              "y": 30,
+                              "width": 73,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_25",
+                        "role": "button",
+                        "name": "Start for free",
+                        "bounds": {
+                          "x": 987,
+                          "y": 27,
+                          "width": 94,
+                          "height": 26
+                        },
+                        "children": [
+                          {
+                            "id": "node_26",
+                            "role": "label",
+                            "name": "Start for free",
+                            "bounds": {
+                              "x": 987,
+                              "y": 30,
+                              "width": 96,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_27",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 40,
+                  "width": 1261,
+                  "height": 6116
+                },
+                "children": [
+                  {
+                    "id": "node_28",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 20,
+                      "y": 40,
+                      "width": 1221,
+                      "height": 797
+                    },
+                    "children": [
+                      {
+                        "id": "node_29",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 150,
+                          "y": 161,
+                          "width": 960,
+                          "height": 635
+                        },
+                        "children": [
+                          {
+                            "id": "node_30",
+                            "role": "label",
+                            "name": "Your second brain",
+                            "bounds": {
+                              "x": 220,
+                              "y": 161,
+                              "width": 820,
+                              "height": 72
+                            },
+                            "children": [
+                              {
+                                "id": "node_31",
+                                "role": "label",
+                                "name": "Your second brain",
+                                "bounds": {
+                                  "x": 368,
+                                  "y": 154,
+                                  "width": 524,
+                                  "height": 86
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_32",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 294,
+                              "y": 257,
+                              "width": 672,
+                              "height": 60
+                            },
+                            "children": [
+                              {
+                                "id": "node_33",
+                                "role": "label",
+                                "name": "Remember everything and tackle any project with your notes, tasks, and schedule all in one place.",
+                                "bounds": {
+                                  "x": 324,
+                                  "y": 260,
+                                  "width": 611,
+                                  "height": 54
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_34",
+                            "role": "button",
+                            "name": "Get Evernote free",
+                            "bounds": {
+                              "x": 545,
+                              "y": 373,
+                              "width": 170,
+                              "height": 27
+                            },
+                            "children": [
+                              {
+                                "id": "node_35",
+                                "role": "label",
+                                "name": "Get Evernote free",
+                                "bounds": {
+                                  "x": 549,
+                                  "y": 374,
+                                  "width": 162,
+                                  "height": 24
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "Already have an account? ",
+                            "bounds": {
+                              "x": 497,
+                              "y": 451,
+                              "width": 215,
+                              "height": 22
+                            }
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "link",
+                            "name": "Log in",
+                            "bounds": {
+                              "x": 713,
+                              "y": 451,
+                              "width": 50,
+                              "height": 22
+                            },
+                            "children": [
+                              {
+                                "id": "node_38",
+                                "role": "label",
+                                "name": "Log in",
+                                "bounds": {
+                                  "x": 713,
+                                  "y": 451,
+                                  "width": 50,
+                                  "height": 22
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_39",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 150,
+                              "y": 476,
+                              "width": 960,
+                              "height": 320
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_40",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_41",
+                    "role": "label",
+                    "name": "We value your privacy",
+                    "bounds": {
+                      "x": 311,
+                      "y": 142,
+                      "width": 180,
+                      "height": 27
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "label",
+                        "name": "We value your privacy",
+                        "bounds": {
+                          "x": 311,
+                          "y": 144,
+                          "width": 180,
+                          "height": 22
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_43",
+                    "role": "button",
+                    "name": "Continue without accepting",
+                    "bounds": {
+                      "x": 803,
+                      "y": 148,
+                      "width": 138,
+                      "height": 15
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "Continue without accepting",
+                        "bounds": {
+                          "x": 803,
+                          "y": 149,
+                          "width": 138,
+                          "height": 13
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_45",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 323,
+                      "y": 209,
+                      "width": 599,
+                      "height": 145
+                    },
+                    "children": [
+                      {
+                        "id": "node_46",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 323,
+                          "y": 209,
+                          "width": 599,
+                          "height": 145
+                        },
+                        "children": [
+                          {
+                            "id": "node_47",
+                            "role": "label",
+                            "name": "We value your privacy. We use cookies that are essential for the website to function properly or to produce aggregated statistics. With your consent, we and our third-party partners use cookies for personalized ads or to improve your website experience.",
+                            "bounds": {
+                              "x": 323,
+                              "y": 210,
+                              "width": 569,
+                              "height": 51
+                            }
+                          },
+                          {
+                            "id": "node_48",
+                            "role": "label",
+                            "name": "To give your consent, tap \u201cAccept all cookies\u201d. Alternatively, you can customize your cookie settings by tapping \u201cCustomize preferences\u201c or accessing \u201cCookie Preferences\u201d at any time. If you prefer that we only use essential cookies and those required for aggregated statistics, tap \u201cContinue without accepting\u201d in the top-right corner. For more information, see our",
+                            "bounds": {
+                              "x": 323,
+                              "y": 283,
+                              "width": 597,
+                              "height": 69
+                            }
+                          },
+                          {
+                            "id": "node_49",
+                            "role": "label",
+                            "name": " ",
+                            "bounds": {
+                              "x": 696,
+                              "y": 337,
+                              "width": 3,
+                              "height": 15
+                            }
+                          },
+                          {
+                            "id": "node_50",
+                            "role": "link",
+                            "name": "Cookie Notice",
+                            "bounds": {
+                              "x": 699,
+                              "y": 337,
+                              "width": 83,
+                              "height": 15
+                            },
+                            "children": [
+                              {
+                                "id": "node_51",
+                                "role": "label",
+                                "name": "Cookie Notice",
+                                "bounds": {
+                                  "x": 699,
+                                  "y": 337,
+                                  "width": 84,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_52",
+                            "role": "label",
+                            "name": ".",
+                            "bounds": {
+                              "x": 783,
+                              "y": 337,
+                              "width": 3,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_53",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 315,
+                      "y": 390,
+                      "width": 630,
+                      "height": 46
+                    },
+                    "children": [
+                      {
+                        "id": "node_54",
+                        "role": "button",
+                        "name": "Customize preferences",
+                        "bounds": {
+                          "x": 340,
+                          "y": 401,
+                          "width": 261,
+                          "height": 24
+                        },
+                        "children": [
+                          {
+                            "id": "node_55",
+                            "role": "label",
+                            "name": "Customize preferences",
+                            "bounds": {
+                              "x": 386,
+                              "y": 403,
+                              "width": 170,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_56",
+                        "role": "button",
+                        "name": "Accept all cookies",
+                        "bounds": {
+                          "x": 659,
+                          "y": 400,
+                          "width": 262,
+                          "height": 26
+                        },
+                        "children": [
+                          {
+                            "id": "node_57",
+                            "role": "label",
+                            "name": "Accept all cookies",
+                            "bounds": {
+                              "x": 723,
+                              "y": 403,
+                              "width": 134,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

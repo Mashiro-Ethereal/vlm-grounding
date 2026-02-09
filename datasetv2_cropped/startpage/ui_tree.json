@@ -1,0 +1,271 @@
+{
+  "timestamp": "2026-02-07T05:40:52.426066Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Startpage - Private Search Engine. No Tracking. No Search History.",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 5035
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 5035
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 59,
+                      "width": 1261,
+                      "height": 591
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1040,
+                          "y": 16,
+                          "width": 204,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1040,
+                              "y": 16,
+                              "width": 148,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "button",
+                                "name": "Privacy, Please!",
+                                "bounds": {
+                                  "x": 1050,
+                                  "y": 21,
+                                  "width": 128,
+                                  "height": 26
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "label",
+                                    "name": "Privacy, Please!",
+                                    "bounds": {
+                                      "x": 1050,
+                                      "y": 25,
+                                      "width": 104,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_9",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1163,
+                                      "y": 26,
+                                      "width": 16,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_10",
+                            "role": "button",
+                            "name": "hamburger menu",
+                            "bounds": {
+                              "x": 1205,
+                              "y": 24,
+                              "width": 40,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_11",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 362,
+                          "y": 124,
+                          "width": 536,
+                          "height": 149
+                        },
+                        "children": [
+                          {
+                            "id": "node_12",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 462,
+                              "y": 201,
+                              "width": 336,
+                              "height": 21
+                            },
+                            "children": [
+                              {
+                                "id": "node_13",
+                                "role": "label",
+                                "name": "The world\u2019s most private search engine.",
+                                "bounds": {
+                                  "x": 462,
+                                  "y": 201,
+                                  "width": 336,
+                                  "height": 21
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_14",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 362,
+                              "y": 222,
+                              "width": 536,
+                              "height": 51
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 363,
+                                  "y": 247,
+                                  "width": 534,
+                                  "height": 51
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "panel",
+                                    "name": "top search bar",
+                                    "bounds": {
+                                      "x": 363,
+                                      "y": 247,
+                                      "width": 534,
+                                      "height": 51
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_17",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 379,
+                                          "y": 262,
+                                          "width": 443,
+                                          "height": 20
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_18",
+                                            "role": "textfield",
+                                            "name": "search",
+                                            "bounds": {
+                                              "x": 379,
+                                              "y": 262,
+                                              "width": 443,
+                                              "height": 20
+                                            },
+                                            "states": [
+                                              "focused"
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_19",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 862,
+                                          "y": 262,
+                                          "width": 35,
+                                          "height": 20
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_20",
+                                            "role": "button",
+                                            "name": "search button",
+                                            "bounds": {
+                                              "x": 862,
+                                              "y": 264,
+                                              "width": 16,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

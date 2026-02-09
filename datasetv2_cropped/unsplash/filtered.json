@@ -1,0 +1,188 @@
+{
+  "image_filename": "datasetv2_cropped/unsplash/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 12,
+  "test_samples": [
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Featured",
+      "bbox": [
+        24,
+        104,
+        85,
+        168
+      ],
+      "point": [
+        54,
+        136
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Wallpapers",
+      "bbox": [
+        109,
+        104,
+        186,
+        168
+      ],
+      "point": [
+        147,
+        136
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "link",
+      "name": "3D Renders",
+      "bbox": [
+        211,
+        104,
+        292,
+        168
+      ],
+      "point": [
+        251,
+        136
+      ]
+    },
+    {
+      "id": "node_36",
+      "category": "link",
+      "name": "Nature",
+      "bbox": [
+        316,
+        104,
+        363,
+        168
+      ],
+      "point": [
+        339,
+        136
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "Textures",
+      "bbox": [
+        387,
+        104,
+        445,
+        168
+      ],
+      "point": [
+        416,
+        136
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "Film",
+      "bbox": [
+        470,
+        104,
+        498,
+        168
+      ],
+      "point": [
+        484,
+        136
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Architecture",
+      "bbox": [
+        522,
+        104,
+        607,
+        168
+      ],
+      "point": [
+        564,
+        136
+      ]
+    },
+    {
+      "id": "node_48",
+      "category": "link",
+      "name": "Street Photography",
+      "bbox": [
+        632,
+        104,
+        768,
+        168
+      ],
+      "point": [
+        700,
+        136
+      ]
+    },
+    {
+      "id": "node_51",
+      "category": "link",
+      "name": "Experimental",
+      "bbox": [
+        792,
+        104,
+        885,
+        168
+      ],
+      "point": [
+        838,
+        136
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "link",
+      "name": "Travel",
+      "bbox": [
+        910,
+        104,
+        951,
+        168
+      ],
+      "point": [
+        930,
+        136
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "link",
+      "name": "People",
+      "bbox": [
+        975,
+        104,
+        1021,
+        168
+      ],
+      "point": [
+        998,
+        136
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "link",
+      "name": "Series by ohlamour studio",
+      "bbox": [
+        456,
+        244,
+        804,
+        510
+      ],
+      "point": [
+        630,
+        377
+      ]
+    }
+  ]
+}

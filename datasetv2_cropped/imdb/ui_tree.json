@@ -1,0 +1,1525 @@
+{
+  "timestamp": "2026-02-07T05:46:14.044907Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3726
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 3726
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 4,
+                      "width": 1261,
+                      "height": 48
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "Home",
+                        "bounds": {
+                          "x": 130,
+                          "y": 12,
+                          "width": 64,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 130,
+                              "y": 12,
+                              "width": 64,
+                              "height": 32
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_7",
+                        "role": "label",
+                        "name": "Open navigation drawer",
+                        "bounds": {
+                          "x": 218,
+                          "y": 12,
+                          "width": 64,
+                          "height": 32
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "label",
+                            "name": "Menu",
+                            "bounds": {
+                              "x": 246,
+                              "y": 19,
+                              "width": 36,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 307,
+                          "y": 10,
+                          "width": 464,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 307,
+                              "y": 12,
+                              "width": 464,
+                              "height": 32
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 307,
+                                  "y": 12,
+                                  "width": 58,
+                                  "height": 32
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_12",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 307,
+                                      "y": 12,
+                                      "width": 58,
+                                      "height": 32
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_13",
+                                        "role": "label",
+                                        "name": "All",
+                                        "bounds": {
+                                          "x": 319,
+                                          "y": 12,
+                                          "width": 41,
+                                          "height": 32
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_14",
+                                            "role": "label",
+                                            "name": "All",
+                                            "bounds": {
+                                              "x": 319,
+                                              "y": 20,
+                                              "width": 17,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "combobox",
+                                "name": "",
+                                "bounds": {
+                                  "x": 365,
+                                  "y": 12,
+                                  "width": 349,
+                                  "height": 31
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "textfield",
+                                    "name": "Search IMDb",
+                                    "bounds": {
+                                      "x": 373,
+                                      "y": 17,
+                                      "width": 341,
+                                      "height": 20
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_17",
+                                "role": "button",
+                                "name": "Submit search",
+                                "bounds": {
+                                  "x": 734,
+                                  "y": 15,
+                                  "width": 32,
+                                  "height": 24
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_18",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 779,
+                          "y": 10,
+                          "width": 84,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_19",
+                            "role": "link",
+                            "name": "Go To IMDb Pro",
+                            "bounds": {
+                              "x": 795,
+                              "y": 10,
+                              "width": 52,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_20",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 795,
+                                  "y": 21,
+                                  "width": 52,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_21",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 881,
+                          "y": 10,
+                          "width": 115,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "link",
+                            "name": "Watchlist",
+                            "bounds": {
+                              "x": 897,
+                              "y": 10,
+                              "width": 83,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_23",
+                                "role": "label",
+                                "name": "Watchlist",
+                                "bounds": {
+                                  "x": 919,
+                                  "y": 20,
+                                  "width": 61,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_24",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 997,
+                          "y": 10,
+                          "width": 77,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_25",
+                            "role": "link",
+                            "name": "Sign in",
+                            "bounds": {
+                              "x": 1013,
+                              "y": 10,
+                              "width": 45,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "label",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1013,
+                                  "y": 20,
+                                  "width": 45,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_27",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 861,
+                              "y": 52,
+                              "width": 264,
+                              "height": 102
+                            },
+                            "children": [
+                              {
+                                "id": "node_28",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 875,
+                                  "y": 66,
+                                  "width": 236,
+                                  "height": 74
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_29",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 875,
+                                      "y": 66,
+                                      "width": 186,
+                                      "height": 38
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_30",
+                                        "role": "link",
+                                        "name": "Sign in",
+                                        "bounds": {
+                                          "x": 891,
+                                          "y": 66,
+                                          "width": 154,
+                                          "height": 36
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_31",
+                                            "role": "label",
+                                            "name": "Sign in",
+                                            "bounds": {
+                                              "x": 946,
+                                              "y": 76,
+                                              "width": 45,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_32",
+                                    "role": "button",
+                                    "name": "Close",
+                                    "bounds": {
+                                      "x": 1083,
+                                      "y": 75,
+                                      "width": 20,
+                                      "height": 20
+                                    }
+                                  },
+                                  {
+                                    "id": "node_33",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 875,
+                                      "y": 116,
+                                      "width": 236,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_34",
+                                        "role": "label",
+                                        "name": "New customer?",
+                                        "bounds": {
+                                          "x": 875,
+                                          "y": 118,
+                                          "width": 117,
+                                          "height": 19
+                                        }
+                                      },
+                                      {
+                                        "id": "node_35",
+                                        "role": "label",
+                                        "name": "\u00a0",
+                                        "bounds": {
+                                          "x": 993,
+                                          "y": 118,
+                                          "width": 4,
+                                          "height": 19
+                                        }
+                                      },
+                                      {
+                                        "id": "node_36",
+                                        "role": "link",
+                                        "name": "Create account",
+                                        "bounds": {
+                                          "x": 997,
+                                          "y": 116,
+                                          "width": 114,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_37",
+                                            "role": "label",
+                                            "name": "Create account",
+                                            "bounds": {
+                                              "x": 997,
+                                              "y": 118,
+                                              "width": 114,
+                                              "height": 19
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_38",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1074,
+                          "y": 10,
+                          "width": 56,
+                          "height": 36
+                        },
+                        "children": [
+                          {
+                            "id": "node_39",
+                            "role": "label",
+                            "name": "Toggle language selector",
+                            "bounds": {
+                              "x": 1090,
+                              "y": 10,
+                              "width": 36,
+                              "height": 36
+                            },
+                            "children": [
+                              {
+                                "id": "node_40",
+                                "role": "label",
+                                "name": "EN",
+                                "bounds": {
+                                  "x": 1090,
+                                  "y": 20,
+                                  "width": 18,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_41",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 56,
+                      "width": 1261,
+                      "height": 3138
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 56,
+                          "width": 1261,
+                          "height": 282
+                        },
+                        "children": [
+                          {
+                            "id": "node_43",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 118,
+                              "y": 68,
+                              "width": 1024,
+                              "height": 250
+                            },
+                            "children": [
+                              {
+                                "id": "node_44",
+                                "role": "panel",
+                                "name": "Sponsored Content",
+                                "bounds": {
+                                  "x": 145,
+                                  "y": 68,
+                                  "width": 970,
+                                  "height": 250
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_45",
+                                    "role": "button",
+                                    "name": "Get information, provide feedback or report sponsored ad",
+                                    "bounds": {
+                                      "x": 1041,
+                                      "y": 318,
+                                      "width": 74,
+                                      "height": 14
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_46",
+                                        "role": "label",
+                                        "name": "Sponsored ",
+                                        "bounds": {
+                                          "x": 1048,
+                                          "y": 322,
+                                          "width": 53,
+                                          "height": 13
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_47",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 118,
+                          "y": 346,
+                          "width": 1013,
+                          "height": 441
+                        },
+                        "children": [
+                          {
+                            "id": "node_48",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 126,
+                              "y": 346,
+                              "width": 659,
+                              "height": 441
+                            },
+                            "children": [
+                              {
+                                "id": "node_49",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 126,
+                                  "y": 346,
+                                  "width": 659,
+                                  "height": 441
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_50",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": -533,
+                                      "y": 346,
+                                      "width": 660,
+                                      "height": 441
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_51",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": -533,
+                                          "y": 346,
+                                          "width": 660,
+                                          "height": 441
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_52",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": -533,
+                                              "y": 346,
+                                              "width": 660,
+                                              "height": 441
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_53",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": -533,
+                                                  "y": 346,
+                                                  "width": 660,
+                                                  "height": 371
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_54",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": -533,
+                                                      "y": 346,
+                                                      "width": 660,
+                                                      "height": 371
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_55",
+                                                        "role": "image",
+                                                        "name": "'The Drama'",
+                                                        "bounds": {
+                                                          "x": -533,
+                                                          "y": 345,
+                                                          "width": 660,
+                                                          "height": 371
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_56",
+                                                    "role": "panel",
+                                                    "name": "'The Drama'",
+                                                    "bounds": {
+                                                      "x": -525,
+                                                      "y": 354,
+                                                      "width": 644,
+                                                      "height": 425
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_57",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 126,
+                                      "y": 346,
+                                      "width": 660,
+                                      "height": 441
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_58",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 126,
+                                          "y": 346,
+                                          "width": 660,
+                                          "height": 441
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_59",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 126,
+                                              "y": 346,
+                                              "width": 660,
+                                              "height": 441
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_60",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 126,
+                                                  "y": 346,
+                                                  "width": 660,
+                                                  "height": 371
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_61",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 126,
+                                                      "y": 346,
+                                                      "width": 660,
+                                                      "height": 371
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_62",
+                                                        "role": "image",
+                                                        "name": "'The Devil Wears Prada 2'",
+                                                        "bounds": {
+                                                          "x": 126,
+                                                          "y": 345,
+                                                          "width": 660,
+                                                          "height": 371
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_63",
+                                                    "role": "panel",
+                                                    "name": "'The Devil Wears Prada 2'",
+                                                    "bounds": {
+                                                      "x": 134,
+                                                      "y": 354,
+                                                      "width": 644,
+                                                      "height": 425
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_64",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 786,
+                                      "y": 346,
+                                      "width": 660,
+                                      "height": 441
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_65",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 786,
+                                          "y": 346,
+                                          "width": 660,
+                                          "height": 441
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_66",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 786,
+                                              "y": 346,
+                                              "width": 660,
+                                              "height": 441
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_67",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 786,
+                                                  "y": 346,
+                                                  "width": 660,
+                                                  "height": 371
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_68",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 786,
+                                                      "y": 346,
+                                                      "width": 660,
+                                                      "height": 371
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_69",
+                                                        "role": "image",
+                                                        "name": "'Michael'",
+                                                        "bounds": {
+                                                          "x": 786,
+                                                          "y": 345,
+                                                          "width": 660,
+                                                          "height": 371
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_70",
+                                                    "role": "panel",
+                                                    "name": "'Michael'",
+                                                    "bounds": {
+                                                      "x": 794,
+                                                      "y": 354,
+                                                      "width": 644,
+                                                      "height": 425
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_71",
+                                    "role": "button",
+                                    "name": "Previous slide",
+                                    "bounds": {
+                                      "x": 126,
+                                      "y": 456,
+                                      "width": 27,
+                                      "height": 44
+                                    }
+                                  },
+                                  {
+                                    "id": "node_72",
+                                    "role": "button",
+                                    "name": "Next slide",
+                                    "bounds": {
+                                      "x": 759,
+                                      "y": 456,
+                                      "width": 27,
+                                      "height": 44
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_73",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 798,
+                              "y": 346,
+                              "width": 325,
+                              "height": 441
+                            },
+                            "children": [
+                              {
+                                "id": "node_74",
+                                "role": "label",
+                                "name": "Up next",
+                                "bounds": {
+                                  "x": 798,
+                                  "y": 350,
+                                  "width": 70,
+                                  "height": 24
+                                }
+                              },
+                              {
+                                "id": "node_75",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 798,
+                                  "y": 398,
+                                  "width": 325,
+                                  "height": 339
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_76",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 798,
+                                      "y": 398,
+                                      "width": 325,
+                                      "height": 339
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_77",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 798,
+                                          "y": 172,
+                                          "width": 325,
+                                          "height": 339
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_78",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 814,
+                                              "y": 172,
+                                              "width": 293,
+                                              "height": 113
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_79",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 814,
+                                                  "y": 188,
+                                                  "width": 67,
+                                                  "height": 106
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_80",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 814,
+                                                      "y": 188,
+                                                      "width": 67,
+                                                      "height": 99
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_81",
+                                                        "role": "image",
+                                                        "name": "The Drama",
+                                                        "bounds": {
+                                                          "x": 814,
+                                                          "y": 188,
+                                                          "width": 67,
+                                                          "height": 99
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "id": "node_82",
+                                                "role": "link",
+                                                "name": "2:10 'The Drama' 244 people liked this video There are 97 reactions to this video from other people, primarily Love it and Appreciate emojis",
+                                                "bounds": {
+                                                  "x": 889,
+                                                  "y": 188,
+                                                  "width": 226,
+                                                  "height": 80
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_83",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 188,
+                                                      "width": 226,
+                                                      "height": 28
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_84",
+                                                        "role": "label",
+                                                        "name": "2:10",
+                                                        "bounds": {
+                                                          "x": 925,
+                                                          "y": 198,
+                                                          "width": 27,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_85",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 222,
+                                                      "width": 226,
+                                                      "height": 20
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_86",
+                                                        "role": "label",
+                                                        "name": "'The Drama'",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 222,
+                                                          "width": 84,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_87",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 244,
+                                                      "width": 226,
+                                                      "height": 24
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_88",
+                                                        "role": "image",
+                                                        "name": "244 people liked this video",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 246,
+                                                          "width": 24,
+                                                          "height": 19
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_89",
+                                                        "role": "image",
+                                                        "name": "There are 97 reactions to this video from other people, primarily Love it and Appreciate emojis",
+                                                        "bounds": {
+                                                          "x": 942,
+                                                          "y": 246,
+                                                          "width": 36,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_90",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 814,
+                                              "y": 285,
+                                              "width": 293,
+                                              "height": 113
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_91",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 814,
+                                                  "y": 301,
+                                                  "width": 67,
+                                                  "height": 106
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_92",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 814,
+                                                      "y": 301,
+                                                      "width": 67,
+                                                      "height": 99
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_93",
+                                                        "role": "image",
+                                                        "name": "The Devil Wears Prada 2",
+                                                        "bounds": {
+                                                          "x": 814,
+                                                          "y": 301,
+                                                          "width": 67,
+                                                          "height": 99
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "id": "node_94",
+                                                "role": "link",
+                                                "name": "1:39 'The Devil Wears Prada 2' 641 people liked this video There are 283 reactions to this video from other people, primarily Love it and Excited emojis",
+                                                "bounds": {
+                                                  "x": 889,
+                                                  "y": 301,
+                                                  "width": 226,
+                                                  "height": 80
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_95",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 301,
+                                                      "width": 226,
+                                                      "height": 28
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_96",
+                                                        "role": "label",
+                                                        "name": "1:39",
+                                                        "bounds": {
+                                                          "x": 925,
+                                                          "y": 311,
+                                                          "width": 27,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_97",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 335,
+                                                      "width": 226,
+                                                      "height": 20
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_98",
+                                                        "role": "label",
+                                                        "name": "'The Devil Wears Prada 2'",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 335,
+                                                          "width": 181,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_99",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 357,
+                                                      "width": 226,
+                                                      "height": 24
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_100",
+                                                        "role": "image",
+                                                        "name": "641 people liked this video",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 359,
+                                                          "width": 24,
+                                                          "height": 19
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_101",
+                                                        "role": "image",
+                                                        "name": "There are 283 reactions to this video from other people, primarily Love it and Excited emojis",
+                                                        "bounds": {
+                                                          "x": 942,
+                                                          "y": 359,
+                                                          "width": 36,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_102",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 814,
+                                              "y": 398,
+                                              "width": 293,
+                                              "height": 113
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_103",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 814,
+                                                  "y": 414,
+                                                  "width": 67,
+                                                  "height": 106
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_104",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 814,
+                                                      "y": 414,
+                                                      "width": 67,
+                                                      "height": 99
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_105",
+                                                        "role": "image",
+                                                        "name": "Michael",
+                                                        "bounds": {
+                                                          "x": 814,
+                                                          "y": 414,
+                                                          "width": 67,
+                                                          "height": 99
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "id": "node_106",
+                                                "role": "link",
+                                                "name": "2:17 'Michael' 199 people liked this video There are 147 reactions to this video from other people, primarily Love it and Appreciate emojis",
+                                                "bounds": {
+                                                  "x": 889,
+                                                  "y": 414,
+                                                  "width": 226,
+                                                  "height": 80
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_107",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 414,
+                                                      "width": 226,
+                                                      "height": 28
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_108",
+                                                        "role": "label",
+                                                        "name": "2:17",
+                                                        "bounds": {
+                                                          "x": 925,
+                                                          "y": 424,
+                                                          "width": 27,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_109",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 448,
+                                                      "width": 226,
+                                                      "height": 20
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_110",
+                                                        "role": "label",
+                                                        "name": "'Michael'",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 448,
+                                                          "width": 63,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_111",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 470,
+                                                      "width": 226,
+                                                      "height": 24
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_112",
+                                                        "role": "image",
+                                                        "name": "199 people liked this video",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 472,
+                                                          "width": 24,
+                                                          "height": 19
+                                                        }
+                                                      },
+                                                      {
+                                                        "id": "node_113",
+                                                        "role": "image",
+                                                        "name": "There are 147 reactions to this video from other people, primarily Love it and Appreciate emojis",
+                                                        "bounds": {
+                                                          "x": 942,
+                                                          "y": 472,
+                                                          "width": 36,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "node_114",
+                                            "role": "panel",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 814,
+                                              "y": 511,
+                                              "width": 293,
+                                              "height": 113
+                                            },
+                                            "children": [
+                                              {
+                                                "id": "node_115",
+                                                "role": "panel",
+                                                "name": "",
+                                                "bounds": {
+                                                  "x": 814,
+                                                  "y": 527,
+                                                  "width": 67,
+                                                  "height": 106
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_116",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 814,
+                                                      "y": 527,
+                                                      "width": 67,
+                                                      "height": 99
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_117",
+                                                        "role": "image",
+                                                        "name": "War Machine",
+                                                        "bounds": {
+                                                          "x": 814,
+                                                          "y": 527,
+                                                          "width": 67,
+                                                          "height": 99
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "id": "node_118",
+                                                "role": "link",
+                                                "name": "1:42 'War Machine' 147 people liked this video There are 80 reactions to this video from other people, primarily Love it and Excited emojis",
+                                                "bounds": {
+                                                  "x": 889,
+                                                  "y": 527,
+                                                  "width": 226,
+                                                  "height": 80
+                                                },
+                                                "children": [
+                                                  {
+                                                    "id": "node_119",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 527,
+                                                      "width": 226,
+                                                      "height": 28
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_120",
+                                                        "role": "label",
+                                                        "name": "1:42",
+                                                        "bounds": {
+                                                          "x": 925,
+                                                          "y": 537,
+                                                          "width": 27,
+                                                          "height": 16
+                                                        }
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "node_121",
+                                                    "role": "panel",
+                                                    "name": "",
+                                                    "bounds": {
+                                                      "x": 889,
+                                                      "y": 561,
+                                                      "width": 226,
+                                                      "height": 20
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "id": "node_122",
+                                                        "role": "label",
+                                                        "name": "'War Machine'",
+                                                        "bounds": {
+                                                          "x": 889,
+                                                          "y": 561,
+                                                          "width": 100,
+                                                          "height": 19
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

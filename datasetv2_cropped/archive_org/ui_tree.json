@@ -1,0 +1,2191 @@
+{
+  "timestamp": "2026-02-07T05:41:12.102514Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3250
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "link",
+                "name": "Skip to main content",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "Skip to main content",
+                    "bounds": {
+                      "x": 0,
+                      "y": 2,
+                      "width": 55,
+                      "height": 76
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_5",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 84
+                },
+                "children": [
+                  {
+                    "id": "node_6",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 51
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1246,
+                          "height": 50
+                        },
+                        "children": [
+                          {
+                            "id": "node_8",
+                            "role": "link",
+                            "name": "Internet Archive logo A line drawing of the Internet Archive headquarters building fa\u00e7ade. ",
+                            "bounds": {
+                              "x": 10,
+                              "y": 10,
+                              "width": 142,
+                              "height": 30
+                            },
+                            "children": [
+                              {
+                                "id": "node_9",
+                                "role": "image",
+                                "name": "Internet Archive logo A line drawing of the Internet Archive headquarters building fa\u00e7ade. ",
+                                "bounds": {
+                                  "x": 10,
+                                  "y": 10,
+                                  "width": 27,
+                                  "height": 30
+                                }
+                              },
+                              {
+                                "id": "node_10",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 47,
+                                  "y": 10,
+                                  "width": 95,
+                                  "height": 30
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_11",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 157,
+                              "y": 0,
+                              "width": 812,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_12",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 157,
+                                  "y": 0,
+                                  "width": 812,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_13",
+                                    "role": "link",
+                                    "name": "Web icon An illustration of a computer application window WEB",
+                                    "bounds": {
+                                      "x": 157,
+                                      "y": 0,
+                                      "width": 80,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_14",
+                                        "role": "image",
+                                        "name": "Web icon An illustration of a computer application window",
+                                        "bounds": {
+                                          "x": 157,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_15",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 197,
+                                          "y": 17,
+                                          "width": 30,
+                                          "height": 15
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_16",
+                                            "role": "label",
+                                            "name": "WEB",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_17",
+                                    "role": "link",
+                                    "name": "Texts icon An illustration of an open book. TEXTS",
+                                    "bounds": {
+                                      "x": 237,
+                                      "y": 0,
+                                      "width": 91,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_18",
+                                        "role": "image",
+                                        "name": "Texts icon An illustration of an open book.",
+                                        "bounds": {
+                                          "x": 237,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_19",
+                                        "role": "label",
+                                        "name": "TEXTS",
+                                        "bounds": {
+                                          "x": 276,
+                                          "y": 17,
+                                          "width": 43,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_20",
+                                    "role": "link",
+                                    "name": "Video icon An illustration of two cells of a film strip. VIDEO",
+                                    "bounds": {
+                                      "x": 328,
+                                      "y": 0,
+                                      "width": 91,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_21",
+                                        "role": "image",
+                                        "name": "Video icon An illustration of two cells of a film strip.",
+                                        "bounds": {
+                                          "x": 328,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_22",
+                                        "role": "label",
+                                        "name": "VIDEO",
+                                        "bounds": {
+                                          "x": 368,
+                                          "y": 17,
+                                          "width": 41,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_23",
+                                    "role": "link",
+                                    "name": "Audio icon An illustration of an audio speaker. AUDIO",
+                                    "bounds": {
+                                      "x": 419,
+                                      "y": 0,
+                                      "width": 92,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_24",
+                                        "role": "image",
+                                        "name": "Audio icon An illustration of an audio speaker.",
+                                        "bounds": {
+                                          "x": 419,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_25",
+                                        "role": "label",
+                                        "name": "AUDIO",
+                                        "bounds": {
+                                          "x": 459,
+                                          "y": 17,
+                                          "width": 42,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_26",
+                                    "role": "link",
+                                    "name": "Software icon An illustration of a 3.5\" floppy disk. SOFTWARE",
+                                    "bounds": {
+                                      "x": 511,
+                                      "y": 0,
+                                      "width": 121,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_27",
+                                        "role": "image",
+                                        "name": "Software icon An illustration of a 3.5\" floppy disk.",
+                                        "bounds": {
+                                          "x": 511,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_28",
+                                        "role": "label",
+                                        "name": "SOFTWARE",
+                                        "bounds": {
+                                          "x": 551,
+                                          "y": 17,
+                                          "width": 71,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_29",
+                                    "role": "link",
+                                    "name": "Images icon An illustration of two photographs. IMAGES",
+                                    "bounds": {
+                                      "x": 633,
+                                      "y": 0,
+                                      "width": 100,
+                                      "height": 50
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_30",
+                                        "role": "image",
+                                        "name": "Images icon An illustration of two photographs.",
+                                        "bounds": {
+                                          "x": 633,
+                                          "y": 5,
+                                          "width": 40,
+                                          "height": 40
+                                        }
+                                      },
+                                      {
+                                        "id": "node_31",
+                                        "role": "label",
+                                        "name": "IMAGES",
+                                        "bounds": {
+                                          "x": 673,
+                                          "y": 17,
+                                          "width": 50,
+                                          "height": 15
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_32",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 969,
+                              "y": 0,
+                              "width": 174,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_33",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 974,
+                                  "y": 10,
+                                  "width": 164,
+                                  "height": 32
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_34",
+                                    "role": "button",
+                                    "name": "Toggle login menu",
+                                    "bounds": {
+                                      "x": 980,
+                                      "y": 11,
+                                      "width": 30,
+                                      "height": 30
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_35",
+                                        "role": "image",
+                                        "name": "User icon An illustration of a person's head and chest.",
+                                        "bounds": {
+                                          "x": 980,
+                                          "y": 11,
+                                          "width": 30,
+                                          "height": 30
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_36",
+                                    "role": "link",
+                                    "name": "SIGN UP",
+                                    "bounds": {
+                                      "x": 1020,
+                                      "y": 18,
+                                      "width": 57,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_37",
+                                        "role": "label",
+                                        "name": "SIGN UP",
+                                        "bounds": {
+                                          "x": 1020,
+                                          "y": 18,
+                                          "width": 57,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_38",
+                                    "role": "label",
+                                    "name": " | ",
+                                    "bounds": {
+                                      "x": 1077,
+                                      "y": 18,
+                                      "width": 14,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_39",
+                                    "role": "link",
+                                    "name": "LOG IN",
+                                    "bounds": {
+                                      "x": 1091,
+                                      "y": 18,
+                                      "width": 48,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_40",
+                                        "role": "label",
+                                        "name": "LOG IN",
+                                        "bounds": {
+                                          "x": 1091,
+                                          "y": 18,
+                                          "width": 48,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_41",
+                            "role": "link",
+                            "name": "Upload icon An illustration of a horizontal line over an up pointing arrow. UPLOAD",
+                            "bounds": {
+                              "x": 1149,
+                              "y": 10,
+                              "width": 91,
+                              "height": 30
+                            },
+                            "children": [
+                              {
+                                "id": "node_42",
+                                "role": "image",
+                                "name": "Upload icon An illustration of a horizontal line over an up pointing arrow. ",
+                                "bounds": {
+                                  "x": 1149,
+                                  "y": 10,
+                                  "width": 30,
+                                  "height": 30
+                                }
+                              },
+                              {
+                                "id": "node_43",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1183,
+                                  "y": 15,
+                                  "width": 57,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_44",
+                                    "role": "label",
+                                    "name": "UPLOAD",
+                                    "bounds": {
+                                      "x": 1183,
+                                      "y": 17,
+                                      "width": 57,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_45",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 59,
+                      "width": 1261,
+                      "height": 17
+                    },
+                    "children": [
+                      {
+                        "id": "node_46",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 275,
+                          "y": 59,
+                          "width": 41,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_47",
+                            "role": "link",
+                            "name": "ABOUT",
+                            "bounds": {
+                              "x": 275,
+                              "y": 60,
+                              "width": 41,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "label",
+                                "name": "ABOUT",
+                                "bounds": {
+                                  "x": 275,
+                                  "y": 60,
+                                  "width": 43,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_49",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 350,
+                          "y": 59,
+                          "width": 33,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_50",
+                            "role": "link",
+                            "name": "BLOG",
+                            "bounds": {
+                              "x": 350,
+                              "y": 60,
+                              "width": 33,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_51",
+                                "role": "label",
+                                "name": "BLOG",
+                                "bounds": {
+                                  "x": 350,
+                                  "y": 60,
+                                  "width": 33,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_52",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 418,
+                          "y": 59,
+                          "width": 47,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_53",
+                            "role": "link",
+                            "name": "EVENTS",
+                            "bounds": {
+                              "x": 418,
+                              "y": 60,
+                              "width": 47,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_54",
+                                "role": "label",
+                                "name": "EVENTS",
+                                "bounds": {
+                                  "x": 418,
+                                  "y": 60,
+                                  "width": 47,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_55",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 499,
+                          "y": 59,
+                          "width": 59,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_56",
+                            "role": "link",
+                            "name": "PROJECTS",
+                            "bounds": {
+                              "x": 499,
+                              "y": 60,
+                              "width": 59,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_57",
+                                "role": "label",
+                                "name": "PROJECTS",
+                                "bounds": {
+                                  "x": 499,
+                                  "y": 60,
+                                  "width": 59,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_58",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 592,
+                          "y": 59,
+                          "width": 30,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_59",
+                            "role": "link",
+                            "name": "HELP",
+                            "bounds": {
+                              "x": 592,
+                              "y": 60,
+                              "width": 30,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "HELP",
+                                "bounds": {
+                                  "x": 592,
+                                  "y": 60,
+                                  "width": 30,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_61",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 656,
+                          "y": 59,
+                          "width": 69,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_62",
+                            "role": "link",
+                            "name": "DONATE Donate icon An illustration of a heart shape",
+                            "bounds": {
+                              "x": 656,
+                              "y": 60,
+                              "width": 69,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_63",
+                                "role": "label",
+                                "name": "DONATE",
+                                "bounds": {
+                                  "x": 656,
+                                  "y": 60,
+                                  "width": 49,
+                                  "height": 14
+                                }
+                              },
+                              {
+                                "id": "node_64",
+                                "role": "image",
+                                "name": "Donate icon An illustration of a heart shape",
+                                "bounds": {
+                                  "x": 710,
+                                  "y": 59,
+                                  "width": 16,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 760,
+                          "y": 59,
+                          "width": 56,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_66",
+                            "role": "link",
+                            "name": "CONTACT",
+                            "bounds": {
+                              "x": 760,
+                              "y": 60,
+                              "width": 56,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_67",
+                                "role": "label",
+                                "name": "CONTACT",
+                                "bounds": {
+                                  "x": 760,
+                                  "y": 60,
+                                  "width": 58,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_68",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 851,
+                          "y": 59,
+                          "width": 28,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_69",
+                            "role": "link",
+                            "name": "JOBS",
+                            "bounds": {
+                              "x": 851,
+                              "y": 60,
+                              "width": 28,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_70",
+                                "role": "label",
+                                "name": "JOBS",
+                                "bounds": {
+                                  "x": 850,
+                                  "y": 60,
+                                  "width": 30,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_71",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 913,
+                          "y": 59,
+                          "width": 72,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_72",
+                            "role": "link",
+                            "name": "VOLUNTEER",
+                            "bounds": {
+                              "x": 913,
+                              "y": 60,
+                              "width": 72,
+                              "height": 14
+                            },
+                            "children": [
+                              {
+                                "id": "node_73",
+                                "role": "label",
+                                "name": "VOLUNTEER",
+                                "bounds": {
+                                  "x": 913,
+                                  "y": 60,
+                                  "width": 72,
+                                  "height": 14
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_74",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 84,
+                  "width": 1261,
+                  "height": 3166
+                },
+                "children": [
+                  {
+                    "id": "node_75",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 84,
+                      "width": 1261,
+                      "height": 3166
+                    },
+                    "children": [
+                      {
+                        "id": "node_76",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 330,
+                          "y": 99,
+                          "width": 600,
+                          "height": 123
+                        },
+                        "children": [
+                          {
+                            "id": "node_77",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 330,
+                              "y": 99,
+                              "width": 600,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_78",
+                                "role": "label",
+                                "name": "Search the history of more than ",
+                                "bounds": {
+                                  "x": 356,
+                                  "y": 101,
+                                  "width": 260,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_79",
+                                "role": "label",
+                                "name": "1 trillion",
+                                "bounds": {
+                                  "x": 616,
+                                  "y": 101,
+                                  "width": 65,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_80",
+                                "role": "label",
+                                "name": " ",
+                                "bounds": {
+                                  "x": 682,
+                                  "y": 101,
+                                  "width": 5,
+                                  "height": 19
+                                }
+                              },
+                              {
+                                "id": "node_81",
+                                "role": "link",
+                                "name": "web pages",
+                                "bounds": {
+                                  "x": 687,
+                                  "y": 101,
+                                  "width": 86,
+                                  "height": 19
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_82",
+                                    "role": "label",
+                                    "name": "web pages",
+                                    "bounds": {
+                                      "x": 687,
+                                      "y": 101,
+                                      "width": 86,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_83",
+                                "role": "label",
+                                "name": " on the Internet.",
+                                "bounds": {
+                                  "x": 774,
+                                  "y": 101,
+                                  "width": 130,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_84",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 350,
+                              "y": 160,
+                              "width": 560,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_85",
+                                "role": "link",
+                                "name": "Visit the Wayback Machine",
+                                "bounds": {
+                                  "x": 354,
+                                  "y": 160,
+                                  "width": 274,
+                                  "height": 55
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_86",
+                                    "role": "image",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 388,
+                                      "y": 160,
+                                      "width": 205,
+                                      "height": 55
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_87",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 632,
+                                  "y": 172,
+                                  "width": 274,
+                                  "height": 30
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_88",
+                                    "role": "label",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 768,
+                                      "y": 171,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_89",
+                                        "role": "label",
+                                        "name": "Search the Wayback Machine",
+                                        "bounds": {
+                                          "x": 768,
+                                          "y": 173,
+                                          "width": 176,
+                                          "height": 14
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_90",
+                                    "role": "textfield",
+                                    "name": "Search the Wayback Machine",
+                                    "bounds": {
+                                      "x": 662,
+                                      "y": 177,
+                                      "width": 234,
+                                      "height": 20
+                                    }
+                                  },
+                                  {
+                                    "id": "node_91",
+                                    "role": "image",
+                                    "name": "Search icon An illustration of a magnifying glass.",
+                                    "bounds": {
+                                      "x": 635,
+                                      "y": 174,
+                                      "width": 24,
+                                      "height": 24
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_92",
+                        "role": "button",
+                        "name": "Celebrate 1 trillion web pages archived!",
+                        "bounds": {
+                          "x": 94,
+                          "y": 323,
+                          "width": 267,
+                          "height": 271
+                        },
+                        "children": [
+                          {
+                            "id": "node_93",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 134,
+                              "y": 359,
+                              "width": 187,
+                              "height": 198
+                            },
+                            "children": [
+                              {
+                                "id": "node_94",
+                                "role": "image",
+                                "name": "Celebrate 1 trillion web pages archived",
+                                "bounds": {
+                                  "x": 155,
+                                  "y": 359,
+                                  "width": 145,
+                                  "height": 152
+                                }
+                              },
+                              {
+                                "id": "node_95",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 134,
+                                  "y": 520,
+                                  "width": 187,
+                                  "height": 38
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_96",
+                                    "role": "label",
+                                    "name": "Celebrate 1 trillion",
+                                    "bounds": {
+                                      "x": 142,
+                                      "y": 520,
+                                      "width": 169,
+                                      "height": 19
+                                    }
+                                  },
+                                  {
+                                    "id": "node_97",
+                                    "role": "label",
+                                    "name": "web pages archived!",
+                                    "bounds": {
+                                      "x": 134,
+                                      "y": 539,
+                                      "width": 187,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_98",
+                        "role": "label",
+                        "name": "Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.",
+                        "bounds": {
+                          "x": 423,
+                          "y": 322,
+                          "width": 420,
+                          "height": 114
+                        },
+                        "children": [
+                          {
+                            "id": "node_99",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 423,
+                              "y": 321,
+                              "width": 208,
+                              "height": 30
+                            },
+                            "children": [
+                              {
+                                "id": "node_100",
+                                "role": "label",
+                                "name": "Internet Archive",
+                                "bounds": {
+                                  "x": 423,
+                                  "y": 321,
+                                  "width": 208,
+                                  "height": 30
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_101",
+                            "role": "label",
+                            "name": " is a non-profit library of millions of free texts, movies, software, music, websites, and more.",
+                            "bounds": {
+                              "x": 423,
+                              "y": 321,
+                              "width": 399,
+                              "height": 115
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_102",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 423,
+                          "y": 456,
+                          "width": 420,
+                          "height": 57
+                        },
+                        "children": [
+                          {
+                            "id": "node_103",
+                            "role": "link",
+                            "name": "Web Image 1T",
+                            "bounds": {
+                              "x": 426,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_104",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 426,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_105",
+                                    "role": "image",
+                                    "name": "Web Image",
+                                    "bounds": {
+                                      "x": 426,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_106",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 426,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_107",
+                                    "role": "label",
+                                    "name": "1T",
+                                    "bounds": {
+                                      "x": 439,
+                                      "y": 500,
+                                      "width": 14,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_108",
+                            "role": "link",
+                            "name": "Texts Image 48M",
+                            "bounds": {
+                              "x": 473,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_109",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 473,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_110",
+                                    "role": "image",
+                                    "name": "Texts Image",
+                                    "bounds": {
+                                      "x": 473,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_111",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 473,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_112",
+                                    "role": "label",
+                                    "name": "48M",
+                                    "bounds": {
+                                      "x": 482,
+                                      "y": 500,
+                                      "width": 21,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_113",
+                            "role": "link",
+                            "name": "Videos Image 15M",
+                            "bounds": {
+                              "x": 520,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_114",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 520,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_115",
+                                    "role": "image",
+                                    "name": "Videos Image",
+                                    "bounds": {
+                                      "x": 520,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_116",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 520,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_117",
+                                    "role": "label",
+                                    "name": "15M",
+                                    "bounds": {
+                                      "x": 529,
+                                      "y": 500,
+                                      "width": 21,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_118",
+                            "role": "link",
+                            "name": "Audio Image 13M",
+                            "bounds": {
+                              "x": 567,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_119",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 567,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_120",
+                                    "role": "image",
+                                    "name": "Audio Image",
+                                    "bounds": {
+                                      "x": 567,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_121",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 567,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_122",
+                                    "role": "label",
+                                    "name": "13M",
+                                    "bounds": {
+                                      "x": 576,
+                                      "y": 500,
+                                      "width": 21,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_123",
+                            "role": "link",
+                            "name": "TV Image 3.3M",
+                            "bounds": {
+                              "x": 614,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_124",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 614,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_125",
+                                    "role": "image",
+                                    "name": "TV Image",
+                                    "bounds": {
+                                      "x": 614,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_126",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 614,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_127",
+                                    "role": "label",
+                                    "name": "3.3M",
+                                    "bounds": {
+                                      "x": 621,
+                                      "y": 500,
+                                      "width": 24,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_128",
+                            "role": "link",
+                            "name": "Software Image 1.3M",
+                            "bounds": {
+                              "x": 661,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_129",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 661,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_130",
+                                    "role": "image",
+                                    "name": "Software Image",
+                                    "bounds": {
+                                      "x": 661,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_131",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 661,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_132",
+                                    "role": "label",
+                                    "name": "1.3M",
+                                    "bounds": {
+                                      "x": 668,
+                                      "y": 500,
+                                      "width": 24,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_133",
+                            "role": "link",
+                            "name": "Images Image 5.3M",
+                            "bounds": {
+                              "x": 708,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_134",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 708,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_135",
+                                    "role": "image",
+                                    "name": "Images Image",
+                                    "bounds": {
+                                      "x": 708,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_136",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 708,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_137",
+                                    "role": "label",
+                                    "name": "5.3M",
+                                    "bounds": {
+                                      "x": 715,
+                                      "y": 500,
+                                      "width": 24,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_138",
+                            "role": "link",
+                            "name": "Concerts Image 285K",
+                            "bounds": {
+                              "x": 755,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_139",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 755,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_140",
+                                    "role": "image",
+                                    "name": "Concerts Image",
+                                    "bounds": {
+                                      "x": 755,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_141",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 755,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_142",
+                                    "role": "label",
+                                    "name": "285K",
+                                    "bounds": {
+                                      "x": 761,
+                                      "y": 500,
+                                      "width": 27,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_143",
+                            "role": "link",
+                            "name": "Collections Image 3.2M",
+                            "bounds": {
+                              "x": 801,
+                              "y": 456,
+                              "width": 38,
+                              "height": 57
+                            },
+                            "children": [
+                              {
+                                "id": "node_144",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 801,
+                                  "y": 456,
+                                  "width": 38,
+                                  "height": 43
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_145",
+                                    "role": "image",
+                                    "name": "Collections Image",
+                                    "bounds": {
+                                      "x": 801,
+                                      "y": 456,
+                                      "width": 38,
+                                      "height": 38
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_146",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 801,
+                                  "y": 499,
+                                  "width": 38,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_147",
+                                    "role": "label",
+                                    "name": "3.2M",
+                                    "bounds": {
+                                      "x": 809,
+                                      "y": 500,
+                                      "width": 24,
+                                      "height": 11
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_148",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 423,
+                          "y": 533,
+                          "width": 420,
+                          "height": 62
+                        },
+                        "children": [
+                          {
+                            "id": "node_149",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 423,
+                              "y": 533,
+                              "width": 420,
+                              "height": 62
+                            },
+                            "children": [
+                              {
+                                "id": "node_150",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 423,
+                                  "y": 533,
+                                  "width": 350,
+                                  "height": 30
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_151",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 423,
+                                      "y": 533,
+                                      "width": 350,
+                                      "height": 30
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_152",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 422,
+                                          "y": 548,
+                                          "width": 1,
+                                          "height": 1
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_153",
+                                            "role": "label",
+                                            "name": "Search the Archive. Filters and Advanced Search available below.",
+                                            "bounds": {
+                                              "x": 422,
+                                              "y": 549,
+                                              "width": 326,
+                                              "height": 11
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_154",
+                                        "role": "textfield",
+                                        "name": "Search the Archive. Filters and Advanced Search available below.",
+                                        "bounds": {
+                                          "x": 434,
+                                          "y": 533,
+                                          "width": 308,
+                                          "height": 30
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_155",
+                                    "role": "panel",
+                                    "name": "Search Options",
+                                    "bounds": {
+                                      "x": 428,
+                                      "y": 573,
+                                      "width": 415,
+                                      "height": 22
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_156",
+                                        "role": "link",
+                                        "name": "Advanced Search",
+                                        "bounds": {
+                                          "x": 722,
+                                          "y": 573,
+                                          "width": 121,
+                                          "height": 20
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_157",
+                                            "role": "label",
+                                            "name": "Advanced Search",
+                                            "bounds": {
+                                              "x": 722,
+                                              "y": 575,
+                                              "width": 121,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_158",
+                                "role": "button",
+                                "name": "GO",
+                                "bounds": {
+                                  "x": 798,
+                                  "y": 533,
+                                  "width": 35,
+                                  "height": 30
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_159",
+                                    "role": "label",
+                                    "name": "GO",
+                                    "bounds": {
+                                      "x": 804,
+                                      "y": 540,
+                                      "width": 24,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_160",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 924,
+                          "y": 322,
+                          "width": 222,
+                          "height": 273
+                        },
+                        "children": [
+                          {
+                            "id": "node_161",
+                            "role": "label",
+                            "name": "Archive News",
+                            "bounds": {
+                              "x": 924,
+                              "y": 322,
+                              "width": 222,
+                              "height": 25
+                            },
+                            "children": [
+                              {
+                                "id": "node_162",
+                                "role": "label",
+                                "name": "Archive News",
+                                "bounds": {
+                                  "x": 924,
+                                  "y": 324,
+                                  "width": 121,
+                                  "height": 21
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_163",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 924,
+                              "y": 357,
+                              "width": 222,
+                              "height": 191
+                            },
+                            "children": [
+                              {
+                                "id": "node_164",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 924,
+                                  "y": 357,
+                                  "width": 222,
+                                  "height": 68
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_165",
+                                    "role": "link",
+                                    "name": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today\u2019s News for Tomorrow Program",
+                                    "bounds": {
+                                      "x": 924,
+                                      "y": 358,
+                                      "width": 217,
+                                      "height": 65
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_166",
+                                        "role": "label",
+                                        "name": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today\u2019s News for Tomorrow Program",
+                                        "bounds": {
+                                          "x": 924,
+                                          "y": 358,
+                                          "width": 218,
+                                          "height": 65
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_167",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 924,
+                                  "y": 436,
+                                  "width": 222,
+                                  "height": 51
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_168",
+                                    "role": "link",
+                                    "name": "\u2018Depths of Wikipedia\u2019 Creator Annie Rauwerda on \u2018Fragile\u2019 Internet Citations",
+                                    "bounds": {
+                                      "x": 924,
+                                      "y": 437,
+                                      "width": 214,
+                                      "height": 48
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_169",
+                                        "role": "label",
+                                        "name": "\u2018Depths of Wikipedia\u2019 Creator Annie Rauwerda on \u2018Fragile\u2019 Internet Citations",
+                                        "bounds": {
+                                          "x": 924,
+                                          "y": 437,
+                                          "width": 214,
+                                          "height": 48
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_170",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 924,
+                                  "y": 497,
+                                  "width": 222,
+                                  "height": 51
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_171",
+                                    "role": "link",
+                                    "name": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress\u00a0",
+                                    "bounds": {
+                                      "x": 924,
+                                      "y": 498,
+                                      "width": 219,
+                                      "height": 48
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_172",
+                                        "role": "label",
+                                        "name": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress\u00a0",
+                                        "bounds": {
+                                          "x": 924,
+                                          "y": 498,
+                                          "width": 219,
+                                          "height": 48
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_173",
+                            "role": "link",
+                            "name": "More posts",
+                            "bounds": {
+                              "x": 924,
+                              "y": 559,
+                              "width": 222,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_174",
+                                "role": "label",
+                                "name": "More posts",
+                                "bounds": {
+                                  "x": 1071,
+                                  "y": 561,
+                                  "width": 76,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_175",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 542,
+                  "width": 1261,
+                  "height": 40
+                },
+                "children": [
+                  {
+                    "id": "node_176",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 5,
+                      "y": 562,
+                      "width": 1251,
+                      "height": 15
+                    },
+                    "children": [
+                      {
+                        "id": "node_177",
+                        "role": "link",
+                        "name": "Terms of Service (last updated 12/31/2014)",
+                        "bounds": {
+                          "x": 511,
+                          "y": 563,
+                          "width": 238,
+                          "height": 13
+                        },
+                        "children": [
+                          {
+                            "id": "node_178",
+                            "role": "label",
+                            "name": "Terms of Service (last updated 12/31/2014)",
+                            "bounds": {
+                              "x": 510,
+                              "y": 563,
+                              "width": 240,
+                              "height": 13
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

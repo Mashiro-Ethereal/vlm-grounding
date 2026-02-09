@@ -1,0 +1,263 @@
+{
+  "image_filename": "datasetv2_cropped/google/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 17,
+  "test_samples": [
+    {
+      "id": "node_4",
+      "category": "link",
+      "name": "About",
+      "bbox": [
+        26,
+        22,
+        63,
+        38
+      ],
+      "point": [
+        44,
+        30
+      ]
+    },
+    {
+      "id": "node_6",
+      "category": "link",
+      "name": "Store",
+      "bbox": [
+        83,
+        22,
+        115,
+        38
+      ],
+      "point": [
+        99,
+        30
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "Gmail ",
+      "bbox": [
+        1017,
+        16,
+        1054,
+        40
+      ],
+      "point": [
+        1035,
+        28
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "link",
+      "name": "Search for Images ",
+      "bbox": [
+        1070,
+        16,
+        1117,
+        40
+      ],
+      "point": [
+        1093,
+        28
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1193,
+        18,
+        1254,
+        38
+      ],
+      "point": [
+        1223,
+        28
+      ]
+    },
+    {
+      "id": "node_32",
+      "category": "button",
+      "name": "Upload files or images",
+      "bbox": [
+        302,
+        244,
+        338,
+        280
+      ],
+      "point": [
+        320,
+        262
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "button",
+      "name": "Search by voice",
+      "bbox": [
+        792,
+        250,
+        816,
+        274
+      ],
+      "point": [
+        804,
+        262
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "button",
+      "name": "Search by image",
+      "bbox": [
+        832,
+        250,
+        856,
+        274
+      ],
+      "point": [
+        844,
+        262
+      ]
+    },
+    {
+      "id": "node_36",
+      "category": "link",
+      "name": "AI Mode",
+      "bbox": [
+        882,
+        244,
+        960,
+        280
+      ],
+      "point": [
+        921,
+        262
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "button",
+      "name": "Google Search",
+      "bbox": [
+        511,
+        318,
+        606,
+        352
+      ],
+      "point": [
+        558,
+        335
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "button",
+      "name": "I'm Feeling Lucky",
+      "bbox": [
+        653,
+        318,
+        763,
+        352
+      ],
+      "point": [
+        708,
+        335
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Advertising",
+      "bbox": [
+        35,
+        551,
+        105,
+        568
+      ],
+      "point": [
+        70,
+        559
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        135,
+        551,
+        191,
+        568
+      ],
+      "point": [
+        163,
+        559
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "link",
+      "name": "How Search works",
+      "bbox": [
+        222,
+        551,
+        337,
+        568
+      ],
+      "point": [
+        279,
+        559
+      ]
+    },
+    {
+      "id": "node_51",
+      "category": "link",
+      "name": "Applying AI towards science and the environment",
+      "bbox": [
+        475,
+        551,
+        799,
+        568
+      ],
+      "point": [
+        637,
+        559
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Privacy",
+      "bbox": [
+        1045,
+        551,
+        1090,
+        568
+      ],
+      "point": [
+        1067,
+        559
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Terms",
+      "bbox": [
+        1120,
+        551,
+        1159,
+        568
+      ],
+      "point": [
+        1139,
+        559
+      ]
+    }
+  ]
+}

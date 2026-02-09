@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/xe_currency/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_7",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        32,
+        15,
+        82,
+        55
+      ],
+      "point": [
+        57,
+        35
+      ]
+    },
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Get the App",
+      "bbox": [
+        1093,
+        24,
+        1172,
+        48
+      ],
+      "point": [
+        1132,
+        36
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "button",
+      "name": "Toggle menu",
+      "bbox": [
+        1197,
+        20,
+        1229,
+        52
+      ],
+      "point": [
+        1213,
+        36
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Personal",
+      "bbox": [
+        542,
+        114,
+        601,
+        134
+      ],
+      "point": [
+        571,
+        124
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Business",
+      "bbox": [
+        657,
+        114,
+        718,
+        134
+      ],
+      "point": [
+        687,
+        124
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "textfield",
+      "name": "Email address",
+      "bbox": [
+        391,
+        460,
+        679,
+        476
+      ],
+      "point": [
+        535,
+        468
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "button",
+      "name": "Sign up and send",
+      "bbox": [
+        735,
+        458,
+        861,
+        480
+      ],
+      "point": [
+        798,
+        469
+      ]
+    }
+  ]
+}

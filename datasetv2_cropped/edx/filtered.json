@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/edx/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "category": "textfield",
+      "name": "What do you want to learn?",
+      "bbox": [
+        234,
+        22,
+        440,
+        50
+      ],
+      "point": [
+        337,
+        36
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "button",
+      "name": "Search for courses, certificates and degrees",
+      "bbox": [
+        468,
+        14,
+        492,
+        60
+      ],
+      "point": [
+        480,
+        37
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "edX For Business",
+      "bbox": [
+        894,
+        27,
+        1010,
+        48
+      ],
+      "point": [
+        952,
+        37
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Sign In",
+      "bbox": [
+        1035,
+        27,
+        1080,
+        48
+      ],
+      "point": [
+        1057,
+        37
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Register for free",
+      "bbox": [
+        1118,
+        27,
+        1226,
+        48
+      ],
+      "point": [
+        1172,
+        37
+      ]
+    }
+  ]
+}

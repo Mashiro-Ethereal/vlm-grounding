@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/notion/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Enterprise",
+      "bbox": [
+        679,
+        23,
+        747,
+        43
+      ],
+      "point": [
+        713,
+        33
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        771,
+        23,
+        817,
+        43
+      ],
+      "point": [
+        794,
+        33
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Request a demo",
+      "bbox": [
+        842,
+        23,
+        950,
+        43
+      ],
+      "point": [
+        896,
+        33
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1037,
+        23,
+        1077,
+        43
+      ],
+      "point": [
+        1057,
+        33
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Get Notion free",
+      "bbox": [
+        1118,
+        20,
+        1220,
+        46
+      ],
+      "point": [
+        1169,
+        33
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "Get Notion free",
+      "bbox": [
+        481,
+        493,
+        598,
+        517
+      ],
+      "point": [
+        539,
+        505
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Request a demo",
+      "bbox": [
+        656,
+        493,
+        779,
+        517
+      ],
+      "point": [
+        717,
+        505
+      ]
+    }
+  ]
+}

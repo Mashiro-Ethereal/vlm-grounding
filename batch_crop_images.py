@@ -2,8 +2,64 @@ from PIL import Image
 import os
 import glob
 
+import shutil
+
+def copy_source_files():
+    base_source_dir = "dataset/sft_v2_100/trajectories"
+    base_target_dir = "datasetv2_cropped"
+    
+    print(f"Start copying files from {base_source_dir} to {base_target_dir}...")
+    
+    # Ensure target directory exists
+    if not os.path.exists(base_target_dir):
+        os.makedirs(base_target_dir)
+        
+    # Get all trajectory directories
+    traj_dirs = glob.glob(os.path.join(base_source_dir, "*"))
+    
+    copied_count = 0
+    skipped_count = 0
+    
+    for traj_path in traj_dirs:
+        if not os.path.isdir(traj_path):
+            continue
+            
+        traj_id = os.path.basename(traj_path)
+        source_step_dir = os.path.join(traj_path, "steps", "000")
+        target_traj_dir = os.path.join(base_target_dir, traj_id)
+        
+        # Check if source step directory exists
+        if not os.path.exists(source_step_dir):
+            print(f"Warning: Source step directory not found for {traj_id}: {source_step_dir}")
+            skipped_count += 1
+            continue
+            
+        # Create target directory for this trajectory
+        os.makedirs(target_traj_dir, exist_ok=True)
+        
+        # Files to copy
+        files_to_copy = ["screenshot.png", "ui_tree.json"]
+        
+        for file_name in files_to_copy:
+            source_file = os.path.join(source_step_dir, file_name)
+            target_file = os.path.join(target_traj_dir, file_name)
+            
+            if os.path.exists(source_file):
+                shutil.copy2(source_file, target_file)
+            else:
+                print(f"Warning: File not found: {source_file}")
+        
+        copied_count += 1
+        if copied_count % 10 == 0:
+            print(f"Copied files for {copied_count} trajectories...", end='\r')
+            
+    print(f"\nCopying complete.")
+    print(f"Processed trajectories: {copied_count}")
+    print(f"Skipped directories: {skipped_count}")
+
 def batch_crop_images():
-    base_dir = "/Users/zhangxiuhui/Desktop/project/osworld-desktopd/dataset_cropped"
+    # Update to new target directory
+    base_dir = "datasetv2_cropped"
     
     # Crop parameters refined by border analysis
     # Left: 2px border
@@ -49,4 +105,6 @@ def batch_crop_images():
     print(f"Errors: {error_count}")
 
 if __name__ == "__main__":
+    copy_source_files()
+    print("-" * 30)
     batch_crop_images()

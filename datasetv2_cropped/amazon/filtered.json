@@ -1,0 +1,293 @@
+{
+  "image_filename": "datasetv2_cropped/amazon/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 19,
+  "test_samples": [
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "Amazon",
+      "bbox": [
+        18,
+        6,
+        118,
+        55
+      ],
+      "point": [
+        68,
+        30
+      ]
+    },
+    {
+      "id": "node_11",
+      "category": "button",
+      "name": "Delivering to Saintlouis 63101 Update location",
+      "bbox": [
+        136,
+        5,
+        335,
+        55
+      ],
+      "point": [
+        235,
+        30
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "textfield",
+      "name": "Search Amazon",
+      "bbox": [
+        407,
+        18,
+        761,
+        39
+      ],
+      "point": [
+        584,
+        28
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "button",
+      "name": "Go",
+      "bbox": [
+        772,
+        10,
+        817,
+        50
+      ],
+      "point": [
+        794,
+        30
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Hello, sign in Account & Lists",
+      "bbox": [
+        923,
+        5,
+        1045,
+        47
+      ],
+      "point": [
+        984,
+        26
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "Returns & Orders",
+      "bbox": [
+        1079,
+        5,
+        1149,
+        45
+      ],
+      "point": [
+        1114,
+        25
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "0 items in cart",
+      "bbox": [
+        1169,
+        5,
+        1240,
+        44
+      ],
+      "point": [
+        1204,
+        24
+      ]
+    },
+    {
+      "id": "node_51",
+      "category": "link",
+      "name": "Amazon Haul",
+      "bbox": [
+        81,
+        73,
+        173,
+        85
+      ],
+      "point": [
+        127,
+        79
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Medical Care",
+      "bbox": [
+        194,
+        73,
+        284,
+        85
+      ],
+      "point": [
+        239,
+        79
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "Amazon Basics",
+      "bbox": [
+        312,
+        73,
+        417,
+        85
+      ],
+      "point": [
+        364,
+        79
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Best Sellers",
+      "bbox": [
+        438,
+        73,
+        520,
+        85
+      ],
+      "point": [
+        479,
+        79
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "link",
+      "name": "Books",
+      "bbox": [
+        540,
+        73,
+        582,
+        85
+      ],
+      "point": [
+        561,
+        79
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "Registry",
+      "bbox": [
+        602,
+        73,
+        659,
+        85
+      ],
+      "point": [
+        630,
+        79
+      ]
+    },
+    {
+      "id": "node_75",
+      "category": "link",
+      "name": "Prime",
+      "bbox": [
+        680,
+        73,
+        720,
+        85
+      ],
+      "point": [
+        700,
+        79
+      ]
+    },
+    {
+      "id": "node_79",
+      "category": "link",
+      "name": "Gift Cards",
+      "bbox": [
+        748,
+        73,
+        817,
+        85
+      ],
+      "point": [
+        782,
+        79
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Smart Home",
+      "bbox": [
+        845,
+        73,
+        933,
+        85
+      ],
+      "point": [
+        889,
+        79
+      ]
+    },
+    {
+      "id": "node_87",
+      "category": "link",
+      "name": "New Releases",
+      "bbox": [
+        953,
+        73,
+        1049,
+        85
+      ],
+      "point": [
+        1001,
+        79
+      ]
+    },
+    {
+      "id": "node_91",
+      "category": "link",
+      "name": "Today's Deals",
+      "bbox": [
+        1070,
+        73,
+        1165,
+        85
+      ],
+      "point": [
+        1117,
+        79
+      ]
+    },
+    {
+      "id": "node_238",
+      "category": "link",
+      "name": "Sign in securely",
+      "bbox": [
+        973,
+        443,
+        1209,
+        463
+      ],
+      "point": [
+        1091,
+        453
+      ]
+    }
+  ]
+}

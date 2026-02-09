@@ -1,0 +1,809 @@
+{
+  "timestamp": "2026-02-07T05:41:36.423444Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Vue.js - The Progressive JavaScript Framework | Vue.js",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 2066
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "label",
+                "name": "Skip to content",
+                "bounds": {
+                  "x": 28,
+                  "y": 17,
+                  "width": 110,
+                  "height": 17
+                }
+              },
+              {
+                "id": "node_4",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 55
+                },
+                "children": [
+                  {
+                    "id": "node_5",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 32,
+                      "y": 0,
+                      "width": 1217,
+                      "height": 54
+                    },
+                    "children": [
+                      {
+                        "id": "node_6",
+                        "role": "link",
+                        "name": "Vue.js",
+                        "bounds": {
+                          "x": 32,
+                          "y": 1,
+                          "width": 80,
+                          "height": 54
+                        },
+                        "children": [
+                          {
+                            "id": "node_7",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 32,
+                              "y": 16,
+                              "width": 24,
+                              "height": 24
+                            }
+                          },
+                          {
+                            "id": "node_8",
+                            "role": "label",
+                            "name": "Vue.js",
+                            "bounds": {
+                              "x": 64,
+                              "y": 18,
+                              "width": 48,
+                              "height": 20
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_9",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 128,
+                          "y": 0,
+                          "width": 139,
+                          "height": 55
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "button",
+                            "name": "Search",
+                            "bounds": {
+                              "x": 136,
+                              "y": 0,
+                              "width": 123,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 136,
+                                  "y": 21,
+                                  "width": 15,
+                                  "height": 15
+                                }
+                              },
+                              {
+                                "id": "node_12",
+                                "role": "label",
+                                "name": "Search",
+                                "bounds": {
+                                  "x": 161,
+                                  "y": 19,
+                                  "width": 43,
+                                  "height": 16
+                                }
+                              },
+                              {
+                                "id": "node_13",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 222,
+                                  "y": 16,
+                                  "width": 20,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_14",
+                                    "role": "label",
+                                    "name": "Ctrl",
+                                    "bounds": {
+                                      "x": 222,
+                                      "y": 19,
+                                      "width": 20,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 244,
+                                  "y": 16,
+                                  "width": 8,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "label",
+                                    "name": "K",
+                                    "bounds": {
+                                      "x": 244,
+                                      "y": 19,
+                                      "width": 8,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "panel",
+                        "name": "Main Navigation",
+                        "bounds": {
+                          "x": 577,
+                          "y": 0,
+                          "width": 627,
+                          "height": 55
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 577,
+                              "y": 0,
+                              "width": 1,
+                              "height": 1
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "label",
+                                "name": "Main Navigation",
+                                "bounds": {
+                                  "x": 577,
+                                  "y": 2,
+                                  "width": 123,
+                                  "height": 20
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_20",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 577,
+                              "y": 0,
+                              "width": 73,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "button",
+                                "name": "Docs",
+                                "bounds": {
+                                  "x": 589,
+                                  "y": 0,
+                                  "width": 49,
+                                  "height": 55
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "label",
+                                    "name": "Docs",
+                                    "bounds": {
+                                      "x": 589,
+                                      "y": 19,
+                                      "width": 31,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_23",
+                            "role": "link",
+                            "name": "API",
+                            "bounds": {
+                              "x": 663,
+                              "y": 0,
+                              "width": 21,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "API",
+                                "bounds": {
+                                  "x": 663,
+                                  "y": 19,
+                                  "width": 21,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_25",
+                            "role": "link",
+                            "name": "Playground",
+                            "bounds": {
+                              "x": 709,
+                              "y": 0,
+                              "width": 72,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_26",
+                                "role": "label",
+                                "name": "Playground",
+                                "bounds": {
+                                  "x": 709,
+                                  "y": 19,
+                                  "width": 72,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_27",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 793,
+                              "y": 0,
+                              "width": 110,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_28",
+                                "role": "button",
+                                "name": "Ecosystem",
+                                "bounds": {
+                                  "x": 805,
+                                  "y": 0,
+                                  "width": 86,
+                                  "height": 55
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": "Ecosystem",
+                                    "bounds": {
+                                      "x": 805,
+                                      "y": 19,
+                                      "width": 68,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_30",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 903,
+                              "y": 0,
+                              "width": 79,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_31",
+                                "role": "button",
+                                "name": "About",
+                                "bounds": {
+                                  "x": 915,
+                                  "y": 0,
+                                  "width": 55,
+                                  "height": 55
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_32",
+                                    "role": "label",
+                                    "name": "About",
+                                    "bounds": {
+                                      "x": 915,
+                                      "y": 19,
+                                      "width": 38,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_33",
+                            "role": "link",
+                            "name": "Sponsor",
+                            "bounds": {
+                              "x": 995,
+                              "y": 0,
+                              "width": 53,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_34",
+                                "role": "label",
+                                "name": "Sponsor",
+                                "bounds": {
+                                  "x": 995,
+                                  "y": 19,
+                                  "width": 53,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_35",
+                            "role": "link",
+                            "name": "Partners",
+                            "bounds": {
+                              "x": 1072,
+                              "y": 0,
+                              "width": 54,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_36",
+                                "role": "label",
+                                "name": "Partners",
+                                "bounds": {
+                                  "x": 1072,
+                                  "y": 19,
+                                  "width": 54,
+                                  "height": 16
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 1139,
+                              "y": 0,
+                              "width": 66,
+                              "height": 55
+                            },
+                            "children": [
+                              {
+                                "id": "node_38",
+                                "role": "button",
+                                "name": "Select Language",
+                                "bounds": {
+                                  "x": 1151,
+                                  "y": 0,
+                                  "width": 42,
+                                  "height": 55
+                                },
+                                "states": [
+                                  "collapsed"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_39",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 1205,
+                          "y": 0,
+                          "width": 44,
+                          "height": 55
+                        },
+                        "children": [
+                          {
+                            "id": "node_40",
+                            "role": "button",
+                            "name": "extra navigation",
+                            "bounds": {
+                              "x": 1217,
+                              "y": 0,
+                              "width": 20,
+                              "height": 55
+                            },
+                            "states": [
+                              "collapsed"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_41",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 55,
+                  "width": 1261,
+                  "height": 2011
+                },
+                "children": [
+                  {
+                    "id": "node_42",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 55,
+                      "width": 1261,
+                      "height": 1923
+                    },
+                    "children": [
+                      {
+                        "id": "node_43",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 55,
+                          "width": 1261,
+                          "height": 1923
+                        },
+                        "children": [
+                          {
+                            "id": "node_44",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 32,
+                              "y": 151,
+                              "width": 1197,
+                              "height": 331
+                            },
+                            "children": [
+                              {
+                                "id": "node_45",
+                                "role": "label",
+                                "name": "The Progressive JavaScript Framework",
+                                "bounds": {
+                                  "x": 150,
+                                  "y": 151,
+                                  "width": 960,
+                                  "height": 190
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_46",
+                                    "role": "label",
+                                    "name": "The ",
+                                    "bounds": {
+                                      "x": 341,
+                                      "y": 152,
+                                      "width": 149,
+                                      "height": 92
+                                    }
+                                  },
+                                  {
+                                    "id": "node_47",
+                                    "role": "label",
+                                    "name": "Progressive",
+                                    "bounds": {
+                                      "x": 491,
+                                      "y": 152,
+                                      "width": 429,
+                                      "height": 92
+                                    }
+                                  },
+                                  {
+                                    "id": "node_48",
+                                    "role": "label",
+                                    "name": "JavaScript Framework",
+                                    "bounds": {
+                                      "x": 224,
+                                      "y": 247,
+                                      "width": 816,
+                                      "height": 92
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_49",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 150,
+                                  "y": 365,
+                                  "width": 960,
+                                  "height": 33
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_50",
+                                    "role": "label",
+                                    "name": "An approachable, performant and versatile framework for building web user interfaces.",
+                                    "bounds": {
+                                      "x": 188,
+                                      "y": 368,
+                                      "width": 884,
+                                      "height": 26
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_51",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 32,
+                                  "y": 438,
+                                  "width": 1197,
+                                  "height": 44
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_52",
+                                    "role": "link",
+                                    "name": "Play icon Why Vue",
+                                    "bounds": {
+                                      "x": 321,
+                                      "y": 448,
+                                      "width": 71,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_53",
+                                        "role": "image",
+                                        "name": "Play icon",
+                                        "bounds": {
+                                          "x": 290,
+                                          "y": 448,
+                                          "width": 24,
+                                          "height": 30
+                                        }
+                                      },
+                                      {
+                                        "id": "node_54",
+                                        "role": "label",
+                                        "name": "Why Vue",
+                                        "bounds": {
+                                          "x": 321,
+                                          "y": 450,
+                                          "width": 71,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_55",
+                                    "role": "link",
+                                    "name": "Get Started ",
+                                    "bounds": {
+                                      "x": 444,
+                                      "y": 448,
+                                      "width": 105,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_56",
+                                        "role": "label",
+                                        "name": "Get Started ",
+                                        "bounds": {
+                                          "x": 444,
+                                          "y": 450,
+                                          "width": 93,
+                                          "height": 20
+                                        }
+                                      },
+                                      {
+                                        "id": "node_57",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 539,
+                                          "y": 455,
+                                          "width": 10,
+                                          "height": 10
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_58",
+                                    "role": "link",
+                                    "name": "Install",
+                                    "bounds": {
+                                      "x": 603,
+                                      "y": 448,
+                                      "width": 46,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_59",
+                                        "role": "label",
+                                        "name": "Install",
+                                        "bounds": {
+                                          "x": 603,
+                                          "y": 450,
+                                          "width": 46,
+                                          "height": 20
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_60",
+                                    "role": "link",
+                                    "name": "Get Security Updates for Vue 2 ",
+                                    "bounds": {
+                                      "x": 705,
+                                      "y": 448,
+                                      "width": 262,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_61",
+                                        "role": "label",
+                                        "name": "Get Security Updates for Vue 2 ",
+                                        "bounds": {
+                                          "x": 705,
+                                          "y": 450,
+                                          "width": 246,
+                                          "height": 20
+                                        }
+                                      },
+                                      {
+                                        "id": "node_62",
+                                        "role": "image",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 955,
+                                          "y": 454,
+                                          "width": 12,
+                                          "height": 12
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_63",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "children": [
+                  {
+                    "id": "node_64",
+                    "role": "label",
+                    "name": "Vue.js - The Progressive JavaScript Framework has loaded",
+                    "bounds": {
+                      "x": 0,
+                      "y": 2,
+                      "width": 454,
+                      "height": 20
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/pexels/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_31",
+      "category": "textfield",
+      "name": "Search for free photos",
+      "bbox": [
+        200,
+        372,
+        496,
+        418
+      ],
+      "point": [
+        348,
+        395
+      ]
+    },
+    {
+      "id": "node_57",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        422,
+        472,
+        469,
+        520
+      ],
+      "point": [
+        445,
+        496
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "Videos",
+      "bbox": [
+        519,
+        472,
+        571,
+        520
+      ],
+      "point": [
+        545,
+        496
+      ]
+    },
+    {
+      "id": "node_61",
+      "category": "link",
+      "name": "Leaderboard",
+      "bbox": [
+        612,
+        472,
+        712,
+        520
+      ],
+      "point": [
+        662,
+        496
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Challenges",
+      "bbox": [
+        753,
+        472,
+        838,
+        520
+      ],
+      "point": [
+        795,
+        496
+      ]
+    }
+  ]
+}

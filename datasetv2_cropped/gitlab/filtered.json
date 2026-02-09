@@ -1,0 +1,203 @@
+{
+  "image_filename": "datasetv2_cropped/gitlab/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 13,
+  "test_samples": [
+    {
+      "id": "node_5",
+      "category": "link",
+      "name": "Home",
+      "bbox": [
+        32,
+        84,
+        64,
+        116
+      ],
+      "point": [
+        48,
+        100
+      ]
+    },
+    {
+      "id": "node_9",
+      "category": "button",
+      "name": "Platform",
+      "bbox": [
+        88,
+        88,
+        151,
+        112
+      ],
+      "point": [
+        119,
+        100
+      ]
+    },
+    {
+      "id": "node_13",
+      "category": "button",
+      "name": "Product",
+      "bbox": [
+        183,
+        88,
+        241,
+        112
+      ],
+      "point": [
+        212,
+        100
+      ]
+    },
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        273,
+        88,
+        325,
+        112
+      ],
+      "point": [
+        299,
+        100
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "button",
+      "name": "Resources",
+      "bbox": [
+        357,
+        88,
+        435,
+        112
+      ],
+      "point": [
+        396,
+        100
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "button",
+      "name": "Company",
+      "bbox": [
+        468,
+        88,
+        539,
+        112
+      ],
+      "point": [
+        503,
+        100
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "button",
+      "name": "Contact us",
+      "bbox": [
+        571,
+        88,
+        651,
+        112
+      ],
+      "point": [
+        611,
+        100
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        793,
+        92,
+        809,
+        108
+      ],
+      "point": [
+        801,
+        100
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Talk to sales",
+      "bbox": [
+        857,
+        88,
+        963,
+        110
+      ],
+      "point": [
+        910,
+        99
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1177,
+        88,
+        1229,
+        112
+      ],
+      "point": [
+        1203,
+        100
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "3 days 11 hrs 18 min 47 sec Join the GitLab Transcend virtual event on Feb 10",
+      "bbox": [
+        0,
+        0,
+        1261,
+        56
+      ],
+      "point": [
+        630,
+        28
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "textfield",
+      "name": "Email address Email address",
+      "bbox": [
+        441,
+        451,
+        684,
+        495
+      ],
+      "point": [
+        562,
+        473
+      ]
+    },
+    {
+      "id": "node_60",
+      "category": "button",
+      "name": "Get started",
+      "bbox": [
+        719,
+        462,
+        815,
+        484
+      ],
+      "point": [
+        767,
+        473
+      ]
+    }
+  ]
+}

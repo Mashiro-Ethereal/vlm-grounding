@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/imdb/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_17",
+      "category": "button",
+      "name": "Submit search",
+      "bbox": [
+        734,
+        15,
+        766,
+        39
+      ],
+      "point": [
+        750,
+        27
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Watchlist",
+      "bbox": [
+        897,
+        10,
+        980,
+        46
+      ],
+      "point": [
+        938,
+        28
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1013,
+        10,
+        1058,
+        46
+      ],
+      "point": [
+        1035,
+        28
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "button",
+      "name": "Previous slide",
+      "bbox": [
+        126,
+        456,
+        153,
+        500
+      ],
+      "point": [
+        139,
+        478
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "button",
+      "name": "Next slide",
+      "bbox": [
+        759,
+        456,
+        785,
+        500
+      ],
+      "point": [
+        772,
+        478
+      ]
+    }
+  ]
+}

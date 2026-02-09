@@ -1,0 +1,570 @@
+{
+  "timestamp": "2026-02-07T05:43:30.430591Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "MIT OpenCourseWare | Free Online Course Materials",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 116
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 48,
+                  "y": 38,
+                  "width": 260,
+                  "height": 42
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "MIT OpenCourseWare",
+                    "bounds": {
+                      "x": 48,
+                      "y": 49,
+                      "width": 260,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "image",
+                        "name": "MIT OpenCourseWare",
+                        "bounds": {
+                          "x": 48,
+                          "y": 38,
+                          "width": 260,
+                          "height": 42
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_6",
+                "role": "link",
+                "name": "Give Now - Donate to MIT OpenCourseWare",
+                "bounds": {
+                  "x": 673,
+                  "y": 47,
+                  "width": 104,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_7",
+                    "role": "label",
+                    "name": "GIVE NOW",
+                    "bounds": {
+                      "x": 673,
+                      "y": 49,
+                      "width": 81,
+                      "height": 16
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_8",
+                "role": "link",
+                "name": "ABOUT OCW",
+                "bounds": {
+                  "x": 833,
+                  "y": 47,
+                  "width": 96,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_9",
+                    "role": "label",
+                    "name": "ABOUT OCW",
+                    "bounds": {
+                      "x": 833,
+                      "y": 49,
+                      "width": 96,
+                      "height": 16
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_10",
+                "role": "link",
+                "name": "HELP & FAQS",
+                "bounds": {
+                  "x": 962,
+                  "y": 47,
+                  "width": 103,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_11",
+                    "role": "label",
+                    "name": "HELP & FAQS",
+                    "bounds": {
+                      "x": 962,
+                      "y": 49,
+                      "width": 103,
+                      "height": 16
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_12",
+                "role": "link",
+                "name": "CONTACT US",
+                "bounds": {
+                  "x": 1097,
+                  "y": 47,
+                  "width": 99,
+                  "height": 21
+                },
+                "children": [
+                  {
+                    "id": "node_13",
+                    "role": "label",
+                    "name": "CONTACT US",
+                    "bounds": {
+                      "x": 1097,
+                      "y": 49,
+                      "width": 99,
+                      "height": 16
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_14",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 48,
+              "y": 191,
+              "width": 550,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_15",
+                "role": "label",
+                "name": "Discover courses, materials, & teaching resources",
+                "bounds": {
+                  "x": 48,
+                  "y": 193,
+                  "width": 453,
+                  "height": 19
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_16",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 48,
+              "y": 223,
+              "width": 400,
+              "height": 50
+            },
+            "children": [
+              {
+                "id": "node_17",
+                "role": "textfield",
+                "name": "Search",
+                "bounds": {
+                  "x": 60,
+                  "y": 224,
+                  "width": 292,
+                  "height": 48
+                }
+              },
+              {
+                "id": "node_18",
+                "role": "button",
+                "name": "Search",
+                "bounds": {
+                  "x": 370,
+                  "y": 229,
+                  "width": 61,
+                  "height": 38
+                },
+                "children": [
+                  {
+                    "id": "node_19",
+                    "role": "label",
+                    "name": "Search",
+                    "bounds": {
+                      "x": 370,
+                      "y": 238,
+                      "width": 61,
+                      "height": 19
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_20",
+            "role": "label",
+            "name": "OR",
+            "bounds": {
+              "x": 461,
+              "y": 239,
+              "width": 23,
+              "height": 16
+            }
+          },
+          {
+            "id": "node_21",
+            "role": "link",
+            "name": "Explore",
+            "bounds": {
+              "x": 514,
+              "y": 229,
+              "width": 67,
+              "height": 38
+            },
+            "children": [
+              {
+                "id": "node_22",
+                "role": "label",
+                "name": "Explore",
+                "bounds": {
+                  "x": 514,
+                  "y": 238,
+                  "width": 69,
+                  "height": 19
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_23",
+            "role": "label",
+            "name": "Are you new to OCW?",
+            "bounds": {
+              "x": 80,
+              "y": 331,
+              "width": 137,
+              "height": 43
+            }
+          },
+          {
+            "id": "node_24",
+            "role": "link",
+            "name": "Get Started",
+            "bounds": {
+              "x": 80,
+              "y": 377,
+              "width": 182,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_25",
+                "role": "label",
+                "name": "Get Started",
+                "bounds": {
+                  "x": 80,
+                  "y": 379,
+                  "width": 92,
+                  "height": 19
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_26",
+            "role": "label",
+            "name": "Looking for teaching materials?",
+            "bounds": {
+              "x": 295,
+              "y": 331,
+              "width": 186,
+              "height": 43
+            }
+          },
+          {
+            "id": "node_27",
+            "role": "link",
+            "name": "Educators Start Here",
+            "bounds": {
+              "x": 295,
+              "y": 377,
+              "width": 270,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_28",
+                "role": "label",
+                "name": "Educators Start Here",
+                "bounds": {
+                  "x": 295,
+                  "y": 379,
+                  "width": 167,
+                  "height": 19
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_29",
+            "role": "label",
+            "name": "UNLOCKING KNOWLEDGE, EMPOWERING MINDS.",
+            "bounds": {
+              "x": 717,
+              "y": 220,
+              "width": 383,
+              "height": 80
+            },
+            "children": [
+              {
+                "id": "node_30",
+                "role": "label",
+                "name": "UNLOCKING KNOWLEDGE,",
+                "bounds": {
+                  "x": 717,
+                  "y": 227,
+                  "width": 326,
+                  "height": 26
+                }
+              },
+              {
+                "id": "node_31",
+                "role": "label",
+                "name": "EMPOWERING MINDS.",
+                "bounds": {
+                  "x": 717,
+                  "y": 267,
+                  "width": 276,
+                  "height": 26
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_32",
+            "role": "label",
+            "name": "Free lecture notes, exams, and videos from MIT.",
+            "bounds": {
+              "x": 717,
+              "y": 324,
+              "width": 383,
+              "height": 19
+            }
+          },
+          {
+            "id": "node_33",
+            "role": "label",
+            "name": "No registration required.",
+            "bounds": {
+              "x": 717,
+              "y": 343,
+              "width": 196,
+              "height": 19
+            }
+          },
+          {
+            "id": "node_34",
+            "role": "link",
+            "name": "LEARN MORE ABOUT THE OCW MISSION",
+            "bounds": {
+              "x": 717,
+              "y": 372,
+              "width": 383,
+              "height": 24
+            },
+            "children": [
+              {
+                "id": "node_35",
+                "role": "label",
+                "name": "LEARN MORE ABOUT THE OCW MISSION",
+                "bounds": {
+                  "x": 717,
+                  "y": 374,
+                  "width": 357,
+                  "height": 19
+                }
+              }
+            ]
+          },
+          {
+            "id": "node_36",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 508,
+              "width": 1261,
+              "height": 192
+            },
+            "children": [
+              {
+                "id": "node_37",
+                "role": "button",
+                "name": "Previous",
+                "bounds": {
+                  "x": 0,
+                  "y": 574,
+                  "width": 60,
+                  "height": 67
+                },
+                "children": [
+                  {
+                    "id": "node_38",
+                    "role": "label",
+                    "name": "Previous",
+                    "bounds": {
+                      "x": 59,
+                      "y": 575,
+                      "width": 67,
+                      "height": 19
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_39",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 60,
+                  "y": 508,
+                  "width": 1141,
+                  "height": 200
+                },
+                "children": [
+                  {
+                    "id": "node_40",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 60,
+                      "y": 508,
+                      "width": 1141,
+                      "height": 158
+                    },
+                    "children": [
+                      {
+                        "id": "node_41",
+                        "role": "label",
+                        "name": "MIT Learn: \"a whole new front door to the Institute\"",
+                        "bounds": {
+                          "x": 474,
+                          "y": 533,
+                          "width": 582,
+                          "height": 51
+                        },
+                        "children": [
+                          {
+                            "id": "node_42",
+                            "role": "label",
+                            "name": "MIT Learn: \"a whole new front door to the Institute\"",
+                            "bounds": {
+                              "x": 474,
+                              "y": 532,
+                              "width": 530,
+                              "height": 51
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_43",
+                "role": "button",
+                "name": "Next",
+                "bounds": {
+                  "x": 1201,
+                  "y": 574,
+                  "width": 60,
+                  "height": 67
+                },
+                "children": [
+                  {
+                    "id": "node_44",
+                    "role": "label",
+                    "name": "Next",
+                    "bounds": {
+                      "x": 1260,
+                      "y": 575,
+                      "width": 37,
+                      "height": 19
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_45",
+            "role": "label",
+            "name": "\u201d",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "id": "node_46",
+            "role": "button",
+            "name": "Open feedback survey",
+            "bounds": {
+              "x": 1228,
+              "y": 248,
+              "width": 73,
+              "height": 100
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "image_filename": "datasetv2_cropped/trello/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_17",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        470,
+        20,
+        521,
+        44
+      ],
+      "point": [
+        495,
+        32
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        993,
+        8,
+        1046,
+        52
+      ],
+      "point": [
+        1019,
+        30
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Get Trello for free",
+      "bbox": [
+        1095,
+        8,
+        1251,
+        52
+      ],
+      "point": [
+        1173,
+        30
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "Learn more.",
+      "bbox": [
+        938,
+        81,
+        1026,
+        102
+      ],
+      "point": [
+        982,
+        91
+      ]
+    }
+  ]
+}

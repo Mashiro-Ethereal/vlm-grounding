@@ -1,0 +1,83 @@
+{
+  "image_filename": "datasetv2_cropped/vuejs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 5,
+  "test_samples": [
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "API",
+      "bbox": [
+        663,
+        0,
+        684,
+        54
+      ],
+      "point": [
+        673,
+        27
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "link",
+      "name": "Playground",
+      "bbox": [
+        709,
+        0,
+        781,
+        54
+      ],
+      "point": [
+        745,
+        27
+      ]
+    },
+    {
+      "id": "node_33",
+      "category": "link",
+      "name": "Sponsor",
+      "bbox": [
+        995,
+        0,
+        1048,
+        54
+      ],
+      "point": [
+        1021,
+        27
+      ]
+    },
+    {
+      "id": "node_35",
+      "category": "link",
+      "name": "Partners",
+      "bbox": [
+        1072,
+        0,
+        1126,
+        54
+      ],
+      "point": [
+        1099,
+        27
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Install",
+      "bbox": [
+        603,
+        448,
+        649,
+        472
+      ],
+      "point": [
+        626,
+        460
+      ]
+    }
+  ]
+}

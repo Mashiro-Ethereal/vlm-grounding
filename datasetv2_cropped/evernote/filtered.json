@@ -1,0 +1,188 @@
+{
+  "image_filename": "datasetv2_cropped/evernote/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 12,
+  "test_samples": [
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "AI Features",
+      "bbox": [
+        320,
+        30,
+        401,
+        49
+      ],
+      "point": [
+        360,
+        39
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Plans",
+      "bbox": [
+        524,
+        30,
+        561,
+        49
+      ],
+      "point": [
+        542,
+        39
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "link",
+      "name": "Enterprise",
+      "bbox": [
+        590,
+        30,
+        664,
+        49
+      ],
+      "point": [
+        627,
+        39
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        752,
+        30,
+        796,
+        49
+      ],
+      "point": [
+        774,
+        39
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Download",
+      "bbox": [
+        853,
+        28,
+        926,
+        52
+      ],
+      "point": [
+        889,
+        40
+      ]
+    },
+    {
+      "id": "node_25",
+      "category": "button",
+      "name": "Start for free",
+      "bbox": [
+        987,
+        27,
+        1081,
+        53
+      ],
+      "point": [
+        1034,
+        40
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "button",
+      "name": "Get Evernote free",
+      "bbox": [
+        545,
+        373,
+        715,
+        400
+      ],
+      "point": [
+        630,
+        386
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        713,
+        451,
+        763,
+        473
+      ],
+      "point": [
+        738,
+        462
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "button",
+      "name": "Continue without accepting",
+      "bbox": [
+        803,
+        148,
+        941,
+        163
+      ],
+      "point": [
+        872,
+        155
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "Cookie Notice",
+      "bbox": [
+        699,
+        337,
+        782,
+        352
+      ],
+      "point": [
+        740,
+        344
+      ]
+    },
+    {
+      "id": "node_54",
+      "category": "button",
+      "name": "Customize preferences",
+      "bbox": [
+        340,
+        401,
+        601,
+        425
+      ],
+      "point": [
+        470,
+        413
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "button",
+      "name": "Accept all cookies",
+      "bbox": [
+        659,
+        400,
+        921,
+        426
+      ],
+      "point": [
+        790,
+        413
+      ]
+    }
+  ]
+}

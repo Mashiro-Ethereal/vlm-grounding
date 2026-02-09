@@ -1,0 +1,158 @@
+{
+  "image_filename": "datasetv2_cropped/mit_ocw/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 10,
+  "test_samples": [
+    {
+      "id": "node_6",
+      "category": "link",
+      "name": "Give Now - Donate to MIT OpenCourseWare",
+      "bbox": [
+        673,
+        47,
+        777,
+        68
+      ],
+      "point": [
+        725,
+        57
+      ]
+    },
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "ABOUT OCW",
+      "bbox": [
+        833,
+        47,
+        929,
+        68
+      ],
+      "point": [
+        881,
+        57
+      ]
+    },
+    {
+      "id": "node_10",
+      "category": "link",
+      "name": "HELP & FAQS",
+      "bbox": [
+        962,
+        47,
+        1065,
+        68
+      ],
+      "point": [
+        1013,
+        57
+      ]
+    },
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "CONTACT US",
+      "bbox": [
+        1097,
+        47,
+        1196,
+        68
+      ],
+      "point": [
+        1146,
+        57
+      ]
+    },
+    {
+      "id": "node_17",
+      "category": "textfield",
+      "name": "Search",
+      "bbox": [
+        60,
+        224,
+        352,
+        272
+      ],
+      "point": [
+        206,
+        248
+      ]
+    },
+    {
+      "id": "node_18",
+      "category": "button",
+      "name": "Search",
+      "bbox": [
+        370,
+        229,
+        431,
+        267
+      ],
+      "point": [
+        400,
+        248
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "link",
+      "name": "Explore",
+      "bbox": [
+        514,
+        229,
+        581,
+        267
+      ],
+      "point": [
+        547,
+        248
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "Get Started",
+      "bbox": [
+        80,
+        377,
+        262,
+        401
+      ],
+      "point": [
+        171,
+        389
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Educators Start Here",
+      "bbox": [
+        295,
+        377,
+        565,
+        401
+      ],
+      "point": [
+        430,
+        389
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "LEARN MORE ABOUT THE OCW MISSION",
+      "bbox": [
+        717,
+        372,
+        1100,
+        396
+      ],
+      "point": [
+        908,
+        384
+      ]
+    }
+  ]
+}

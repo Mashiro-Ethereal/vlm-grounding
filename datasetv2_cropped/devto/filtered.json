@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/devto/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Create new account",
+      "bbox": [
+        48,
+        349,
+        224,
+        373
+      ],
+      "point": [
+        136,
+        361
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        48,
+        393,
+        224,
+        417
+      ],
+      "point": [
+        136,
+        405
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Relevant",
+      "bbox": [
+        284,
+        76,
+        373,
+        103
+      ],
+      "point": [
+        328,
+        89
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Latest",
+      "bbox": [
+        397,
+        76,
+        452,
+        103
+      ],
+      "point": [
+        424,
+        89
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Top",
+      "bbox": [
+        477,
+        76,
+        507,
+        103
+      ],
+      "point": [
+        492,
+        89
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "link",
+      "name": "Join the Algolia Agent Studio Challenge: $3,000 in Prizes! Jess Lee for The DEV Team \u30fb Jan 7 #algoliachallenge #devchallenge #agents #webdev",
+      "bbox": [
+        333,
+        530,
+        784,
+        549
+      ],
+      "point": [
+        558,
+        539
+      ]
+    },
+    {
+      "id": "node_96",
+      "category": "link",
+      "name": "Join the GitHub Copilot CLI Challenge!",
+      "bbox": [
+        956,
+        331,
+        1196,
+        374
+      ],
+      "point": [
+        1076,
+        352
+      ]
+    }
+  ]
+}

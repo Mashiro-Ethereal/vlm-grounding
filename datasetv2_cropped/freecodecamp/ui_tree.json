@@ -1,0 +1,405 @@
+{
+  "timestamp": "2026-02-07T05:43:20.906997Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Learn to Code \u2014 For Free \u2014 Coding Courses for Busy People",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 583
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 583
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 38
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "panel",
+                            "name": "primary",
+                            "bounds": {
+                              "x": 15,
+                              "y": 0,
+                              "width": 1231,
+                              "height": 38
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 15,
+                                  "y": 5,
+                                  "width": 492,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_8",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 15,
+                                      "y": 5,
+                                      "width": 492,
+                                      "height": 28
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_9",
+                                        "role": "label",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 14,
+                                          "y": 4,
+                                          "width": 1,
+                                          "height": 1
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_10",
+                                            "role": "label",
+                                            "name": "Search",
+                                            "bounds": {
+                                              "x": 14,
+                                              "y": 5,
+                                              "width": 53,
+                                              "height": 22
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "node_11",
+                                        "role": "textfield",
+                                        "name": "Search",
+                                        "bounds": {
+                                          "x": 50,
+                                          "y": 5,
+                                          "width": 416,
+                                          "height": 28
+                                        }
+                                      },
+                                      {
+                                        "id": "node_12",
+                                        "role": "button",
+                                        "name": "Submit search terms",
+                                        "bounds": {
+                                          "x": 15,
+                                          "y": 5,
+                                          "width": 26,
+                                          "height": 28
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_13",
+                                            "role": "label",
+                                            "name": "Submit search terms",
+                                            "bounds": {
+                                              "x": 27,
+                                              "y": 18,
+                                              "width": 161,
+                                              "height": 22
+                                            }
+                                          },
+                                          {
+                                            "id": "node_14",
+                                            "role": "image",
+                                            "name": "",
+                                            "bounds": {
+                                              "x": 21,
+                                              "y": 12,
+                                              "width": 14,
+                                              "height": 14
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_15",
+                                "role": "link",
+                                "name": "freeCodeCamp Curriculum",
+                                "bounds": {
+                                  "x": 525,
+                                  "y": 7,
+                                  "width": 210,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "image",
+                                    "name": "freeCodeCamp Curriculum",
+                                    "bounds": {
+                                      "x": 525,
+                                      "y": 7,
+                                      "width": 210,
+                                      "height": 24
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_17",
+                                "role": "button",
+                                "name": "Change Language",
+                                "bounds": {
+                                  "x": 1043,
+                                  "y": 6,
+                                  "width": 24,
+                                  "height": 26
+                                },
+                                "states": [
+                                  "collapsed"
+                                ]
+                              },
+                              {
+                                "id": "node_18",
+                                "role": "button",
+                                "name": "Menu",
+                                "bounds": {
+                                  "x": 1095,
+                                  "y": 6,
+                                  "width": 46,
+                                  "height": 26
+                                },
+                                "states": [
+                                  "collapsed"
+                                ],
+                                "children": [
+                                  {
+                                    "id": "node_19",
+                                    "role": "label",
+                                    "name": "Menu",
+                                    "bounds": {
+                                      "x": 1095,
+                                      "y": 7,
+                                      "width": 46,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_20",
+                                "role": "link",
+                                "name": "Sign in",
+                                "bounds": {
+                                  "x": 1179,
+                                  "y": 8,
+                                  "width": 51,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_21",
+                                    "role": "label",
+                                    "name": "Sign in",
+                                    "bounds": {
+                                      "x": 1179,
+                                      "y": 7,
+                                      "width": 51,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_22",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 38,
+                          "width": 1261,
+                          "height": 7213
+                        },
+                        "children": [
+                          {
+                            "id": "node_23",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 15,
+                              "y": 89,
+                              "width": 1231,
+                              "height": 808
+                            },
+                            "children": [
+                              {
+                                "id": "node_24",
+                                "role": "label",
+                                "name": "Build Your Skills for Free.",
+                                "bounds": {
+                                  "x": 35,
+                                  "y": 148,
+                                  "width": 585,
+                                  "height": 205
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_25",
+                                    "role": "label",
+                                    "name": "Build Your Skills for Free.",
+                                    "bounds": {
+                                      "x": 35,
+                                      "y": 156,
+                                      "width": 516,
+                                      "height": 188
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_26",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 35,
+                                  "y": 364,
+                                  "width": 585,
+                                  "height": 105
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "label",
+                                    "name": "Advance your career by learning in-demand skills in Programming, DevOps, Cybersecurity, AI Engineering, and English for Developers.",
+                                    "bounds": {
+                                      "x": 35,
+                                      "y": 367,
+                                      "width": 549,
+                                      "height": 98
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_28",
+                                "role": "link",
+                                "name": "Get started (it's free)",
+                                "bounds": {
+                                  "x": 205,
+                                  "y": 526,
+                                  "width": 244,
+                                  "height": 38
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": "Get started (it's free)",
+                                    "bounds": {
+                                      "x": 205,
+                                      "y": 528,
+                                      "width": 244,
+                                      "height": 33
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_30",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 550,
+                                  "y": 89,
+                                  "width": 850,
+                                  "height": 550
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_31",
+                                    "role": "image",
+                                    "name": "A group of people, including a White man, a Black woman, and an Asian woman, gathered around a laptop.",
+                                    "bounds": {
+                                      "x": 430,
+                                      "y": 89,
+                                      "width": 850,
+                                      "height": 550
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

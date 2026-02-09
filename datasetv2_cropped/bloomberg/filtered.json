@@ -1,0 +1,173 @@
+{
+  "image_filename": "datasetv2_cropped/bloomberg/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 11,
+  "test_samples": [
+    {
+      "id": "node_9",
+      "category": "link",
+      "name": "Bloomberg Terminal Demo Request",
+      "bbox": [
+        405,
+        9,
+        603,
+        21
+      ],
+      "point": [
+        504,
+        15
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Bloomberg Customer Support",
+      "bbox": [
+        864,
+        9,
+        1031,
+        21
+      ],
+      "point": [
+        947,
+        15
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "menuitem",
+      "name": "Stories",
+      "bbox": [
+        786,
+        55,
+        830,
+        76
+      ],
+      "point": [
+        808,
+        65
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "menuitem",
+      "name": "Find jobs",
+      "bbox": [
+        929,
+        55,
+        988,
+        76
+      ],
+      "point": [
+        958,
+        65
+      ]
+    },
+    {
+      "id": "node_38",
+      "category": "link",
+      "name": "SEARCH JOBS",
+      "bbox": [
+        188,
+        412,
+        295,
+        433
+      ],
+      "point": [
+        241,
+        422
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "Engineering",
+      "bbox": [
+        397,
+        131,
+        509,
+        163
+      ],
+      "point": [
+        453,
+        147
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "Internships",
+      "bbox": [
+        541,
+        131,
+        641,
+        163
+      ],
+      "point": [
+        591,
+        147
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "link",
+      "name": "Employee benefits",
+      "bbox": [
+        674,
+        131,
+        844,
+        163
+      ],
+      "point": [
+        759,
+        147
+      ]
+    },
+    {
+      "id": "node_63",
+      "category": "link",
+      "name": "Search jobs",
+      "bbox": [
+        562,
+        474,
+        667,
+        500
+      ],
+      "point": [
+        614,
+        487
+      ]
+    },
+    {
+      "id": "node_68",
+      "category": "link",
+      "name": "Privacy Policy",
+      "bbox": [
+        91,
+        520,
+        187,
+        541
+      ],
+      "point": [
+        139,
+        530
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "button",
+      "name": "change your preferences",
+      "bbox": [
+        197,
+        541,
+        349,
+        562
+      ],
+      "point": [
+        273,
+        551
+      ]
+    }
+  ]
+}

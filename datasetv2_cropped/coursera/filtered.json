@@ -1,0 +1,38 @@
+{
+  "image_filename": "datasetv2_cropped/coursera/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_14",
+      "category": "button",
+      "name": "Degrees",
+      "bbox": [
+        286,
+        62,
+        332,
+        82
+      ],
+      "point": [
+        309,
+        72
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "button",
+      "name": "Log In",
+      "bbox": [
+        1061,
+        62,
+        1097,
+        82
+      ],
+      "point": [
+        1079,
+        72
+      ]
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "timestamp": "2026-02-07T05:41:31.365190Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "The Go Programming Language",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 56
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 24,
+                  "y": 0,
+                  "width": 1213,
+                  "height": 56
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "link",
+                    "name": "Go",
+                    "bounds": {
+                      "x": 24,
+                      "y": 12,
+                      "width": 118,
+                      "height": 32
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "image",
+                        "name": "Go",
+                        "bounds": {
+                          "x": 24,
+                          "y": 12,
+                          "width": 82,
+                          "height": 32
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_6",
+                    "role": "link",
+                    "name": "Skip to main content",
+                    "bounds": {
+                      "x": 105,
+                      "y": 17,
+                      "width": 167,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_7",
+                        "role": "label",
+                        "name": "Skip to Main Content",
+                        "bounds": {
+                          "x": 105,
+                          "y": 18,
+                          "width": 167,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_8",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 561,
+                      "y": 0,
+                      "width": 675,
+                      "height": 56
+                    },
+                    "children": [
+                      {
+                        "id": "node_9",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 566,
+                          "y": 0,
+                          "width": 134,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_10",
+                            "role": "link",
+                            "name": "Why Go",
+                            "bounds": {
+                              "x": 590,
+                              "y": 3,
+                              "width": 86,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_11",
+                                "role": "label",
+                                "name": "Why Go",
+                                "bounds": {
+                                  "x": 590,
+                                  "y": 17,
+                                  "width": 62,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_12",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 710,
+                          "y": 0,
+                          "width": 92,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_13",
+                            "role": "link",
+                            "name": "Learn",
+                            "bounds": {
+                              "x": 734,
+                              "y": 3,
+                              "width": 44,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_14",
+                                "role": "label",
+                                "name": "Learn",
+                                "bounds": {
+                                  "x": 734,
+                                  "y": 17,
+                                  "width": 44,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_15",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 813,
+                          "y": 0,
+                          "width": 111,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "link",
+                            "name": "Docs",
+                            "bounds": {
+                              "x": 837,
+                              "y": 3,
+                              "width": 63,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_17",
+                                "role": "label",
+                                "name": "Docs",
+                                "bounds": {
+                                  "x": 837,
+                                  "y": 17,
+                                  "width": 39,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_18",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 934,
+                          "y": 0,
+                          "width": 122,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_19",
+                            "role": "link",
+                            "name": "Packages",
+                            "bounds": {
+                              "x": 958,
+                              "y": 3,
+                              "width": 74,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_20",
+                                "role": "label",
+                                "name": "Packages",
+                                "bounds": {
+                                  "x": 958,
+                                  "y": 17,
+                                  "width": 74,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_21",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 1067,
+                          "y": 0,
+                          "width": 164,
+                          "height": 56
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "link",
+                            "name": "Community",
+                            "bounds": {
+                              "x": 1091,
+                              "y": 3,
+                              "width": 116,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_23",
+                                "role": "label",
+                                "name": "Community",
+                                "bounds": {
+                                  "x": 1091,
+                                  "y": 17,
+                                  "width": 92,
+                                  "height": 19
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_24",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 56,
+              "width": 1261,
+              "height": 3612
+            },
+            "children": [
+              {
+                "id": "node_25",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 56,
+                  "width": 1261,
+                  "height": 472
+                },
+                "children": [
+                  {
+                    "id": "node_26",
+                    "role": "label",
+                    "name": "Build simple, secure, scalable systems with Go",
+                    "bounds": {
+                      "x": 48,
+                      "y": 112,
+                      "width": 840,
+                      "height": 109
+                    },
+                    "children": [
+                      {
+                        "id": "node_27",
+                        "role": "label",
+                        "name": "Build simple, secure, scalable systems with Go",
+                        "bounds": {
+                          "x": 48,
+                          "y": 116,
+                          "width": 755,
+                          "height": 99
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_28",
+                    "role": "listbox",
+                    "name": "",
+                    "bounds": {
+                      "x": 48,
+                      "y": 237,
+                      "width": 840,
+                      "height": 96
+                    },
+                    "children": [
+                      {
+                        "id": "node_29",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 72,
+                          "y": 237,
+                          "width": 816,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_30",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 48,
+                              "y": 242,
+                              "width": 12,
+                              "height": 10
+                            }
+                          },
+                          {
+                            "id": "node_31",
+                            "role": "label",
+                            "name": "An open-source programming language supported by Google",
+                            "bounds": {
+                              "x": 72,
+                              "y": 236,
+                              "width": 491,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_32",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 72,
+                          "y": 263,
+                          "width": 816,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_33",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 48,
+                              "y": 268,
+                              "width": 12,
+                              "height": 10
+                            }
+                          },
+                          {
+                            "id": "node_34",
+                            "role": "label",
+                            "name": "Easy to learn and great for teams",
+                            "bounds": {
+                              "x": 72,
+                              "y": 262,
+                              "width": 269,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_35",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 72,
+                          "y": 289,
+                          "width": 816,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 48,
+                              "y": 294,
+                              "width": 12,
+                              "height": 10
+                            }
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "label",
+                            "name": "Built-in concurrency and a robust standard library",
+                            "bounds": {
+                              "x": 72,
+                              "y": 288,
+                              "width": 398,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_38",
+                        "role": "listitem",
+                        "name": "",
+                        "bounds": {
+                          "x": 72,
+                          "y": 315,
+                          "width": 816,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_39",
+                            "role": "image",
+                            "name": "",
+                            "bounds": {
+                              "x": 48,
+                              "y": 320,
+                              "width": 12,
+                              "height": 10
+                            }
+                          },
+                          {
+                            "id": "node_40",
+                            "role": "label",
+                            "name": "Large ecosystem of partners, communities, and tools",
+                            "bounds": {
+                              "x": 72,
+                              "y": 314,
+                              "width": 427,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_41",
+                    "role": "button",
+                    "name": "Get Started",
+                    "bounds": {
+                      "x": 49,
+                      "y": 374,
+                      "width": 278,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "label",
+                        "name": "Get Started",
+                        "bounds": {
+                          "x": 118,
+                          "y": 375,
+                          "width": 139,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_43",
+                    "role": "button",
+                    "name": "Download",
+                    "bounds": {
+                      "x": 350,
+                      "y": 374,
+                      "width": 278,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "Download",
+                        "bounds": {
+                          "x": 429,
+                          "y": 375,
+                          "width": 119,
+                          "height": 28
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_45",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 48,
+                      "y": 437,
+                      "width": 840,
+                      "height": 18
+                    },
+                    "children": [
+                      {
+                        "id": "node_46",
+                        "role": "label",
+                        "name": "Download packages for ",
+                        "bounds": {
+                          "x": 48,
+                          "y": 438,
+                          "width": 156,
+                          "height": 15
+                        }
+                      },
+                      {
+                        "id": "node_47",
+                        "role": "link",
+                        "name": "Windows 64-bit",
+                        "bounds": {
+                          "x": 205,
+                          "y": 438,
+                          "width": 100,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_48",
+                            "role": "label",
+                            "name": "Windows 64-bit",
+                            "bounds": {
+                              "x": 205,
+                              "y": 438,
+                              "width": 100,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_49",
+                        "role": "label",
+                        "name": ", ",
+                        "bounds": {
+                          "x": 305,
+                          "y": 438,
+                          "width": 8,
+                          "height": 15
+                        }
+                      },
+                      {
+                        "id": "node_50",
+                        "role": "link",
+                        "name": "macOS",
+                        "bounds": {
+                          "x": 313,
+                          "y": 438,
+                          "width": 46,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_51",
+                            "role": "label",
+                            "name": "macOS",
+                            "bounds": {
+                              "x": 313,
+                              "y": 438,
+                              "width": 46,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_52",
+                        "role": "label",
+                        "name": ", ",
+                        "bounds": {
+                          "x": 359,
+                          "y": 438,
+                          "width": 8,
+                          "height": 15
+                        }
+                      },
+                      {
+                        "id": "node_53",
+                        "role": "link",
+                        "name": "Linux",
+                        "bounds": {
+                          "x": 368,
+                          "y": 438,
+                          "width": 35,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_54",
+                            "role": "label",
+                            "name": "Linux",
+                            "bounds": {
+                              "x": 368,
+                              "y": 438,
+                              "width": 36,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_55",
+                        "role": "label",
+                        "name": ", and ",
+                        "bounds": {
+                          "x": 403,
+                          "y": 438,
+                          "width": 36,
+                          "height": 15
+                        }
+                      },
+                      {
+                        "id": "node_56",
+                        "role": "link",
+                        "name": "more",
+                        "bounds": {
+                          "x": 440,
+                          "y": 438,
+                          "width": 33,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_57",
+                            "role": "label",
+                            "name": "more",
+                            "bounds": {
+                              "x": 440,
+                              "y": 438,
+                              "width": 33,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_58",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 48,
+                      "y": 467,
+                      "width": 840,
+                      "height": 36
+                    },
+                    "children": [
+                      {
+                        "id": "node_59",
+                        "role": "label",
+                        "name": "The ",
+                        "bounds": {
+                          "x": 47,
+                          "y": 468,
+                          "width": 30,
+                          "height": 15
+                        }
+                      },
+                      {
+                        "id": "node_60",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 76,
+                          "y": 468,
+                          "width": 15,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_61",
+                            "role": "label",
+                            "name": "go",
+                            "bounds": {
+                              "x": 76,
+                              "y": 468,
+                              "width": 15,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_62",
+                        "role": "label",
+                        "name": " command by default downloads and authenticates modules using the Go module mirror and Go checksum database run by Google. ",
+                        "bounds": {
+                          "x": 48,
+                          "y": 468,
+                          "width": 833,
+                          "height": 33
+                        }
+                      },
+                      {
+                        "id": "node_63",
+                        "role": "link",
+                        "name": "Learn more.",
+                        "bounds": {
+                          "x": 122,
+                          "y": 487,
+                          "width": 78,
+                          "height": 15
+                        },
+                        "children": [
+                          {
+                            "id": "node_64",
+                            "role": "label",
+                            "name": "Learn more.",
+                            "bounds": {
+                              "x": 122,
+                              "y": 487,
+                              "width": 78,
+                              "height": 15
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_65",
+                    "role": "image",
+                    "name": "Go Gopher climbing a ladder.",
+                    "bounds": {
+                      "x": 1028,
+                      "y": 160,
+                      "width": 184,
+                      "height": 368
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_66",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 528,
+                  "width": 1261,
+                  "height": 664
+                },
+                "children": [
+                  {
+                    "id": "node_67",
+                    "role": "label",
+                    "name": "Companies using Go",
+                    "bounds": {
+                      "x": 48,
+                      "y": 576,
+                      "width": 1164,
+                      "height": 42
+                    },
+                    "children": [
+                      {
+                        "id": "node_68",
+                        "role": "label",
+                        "name": "Companies using Go",
+                        "bounds": {
+                          "x": 445,
+                          "y": 576,
+                          "width": 370,
+                          "height": 41
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_69",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 16,
+              "y": 526,
+              "width": 1229,
+              "height": 40
+            },
+            "children": [
+              {
+                "id": "node_70",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 121,
+                  "y": 535,
+                  "width": 943,
+                  "height": 22
+                },
+                "children": [
+                  {
+                    "id": "node_71",
+                    "role": "label",
+                    "name": "go.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. ",
+                    "bounds": {
+                      "x": 121,
+                      "y": 536,
+                      "width": 847,
+                      "height": 19
+                    }
+                  },
+                  {
+                    "id": "node_72",
+                    "role": "link",
+                    "name": "Learn more.",
+                    "bounds": {
+                      "x": 968,
+                      "y": 536,
+                      "width": 96,
+                      "height": 19
+                    },
+                    "children": [
+                      {
+                        "id": "node_73",
+                        "role": "label",
+                        "name": "Learn more.",
+                        "bounds": {
+                          "x": 968,
+                          "y": 536,
+                          "width": 96,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_74",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 1080,
+                  "y": 526,
+                  "width": 58,
+                  "height": 40
+                },
+                "children": [
+                  {
+                    "id": "node_75",
+                    "role": "button",
+                    "name": "Okay",
+                    "bounds": {
+                      "x": 1089,
+                      "y": 535,
+                      "width": 40,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_76",
+                        "role": "label",
+                        "name": "Okay",
+                        "bounds": {
+                          "x": 1089,
+                          "y": 536,
+                          "width": 40,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

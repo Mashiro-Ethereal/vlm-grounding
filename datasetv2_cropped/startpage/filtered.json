@@ -1,0 +1,38 @@
+{
+  "image_filename": "datasetv2_cropped/startpage/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 2,
+  "test_samples": [
+    {
+      "id": "node_18",
+      "category": "textfield",
+      "name": "search",
+      "bbox": [
+        379,
+        262,
+        822,
+        273
+      ],
+      "point": [
+        600,
+        267
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "button",
+      "name": "search button",
+      "bbox": [
+        862,
+        264,
+        878,
+        273
+      ],
+      "point": [
+        870,
+        268
+      ]
+    }
+  ]
+}

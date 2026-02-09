@@ -1,0 +1,1252 @@
+{
+  "timestamp": "2026-02-07T05:44:46.073241Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "1 unread message",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 3787
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "dialog",
+                "name": "About cookies on this site",
+                "bounds": {
+                  "x": 30,
+                  "y": 488,
+                  "width": 1201,
+                  "height": 70
+                },
+                "states": [
+                  "focused",
+                  "active"
+                ],
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "label",
+                    "name": "About cookies on this site",
+                    "bounds": {
+                      "x": 30,
+                      "y": 488,
+                      "width": 788,
+                      "height": 20
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 30,
+                          "y": 490,
+                          "width": 234,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "About cookies on this site",
+                            "bounds": {
+                              "x": 30,
+                              "y": 490,
+                              "width": 235,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 30,
+                      "y": 517,
+                      "width": 780,
+                      "height": 37
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "label",
+                        "name": "We use cookies to collect and analyze information on site performance and usage, to provide social media features and to enhance and customize content and advertisements.",
+                        "bounds": {
+                          "x": 30,
+                          "y": 517,
+                          "width": 780,
+                          "height": 37
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_9",
+                    "role": "link",
+                    "name": "Learn more",
+                    "bounds": {
+                      "x": 399,
+                      "y": 539,
+                      "width": 74,
+                      "height": 15
+                    },
+                    "children": [
+                      {
+                        "id": "node_10",
+                        "role": "label",
+                        "name": "Learn more",
+                        "bounds": {
+                          "x": 399,
+                          "y": 539,
+                          "width": 75,
+                          "height": 15
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_11",
+                    "role": "button",
+                    "name": "Cookie settings",
+                    "bounds": {
+                      "x": 878,
+                      "y": 516,
+                      "width": 120,
+                      "height": 13
+                    },
+                    "children": [
+                      {
+                        "id": "node_12",
+                        "role": "label",
+                        "name": "Cookie settings",
+                        "bounds": {
+                          "x": 878,
+                          "y": 514,
+                          "width": 120,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_13",
+                    "role": "button",
+                    "name": "ALLOW ALL COOKIES",
+                    "bounds": {
+                      "x": 1049,
+                      "y": 516,
+                      "width": 161,
+                      "height": 13
+                    },
+                    "children": [
+                      {
+                        "id": "node_14",
+                        "role": "label",
+                        "name": "ALLOW ALL COOKIES",
+                        "bounds": {
+                          "x": 1049,
+                          "y": 514,
+                          "width": 161,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_15",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 3787
+                },
+                "children": [
+                  {
+                    "id": "node_16",
+                    "role": "unknown",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 65
+                    },
+                    "children": [
+                      {
+                        "id": "node_17",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 60,
+                          "y": 0,
+                          "width": 1140,
+                          "height": 65
+                        },
+                        "children": [
+                          {
+                            "id": "node_18",
+                            "role": "link",
+                            "name": "Swagger Logo",
+                            "bounds": {
+                              "x": 60,
+                              "y": 7,
+                              "width": 174,
+                              "height": 50
+                            },
+                            "children": [
+                              {
+                                "id": "node_19",
+                                "role": "image",
+                                "name": "Swagger Logo",
+                                "bounds": {
+                                  "x": 60,
+                                  "y": 7,
+                                  "width": 174,
+                                  "height": 50
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_20",
+                            "role": "listbox",
+                            "name": "",
+                            "bounds": {
+                              "x": 266,
+                              "y": 10,
+                              "width": 934,
+                              "height": 45
+                            },
+                            "children": [
+                              {
+                                "id": "node_21",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 266,
+                                  "y": 10,
+                                  "width": 116,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_22",
+                                    "role": "button",
+                                    "name": "Products \uf078",
+                                    "bounds": {
+                                      "x": 282,
+                                      "y": 18,
+                                      "width": 84,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "expanded"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_23",
+                                        "role": "label",
+                                        "name": "Products",
+                                        "bounds": {
+                                          "x": 282,
+                                          "y": 23,
+                                          "width": 66,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_24",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 356,
+                                          "y": 22,
+                                          "width": 14,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_25",
+                                            "role": "label",
+                                            "name": "\uf078",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_26",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 382,
+                                  "y": 10,
+                                  "width": 136,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_27",
+                                    "role": "button",
+                                    "name": "Community \uf078",
+                                    "bounds": {
+                                      "x": 398,
+                                      "y": 18,
+                                      "width": 104,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "expanded"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_28",
+                                        "role": "label",
+                                        "name": "Community",
+                                        "bounds": {
+                                          "x": 398,
+                                          "y": 23,
+                                          "width": 88,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_29",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 493,
+                                          "y": 22,
+                                          "width": 14,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_30",
+                                            "role": "label",
+                                            "name": "\uf078",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_31",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 519,
+                                  "y": 10,
+                                  "width": 92,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_32",
+                                    "role": "button",
+                                    "name": "Learn \uf078",
+                                    "bounds": {
+                                      "x": 535,
+                                      "y": 18,
+                                      "width": 60,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_33",
+                                        "role": "label",
+                                        "name": "Learn",
+                                        "bounds": {
+                                          "x": 535,
+                                          "y": 23,
+                                          "width": 42,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_34",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 586,
+                                          "y": 22,
+                                          "width": 14,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_35",
+                                            "role": "label",
+                                            "name": "\uf078",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_36",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 612,
+                                  "y": 10,
+                                  "width": 126,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_37",
+                                    "role": "button",
+                                    "name": "Resources \uf078",
+                                    "bounds": {
+                                      "x": 628,
+                                      "y": 18,
+                                      "width": 94,
+                                      "height": 28
+                                    },
+                                    "states": [
+                                      "collapsed"
+                                    ],
+                                    "children": [
+                                      {
+                                        "id": "node_38",
+                                        "role": "label",
+                                        "name": "Resources",
+                                        "bounds": {
+                                          "x": 628,
+                                          "y": 23,
+                                          "width": 76,
+                                          "height": 22
+                                        }
+                                      },
+                                      {
+                                        "id": "node_39",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 713,
+                                          "y": 22,
+                                          "width": 14,
+                                          "height": 24
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_40",
+                                            "role": "label",
+                                            "name": "\uf078",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_41",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 921,
+                                  "y": 10,
+                                  "width": 21,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_42",
+                                    "role": "link",
+                                    "name": "\uf002\u00a0",
+                                    "bounds": {
+                                      "x": 921,
+                                      "y": 20,
+                                      "width": 21,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_43",
+                                        "role": "panel",
+                                        "name": "",
+                                        "bounds": {
+                                          "x": 921,
+                                          "y": 24,
+                                          "width": 21,
+                                          "height": 16
+                                        },
+                                        "children": [
+                                          {
+                                            "id": "node_44",
+                                            "role": "label",
+                                            "name": "\uf002",
+                                            "bounds": {
+                                              "x": 0,
+                                              "y": 0,
+                                              "width": 0,
+                                              "height": 0
+                                            }
+                                          },
+                                          {
+                                            "id": "node_45",
+                                            "role": "label",
+                                            "name": "\u00a0",
+                                            "bounds": {
+                                              "x": 937,
+                                              "y": 24,
+                                              "width": 5,
+                                              "height": 16
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_46",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 943,
+                                  "y": 10,
+                                  "width": 111,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_47",
+                                    "role": "link",
+                                    "name": "Sign In",
+                                    "bounds": {
+                                      "x": 984,
+                                      "y": 27,
+                                      "width": 49,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_48",
+                                        "role": "label",
+                                        "name": "Sign In",
+                                        "bounds": {
+                                          "x": 984,
+                                          "y": 24,
+                                          "width": 49,
+                                          "height": 22
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_49",
+                                "role": "listitem",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1054,
+                                  "y": 10,
+                                  "width": 145,
+                                  "height": 45
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_50",
+                                    "role": "link",
+                                    "name": "Get started",
+                                    "bounds": {
+                                      "x": 1095,
+                                      "y": 27,
+                                      "width": 83,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_51",
+                                        "role": "label",
+                                        "name": "Get started",
+                                        "bounds": {
+                                          "x": 1095,
+                                          "y": 24,
+                                          "width": 83,
+                                          "height": 22
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_52",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 65,
+                      "width": 1261,
+                      "height": 3170
+                    },
+                    "children": [
+                      {
+                        "id": "node_53",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 145,
+                          "width": 1261,
+                          "height": 513
+                        },
+                        "children": [
+                          {
+                            "id": "node_54",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 60,
+                              "y": 149,
+                              "width": 457,
+                              "height": 509
+                            },
+                            "children": [
+                              {
+                                "id": "node_55",
+                                "role": "label",
+                                "name": "The Future of AI Relies on API Quality",
+                                "bounds": {
+                                  "x": 60,
+                                  "y": 149,
+                                  "width": 457,
+                                  "height": 108
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_56",
+                                    "role": "label",
+                                    "name": "The Future of AI Relies on ",
+                                    "bounds": {
+                                      "x": 60,
+                                      "y": 150,
+                                      "width": 446,
+                                      "height": 106
+                                    }
+                                  },
+                                  {
+                                    "id": "node_57",
+                                    "role": "label",
+                                    "name": "API Quality",
+                                    "bounds": {
+                                      "x": 128,
+                                      "y": 204,
+                                      "width": 220,
+                                      "height": 52
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_58",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 60,
+                                  "y": 272,
+                                  "width": 457,
+                                  "height": 96
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_59",
+                                    "role": "label",
+                                    "name": "Swagger enables design, governance, and testing across the full AI-enabled API lifecycle, ensuring quality at every step.",
+                                    "bounds": {
+                                      "x": 60,
+                                      "y": 274,
+                                      "width": 457,
+                                      "height": 91
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_60",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 60,
+                                  "y": 383,
+                                  "width": 457,
+                                  "height": 64
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_61",
+                                    "role": "label",
+                                    "name": "Build APIs ready for humans, LLMs, agents, and continuous innovation.",
+                                    "bounds": {
+                                      "x": 60,
+                                      "y": 385,
+                                      "width": 441,
+                                      "height": 59
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_62",
+                                "role": "link",
+                                "name": "Find your tool",
+                                "bounds": {
+                                  "x": 81,
+                                  "y": 490,
+                                  "width": 107,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_63",
+                                    "role": "label",
+                                    "name": "Find your tool",
+                                    "bounds": {
+                                      "x": 81,
+                                      "y": 487,
+                                      "width": 107,
+                                      "height": 22
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_64",
+                                "role": "link",
+                                "name": "Read the docs \uf178",
+                                "bounds": {
+                                  "x": 241,
+                                  "y": 482,
+                                  "width": 130,
+                                  "height": 28
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_65",
+                                    "role": "label",
+                                    "name": "Read the docs",
+                                    "bounds": {
+                                      "x": 241,
+                                      "y": 485,
+                                      "width": 109,
+                                      "height": 22
+                                    }
+                                  },
+                                  {
+                                    "id": "node_66",
+                                    "role": "label",
+                                    "name": "\uf178",
+                                    "bounds": {
+                                      "x": 0,
+                                      "y": 0,
+                                      "width": 0,
+                                      "height": 0
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_67",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 60,
+                                  "y": 582,
+                                  "width": 457,
+                                  "height": 16
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_68",
+                                    "role": "label",
+                                    "name": "TRUSTED BY",
+                                    "bounds": {
+                                      "x": 60,
+                                      "y": 581,
+                                      "width": 73,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_69",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 630,
+                              "y": 170,
+                              "width": 487,
+                              "height": 463
+                            },
+                            "children": [
+                              {
+                                "id": "node_70",
+                                "role": "image",
+                                "name": "Bleeding Image",
+                                "bounds": {
+                                  "x": 631,
+                                  "y": 171,
+                                  "width": 800,
+                                  "height": 461
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_71",
+                        "role": "label",
+                        "name": "\uf078",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_72",
+                        "role": "label",
+                        "name": "\uf178",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_73",
+                        "role": "label",
+                        "name": "\uf078",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_74",
+                        "role": "label",
+                        "name": "\uf178",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_75",
+                        "role": "label",
+                        "name": "\uf078",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_76",
+                        "role": "label",
+                        "name": "\uf178",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_77",
+                        "role": "label",
+                        "name": "\uf178",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_78",
+                        "role": "label",
+                        "name": "\uf178",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_79",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_80",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_81",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_82",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_83",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_84",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_85",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_86",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_87",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "id": "node_88",
+                    "role": "label",
+                    "name": "\uf062",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "node_89",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 32,
+                  "y": 359,
+                  "width": 2,
+                  "height": 22
+                },
+                "children": [
+                  {
+                    "id": "node_90",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 32,
+                      "y": 359,
+                      "width": 2,
+                      "height": 22
+                    },
+                    "children": [
+                      {
+                        "id": "node_91",
+                        "role": "textfield",
+                        "name": "",
+                        "bounds": {
+                          "x": 32,
+                          "y": 359,
+                          "width": 2,
+                          "height": 22
+                        },
+                        "states": [
+                          "disabled"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_92",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 850,
+                  "y": 417,
+                  "width": 361,
+                  "height": 66
+                },
+                "children": [
+                  {
+                    "id": "node_93",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 855,
+                      "y": 417,
+                      "width": 17,
+                      "height": 28
+                    },
+                    "children": [
+                      {
+                        "id": "node_94",
+                        "role": "button",
+                        "name": "Dismiss chatbot poke message",
+                        "bounds": {
+                          "x": 861,
+                          "y": 422,
+                          "width": 5,
+                          "height": 15
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_95",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 888,
+                      "y": 430,
+                      "width": 250,
+                      "height": 40
+                    },
+                    "children": [
+                      {
+                        "id": "node_96",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 888,
+                          "y": 430,
+                          "width": 250,
+                          "height": 40
+                        },
+                        "children": [
+                          {
+                            "id": "node_97",
+                            "role": "label",
+                            "name": "Welcome to Swagger! What can I help you with?",
+                            "bounds": {
+                              "x": 888,
+                              "y": 430,
+                              "width": 227,
+                              "height": 40
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_98",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 1159,
+                      "y": 431,
+                      "width": 52,
+                      "height": 52
+                    },
+                    "children": [
+                      {
+                        "id": "node_99",
+                        "role": "button",
+                        "name": "Open chatbot",
+                        "bounds": {
+                          "x": 1159,
+                          "y": 431,
+                          "width": 52,
+                          "height": 52
+                        }
+                      },
+                      {
+                        "id": "node_100",
+                        "role": "panel",
+                        "name": "1 unread message",
+                        "bounds": {
+                          "x": 1201,
+                          "y": 422,
+                          "width": 18,
+                          "height": 18
+                        },
+                        "children": [
+                          {
+                            "id": "node_101",
+                            "role": "label",
+                            "name": "1",
+                            "bounds": {
+                              "x": 1206,
+                              "y": 421,
+                              "width": 6,
+                              "height": 17
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

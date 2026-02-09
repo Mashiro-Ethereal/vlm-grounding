@@ -1,0 +1,2118 @@
+{
+  "timestamp": "2026-02-07T05:41:27.792585Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "3.14.3 Documentation",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "Related",
+            "bounds": {
+              "x": 16,
+              "y": 14,
+              "width": 1229,
+              "height": 30
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "listbox",
+                "name": "",
+                "bounds": {
+                  "x": 26,
+                  "y": 14,
+                  "width": 1219,
+                  "height": 30
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 1195,
+                      "y": 14,
+                      "width": 39,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "link",
+                        "name": "index",
+                        "bounds": {
+                          "x": 1195,
+                          "y": 21,
+                          "width": 39,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "label",
+                            "name": "index",
+                            "bounds": {
+                              "x": 1195,
+                              "y": 21,
+                              "width": 40,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_7",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 1119,
+                      "y": 14,
+                      "width": 70,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_8",
+                        "role": "link",
+                        "name": "modules",
+                        "bounds": {
+                          "x": 1119,
+                          "y": 21,
+                          "width": 61,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_9",
+                            "role": "label",
+                            "name": "modules",
+                            "bounds": {
+                              "x": 1119,
+                              "y": 21,
+                              "width": 61,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_10",
+                        "role": "label",
+                        "name": " |",
+                        "bounds": {
+                          "x": 1181,
+                          "y": 21,
+                          "width": 10,
+                          "height": 17
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_11",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 26,
+                      "y": 21,
+                      "width": 16,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_12",
+                        "role": "image",
+                        "name": "Python logo",
+                        "bounds": {
+                          "x": 26,
+                          "y": 21,
+                          "width": 16,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_13",
+                    "role": "label",
+                    "name": " ",
+                    "bounds": {
+                      "x": 42,
+                      "y": 21,
+                      "width": 4,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "id": "node_14",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 46,
+                      "y": 21,
+                      "width": 63,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_15",
+                        "role": "link",
+                        "name": "Python",
+                        "bounds": {
+                          "x": 46,
+                          "y": 21,
+                          "width": 49,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_16",
+                            "role": "label",
+                            "name": "Python",
+                            "bounds": {
+                              "x": 46,
+                              "y": 21,
+                              "width": 49,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_17",
+                        "role": "label",
+                        "name": " \u00bb",
+                        "bounds": {
+                          "x": 96,
+                          "y": 21,
+                          "width": 13,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_18",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 114,
+                      "y": 14,
+                      "width": 406,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_19",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 114,
+                          "y": 14,
+                          "width": 305,
+                          "height": 30
+                        },
+                        "children": [
+                          {
+                            "id": "node_20",
+                            "role": "combobox",
+                            "name": "Language",
+                            "bounds": {
+                              "x": 115,
+                              "y": 21,
+                              "width": 303,
+                              "height": 17
+                            },
+                            "states": [
+                              "collapsed"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_21",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 424,
+                          "y": 14,
+                          "width": 91,
+                          "height": 30
+                        },
+                        "children": [
+                          {
+                            "id": "node_22",
+                            "role": "combobox",
+                            "name": "Python version",
+                            "bounds": {
+                              "x": 425,
+                              "y": 21,
+                              "width": 89,
+                              "height": 17
+                            },
+                            "states": [
+                              "collapsed"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_23",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 525,
+                      "y": 21,
+                      "width": 174,
+                      "height": 16
+                    },
+                    "children": [
+                      {
+                        "id": "node_24",
+                        "role": "link",
+                        "name": "3.14.3 Documentation",
+                        "bounds": {
+                          "x": 525,
+                          "y": 21,
+                          "width": 161,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_25",
+                            "role": "label",
+                            "name": "3.14.3 Documentation",
+                            "bounds": {
+                              "x": 525,
+                              "y": 21,
+                              "width": 161,
+                              "height": 16
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_26",
+                        "role": "label",
+                        "name": " \u00bb",
+                        "bounds": {
+                          "x": 686,
+                          "y": 21,
+                          "width": 13,
+                          "height": 16
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_27",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 904,
+                      "y": 14,
+                      "width": 210,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_28",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 904,
+                          "y": 21,
+                          "width": 205,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_29",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 904,
+                              "y": 21,
+                              "width": 205,
+                              "height": 16
+                            },
+                            "children": [
+                              {
+                                "id": "node_30",
+                                "role": "textfield",
+                                "name": "Quick search",
+                                "bounds": {
+                                  "x": 907,
+                                  "y": 23,
+                                  "width": 150,
+                                  "height": 14
+                                }
+                              },
+                              {
+                                "id": "node_31",
+                                "role": "button",
+                                "name": "Go",
+                                "bounds": {
+                                  "x": 1072,
+                                  "y": 23,
+                                  "width": 26,
+                                  "height": 14
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_32",
+                                    "role": "label",
+                                    "name": "Go",
+                                    "bounds": {
+                                      "x": 1076,
+                                      "y": 23,
+                                      "width": 16,
+                                      "height": 14
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_33",
+                        "role": "label",
+                        "name": "|",
+                        "bounds": {
+                          "x": 1109,
+                          "y": 21,
+                          "width": 5,
+                          "height": 17
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_34",
+                    "role": "listitem",
+                    "name": "",
+                    "bounds": {
+                      "x": 773,
+                      "y": 14,
+                      "width": 126,
+                      "height": 30
+                    },
+                    "children": [
+                      {
+                        "id": "node_35",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 773,
+                          "y": 21,
+                          "width": 121,
+                          "height": 16
+                        },
+                        "children": [
+                          {
+                            "id": "node_36",
+                            "role": "label",
+                            "name": "Theme ",
+                            "bounds": {
+                              "x": 772,
+                              "y": 21,
+                              "width": 56,
+                              "height": 16
+                            }
+                          },
+                          {
+                            "id": "node_37",
+                            "role": "combobox",
+                            "name": "Theme ",
+                            "bounds": {
+                              "x": 835,
+                              "y": 21,
+                              "width": 54,
+                              "height": 17
+                            },
+                            "states": [
+                              "collapsed"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_38",
+                        "role": "label",
+                        "name": "|",
+                        "bounds": {
+                          "x": 894,
+                          "y": 21,
+                          "width": 5,
+                          "height": 17
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "node_39",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 16,
+              "y": 69,
+              "width": 1229,
+              "height": 985
+            },
+            "children": [
+              {
+                "id": "node_40",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 354,
+                  "y": 69,
+                  "width": 800,
+                  "height": 985
+                },
+                "children": [
+                  {
+                    "id": "node_41",
+                    "role": "label",
+                    "name": "Python 3.14.3 documentation",
+                    "bounds": {
+                      "x": 354,
+                      "y": 79,
+                      "width": 800,
+                      "height": 38
+                    },
+                    "children": [
+                      {
+                        "id": "node_42",
+                        "role": "label",
+                        "name": "Python 3.14.3 documentation",
+                        "bounds": {
+                          "x": 354,
+                          "y": 79,
+                          "width": 475,
+                          "height": 38
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_43",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 354,
+                      "y": 143,
+                      "width": 800,
+                      "height": 25
+                    },
+                    "children": [
+                      {
+                        "id": "node_44",
+                        "role": "label",
+                        "name": "Welcome! This is the official documentation for Python 3.14.3.",
+                        "bounds": {
+                          "x": 354,
+                          "y": 146,
+                          "width": 499,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_45",
+                    "role": "label",
+                    "name": "",
+                    "bounds": {
+                      "x": 354,
+                      "y": 184,
+                      "width": 800,
+                      "height": 25
+                    },
+                    "children": [
+                      {
+                        "id": "node_46",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 354,
+                          "y": 187,
+                          "width": 224,
+                          "height": 19
+                        },
+                        "children": [
+                          {
+                            "id": "node_47",
+                            "role": "label",
+                            "name": "Documentation sections:",
+                            "bounds": {
+                              "x": 354,
+                              "y": 187,
+                              "width": 224,
+                              "height": 19
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_48",
+                    "role": "unknown",
+                    "name": "",
+                    "bounds": {
+                      "x": 394,
+                      "y": 226,
+                      "width": 720,
+                      "height": 410
+                    },
+                    "children": [
+                      {
+                        "id": "node_49",
+                        "role": "unknown",
+                        "name": "",
+                        "bounds": {
+                          "x": 396,
+                          "y": 228,
+                          "width": 716,
+                          "height": 406
+                        },
+                        "children": [
+                          {
+                            "id": "node_50",
+                            "role": "unknown",
+                            "name": "What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use Python Python HOWTOs In-depth topic manuals",
+                            "bounds": {
+                              "x": 397,
+                              "y": 229,
+                              "width": 355,
+                              "height": 404
+                            },
+                            "children": [
+                              {
+                                "id": "node_51",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 229,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_52",
+                                    "role": "link",
+                                    "name": "What's new in Python 3.14?",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 229,
+                                      "width": 289,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_53",
+                                        "role": "label",
+                                        "name": "What's new in Python 3.14?",
+                                        "bounds": {
+                                          "x": 397,
+                                          "y": 229,
+                                          "width": 289,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_54",
+                                    "role": "label",
+                                    "name": "Or ",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 259,
+                                      "width": 21,
+                                      "height": 16
+                                    }
+                                  },
+                                  {
+                                    "id": "node_55",
+                                    "role": "link",
+                                    "name": "all \"What's new\" documents since Python 2.0",
+                                    "bounds": {
+                                      "x": 419,
+                                      "y": 259,
+                                      "width": 326,
+                                      "height": 16
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_56",
+                                        "role": "label",
+                                        "name": "all \"What's new\" documents since Python 2.0",
+                                        "bounds": {
+                                          "x": 419,
+                                          "y": 259,
+                                          "width": 329,
+                                          "height": 16
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_57",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 295,
+                                  "width": 355,
+                                  "height": 74
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_58",
+                                    "role": "link",
+                                    "name": "Tutorial",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 295,
+                                      "width": 76,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_59",
+                                        "role": "label",
+                                        "name": "Tutorial",
+                                        "bounds": {
+                                          "x": 396,
+                                          "y": 295,
+                                          "width": 78,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_60",
+                                    "role": "label",
+                                    "name": "Start here: a tour of Python's syntax and features",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 325,
+                                      "width": 296,
+                                      "height": 40
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_61",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 385,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_62",
+                                    "role": "link",
+                                    "name": "Library reference",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 385,
+                                      "width": 178,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_63",
+                                        "role": "label",
+                                        "name": "Library reference",
+                                        "bounds": {
+                                          "x": 397,
+                                          "y": 385,
+                                          "width": 178,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_64",
+                                    "role": "label",
+                                    "name": "Standard library and builtins",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 415,
+                                      "width": 207,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_65",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 451,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_66",
+                                    "role": "link",
+                                    "name": "Language reference",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 451,
+                                      "width": 208,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_67",
+                                        "role": "label",
+                                        "name": "Language reference",
+                                        "bounds": {
+                                          "x": 397,
+                                          "y": 451,
+                                          "width": 208,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_68",
+                                    "role": "label",
+                                    "name": "Syntax and language elements",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 481,
+                                      "width": 226,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_69",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 397,
+                                  "y": 517,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_70",
+                                    "role": "link",
+                                    "name": "Python setup and usage",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 517,
+                                      "width": 251,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_71",
+                                        "role": "label",
+                                        "name": "Python setup and usage",
+                                        "bounds": {
+                                          "x": 397,
+                                          "y": 517,
+                                          "width": 251,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_72",
+                                    "role": "label",
+                                    "name": "How to install, configure, and use Python",
+                                    "bounds": {
+                                      "x": 397,
+                                      "y": 547,
+                                      "width": 297,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_73",
+                            "role": "unknown",
+                            "name": "Installing Python modules Third-party modules and PyPI.org Distributing Python modules Publishing modules for use by other people Extending and embedding For C/C++ programmers Python's C API C API reference FAQs Frequently asked questions (with answers!) Deprecations Deprecated functionality",
+                            "bounds": {
+                              "x": 756,
+                              "y": 229,
+                              "width": 355,
+                              "height": 404
+                            },
+                            "children": [
+                              {
+                                "id": "node_74",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 241,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_75",
+                                    "role": "link",
+                                    "name": "Installing Python modules",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 241,
+                                      "width": 268,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_76",
+                                        "role": "label",
+                                        "name": "Installing Python modules",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 241,
+                                          "width": 268,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_77",
+                                    "role": "label",
+                                    "name": "Third-party modules and PyPI.org",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 271,
+                                      "width": 242,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_78",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 307,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_79",
+                                    "role": "link",
+                                    "name": "Distributing Python modules",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 307,
+                                      "width": 295,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_80",
+                                        "role": "label",
+                                        "name": "Distributing Python modules",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 307,
+                                          "width": 295,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_81",
+                                    "role": "label",
+                                    "name": "Publishing modules for use by other people",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 337,
+                                      "width": 314,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_82",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 373,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_83",
+                                    "role": "link",
+                                    "name": "Extending and embedding",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 373,
+                                      "width": 274,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_84",
+                                        "role": "label",
+                                        "name": "Extending and embedding",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 373,
+                                          "width": 274,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_85",
+                                    "role": "label",
+                                    "name": "For C/C++ programmers",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 403,
+                                      "width": 180,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_86",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 439,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_87",
+                                    "role": "link",
+                                    "name": "Python's C API",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 439,
+                                      "width": 149,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_88",
+                                        "role": "label",
+                                        "name": "Python's C API",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 439,
+                                          "width": 149,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_89",
+                                    "role": "label",
+                                    "name": "C API reference",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 469,
+                                      "width": 112,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_90",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 505,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_91",
+                                    "role": "link",
+                                    "name": "FAQs",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 505,
+                                      "width": 51,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_92",
+                                        "role": "label",
+                                        "name": "FAQs",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 505,
+                                          "width": 51,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "node_93",
+                                    "role": "label",
+                                    "name": "Frequently asked questions (with answers!)",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 535,
+                                      "width": 314,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_94",
+                                "role": "label",
+                                "name": "",
+                                "bounds": {
+                                  "x": 756,
+                                  "y": 571,
+                                  "width": 355,
+                                  "height": 50
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_95",
+                                    "role": "link",
+                                    "name": "Deprecations",
+                                    "bounds": {
+                                      "x": 756,
+                                      "y": 571,
+                                      "width": 137,
+                                      "height": 24
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_96",
+                                        "role": "label",
+                                        "name": "Deprecations",
+                                        "bounds": {
+                                          "x": 756,
+                                          "y": 571,
+                                          "width": 137,
+                                          "height": 24
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "node_97",
+                "role": "panel",
+                "name": "Main",
+                "bounds": {
+                  "x": 16,
+                  "y": 69,
+                  "width": 319,
+                  "height": 583
+                },
+                "children": [
+                  {
+                    "id": "node_98",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 26,
+                      "y": 79,
+                      "width": 277,
+                      "height": 573
+                    },
+                    "children": [
+                      {
+                        "id": "node_99",
+                        "role": "label",
+                        "name": "Download",
+                        "bounds": {
+                          "x": 26,
+                          "y": 83,
+                          "width": 277,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_100",
+                            "role": "label",
+                            "name": "Download",
+                            "bounds": {
+                              "x": 26,
+                              "y": 81,
+                              "width": 92,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_101",
+                        "role": "label",
+                        "name": "",
+                        "bounds": {
+                          "x": 26,
+                          "y": 114,
+                          "width": 277,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_102",
+                            "role": "link",
+                            "name": "Download these documents",
+                            "bounds": {
+                              "x": 26,
+                              "y": 115,
+                              "width": 185,
+                              "height": 15
+                            },
+                            "children": [
+                              {
+                                "id": "node_103",
+                                "role": "label",
+                                "name": "Download these documents",
+                                "bounds": {
+                                  "x": 26,
+                                  "y": 115,
+                                  "width": 186,
+                                  "height": 15
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_104",
+                        "role": "label",
+                        "name": "Docs by version",
+                        "bounds": {
+                          "x": 26,
+                          "y": 159,
+                          "width": 277,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_105",
+                            "role": "label",
+                            "name": "Docs by version",
+                            "bounds": {
+                              "x": 26,
+                              "y": 157,
+                              "width": 148,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_106",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 36,
+                          "y": 186,
+                          "width": 257,
+                          "height": 329
+                        },
+                        "children": [
+                          {
+                            "id": "node_107",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 186,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_108",
+                                "role": "link",
+                                "name": "Python 3.15 (in development)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 187,
+                                  "width": 199,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_109",
+                                    "role": "label",
+                                    "name": "Python 3.15 (in development)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 187,
+                                      "width": 199,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_110",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 204,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_111",
+                                "role": "link",
+                                "name": "Python 3.14 (stable)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 205,
+                                  "width": 135,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_112",
+                                    "role": "label",
+                                    "name": "Python 3.14 (stable)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 205,
+                                      "width": 135,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_113",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 221,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_114",
+                                "role": "link",
+                                "name": "Python 3.13 (stable)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 222,
+                                  "width": 135,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_115",
+                                    "role": "label",
+                                    "name": "Python 3.13 (stable)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 222,
+                                      "width": 135,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_116",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 238,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_117",
+                                "role": "link",
+                                "name": "Python 3.12 (security-fixes)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 239,
+                                  "width": 183,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_118",
+                                    "role": "label",
+                                    "name": "Python 3.12 (security-fixes)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 239,
+                                      "width": 183,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_119",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 256,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_120",
+                                "role": "link",
+                                "name": "Python 3.11 (security-fixes)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 257,
+                                  "width": 183,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_121",
+                                    "role": "label",
+                                    "name": "Python 3.11 (security-fixes)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 257,
+                                      "width": 183,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_122",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 273,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_123",
+                                "role": "link",
+                                "name": "Python 3.10 (security-fixes)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 274,
+                                  "width": 183,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_124",
+                                    "role": "label",
+                                    "name": "Python 3.10 (security-fixes)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 274,
+                                      "width": 183,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_125",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 290,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_126",
+                                "role": "link",
+                                "name": "Python 3.9 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 291,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_127",
+                                    "role": "label",
+                                    "name": "Python 3.9 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 291,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_128",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 308,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_129",
+                                "role": "link",
+                                "name": "Python 3.8 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 309,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_130",
+                                    "role": "label",
+                                    "name": "Python 3.8 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 309,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_131",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 325,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_132",
+                                "role": "link",
+                                "name": "Python 3.7 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 326,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_133",
+                                    "role": "label",
+                                    "name": "Python 3.7 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 326,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_134",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 342,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_135",
+                                "role": "link",
+                                "name": "Python 3.6 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 343,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_136",
+                                    "role": "label",
+                                    "name": "Python 3.6 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 343,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_137",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 360,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_138",
+                                "role": "link",
+                                "name": "Python 3.5 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 361,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_139",
+                                    "role": "label",
+                                    "name": "Python 3.5 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 361,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_140",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 377,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_141",
+                                "role": "link",
+                                "name": "Python 3.4 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 378,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_142",
+                                    "role": "label",
+                                    "name": "Python 3.4 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 378,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_143",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 394,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_144",
+                                "role": "link",
+                                "name": "Python 3.3 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 395,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_145",
+                                    "role": "label",
+                                    "name": "Python 3.3 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 395,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_146",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 412,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_147",
+                                "role": "link",
+                                "name": "Python 3.2 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 413,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_148",
+                                    "role": "label",
+                                    "name": "Python 3.2 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 413,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_149",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 429,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_150",
+                                "role": "link",
+                                "name": "Python 3.1 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 430,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_151",
+                                    "role": "label",
+                                    "name": "Python 3.1 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 430,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_152",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 446,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_153",
+                                "role": "link",
+                                "name": "Python 3.0 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 447,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_154",
+                                    "role": "label",
+                                    "name": "Python 3.0 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 447,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_155",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 464,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_156",
+                                "role": "link",
+                                "name": "Python 2.7 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 465,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_157",
+                                    "role": "label",
+                                    "name": "Python 2.7 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 465,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_158",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 481,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_159",
+                                "role": "link",
+                                "name": "Python 2.6 (EOL)",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 482,
+                                  "width": 112,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_160",
+                                    "role": "label",
+                                    "name": "Python 2.6 (EOL)",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 482,
+                                      "width": 112,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_161",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 498,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_162",
+                                "role": "link",
+                                "name": "All versions",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 499,
+                                  "width": 76,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_163",
+                                    "role": "label",
+                                    "name": "All versions",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 499,
+                                      "width": 77,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_164",
+                        "role": "label",
+                        "name": "Other resources",
+                        "bounds": {
+                          "x": 26,
+                          "y": 544,
+                          "width": 277,
+                          "height": 17
+                        },
+                        "children": [
+                          {
+                            "id": "node_165",
+                            "role": "label",
+                            "name": "Other resources",
+                            "bounds": {
+                              "x": 26,
+                              "y": 542,
+                              "width": 149,
+                              "height": 21
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_166",
+                        "role": "listbox",
+                        "name": "",
+                        "bounds": {
+                          "x": 36,
+                          "y": 571,
+                          "width": 257,
+                          "height": 86
+                        },
+                        "children": [
+                          {
+                            "id": "node_167",
+                            "role": "listitem",
+                            "name": "",
+                            "bounds": {
+                              "x": 36,
+                              "y": 571,
+                              "width": 257,
+                              "height": 17
+                            },
+                            "children": [
+                              {
+                                "id": "node_168",
+                                "role": "link",
+                                "name": "PEP Index",
+                                "bounds": {
+                                  "x": 36,
+                                  "y": 572,
+                                  "width": 65,
+                                  "height": 15
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_169",
+                                    "role": "label",
+                                    "name": "PEP Index",
+                                    "bounds": {
+                                      "x": 36,
+                                      "y": 572,
+                                      "width": 66,
+                                      "height": 15
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "node_170",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 323,
+                      "y": 70,
+                      "width": 12,
+                      "height": 583
+                    },
+                    "children": [
+                      {
+                        "id": "node_171",
+                        "role": "label",
+                        "name": "\u00ab",
+                        "bounds": {
+                          "x": 324,
+                          "y": 352,
+                          "width": 9,
+                          "height": 19
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

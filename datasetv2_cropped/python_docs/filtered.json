@@ -1,0 +1,563 @@
+{
+  "image_filename": "datasetv2_cropped/python_docs/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 37,
+  "test_samples": [
+    {
+      "id": "node_5",
+      "category": "link",
+      "name": "index",
+      "bbox": [
+        1195,
+        21,
+        1234,
+        37
+      ],
+      "point": [
+        1214,
+        29
+      ]
+    },
+    {
+      "id": "node_8",
+      "category": "link",
+      "name": "modules",
+      "bbox": [
+        1119,
+        21,
+        1180,
+        37
+      ],
+      "point": [
+        1149,
+        29
+      ]
+    },
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Python",
+      "bbox": [
+        46,
+        21,
+        95,
+        37
+      ],
+      "point": [
+        70,
+        29
+      ]
+    },
+    {
+      "id": "node_24",
+      "category": "link",
+      "name": "3.14.3 Documentation",
+      "bbox": [
+        525,
+        21,
+        686,
+        37
+      ],
+      "point": [
+        605,
+        29
+      ]
+    },
+    {
+      "id": "node_30",
+      "category": "textfield",
+      "name": "Quick search",
+      "bbox": [
+        907,
+        23,
+        1057,
+        37
+      ],
+      "point": [
+        982,
+        30
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "button",
+      "name": "Go",
+      "bbox": [
+        1072,
+        23,
+        1098,
+        37
+      ],
+      "point": [
+        1085,
+        30
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "What's new in Python 3.14?",
+      "bbox": [
+        397,
+        229,
+        686,
+        253
+      ],
+      "point": [
+        541,
+        241
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "all \"What's new\" documents since Python 2.0",
+      "bbox": [
+        419,
+        259,
+        745,
+        275
+      ],
+      "point": [
+        582,
+        267
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "link",
+      "name": "Tutorial",
+      "bbox": [
+        397,
+        295,
+        473,
+        319
+      ],
+      "point": [
+        435,
+        307
+      ]
+    },
+    {
+      "id": "node_62",
+      "category": "link",
+      "name": "Library reference",
+      "bbox": [
+        397,
+        385,
+        575,
+        409
+      ],
+      "point": [
+        486,
+        397
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "Language reference",
+      "bbox": [
+        397,
+        451,
+        605,
+        475
+      ],
+      "point": [
+        501,
+        463
+      ]
+    },
+    {
+      "id": "node_70",
+      "category": "link",
+      "name": "Python setup and usage",
+      "bbox": [
+        397,
+        517,
+        648,
+        541
+      ],
+      "point": [
+        522,
+        529
+      ]
+    },
+    {
+      "id": "node_75",
+      "category": "link",
+      "name": "Installing Python modules",
+      "bbox": [
+        756,
+        241,
+        1024,
+        265
+      ],
+      "point": [
+        890,
+        253
+      ]
+    },
+    {
+      "id": "node_79",
+      "category": "link",
+      "name": "Distributing Python modules",
+      "bbox": [
+        756,
+        307,
+        1051,
+        331
+      ],
+      "point": [
+        903,
+        319
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Extending and embedding",
+      "bbox": [
+        756,
+        373,
+        1030,
+        397
+      ],
+      "point": [
+        893,
+        385
+      ]
+    },
+    {
+      "id": "node_87",
+      "category": "link",
+      "name": "Python's C API",
+      "bbox": [
+        756,
+        439,
+        905,
+        463
+      ],
+      "point": [
+        830,
+        451
+      ]
+    },
+    {
+      "id": "node_91",
+      "category": "link",
+      "name": "FAQs",
+      "bbox": [
+        756,
+        505,
+        807,
+        529
+      ],
+      "point": [
+        781,
+        517
+      ]
+    },
+    {
+      "id": "node_102",
+      "category": "link",
+      "name": "Download these documents",
+      "bbox": [
+        26,
+        115,
+        211,
+        130
+      ],
+      "point": [
+        118,
+        122
+      ]
+    },
+    {
+      "id": "node_108",
+      "category": "link",
+      "name": "Python 3.15 (in development)",
+      "bbox": [
+        36,
+        187,
+        235,
+        202
+      ],
+      "point": [
+        135,
+        194
+      ]
+    },
+    {
+      "id": "node_111",
+      "category": "link",
+      "name": "Python 3.14 (stable)",
+      "bbox": [
+        36,
+        205,
+        171,
+        220
+      ],
+      "point": [
+        103,
+        212
+      ]
+    },
+    {
+      "id": "node_114",
+      "category": "link",
+      "name": "Python 3.13 (stable)",
+      "bbox": [
+        36,
+        222,
+        171,
+        237
+      ],
+      "point": [
+        103,
+        229
+      ]
+    },
+    {
+      "id": "node_117",
+      "category": "link",
+      "name": "Python 3.12 (security-fixes)",
+      "bbox": [
+        36,
+        239,
+        219,
+        254
+      ],
+      "point": [
+        127,
+        246
+      ]
+    },
+    {
+      "id": "node_120",
+      "category": "link",
+      "name": "Python 3.11 (security-fixes)",
+      "bbox": [
+        36,
+        257,
+        219,
+        272
+      ],
+      "point": [
+        127,
+        264
+      ]
+    },
+    {
+      "id": "node_123",
+      "category": "link",
+      "name": "Python 3.10 (security-fixes)",
+      "bbox": [
+        36,
+        274,
+        219,
+        289
+      ],
+      "point": [
+        127,
+        281
+      ]
+    },
+    {
+      "id": "node_126",
+      "category": "link",
+      "name": "Python 3.9 (EOL)",
+      "bbox": [
+        36,
+        291,
+        148,
+        306
+      ],
+      "point": [
+        92,
+        298
+      ]
+    },
+    {
+      "id": "node_129",
+      "category": "link",
+      "name": "Python 3.8 (EOL)",
+      "bbox": [
+        36,
+        309,
+        148,
+        324
+      ],
+      "point": [
+        92,
+        316
+      ]
+    },
+    {
+      "id": "node_132",
+      "category": "link",
+      "name": "Python 3.7 (EOL)",
+      "bbox": [
+        36,
+        326,
+        148,
+        341
+      ],
+      "point": [
+        92,
+        333
+      ]
+    },
+    {
+      "id": "node_135",
+      "category": "link",
+      "name": "Python 3.6 (EOL)",
+      "bbox": [
+        36,
+        343,
+        148,
+        358
+      ],
+      "point": [
+        92,
+        350
+      ]
+    },
+    {
+      "id": "node_138",
+      "category": "link",
+      "name": "Python 3.5 (EOL)",
+      "bbox": [
+        36,
+        361,
+        148,
+        376
+      ],
+      "point": [
+        92,
+        368
+      ]
+    },
+    {
+      "id": "node_141",
+      "category": "link",
+      "name": "Python 3.4 (EOL)",
+      "bbox": [
+        36,
+        378,
+        148,
+        393
+      ],
+      "point": [
+        92,
+        385
+      ]
+    },
+    {
+      "id": "node_144",
+      "category": "link",
+      "name": "Python 3.3 (EOL)",
+      "bbox": [
+        36,
+        395,
+        148,
+        410
+      ],
+      "point": [
+        92,
+        402
+      ]
+    },
+    {
+      "id": "node_147",
+      "category": "link",
+      "name": "Python 3.2 (EOL)",
+      "bbox": [
+        36,
+        413,
+        148,
+        428
+      ],
+      "point": [
+        92,
+        420
+      ]
+    },
+    {
+      "id": "node_150",
+      "category": "link",
+      "name": "Python 3.1 (EOL)",
+      "bbox": [
+        36,
+        430,
+        148,
+        445
+      ],
+      "point": [
+        92,
+        437
+      ]
+    },
+    {
+      "id": "node_153",
+      "category": "link",
+      "name": "Python 3.0 (EOL)",
+      "bbox": [
+        36,
+        447,
+        148,
+        462
+      ],
+      "point": [
+        92,
+        454
+      ]
+    },
+    {
+      "id": "node_156",
+      "category": "link",
+      "name": "Python 2.7 (EOL)",
+      "bbox": [
+        36,
+        465,
+        148,
+        480
+      ],
+      "point": [
+        92,
+        472
+      ]
+    },
+    {
+      "id": "node_159",
+      "category": "link",
+      "name": "Python 2.6 (EOL)",
+      "bbox": [
+        36,
+        482,
+        148,
+        497
+      ],
+      "point": [
+        92,
+        489
+      ]
+    },
+    {
+      "id": "node_162",
+      "category": "link",
+      "name": "All versions",
+      "bbox": [
+        36,
+        499,
+        112,
+        514
+      ],
+      "point": [
+        74,
+        506
+      ]
+    }
+  ]
+}

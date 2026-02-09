@@ -67,9 +67,9 @@ def draw_filtered_bboxes(json_path, output_path):
         raise e
 
 if __name__ == "__main__":
-    base_dir = "/Users/zhangxiuhui/Desktop/project/osworld-desktopd"
-    json_path = os.path.join(base_dir, "dataset_cropped/github/filtered.json")
-    output_path = os.path.join(base_dir, "dataset_cropped/github/screenshot_bbox.png")
+    base_dir = "/Users/zhangxiuhui/Desktop/project/vlm-grounding"
+    json_path = os.path.join(base_dir, "datasetv2_cropped/github/filtered.json")
+    output_path = os.path.join(base_dir, "datasetv2_cropped/github/screenshot_bbox.png")
     
     # Change CWD to base_dir to make relative paths work
     os.chdir(base_dir)

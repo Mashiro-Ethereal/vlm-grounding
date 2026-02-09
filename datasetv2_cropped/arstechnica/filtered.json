@@ -1,0 +1,68 @@
+{
+  "image_filename": "datasetv2_cropped/arstechnica/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 4,
+  "test_samples": [
+    {
+      "id": "node_12",
+      "category": "link",
+      "name": "FORUM",
+      "bbox": [
+        811,
+        318,
+        865,
+        342
+      ],
+      "point": [
+        838,
+        330
+      ]
+    },
+    {
+      "id": "node_14",
+      "category": "link",
+      "name": "SUBSCRIBE",
+      "bbox": [
+        907,
+        318,
+        989,
+        342
+      ],
+      "point": [
+        948,
+        330
+      ]
+    },
+    {
+      "id": "node_21",
+      "category": "button",
+      "name": "Sign in dialog...",
+      "bbox": [
+        1131,
+        318,
+        1185,
+        342
+      ],
+      "point": [
+        1158,
+        330
+      ]
+    },
+    {
+      "id": "node_60",
+      "category": "link",
+      "name": "Sixteen Claude AI agents working together created a new C compiler",
+      "bbox": [
+        149,
+        448,
+        504,
+        496
+      ],
+      "point": [
+        326,
+        472
+      ]
+    }
+  ]
+}

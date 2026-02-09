@@ -1,0 +1,113 @@
+{
+  "image_filename": "datasetv2_cropped/slack/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 7,
+  "test_samples": [
+    {
+      "id": "node_15",
+      "category": "link",
+      "name": "Enterprise",
+      "bbox": [
+        396,
+        29,
+        469,
+        51
+      ],
+      "point": [
+        432,
+        40
+      ]
+    },
+    {
+      "id": "node_22",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        606,
+        29,
+        655,
+        51
+      ],
+      "point": [
+        630,
+        40
+      ]
+    },
+    {
+      "id": "node_27",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        825,
+        30,
+        873,
+        49
+      ],
+      "point": [
+        849,
+        39
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "REQUEST A DEMO",
+      "bbox": [
+        910,
+        31,
+        1043,
+        49
+      ],
+      "point": [
+        976,
+        40
+      ]
+    },
+    {
+      "id": "node_31",
+      "category": "link",
+      "name": "GET STARTED",
+      "bbox": [
+        1095,
+        31,
+        1193,
+        49
+      ],
+      "point": [
+        1144,
+        40
+      ]
+    },
+    {
+      "id": "node_42",
+      "category": "link",
+      "name": "GET STARTED",
+      "bbox": [
+        464,
+        233,
+        562,
+        251
+      ],
+      "point": [
+        513,
+        242
+      ]
+    },
+    {
+      "id": "node_44",
+      "category": "link",
+      "name": "FIND YOUR PLAN",
+      "bbox": [
+        650,
+        233,
+        795,
+        251
+      ],
+      "point": [
+        722,
+        242
+      ]
+    }
+  ]
+}

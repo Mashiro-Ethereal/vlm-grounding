@@ -8,7 +8,7 @@ def process_all_datasets(base_dir):
     Iterates through all subdirectories in dataset_cropped and applies
     filtering and drawing scripts.
     """
-    dataset_root = os.path.join(base_dir, "dataset_cropped")
+    dataset_root = os.path.join(base_dir, "datasetv2_cropped")
     
     if not os.path.exists(dataset_root):
         print(f"Error: {dataset_root} does not exist.")
@@ -50,7 +50,7 @@ def process_all_datasets(base_dir):
             # Image path relative to project root or absolute?
             # In filter_ui_tree.py, we previously passed "dataset_cropped/github/screenshot_cropped.png"
             # Here we should construct it similarly: "dataset_cropped/{subdir_name}/screenshot_cropped.png"
-            image_rel_path = os.path.join("dataset_cropped", subdir_name, "screenshot_cropped.png")
+            image_rel_path = os.path.join("datasetv2_cropped", subdir_name, "screenshot_cropped.png")
             
             filter_ui_tree(ui_tree_path, filtered_json_path, image_rel_path)
             
@@ -69,7 +69,7 @@ def process_all_datasets(base_dir):
     print(f"Failed: {fail_count}")
 
 if __name__ == "__main__":
-    base_dir = "/Users/zhangxiuhui/Desktop/project/osworld-desktopd"
+    base_dir = "/Users/zhangxiuhui/Desktop/project/vlm-grounding"
     # Ensure CWD is correct for relative paths in scripts
     os.chdir(base_dir)
     process_all_datasets(base_dir)

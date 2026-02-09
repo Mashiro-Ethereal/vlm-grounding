@@ -1,0 +1,143 @@
+{
+  "image_filename": "datasetv2_cropped/brave_search/screenshot_cropped.png",
+  "image_width": 1276,
+  "image_height": 583,
+  "sample_count": 9,
+  "test_samples": [
+    {
+      "id": "node_17",
+      "category": "textfield",
+      "name": "Search",
+      "bbox": [
+        368,
+        230,
+        838,
+        256
+      ],
+      "point": [
+        603,
+        243
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "Advertise",
+      "bbox": [
+        485,
+        549,
+        539,
+        567
+      ],
+      "point": [
+        512,
+        558
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "API",
+      "bbox": [
+        555,
+        549,
+        574,
+        567
+      ],
+      "point": [
+        564,
+        558
+      ]
+    },
+    {
+      "id": "node_41",
+      "category": "link",
+      "name": "News",
+      "bbox": [
+        590,
+        549,
+        621,
+        567
+      ],
+      "point": [
+        605,
+        558
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "FAQ",
+      "bbox": [
+        638,
+        549,
+        661,
+        567
+      ],
+      "point": [
+        649,
+        558
+      ]
+    },
+    {
+      "id": "node_45",
+      "category": "link",
+      "name": "Privacy Policy",
+      "bbox": [
+        678,
+        549,
+        757,
+        567
+      ],
+      "point": [
+        717,
+        558
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "Report a security issue",
+      "bbox": [
+        773,
+        549,
+        902,
+        567
+      ],
+      "point": [
+        837,
+        558
+      ]
+    },
+    {
+      "id": "node_52",
+      "category": "link",
+      "name": "Settings",
+      "bbox": [
+        895,
+        537,
+        945,
+        553
+      ],
+      "point": [
+        920,
+        545
+      ]
+    },
+    {
+      "id": "node_55",
+      "category": "link",
+      "name": "Learn more.",
+      "bbox": [
+        952,
+        537,
+        1025,
+        553
+      ],
+      "point": [
+        988,
+        545
+      ]
+    }
+  ]
+}

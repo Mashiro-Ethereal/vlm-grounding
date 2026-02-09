@@ -1,0 +1,98 @@
+{
+  "image_filename": "datasetv2_cropped/todoist/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 6,
+  "test_samples": [
+    {
+      "id": "node_16",
+      "category": "link",
+      "name": "Pricing",
+      "bbox": [
+        945,
+        25,
+        997,
+        45
+      ],
+      "point": [
+        971,
+        35
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Log in",
+      "bbox": [
+        1043,
+        25,
+        1088,
+        45
+      ],
+      "point": [
+        1065,
+        35
+      ]
+    },
+    {
+      "id": "node_23",
+      "category": "link",
+      "name": "Start for free",
+      "bbox": [
+        1125,
+        25,
+        1222,
+        45
+      ],
+      "point": [
+        1173,
+        35
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "Meet Ramble",
+      "bbox": [
+        703,
+        101,
+        803,
+        121
+      ],
+      "point": [
+        753,
+        111
+      ]
+    },
+    {
+      "id": "node_64",
+      "category": "button",
+      "name": "Accept",
+      "bbox": [
+        1034,
+        512,
+        1088,
+        532
+      ],
+      "point": [
+        1061,
+        522
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "button",
+      "name": "Decline",
+      "bbox": [
+        1124,
+        512,
+        1181,
+        532
+      ],
+      "point": [
+        1152,
+        522
+      ]
+    }
+  ]
+}

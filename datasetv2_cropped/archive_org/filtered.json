@@ -1,0 +1,293 @@
+{
+  "image_filename": "datasetv2_cropped/archive_org/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 19,
+  "test_samples": [
+    {
+      "id": "node_36",
+      "category": "link",
+      "name": "SIGN UP",
+      "bbox": [
+        1020,
+        18,
+        1077,
+        34
+      ],
+      "point": [
+        1048,
+        26
+      ]
+    },
+    {
+      "id": "node_39",
+      "category": "link",
+      "name": "LOG IN",
+      "bbox": [
+        1091,
+        18,
+        1138,
+        34
+      ],
+      "point": [
+        1114,
+        26
+      ]
+    },
+    {
+      "id": "node_47",
+      "category": "link",
+      "name": "ABOUT",
+      "bbox": [
+        275,
+        60,
+        316,
+        74
+      ],
+      "point": [
+        295,
+        67
+      ]
+    },
+    {
+      "id": "node_50",
+      "category": "link",
+      "name": "BLOG",
+      "bbox": [
+        350,
+        60,
+        383,
+        74
+      ],
+      "point": [
+        366,
+        67
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "EVENTS",
+      "bbox": [
+        418,
+        60,
+        465,
+        74
+      ],
+      "point": [
+        441,
+        67
+      ]
+    },
+    {
+      "id": "node_56",
+      "category": "link",
+      "name": "PROJECTS",
+      "bbox": [
+        499,
+        60,
+        558,
+        74
+      ],
+      "point": [
+        528,
+        67
+      ]
+    },
+    {
+      "id": "node_59",
+      "category": "link",
+      "name": "HELP",
+      "bbox": [
+        592,
+        60,
+        622,
+        74
+      ],
+      "point": [
+        607,
+        67
+      ]
+    },
+    {
+      "id": "node_66",
+      "category": "link",
+      "name": "CONTACT",
+      "bbox": [
+        760,
+        60,
+        816,
+        74
+      ],
+      "point": [
+        788,
+        67
+      ]
+    },
+    {
+      "id": "node_69",
+      "category": "link",
+      "name": "JOBS",
+      "bbox": [
+        851,
+        60,
+        879,
+        74
+      ],
+      "point": [
+        865,
+        67
+      ]
+    },
+    {
+      "id": "node_72",
+      "category": "link",
+      "name": "VOLUNTEER",
+      "bbox": [
+        913,
+        60,
+        985,
+        74
+      ],
+      "point": [
+        949,
+        67
+      ]
+    },
+    {
+      "id": "node_81",
+      "category": "link",
+      "name": "web pages",
+      "bbox": [
+        687,
+        101,
+        773,
+        120
+      ],
+      "point": [
+        730,
+        110
+      ]
+    },
+    {
+      "id": "node_90",
+      "category": "textfield",
+      "name": "Search the Wayback Machine",
+      "bbox": [
+        662,
+        177,
+        896,
+        197
+      ],
+      "point": [
+        779,
+        187
+      ]
+    },
+    {
+      "id": "node_154",
+      "category": "textfield",
+      "name": "Search the Archive. Filters and Advanced Search available below.",
+      "bbox": [
+        434,
+        533,
+        742,
+        563
+      ],
+      "point": [
+        588,
+        548
+      ]
+    },
+    {
+      "id": "node_158",
+      "category": "button",
+      "name": "GO",
+      "bbox": [
+        798,
+        533,
+        833,
+        563
+      ],
+      "point": [
+        815,
+        548
+      ]
+    },
+    {
+      "id": "node_165",
+      "category": "link",
+      "name": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today\u2019s News for Tomorrow Program",
+      "bbox": [
+        924,
+        358,
+        1141,
+        423
+      ],
+      "point": [
+        1032,
+        390
+      ]
+    },
+    {
+      "id": "node_168",
+      "category": "link",
+      "name": "\u2018Depths of Wikipedia\u2019 Creator Annie Rauwerda on \u2018Fragile\u2019 Internet Citations",
+      "bbox": [
+        924,
+        437,
+        1138,
+        485
+      ],
+      "point": [
+        1031,
+        461
+      ]
+    },
+    {
+      "id": "node_171",
+      "category": "link",
+      "name": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress\u00a0",
+      "bbox": [
+        924,
+        498,
+        1143,
+        546
+      ],
+      "point": [
+        1033,
+        522
+      ]
+    },
+    {
+      "id": "node_173",
+      "category": "link",
+      "name": "More posts",
+      "bbox": [
+        924,
+        559,
+        1146,
+        579
+      ],
+      "point": [
+        1035,
+        569
+      ]
+    },
+    {
+      "id": "node_177",
+      "category": "link",
+      "name": "Terms of Service (last updated 12/31/2014)",
+      "bbox": [
+        511,
+        563,
+        749,
+        576
+      ],
+      "point": [
+        630,
+        569
+      ]
+    }
+  ]
+}

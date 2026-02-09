@@ -1,0 +1,890 @@
+{
+  "timestamp": "2026-02-07T05:46:11.391808Z",
+  "screen": {
+    "width": 1261,
+    "height": 583
+  },
+  "root": {
+    "id": "node_0",
+    "role": "desktop",
+    "name": "",
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1261,
+      "height": 583
+    },
+    "children": [
+      {
+        "id": "node_1",
+        "role": "window",
+        "name": "Xe: Currency Exchange Rates and International Money Transfers",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1261,
+          "height": 583
+        },
+        "children": [
+          {
+            "id": "node_2",
+            "role": "panel",
+            "name": "",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 1261,
+              "height": 12845
+            },
+            "children": [
+              {
+                "id": "node_3",
+                "role": "panel",
+                "name": "",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1261,
+                  "height": 12845
+                },
+                "children": [
+                  {
+                    "id": "node_4",
+                    "role": "panel",
+                    "name": "",
+                    "bounds": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 1261,
+                      "height": 12845
+                    },
+                    "children": [
+                      {
+                        "id": "node_5",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 1261,
+                          "height": 72
+                        },
+                        "children": [
+                          {
+                            "id": "node_6",
+                            "role": "unknown",
+                            "name": "",
+                            "bounds": {
+                              "x": 32,
+                              "y": 0,
+                              "width": 1197,
+                              "height": 72
+                            },
+                            "children": [
+                              {
+                                "id": "node_7",
+                                "role": "link",
+                                "name": "Home",
+                                "bounds": {
+                                  "x": 32,
+                                  "y": 15,
+                                  "width": 50,
+                                  "height": 40
+                                }
+                              },
+                              {
+                                "id": "node_8",
+                                "role": "link",
+                                "name": "Get the App",
+                                "bounds": {
+                                  "x": 1093,
+                                  "y": 24,
+                                  "width": 79,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_9",
+                                    "role": "label",
+                                    "name": "Get the App",
+                                    "bounds": {
+                                      "x": 1093,
+                                      "y": 27,
+                                      "width": 79,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_10",
+                                "role": "button",
+                                "name": "Toggle menu",
+                                "bounds": {
+                                  "x": 1197,
+                                  "y": 20,
+                                  "width": 32,
+                                  "height": 32
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_11",
+                                    "role": "panel",
+                                    "name": "",
+                                    "bounds": {
+                                      "x": 1212,
+                                      "y": 35,
+                                      "width": 1,
+                                      "height": 1
+                                    },
+                                    "children": [
+                                      {
+                                        "id": "node_12",
+                                        "role": "label",
+                                        "name": "Toggle menu",
+                                        "bounds": {
+                                          "x": 1212,
+                                          "y": 36,
+                                          "width": 85,
+                                          "height": 17
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_13",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 72,
+                          "width": 1261,
+                          "height": 420
+                        },
+                        "children": [
+                          {
+                            "id": "node_14",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 518,
+                              "y": 102,
+                              "width": 224,
+                              "height": 44
+                            },
+                            "children": [
+                              {
+                                "id": "node_15",
+                                "role": "link",
+                                "name": "Personal",
+                                "bounds": {
+                                  "x": 542,
+                                  "y": 114,
+                                  "width": 59,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_16",
+                                    "role": "label",
+                                    "name": "Personal",
+                                    "bounds": {
+                                      "x": 542,
+                                      "y": 115,
+                                      "width": 59,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_17",
+                                "role": "link",
+                                "name": "Business",
+                                "bounds": {
+                                  "x": 657,
+                                  "y": 114,
+                                  "width": 61,
+                                  "height": 20
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_18",
+                                    "role": "label",
+                                    "name": "Business",
+                                    "bounds": {
+                                      "x": 657,
+                                      "y": 115,
+                                      "width": 62,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_19",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 130,
+                              "y": 444,
+                              "width": 1000,
+                              "height": 48
+                            },
+                            "children": [
+                              {
+                                "id": "node_20",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 375,
+                                  "y": 444,
+                                  "width": 320,
+                                  "height": 48
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_21",
+                                    "role": "textfield",
+                                    "name": "Email address",
+                                    "bounds": {
+                                      "x": 391,
+                                      "y": 460,
+                                      "width": 288,
+                                      "height": 16
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "node_22",
+                                "role": "button",
+                                "name": "Sign up and send",
+                                "bounds": {
+                                  "x": 735,
+                                  "y": 458,
+                                  "width": 126,
+                                  "height": 22
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_23",
+                                    "role": "label",
+                                    "name": "Sign up and send",
+                                    "bounds": {
+                                      "x": 735,
+                                      "y": 460,
+                                      "width": 126,
+                                      "height": 19
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_24",
+                            "role": "link",
+                            "name": "4.8 on App Store 103k reviews",
+                            "bounds": {
+                              "x": 353,
+                              "y": 192,
+                              "width": 257,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_25",
+                                "role": "label",
+                                "name": "4.8",
+                                "bounds": {
+                                  "x": 379,
+                                  "y": 194,
+                                  "width": 25,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_26",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 408,
+                                  "y": 196,
+                                  "width": 18,
+                                  "height": 16
+                                }
+                              },
+                              {
+                                "id": "node_27",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 434,
+                                  "y": 192,
+                                  "width": 176,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_28",
+                                    "role": "label",
+                                    "name": "on",
+                                    "bounds": {
+                                      "x": 434,
+                                      "y": 196,
+                                      "width": 16,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_29",
+                                    "role": "label",
+                                    "name": " ",
+                                    "bounds": {
+                                      "x": 450,
+                                      "y": 196,
+                                      "width": 3,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_30",
+                                    "role": "label",
+                                    "name": "App Store",
+                                    "bounds": {
+                                      "x": 454,
+                                      "y": 196,
+                                      "width": 65,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_31",
+                                    "role": "label",
+                                    "name": " ",
+                                    "bounds": {
+                                      "x": 520,
+                                      "y": 196,
+                                      "width": 3,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_32",
+                                    "role": "label",
+                                    "name": "103k reviews",
+                                    "bounds": {
+                                      "x": 524,
+                                      "y": 196,
+                                      "width": 85,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_33",
+                            "role": "link",
+                            "name": "4.9 on Google Play 330k reviews",
+                            "bounds": {
+                              "x": 634,
+                              "y": 192,
+                              "width": 273,
+                              "height": 24
+                            },
+                            "children": [
+                              {
+                                "id": "node_34",
+                                "role": "label",
+                                "name": "4.9",
+                                "bounds": {
+                                  "x": 660,
+                                  "y": 194,
+                                  "width": 25,
+                                  "height": 20
+                                }
+                              },
+                              {
+                                "id": "node_35",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 689,
+                                  "y": 196,
+                                  "width": 18,
+                                  "height": 16
+                                }
+                              },
+                              {
+                                "id": "node_36",
+                                "role": "panel",
+                                "name": "",
+                                "bounds": {
+                                  "x": 715,
+                                  "y": 192,
+                                  "width": 192,
+                                  "height": 24
+                                },
+                                "children": [
+                                  {
+                                    "id": "node_37",
+                                    "role": "label",
+                                    "name": "on",
+                                    "bounds": {
+                                      "x": 715,
+                                      "y": 196,
+                                      "width": 16,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_38",
+                                    "role": "label",
+                                    "name": " ",
+                                    "bounds": {
+                                      "x": 732,
+                                      "y": 196,
+                                      "width": 3,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_39",
+                                    "role": "label",
+                                    "name": "Google Play",
+                                    "bounds": {
+                                      "x": 736,
+                                      "y": 196,
+                                      "width": 80,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_40",
+                                    "role": "label",
+                                    "name": " ",
+                                    "bounds": {
+                                      "x": 815,
+                                      "y": 196,
+                                      "width": 3,
+                                      "height": 17
+                                    }
+                                  },
+                                  {
+                                    "id": "node_41",
+                                    "role": "label",
+                                    "name": "330k reviews",
+                                    "bounds": {
+                                      "x": 819,
+                                      "y": 196,
+                                      "width": 88,
+                                      "height": 17
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_42",
+                            "role": "label",
+                            "name": "International money transfers and global currency conversions",
+                            "bounds": {
+                              "x": 246,
+                              "y": 240,
+                              "width": 768,
+                              "height": 112
+                            },
+                            "children": [
+                              {
+                                "id": "node_43",
+                                "role": "label",
+                                "name": "International money transfers and global currency conversions",
+                                "bounds": {
+                                  "x": 270,
+                                  "y": 238,
+                                  "width": 720,
+                                  "height": 115
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_44",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 230,
+                              "y": 376,
+                              "width": 799,
+                              "height": 28
+                            },
+                            "children": [
+                              {
+                                "id": "node_45",
+                                "role": "label",
+                                "name": "Leading the world in currency conversions and global money transfers for 30+ years",
+                                "bounds": {
+                                  "x": 230,
+                                  "y": 378,
+                                  "width": 799,
+                                  "height": 24
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_46",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 0,
+                          "y": 556,
+                          "width": 1261,
+                          "height": 384
+                        },
+                        "children": [
+                          {
+                            "id": "node_47",
+                            "role": "panel",
+                            "name": "",
+                            "bounds": {
+                              "x": 52,
+                              "y": 556,
+                              "width": 1157,
+                              "height": 352
+                            },
+                            "children": [
+                              {
+                                "id": "node_48",
+                                "role": "link",
+                                "name": "Send money Learn more",
+                                "bounds": {
+                                  "x": 52,
+                                  "y": 556,
+                                  "width": 288,
+                                  "height": 352
+                                }
+                              },
+                              {
+                                "id": "node_49",
+                                "role": "link",
+                                "name": "Secure large transfers Learn more",
+                                "bounds": {
+                                  "x": 356,
+                                  "y": 556,
+                                  "width": 288,
+                                  "height": 352
+                                }
+                              },
+                              {
+                                "id": "node_50",
+                                "role": "link",
+                                "name": "Business solutions Learn more",
+                                "bounds": {
+                                  "x": 660,
+                                  "y": 556,
+                                  "width": 288,
+                                  "height": 352
+                                }
+                              },
+                              {
+                                "id": "node_51",
+                                "role": "link",
+                                "name": "Xe money app Learn more",
+                                "bounds": {
+                                  "x": 964,
+                                  "y": 556,
+                                  "width": 288,
+                                  "height": 352
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "node_52",
+                        "role": "label",
+                        "name": "1",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_53",
+                        "role": "label",
+                        "name": "2",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_54",
+                        "role": "label",
+                        "name": "3",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_55",
+                        "role": "label",
+                        "name": "4",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_56",
+                        "role": "label",
+                        "name": "5",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_57",
+                        "role": "label",
+                        "name": "6",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_58",
+                        "role": "label",
+                        "name": "7",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_59",
+                        "role": "label",
+                        "name": "8",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_60",
+                        "role": "label",
+                        "name": "9",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_61",
+                        "role": "label",
+                        "name": "10",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_62",
+                        "role": "label",
+                        "name": "11",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_63",
+                        "role": "label",
+                        "name": "12",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_64",
+                        "role": "label",
+                        "name": "13",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_65",
+                        "role": "label",
+                        "name": "14",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_66",
+                        "role": "label",
+                        "name": "15",
+                        "bounds": {
+                          "x": 0,
+                          "y": 0,
+                          "width": 0,
+                          "height": 0
+                        }
+                      },
+                      {
+                        "id": "node_67",
+                        "role": "panel",
+                        "name": "",
+                        "bounds": {
+                          "x": 903,
+                          "y": 479,
+                          "width": 310,
+                          "height": 64
+                        },
+                        "children": [
+                          {
+                            "id": "node_68",
+                            "role": "label",
+                            "name": "",
+                            "bounds": {
+                              "x": 951,
+                              "y": 479,
+                              "width": 262,
+                              "height": 40
+                            },
+                            "children": [
+                              {
+                                "id": "node_69",
+                                "role": "label",
+                                "name": "It looks like you're in the US. Visit the US site for the best experience.",
+                                "bounds": {
+                                  "x": 951,
+                                  "y": 480,
+                                  "width": 244,
+                                  "height": 37
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_70",
+                            "role": "link",
+                            "name": "Switch to the US site",
+                            "bounds": {
+                              "x": 951,
+                              "y": 523,
+                              "width": 262,
+                              "height": 20
+                            },
+                            "children": [
+                              {
+                                "id": "node_71",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1098,
+                                  "y": 526,
+                                  "width": 14,
+                                  "height": 14
+                                }
+                              },
+                              {
+                                "id": "node_72",
+                                "role": "label",
+                                "name": "Switch to the US site",
+                                "bounds": {
+                                  "x": 951,
+                                  "y": 525,
+                                  "width": 139,
+                                  "height": 17
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "node_73",
+                            "role": "button",
+                            "name": "Close promotional message",
+                            "bounds": {
+                              "x": 1217,
+                              "y": 475,
+                              "width": 8,
+                              "height": 8
+                            },
+                            "children": [
+                              {
+                                "id": "node_74",
+                                "role": "image",
+                                "name": "",
+                                "bounds": {
+                                  "x": 1217,
+                                  "y": 475,
+                                  "width": 8,
+                                  "height": 8
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

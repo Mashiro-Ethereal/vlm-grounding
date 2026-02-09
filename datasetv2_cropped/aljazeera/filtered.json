@@ -1,0 +1,353 @@
+{
+  "image_filename": "datasetv2_cropped/aljazeera/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 23,
+  "test_samples": [
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Al Jazeera , link to home page",
+      "bbox": [
+        45,
+        138,
+        210,
+        198
+      ],
+      "point": [
+        127,
+        168
+      ]
+    },
+    {
+      "id": "node_29",
+      "category": "link",
+      "name": "News",
+      "bbox": [
+        270,
+        154,
+        315,
+        181
+      ],
+      "point": [
+        292,
+        167
+      ]
+    },
+    {
+      "id": "node_34",
+      "category": "link",
+      "name": "Middle East",
+      "bbox": [
+        357,
+        154,
+        451,
+        181
+      ],
+      "point": [
+        404,
+        167
+      ]
+    },
+    {
+      "id": "node_37",
+      "category": "link",
+      "name": "Explained",
+      "bbox": [
+        482,
+        154,
+        560,
+        181
+      ],
+      "point": [
+        521,
+        167
+      ]
+    },
+    {
+      "id": "node_40",
+      "category": "link",
+      "name": "Opinion",
+      "bbox": [
+        590,
+        154,
+        652,
+        181
+      ],
+      "point": [
+        621,
+        167
+      ]
+    },
+    {
+      "id": "node_43",
+      "category": "link",
+      "name": "Sport",
+      "bbox": [
+        682,
+        154,
+        726,
+        181
+      ],
+      "point": [
+        704,
+        167
+      ]
+    },
+    {
+      "id": "node_46",
+      "category": "link",
+      "name": "Video",
+      "bbox": [
+        756,
+        154,
+        802,
+        181
+      ],
+      "point": [
+        779,
+        167
+      ]
+    },
+    {
+      "id": "node_49",
+      "category": "button",
+      "name": "More",
+      "bbox": [
+        832,
+        154,
+        873,
+        181
+      ],
+      "point": [
+        852,
+        167
+      ]
+    },
+    {
+      "id": "node_53",
+      "category": "link",
+      "name": "link to live stream video player",
+      "bbox": [
+        998,
+        154,
+        1063,
+        181
+      ],
+      "point": [
+        1030,
+        167
+      ]
+    },
+    {
+      "id": "node_58",
+      "category": "button",
+      "name": "Sign up",
+      "bbox": [
+        1145,
+        156,
+        1197,
+        180
+      ],
+      "point": [
+        1171,
+        168
+      ]
+    },
+    {
+      "id": "node_67",
+      "category": "link",
+      "name": "Trending",
+      "bbox": [
+        278,
+        198,
+        334,
+        248
+      ],
+      "point": [
+        306,
+        223
+      ]
+    },
+    {
+      "id": "node_71",
+      "category": "link",
+      "name": "US-Iran talks",
+      "bbox": [
+        356,
+        198,
+        434,
+        248
+      ],
+      "point": [
+        395,
+        223
+      ]
+    },
+    {
+      "id": "node_74",
+      "category": "link",
+      "name": "Tracking Israel's ceasefire violations",
+      "bbox": [
+        449,
+        198,
+        672,
+        248
+      ],
+      "point": [
+        560,
+        223
+      ]
+    },
+    {
+      "id": "node_77",
+      "category": "link",
+      "name": "Russia-Ukraine war",
+      "bbox": [
+        688,
+        198,
+        806,
+        248
+      ],
+      "point": [
+        747,
+        223
+      ]
+    },
+    {
+      "id": "node_80",
+      "category": "link",
+      "name": "Donald Trump",
+      "bbox": [
+        822,
+        198,
+        909,
+        248
+      ],
+      "point": [
+        865,
+        223
+      ]
+    },
+    {
+      "id": "node_83",
+      "category": "link",
+      "name": "Epstein files",
+      "bbox": [
+        924,
+        198,
+        999,
+        248
+      ],
+      "point": [
+        961,
+        223
+      ]
+    },
+    {
+      "id": "node_105",
+      "category": "link",
+      "name": "As Thailand votes, can the reformist People\u2019s Party break the cycle?",
+      "bbox": [
+        945,
+        312,
+        1080,
+        395
+      ],
+      "point": [
+        1012,
+        353
+      ]
+    },
+    {
+      "id": "node_111",
+      "category": "link",
+      "name": "What Barak-Epstein audio says about Israeli controlling demographics",
+      "bbox": [
+        945,
+        416,
+        1215,
+        457
+      ],
+      "point": [
+        1080,
+        436
+      ]
+    },
+    {
+      "id": "node_117",
+      "category": "link",
+      "name": "As T20 World Cup begins, ousted Bangladesh rues politicisation of cricket",
+      "bbox": [
+        945,
+        479,
+        1215,
+        541
+      ],
+      "point": [
+        1080,
+        510
+      ]
+    },
+    {
+      "id": "node_142",
+      "category": "link",
+      "name": "Learn more about our Cookie Policy, opens in a new tab",
+      "bbox": [
+        777,
+        502,
+        988,
+        517
+      ],
+      "point": [
+        882,
+        509
+      ]
+    },
+    {
+      "id": "node_146",
+      "category": "button",
+      "name": "Your Privacy Rights, Opens the preference center dialog",
+      "bbox": [
+        1030,
+        541,
+        1210,
+        573
+      ],
+      "point": [
+        1120,
+        557
+      ]
+    },
+    {
+      "id": "node_148",
+      "category": "button",
+      "name": "Reject all",
+      "bbox": [
+        1050,
+        499,
+        1190,
+        531
+      ],
+      "point": [
+        1120,
+        515
+      ]
+    },
+    {
+      "id": "node_150",
+      "category": "button",
+      "name": "Allow all",
+      "bbox": [
+        1050,
+        457,
+        1190,
+        489
+      ],
+      "point": [
+        1120,
+        473
+      ]
+    }
+  ]
+}

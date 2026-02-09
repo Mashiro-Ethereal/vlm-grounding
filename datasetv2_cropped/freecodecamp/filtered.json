@@ -1,0 +1,53 @@
+{
+  "image_filename": "datasetv2_cropped/freecodecamp/screenshot_cropped.png",
+  "image_width": 1261,
+  "image_height": 583,
+  "sample_count": 3,
+  "test_samples": [
+    {
+      "id": "node_11",
+      "category": "textfield",
+      "name": "Search",
+      "bbox": [
+        50,
+        5,
+        466,
+        33
+      ],
+      "point": [
+        258,
+        19
+      ]
+    },
+    {
+      "id": "node_20",
+      "category": "link",
+      "name": "Sign in",
+      "bbox": [
+        1179,
+        8,
+        1230,
+        30
+      ],
+      "point": [
+        1204,
+        19
+      ]
+    },
+    {
+      "id": "node_28",
+      "category": "link",
+      "name": "Get started (it's free)",
+      "bbox": [
+        205,
+        526,
+        449,
+        564
+      ],
+      "point": [
+        327,
+        545
+      ]
+    }
+  ]
+}
